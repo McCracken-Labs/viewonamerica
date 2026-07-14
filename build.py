@@ -127,7 +127,7 @@ PAGES = {
                   "newsrooms, the kind with more room for critical thinking and adversarial reporting. Sources "
                   "are grouped by editorial orientation so you can read <b>across</b> viewpoints rather than "
                   "inside one. Independent media leans left worldwide, so libertarian, conservative and "
-                  "heterodox voices are included on purpose for balance. The <b>in exile</b> group carries "
+                  "heterodox voices are included on purpose for balance. Heterodox here means outlets that break from the usual left-versus-right script and question the mainstream consensus. The <b>in exile</b> group carries "
                   "diaspora outlets that report on authoritarian home countries, and on their dealings with "
                   "Washington, from abroad for safety."),
         "legend": IND_LEGEND,
