@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """The Foreign Desk static site builder.
 
-Builds from JSON data:
   data/edition.json      -> index.html + edition-<iso>.html   (World Press edition)
   data/independent.json  -> independent.html                  (Independent journalism page)
   data/archive.json      -> archive.html                      (list of past World Press editions)
@@ -19,12 +18,12 @@ TAGS = {
     "progov":  ("n-progov",  "Pro-government"),
     "state":   ("n-state",   "State-controlled"),
     "invest":   ("n-invest",   "Investigative nonprofit"),
-    "left":     ("n-left",     "Independent · left"),
+    "left":     ("n-left",     "Independent left"),
     "libert":   ("n-libert",   "Libertarian"),
     "cright":   ("n-cright",   "Conservative"),
     "hetero":   ("n-hetero",   "Heterodox"),
     "indie":    ("n-indie",    "Independent"),
-    "exile":    ("n-exile",    "Independent · in exile"),
+    "exile":    ("n-exile",    "Independent, in exile"),
     "analysis": ("n-analysis", "Academic analysis"),
 }
 
@@ -89,28 +88,28 @@ IND_LEGEND = '''    <div class="legend">
 
 PAGES = {
     "today": {
-        "title": "The Foreign Desk — What the world's press is saying about America",
-        "meta": "A daily digest of how newspapers outside the United States are covering it — headlines translated to English, with links to the originals.",
-        "tagline": "What the world's press is saying about America — in their own words",
+        "title": "The Foreign Desk · What the world's press is saying about America",
+        "meta": "A daily digest of how newspapers outside the United States are covering it. Headlines translated to English, with links to the originals.",
+        "tagline": "What the world's press is saying about America, in their own words",
         "dateline_right": lambda n: f"Foreign-press digest · {n} countries today",
-        "intro": ("A daily look at how newspapers <b>outside</b> the United States are covering it — "
-                  "headlines translated to English, the original shown where relevant, and a link to every "
-                  "full article. Sources rotate day to day; each is tagged by editorial character so you can "
-                  "weigh the framing yourself."),
+        "intro": ("A daily look at how newspapers <b>outside</b> the United States cover it. Headlines are "
+                  "translated to English, the original is shown where it matters, and every item links to the "
+                  "full article. Sources rotate from day to day, and each is tagged by editorial character so "
+                  "you can weigh the framing yourself."),
         "legend": GOV_LEGEND,
     },
     "independent": {
-        "title": "The Foreign Desk — Independent journalism on America",
-        "meta": "Independent, nonprofit, reader-funded and investigative journalism on the United States — grouped by editorial orientation so you can read across viewpoints.",
-        "tagline": "Independent &amp; investigative journalism on America — read across the spectrum",
+        "title": "The Foreign Desk · Independent journalism on America",
+        "meta": "Independent, nonprofit, reader-funded and investigative journalism on the United States, grouped by editorial orientation so you can read across viewpoints.",
+        "tagline": "Independent and investigative journalism on America. Read across the spectrum.",
         "dateline_right": lambda n: f"Independent journalism · {n} viewpoints",
-        "intro": ("Beyond the big outlets: <b>independent, nonprofit, reader-funded and investigative</b> "
-                  "journalism — the kind with more room for critical thinking and adversarial reporting. "
-                  "Sources are grouped by editorial orientation so you can read <b>across</b> viewpoints, not "
-                  "just within one. Independent media leans left globally, so libertarian, conservative and "
+        "intro": ("Beyond the big outlets sit <b>independent, nonprofit, reader-funded and investigative</b> "
+                  "newsrooms, the kind with more room for critical thinking and adversarial reporting. Sources "
+                  "are grouped by editorial orientation so you can read <b>across</b> viewpoints rather than "
+                  "inside one. Independent media leans left worldwide, so libertarian, conservative and "
                   "heterodox voices are included on purpose for balance. The <b>in exile</b> group carries "
-                  "diaspora outlets that report on authoritarian home countries — and their US dealings — "
-                  "from abroad, for safety."),
+                  "diaspora outlets that report on authoritarian home countries, and on their dealings with "
+                  "Washington, from abroad for safety."),
         "legend": IND_LEGEND,
     },
 }
@@ -151,7 +150,7 @@ def render_page(data, kind):
 
   <footer>
     <b>The Foreign Desk</b> · {esc(data["date_human"])} · <a href="index.html">World Press</a> · <a href="independent.html">Independent</a> · <a href="archive.html">Archive</a><br>
-    Headlines translated from the original where noted. Follow each link for the full article in its original outlet. See <a href="about.html">About</a> for method and sources.
+    Headlines and trademarks belong to their respective publishers, and we link to the originals. Translations and notes are our own. © 2026 The Foreign Desk. See <a href="about.html">About</a> for method and sources.
   </footer>
 </div>
 </body>
@@ -168,7 +167,7 @@ def render_archive(archive):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Archive — The Foreign Desk</title>
+<title>Archive · The Foreign Desk</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>

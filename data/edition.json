@@ -7,7 +7,7 @@
       "flag": "🇫🇷", "name": "France", "region": "Western Europe",
       "items": [
         {"outlet": "France 24", "lean": "funded", "date": "July 13", "title": "US strikes Iran for a third night as Trump says a deal is still \"possible\"", "url": "https://www.france24.com/en/middle-east/20260713-middle-east-live-us-strikes-iran-for-third-night-as-trump-says-deal-still-possible", "note": "Live coverage frames Washington as escalating militarily even while claiming to keep diplomacy open."},
-        {"outlet": "France 24", "lean": "funded", "date": "July 13", "title": "Trump to deliver national address reopening 2020 election-fraud claims", "url": "https://www.france24.com/en/americas/20260713-trump-says-to-deliver-speech-to-the-nation-thursday-as-iran-tensions-escalate", "note": "French coverage foregrounds that the fraud claim is \"false\" — a framing US partisan outlets often soften."}
+        {"outlet": "France 24", "lean": "funded", "date": "July 13", "title": "Trump to deliver national address reopening 2020 election-fraud claims", "url": "https://www.france24.com/en/americas/20260713-trump-says-to-deliver-speech-to-the-nation-thursday-as-iran-tensions-escalate", "note": "French coverage foregrounds that the fraud claim is \"false\", a framing US partisan outlets often soften."}
       ]
     },
     {
@@ -62,7 +62,7 @@
     {
       "flag": "🌍", "name": "Africa", "region": "Nigeria",
       "items": [
-        {"outlet": "The Punch (Nigeria)", "lean": "neutral", "title": "US to slash visa-processing embassies in Africa, retaining just 20 hubs", "url": "https://punchng.com/full-list-us-to-slash-visa-processing-embassies-in-africa-retain-20-hubs/", "note": "African papers cover the practical fallout of US policy — here, sharply reduced visa access."},
+        {"outlet": "The Punch (Nigeria)", "lean": "neutral", "title": "US to slash visa-processing embassies in Africa, retaining just 20 hubs", "url": "https://punchng.com/full-list-us-to-slash-visa-processing-embassies-in-africa-retain-20-hubs/", "note": "African papers track the practical fallout of US policy. Here, that means sharply reduced visa access."},
         {"outlet": "The Punch (Nigeria)", "lean": "neutral", "title": "US seeks deeper AGOA trade penetration in Africa", "url": "https://punchng.com/us-seeks-agoa-penetration-in-africa/"}
       ]
     }
