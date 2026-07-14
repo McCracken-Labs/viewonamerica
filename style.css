@@ -79,3 +79,7 @@ footer a{color:var(--accent2);}
 .topbar nav a.support:hover{border-bottom:2px solid var(--accent); padding-bottom:2px;}
 .support-line{display:inline-block; margin:6px 0 2px; color:#4a443b;}
 .support-line a{color:var(--accent); font-weight:600;}
+
+.supportbox{display:flex; flex-wrap:wrap; align-items:center; gap:12px 16px; justify-content:space-between; background:var(--card); border:1px solid var(--line); border-left:4px solid var(--accent); border-radius:8px; padding:13px 16px; margin:0 0 26px; font-family:system-ui,sans-serif; font-size:14px; color:#3a352e;}
+.supportbox .btn{background:var(--accent); color:#fff; text-decoration:none; padding:8px 15px; border-radius:6px; font-weight:600; white-space:nowrap; font-size:13.5px;}
+.supportbox .btn:hover{opacity:.9;}

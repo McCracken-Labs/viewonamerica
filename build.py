@@ -87,6 +87,13 @@ IND_LEGEND = '''    <div class="legend">
       <span class="lchip"><span class="dot n-analysis"></span>Academic</span>
     </div>'''
 
+SUPPORTBOX = """
+  <div class="supportbox">
+    <span>Enjoying <b>The Foreign Dispatch</b>? It's free and ad-free.</span>
+    <a class="btn" href="https://paypal.me/McCracken365" target="_blank" rel="noopener">♥ Support via PayPal</a>
+  </div>
+"""
+
 PAGES = {
     "today": {
         "title": "The Foreign Dispatch · What the world's press is saying about America",
@@ -119,6 +126,7 @@ def render_page(data, kind):
     cfg = PAGES[kind]
     sections = "\n\n".join(render_section(c) for c in data["countries"])
     n = len(data["countries"])
+    support = SUPPORTBOX if kind == "today" else ""
     return f'''<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -146,6 +154,7 @@ def render_page(data, kind):
     {cfg["intro"]}
 {cfg["legend"]}
   </div>
+{support}
 
 {sections}
 
