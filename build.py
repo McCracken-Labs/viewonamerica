@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""The Foreign Desk static site builder.
+"""The Foreign Dispatch static site builder.
 
   data/edition.json      -> index.html + edition-<iso>.html   (World Press edition)
   data/independent.json  -> independent.html                  (Independent journalism page)
@@ -33,7 +33,7 @@ def esc(s):
 def topbar(active):
     def cls(name): return ' class="active"' if name == active else ''
     return f'''<div class="topbar"><div class="inner">
-  <span class="brand">The Foreign Desk</span>
+  <span class="brand">The Foreign Dispatch</span>
   <nav>
     <a href="index.html"{cls("today")}>World Press</a>
     <a href="independent.html"{cls("independent")}>Independent</a>
@@ -88,7 +88,7 @@ IND_LEGEND = '''    <div class="legend">
 
 PAGES = {
     "today": {
-        "title": "The Foreign Desk · What the world's press is saying about America",
+        "title": "The Foreign Dispatch · What the world's press is saying about America",
         "meta": "A daily digest of how newspapers outside the United States are covering it. Headlines translated to English, with links to the originals.",
         "tagline": "What the world's press is saying about America, in their own words",
         "dateline_right": lambda n: f"Foreign-press digest · {n} countries today",
@@ -99,7 +99,7 @@ PAGES = {
         "legend": GOV_LEGEND,
     },
     "independent": {
-        "title": "The Foreign Desk · Independent journalism on America",
+        "title": "The Foreign Dispatch · Independent journalism on America",
         "meta": "Independent, nonprofit, reader-funded and investigative journalism on the United States, grouped by editorial orientation so you can read across viewpoints.",
         "tagline": "Independent and investigative journalism on America. Read across the spectrum.",
         "dateline_right": lambda n: f"Independent journalism · {n} viewpoints",
@@ -132,7 +132,7 @@ def render_page(data, kind):
 
 <div class="wrap">
   <header class="masthead">
-    <h1>The Foreign Desk</h1>
+    <h1>The Foreign Dispatch</h1>
     <div class="motto">Outside the box. Outside the border.</div>
     <div class="tag">{cfg["tagline"]}</div>
   </header>
@@ -149,8 +149,8 @@ def render_page(data, kind):
 {sections}
 
   <footer>
-    <b>The Foreign Desk</b> · {esc(data["date_human"])} · <a href="index.html">World Press</a> · <a href="independent.html">Independent</a> · <a href="archive.html">Archive</a><br>
-    Headlines and trademarks belong to their respective publishers, and we link to the originals. Translations and notes are our own. © 2026 The Foreign Desk. See <a href="about.html">About</a> for method and sources.
+    <b>The Foreign Dispatch</b> · {esc(data["date_human"])} · <a href="index.html">World Press</a> · <a href="independent.html">Independent</a> · <a href="archive.html">Archive</a><br>
+    Headlines and trademarks belong to their respective publishers, and we link to the originals. Translations and notes are our own. © 2026 The Foreign Dispatch. See <a href="about.html">About</a> for method and sources.
   </footer>
 </div>
 </body>
@@ -167,7 +167,7 @@ def render_archive(archive):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Archive · The Foreign Desk</title>
+<title>Archive · The Foreign Dispatch</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -184,7 +184,7 @@ def render_archive(archive):
   </ul>
 
   <footer>
-    <b>The Foreign Desk</b> · <a href="index.html">World Press</a> · <a href="independent.html">Independent</a> · <a href="about.html">About</a><br>
+    <b>The Foreign Dispatch</b> · <a href="index.html">World Press</a> · <a href="independent.html">Independent</a> · <a href="about.html">About</a><br>
     A new edition is archived here automatically every morning.
   </footer>
 </div>
