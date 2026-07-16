@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-07-15",
-  "date_human": "Wednesday, July 15, 2026",
-  "summary": "11 countries. The US-Iran clash over the Strait of Hormuz, a renewed naval blockade and fresh strikes dominate world coverage. A US Supreme Court ruling against Trump's tariffs also lands abroad.",
+  "date_iso": "2026-07-16",
+  "date_human": "Thursday, July 16, 2026",
+  "summary": "11 countries. The renewed US-Iran war over the Strait of Hormuz dominates coverage, with fresh US strikes, a reimposed naval blockade and Iranian attacks on Gulf states. Trump's reversal on halting ICE traffic stops and a White House move to release intelligence on China also travel abroad.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -11,16 +11,23 @@
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "Jul 14",
-          "title": "Record-smashing US heat wave surges from West to East",
-          "url": "https://www.france24.com/en/live-news/20260714-record-smashing-us-heat-wave-surges-from-west-to-east"
+          "date": "Jul 16",
+          "title": "Trump says Iran released 'wrongfully detained' American citizen",
+          "url": "https://www.france24.com/en/americas/20260716-trump-says-iran-released-wrongfully-detained-american-citizen"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "funded",
+          "date": "Jul 15",
+          "title": "Trump says ICE should continue traffic stops, contradicting new ban",
+          "url": "https://www.france24.com/en/americas/20260715-trump-says-ice-should-continue-traffic-stops-contradicting-new-ban"
         },
         {
           "outlet": "France 24",
           "lean": "funded",
           "date": "Jul 13",
-          "title": "Trump slashes two Utah protected areas by more than 90%",
-          "url": "https://www.france24.com/en/live-news/20260713-trump-slashes-two-utah-protected-areas-by-more-than-90"
+          "title": "Trump reimposes Hormuz blockade, Yemen's Houthis strike Saudi Arabia",
+          "url": "https://www.france24.com/en/middle-east/20260713-trump-reimposes-iran-naval-blockade-threatens-hormuz-fees"
         }
       ]
     },
@@ -32,16 +39,96 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "Jul 15",
-          "title": "Trump resumes Iran port blockade and threatens strikes on energy targets",
-          "url": "https://www.japantimes.co.jp/news/2026/07/15/world/us-iran-blockade-hormuz-fee/"
+          "date": "Jul 16",
+          "title": "U.S. launches fresh strikes on Iran as peril in Strait of Hormuz deepens",
+          "url": "https://www.japantimes.co.jp/news/2026/07/16/world/us-strikes-iran-strait/"
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "Jul 1",
-          "title": "U.S. Supreme Court backs birthright citizenship in blow to Trump",
-          "url": "https://www.japantimes.co.jp/news/2026/07/01/world/politics/supreme-court-birthright-citizenship-trump/"
+          "date": "Jul 16",
+          "title": "White House weighs releasing controversial intel on China and U.S. elections, sources say",
+          "url": "https://www.japantimes.co.jp/news/2026/07/16/world/white-house-intel-china-us-elections/"
+        },
+        {
+          "outlet": "The Japan Times",
+          "lean": "neutral",
+          "date": "Jul 16",
+          "title": "Trump demands ICE restart traffic stops after Maine killing",
+          "url": "https://www.japantimes.co.jp/news/2026/07/16/world/trump-ice-traffic-maine-killing/"
+        }
+      ]
+    },
+    {
+      "flag": "🇶🇦",
+      "name": "Qatar",
+      "region": "Gulf",
+      "items": [
+        {
+          "outlet": "Al Jazeera",
+          "lean": "funded",
+          "date": "Jul 15",
+          "title": "US resumes Iran ports blockade as Gulf attacks continue: What's the latest?",
+          "url": "https://www.aljazeera.com/news/2026/7/15/us-resumes-iran-ports-blockade-as-gulf-attacks-continue-whats-the-latest"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "lean": "funded",
+          "date": "Jul 14",
+          "title": "'Piracy': Will Trump's 20 percent Hormuz toll find takers?",
+          "url": "https://www.aljazeera.com/economy/2026/7/14/piracy-will-trumps-20-percent-hormuz-toll-find-takers",
+          "note": "An economic read on whether shippers would ever pay a US toll to cross the strait."
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "name": "Russia",
+      "region": "Eurasia",
+      "items": [
+        {
+          "outlet": "RT",
+          "lean": "state",
+          "date": "Jul 15",
+          "title": "Trump says the US will defeat Iran very soon",
+          "url": "https://russian.rt.com/world/news/1657317-tramp-iran-porazhenie",
+          "orig": "Трамп заявил, что США очень скоро нанесут поражение Ирану"
+        },
+        {
+          "outlet": "RT",
+          "lean": "state",
+          "date": "Jul 15",
+          "title": "Trump advises Iran to 'behave well'",
+          "url": "https://russian.rt.com/world/news/1657286-tramp-posovetoval-iranu-vesti-sebya-horosho",
+          "orig": "Трамп посоветовал Ирану «вести себя хорошо»"
+        },
+        {
+          "outlet": "RT",
+          "lean": "state",
+          "title": "Trump threatens strikes on Iran's power plants and bridges",
+          "url": "https://russian.rt.com/world/news/1656937-tramp-mosty-iran-ataka",
+          "orig": "Трамп пригрозил ударами по электростанциям и мостам Ирана"
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China & Hong Kong",
+      "region": "East Asia",
+      "items": [
+        {
+          "outlet": "South China Morning Post",
+          "lean": "neutral",
+          "date": "Jul 11",
+          "title": "China accuses US of ignoring Trump, Xi rapport and targeting Chinese firms",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3360197/china-accuses-us-ignoring-trump-xi-rapport-and-targeting-chinese-firms"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "neutral",
+          "date": "Jul 16",
+          "title": "Trump intelligence pick to play 'helpful' role in agreeing economic strategy with China",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3360726/trump-intelligence-pick-play-helpful-role-agreeing-economic-strategy-china"
         }
       ]
     },
@@ -60,90 +147,70 @@
         {
           "outlet": "Euronews",
           "lean": "neutral",
-          "date": "Jul 13",
-          "title": "Trump reimposes US blockade and demands 20% Hormuz shipping fee",
-          "url": "https://www.euronews.com/2026/07/13/trump-reimposes-us-blockade-and-demands-20-hormuz-shipping-fee"
-        }
-      ]
-    },
-    {
-      "flag": "🇶🇦",
-      "name": "Qatar",
-      "region": "Middle East",
-      "items": [
-        {
-          "outlet": "Al Jazeera",
-          "lean": "funded",
-          "date": "Jul 15",
-          "title": "US resumes Iran ports blockade as Gulf attacks continue: What's the latest?",
-          "url": "https://www.aljazeera.com/news/2026/7/15/us-resumes-iran-ports-blockade-as-gulf-attacks-continue-whats-the-latest"
-        },
-        {
-          "outlet": "Al Jazeera",
-          "lean": "funded",
-          "date": "Jul 15",
-          "title": "US attacks Iran as IRGC claims strikes on US military sites in Gulf",
-          "url": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "name": "Russia",
-      "region": "Eurasia",
-      "items": [
-        {
-          "outlet": "RT",
-          "lean": "state",
-          "date": "Jul 13",
-          "title": "Trump reinstates the naval blockade of Iran in the Strait of Hormuz",
-          "orig": "Трамп возобновил морскую блокаду Ирана в Ормузском проливе",
-          "url": "https://russian.rt.com/world/news/1656323-tramp-vozobnovil-blokadu-irana",
-          "note": "State-controlled framing casts the blockade as aimed only at Iranian shipping, with other nations left free to pass."
-        },
-        {
-          "outlet": "RT",
-          "lean": "state",
           "date": "Jul 14",
-          "title": "NYT: Trump has formally notified Congress of the resumption of strikes on Iran",
-          "orig": "NYT: Трамп официально уведомил конгресс о возобновлении ударов по Ирану",
-          "url": "https://russian.rt.com/world/news/1656410-tramp-uvedomil-kongress"
+          "title": "'We will deal with it,' Trump says as US probes reports of Iranian drones in Cuba",
+          "url": "https://www.euronews.com/2026/07/14/we-will-deal-with-it-trump-says-as-us-probes-reports-of-iranian-drones-in-cuba"
         }
       ]
     },
     {
-      "flag": "🇨🇳",
-      "name": "China & Hong Kong",
-      "region": "East Asia",
+      "flag": "🇲🇽",
+      "name": "Mexico",
+      "region": "Latin America",
       "items": [
         {
-          "outlet": "South China Morning Post",
+          "outlet": "El Universal",
+          "lean": "neutral",
+          "title": "Trump says the US will be the 'guardian' of the Strait of Hormuz and asks to be paid for protecting it",
+          "url": "https://www.eluniversal.com.mx/mundo/trump-asegura-que-eu-sera-el-guardian-del-estrecho-de-ormuz-pide-compensacion-por-protegerlo/",
+          "orig": "Trump asegura que EU será el 'guardián' del estrecho de Ormuz; pide compensación por protegerlo"
+        },
+        {
+          "outlet": "El Universal",
+          "lean": "neutral",
+          "title": "Judge voids Trump's deal with the IRS that shielded him from tax audits",
+          "url": "https://www.eluniversal.com.mx/mundo/jueza-anula-acuerdo-de-trump-con-el-irs-que-lo-protege-de-auditorias-fiscales-negociacion-prohibe-reclamar-conductas/",
+          "orig": "Jueza anula acuerdo de Trump con el IRS que lo protege de auditorías fiscales"
+        }
+      ]
+    },
+    {
+      "flag": "🇿🇦",
+      "name": "South Africa",
+      "region": "Southern Africa",
+      "items": [
+        {
+          "outlet": "News24",
           "lean": "neutral",
           "date": "Jul 14",
-          "title": "Trump to restore Iran blockade, charge fees for Strait of Hormuz shipping",
-          "url": "https://www.scmp.com/news/us/article/3360421/us-restore-iran-blockade-charge-fees-strait-hormuz-shipping"
+          "title": "Oil jumps over 9% as 'very hard' US strikes hit Iran, Trump vows Hormuz control",
+          "url": "https://www.news24.com/world/oil-jumps-over-9-as-very-hard-us-strikes-hit-iran-trump-vows-hormuz-control-20260714-0290"
         },
         {
-          "outlet": "Global Times",
-          "lean": "state",
+          "outlet": "News24",
+          "lean": "neutral",
           "date": "Jul 15",
-          "title": "Trump says US will withdraw plans to charge fees in Strait of Hormuz",
-          "url": "https://www.globaltimes.cn/page/202607/1365963.shtml",
-          "note": "Beijing's state paper highlights Washington backing off the 20 percent toll after Gulf pushback."
+          "title": "US Democrats block massive defence bill over Iran war frustration",
+          "url": "https://www.news24.com/world/us-democrats-block-massive-defence-bill-over-iran-war-frustration-20260715-0341"
         }
       ]
     },
     {
-      "flag": "🇰🇷",
-      "name": "South Korea",
-      "region": "East Asia",
+      "flag": "🇰🇪",
+      "name": "Kenya",
+      "region": "East Africa",
       "items": [
         {
-          "outlet": "The Korea Herald",
+          "outlet": "Daily Nation",
           "lean": "neutral",
-          "title": "US Supreme Court strikes down Trump tariffs, clouding Korea trade deal",
-          "url": "https://www.koreaherald.com/article/10679402",
-          "note": "Seoul reads the ruling through the lens of its own tariff pact with Washington."
+          "title": "Trump grants last-minute work permit extensions to US immigrants",
+          "url": "https://nation.africa/kenya/news/world/trump-grants-last-minute-work-permit-extensions-to-us-immigrants-5524116"
+        },
+        {
+          "outlet": "Daily Nation",
+          "lean": "neutral",
+          "title": "Trump interference and team USA's spectacular crash out leave stain on World Cup",
+          "url": "https://nation.africa/kenya/sports/football/trump-interference-and-team-usa-s-spectacular-crash-out-leave-stain-on-world-cup--5519988"
         }
       ]
     },
@@ -155,57 +222,33 @@
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "date": "Jul 14",
-          "title": "Trump threatens Iran with US takeover, tolling in Strait of Hormuz",
-          "url": "https://www.dailysabah.com/world/mid-east/trump-threatens-iran-with-us-takeover-tolling-in-strait-of-hormuz"
+          "title": "US to remove war-battered Syria from 'terrorist sponsor' list",
+          "url": "https://www.dailysabah.com/world/mid-east/us-to-remove-war-battered-syria-from-terrorist-sponsor-list"
         },
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "date": "Jul 12",
-          "title": "US launches fresh Iran strikes after Trump calls interim deal 'over'",
-          "url": "https://www.dailysabah.com/world/mid-east/us-launches-fresh-iran-strikes-after-trump-calls-interim-deal-over"
+          "title": "Trump orders cutoff of US trade with Spain over NATO spending, Iran",
+          "url": "https://www.dailysabah.com/business/economy/trump-orders-cutoff-of-us-trade-with-spain-over-nato-spending-iran"
         }
       ]
     },
     {
-      "flag": "🇦🇷",
-      "name": "Argentina",
-      "region": "Latin America",
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "region": "East Asia",
       "items": [
         {
-          "outlet": "Buenos Aires Times",
+          "outlet": "The Korea Herald",
           "lean": "neutral",
-          "title": "BRICS leaders denounce protectionism, tariff 'blackmail'",
-          "url": "https://batimes.com.ar/news/world/brics-leaders-denounce-protectionism-tariff-blackmail.phtml",
-          "note": "The bloc's pushback follows Trump's threat of extra tariffs on BRICS members."
-        }
-      ]
-    },
-    {
-      "flag": "🇳🇬",
-      "name": "Nigeria",
-      "region": "West Africa",
-      "items": [
+          "title": "Trump opens door to expanded US Navy partnership with Korean shipbuilders",
+          "url": "https://www.koreaherald.com/article/10811275"
+        },
         {
-          "outlet": "The Punch",
+          "outlet": "The Korea Herald",
           "lean": "neutral",
-          "title": "FULL LIST: US suspends immigrant visa processing for Nigeria, Ghana, 73 other countries",
-          "url": "https://punchng.com/full-list-us-suspends-immigrant-visa-processing-for-nigeria-ghana-73-other-countries/"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇦",
-      "name": "Ukraine",
-      "region": "Eastern Europe",
-      "items": [
-        {
-          "outlet": "Kyiv Post",
-          "lean": "neutral",
-          "date": "Jul 8",
-          "title": "Trump Says US Will Let Ukraine Build Patriot Systems: 'We'll Show Them How to Make Them'",
-          "url": "https://www.kyivpost.com/post/79854"
+          "title": "In reversal, Trump says ICE won't halt traffic stops after fatal shootings",
+          "url": "https://www.koreaherald.com/article/10811116"
         }
       ]
     }

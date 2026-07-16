@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-07-15",
-  "date_human": "Wednesday, July 15, 2026",
+  "date_iso": "2026-07-16",
+  "date_human": "Thursday, July 16, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,14 +11,14 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Trading on Tom Homan: Inside the Push to Cash in on the Trump Administration's Deportation Campaign",
-          "url": "https://www.propublica.org/article/tom-homan-border-czar-trump-mark-hall-charles-sowell"
+          "title": "Trump's Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
+          "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "The IRS Is Building a Vast System to Share Millions of Taxpayers' Data With ICE",
-          "url": "https://www.propublica.org/article/trump-irs-share-tax-records-ice-dhs-deportations"
+          "title": "Inside Trump's Effort to \"Take Over\" the Midterm Elections",
+          "url": "https://www.propublica.org/article/trump-midterm-elections-takeover"
         }
       ]
     },
@@ -30,15 +30,15 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "Jul 8",
-          "title": "Another Trump Ceasefire With Iran Crumbles",
-          "url": "https://theintercept.com/2026/07/08/trump-us-iran-ceasefire/"
+          "date": "Jun 11",
+          "title": "A Point-by-Point Breakdown of Trump's Failed Iran War Objectives",
+          "url": "https://theintercept.com/2026/06/11/trump-iran-war-claims-failures/"
         },
         {
           "outlet": "Jacobin",
           "lean": "left",
-          "title": "How to Explain the Inexplicable War in Iran?",
-          "url": "https://jacobin.com/2026/05/iran-war-trump-profits-class"
+          "title": "US Empire's Belligerent Decline in Latin America",
+          "url": "https://jacobin.com/2026/07/us-empire-decline-trump-latin-america"
         }
       ]
     },
@@ -50,21 +50,21 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "title": "Trump's Iran War Continues to Violate the Constitution - and Now Also the War Powers Act of 1973",
-          "url": "https://reason.com/volokh/2026/05/01/trumps-iran-war-continues-to-violate-the-constitution-and-now-also-the-war-powers-act-of-1973/"
+          "date": "Jun 26",
+          "title": "The Senate's failure to rein in Trump on Iran is part of a long history of Congress abdicating its war powers",
+          "url": "https://reason.com/2026/06/26/the-senates-failure-to-rein-in-trump-on-iran-is-part-of-a-long-history-of-congress-abdicating-its-war-powers/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "title": "Divisions Over the U.S. Strike on Iran Linger in Congress",
-          "url": "https://thedispatch.com/article/congress-iran-strike-war-powers-donald-trump/"
+          "title": "How Trump Left Himself With No Good Solutions on Iran",
+          "url": "https://thedispatch.com/article/trump-iran-strait-of-hormuz-boxed-in/"
         },
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
-          "date": "Jun",
-          "title": "Iran has humiliated America's military: Donald Trump is afraid to deploy troops",
-          "url": "https://unherd.com/2026/06/iran-has-humiliated-americas-military/"
+          "title": "Trump is trapped by the logic of war",
+          "url": "https://unherd.com/2026/03/trump-is-trapped-by-the-logic-of-war/?edition=us"
         }
       ]
     },
@@ -74,23 +74,17 @@
       "region": "Diaspora newsrooms covering home, and its US dealings, from abroad",
       "items": [
         {
-          "outlet": "IranWire (Iran, in exile)",
+          "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "title": "Trump Gives Iran 1 Week or U.S. Will Target Power Plants & Bridges",
-          "url": "https://iranwire.com/en/news/154991-trump-gives-iran-1-week-or-us-will-target-power-plants-bridges/"
+          "date": "Jul 15",
+          "title": "WSJ: Lindsey Graham's Russia 'sanctions' bill is really a tariffs bill, and some Democrats fear it hands Trump a trade weapon, not a blow to Moscow",
+          "url": "https://meduza.io/en/news/2026/07/15/wsj-lindsey-graham-s-russia-sanctions-bill-is-really-a-tariffs-bill-and-some-democrats-fear-it-hands-trump-a-trade-weapon-not-a-blow-to-moscow"
         },
         {
           "outlet": "The Kyiv Independent (Ukraine)",
           "lean": "exile",
-          "date": "Jul 8",
-          "title": "'Make them yourself': Trump gives Zelensky green light to produce Patriot missiles",
-          "url": "https://kyivindependent.com/make-them-yourself-trump-gives-zelensky-green-light-to-produce-patriot-missiles/"
-        },
-        {
-          "outlet": "Meduza (Russia, in exile)",
-          "lean": "exile",
-          "title": "World War III is already underway: Zelensky advisor on what the new Middle East war means for Ukraine",
-          "url": "https://meduza.io/en/feature/2026/03/10/world-war-iii-is-already-underway-zelensky-advisor-mykhailo-podolyak-on-what-the-new-middle-east-war-means-for-ukraine"
+          "title": "After bashing allies, Trump now wants their help — except from Ukraine",
+          "url": "https://kyivindependent.com/trump-demands-aid-from-partners-snubs-the-one-offering-it/"
         }
       ]
     },
@@ -102,14 +96,14 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "Trump says ceasefire is over and calls Iran leaders 'scum', as both sides launch attacks",
-          "url": "https://www.middleeasteye.net/news/trump-says-ceasefire-over-calls-iran-leaders-scum"
+          "title": "Iran strikes American military assets in Gulf and Jordan, after US hits Iranian cities",
+          "url": "https://www.middleeasteye.net/news/iran-strikes-military-assets-gulf-and-jordan-after-us-hits-iranian-cities"
         },
         {
           "outlet": "The Wire (India)",
           "lean": "indie",
-          "title": "Cloud Over India as Trump Announces 25% Tariff On Iran Foreign Trade Partners",
-          "url": "https://m.thewire.in/article/diplomacy/india-as-trump-announces-25-tariff-over-iran-trade"
+          "title": "'Important to Make Me Happy': Trump Says US Can Raise Tariffs on India 'Very Quickly'",
+          "url": "https://m.thewire.in/article/world/modi-trump-important-to-make-happy-russian-oil-raise-tariffs-quickly"
         },
         {
           "outlet": "The Conversation",
