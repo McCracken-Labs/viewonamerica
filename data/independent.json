@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-07-22",
-  "date_human": "Wednesday, July 22, 2026",
+  "date_iso": "2026-07-23",
+  "date_human": "Thursday, July 23, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,14 +11,9 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Trump Is Defying Congress on Foreign Aid",
-          "url": "https://www.propublica.org/article/trump-defying-congress-foreign-aid-usaid-vought-rubio-constitutional-crisis"
-        },
-        {
-          "outlet": "ProPublica",
-          "lean": "invest",
-          "title": "Six Senators Accuse Deputy Attorney General of “Glaring” Crypto Conflict, Cite ProPublica Investigation",
-          "url": "https://www.propublica.org/article/todd-blanche-crypto-conflict-senator-letter"
+          "title": "The U.S. Built a Blueprint to Avoid Civilian War Casualties. Trump Officials Scrapped It.",
+          "url": "https://www.propublica.org/article/trump-defense-department-iran-hegseth-civilian-casualties",
+          "note": "Reports that the Pentagon gutted its civilian-harm office before the Iran war began."
         }
       ]
     },
@@ -30,28 +25,15 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "2026-07-21",
-          "title": "“Cover-Up” Unravels as Pentagon Admits Nearly 100 Injured in Iran Strikes",
-          "url": "https://theintercept.com/2026/07/21/iran-war-pentagon-casualties-injuries/"
+          "date": "2026-07-20",
+          "title": "U.S. Official: Iran Attacks Injured \"Far More\" Troops Than Pentagon Admits",
+          "url": "https://theintercept.com/2026/07/20/united-states-iran-war-casualties-cover-up-pentagon/"
         },
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "2026-07-20",
-          "title": "Hegseth’s War Department Slashed Civilian Protection Staff, Brought in AI Assessments",
-          "url": "https://theintercept.com/2026/07/20/hegseth-civilian-harm-deaths-war/"
-        },
-        {
-          "outlet": "Jacobin",
-          "lean": "left",
-          "title": "Unable to Accept Defeat, Donald Trump Presses On in Iran",
-          "url": "https://jacobin.com/2026/07/iran-war-trump-mou-hormuz"
-        },
-        {
-          "outlet": "Jacobin",
-          "lean": "left",
-          "title": "The Iran War’s Most Embarrassingly Wrong Pundits",
-          "url": "https://jacobin.com/2026/07/iran-war-pundits-fox-trump"
+          "title": "Trump's Iran Attack Was Illegal, Former U.S. Military Officials Allege",
+          "url": "https://theintercept.com/2026/03/01/trump-iran-attack-war-powers-resolution-united-nations-charter-legal/"
         }
       ]
     },
@@ -63,36 +45,21 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "2026-07-14",
-          "title": "Trump notifies Congress of renewed military action against Iran",
-          "url": "https://reason.com/2026/07/14/meet-the-new-war/",
-          "note": "Reason's argument is that the notification resets the 60 day War Powers clock and lets the campaign run without a vote."
-        },
-        {
-          "outlet": "Reason",
-          "lean": "libert",
-          "date": "2026-07-20",
-          "title": "Podcast: Is the war in Iran spiraling out of control?",
-          "url": "https://reason.com/podcast/2026/07/20/is-the-war-in-iran-spiraling-out-of-control/"
+          "title": "Trump's Iran War Continues to Violate the Constitution, and Now Also the War Powers Act of 1973",
+          "url": "https://reason.com/volokh/2026/05/01/trumps-iran-war-continues-to-violate-the-constitution-and-now-also-the-war-powers-act-of-1973/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "date": "2026-07-17",
-          "title": "The Unrelenting Reality of the Iran War",
-          "url": "https://thedispatch.com/article/trump-strait-hormuz-iran-regime-middle-east/"
-        },
-        {
-          "outlet": "The Dispatch",
-          "lean": "cright",
-          "title": "The Iran Dilemma: Fast, Cheap, or Good",
-          "url": "https://thedispatch.com/newsletter/boilingfrogs/iran-war-donald-trump-kharg-island-strait-of-hormuz/"
+          "title": "A War Half-Won",
+          "url": "https://thedispatch.com/article/trump-iran-war-military-tactics-strategy/",
+          "note": "A conservative case that battlefield wins have not added up to a strategy."
         },
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
-          "title": "Trump’s shadow economy",
-          "url": "https://unherd.com/2026/07/trumps-shadow-economy/"
+          "title": "How the 'American Way of War' failed in Iran",
+          "url": "https://unherd.com/2026/05/how-the-american-way-of-war-failed-in-iran/"
         }
       ]
     },
@@ -102,6 +69,12 @@
       "region": "Diaspora newsrooms covering home, and its US dealings, from abroad",
       "items": [
         {
+          "outlet": "Meduza (Russia, in exile)",
+          "lean": "exile",
+          "title": "'World War III is already underway': Zelensky advisor Mykhailo Podolyak on what the new Middle East war means for Ukraine",
+          "url": "https://meduza.io/en/feature/2026/03/10/world-war-iii-is-already-underway-zelensky-advisor-mykhailo-podolyak-on-what-the-new-middle-east-war-means-for-ukraine"
+        },
+        {
           "outlet": "IranWire (Iran, in exile)",
           "lean": "exile",
           "date": "2026-07-22",
@@ -109,24 +82,10 @@
           "url": "https://iranwire.com/en/news/155294-us-concludes-11th-wave-of-strikes-against-military-sites-across-iran/"
         },
         {
-          "outlet": "IranWire (Iran, in exile)",
-          "lean": "exile",
-          "title": "U.S. Strikes Iran’s Southern Coast After Hormuz Attacks, Residents Say Civilian Livelihoods Destroyed",
-          "url": "https://iranwire.com/en/features/154710-us-strikes-irans-southern-coast-after-hormuz-attacks-residents-say-civilian-livelihoods-destroyed/"
-        },
-        {
-          "outlet": "Meduza (Russia, in exile)",
-          "lean": "exile",
-          "date": "2026-07-15",
-          "title": "The US struck Iran for seven hours and restored the naval blockade. Trump threatened to attack Iranian power plants and bridges",
-          "orig": "США семь часов наносили удары по Ирану и возобновили морскую блокаду. Трамп пригрозил атаковать иранские электростанции и мосты",
-          "url": "https://meduza.io/news/2026/07/15/ssha-sem-chasov-nanosili-udary-po-iranu-i-vozobnovili-morskuyu-blokadu-tramp-prigrozil-atakovat-iranskie-elektrostantsii-i-mosty"
-        },
-        {
           "outlet": "The Kyiv Independent (Ukraine)",
           "lean": "exile",
-          "title": "‘Make them yourself’: Trump gives Zelensky green light to produce Patriot missiles",
-          "url": "https://kyivindependent.com/make-them-yourself-trump-gives-zelensky-green-light-to-produce-patriot-missiles/"
+          "title": "War in Iran has used up half of US Patriot and THAAD missile stockpiles",
+          "url": "https://kyivindependent.com/war-in-iran-has-used-up-half-of-us-patriot-and-thaad-missile-stockpiles/"
         }
       ]
     },
@@ -138,26 +97,14 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "Why the US-Iran escalation over Hormuz will not be the last",
-          "url": "https://www.middleeasteye.net/opinion/us-iran-escalation-over-hormuz-will-not-be-last"
+          "title": "Iran war: US launches attacks for 11th night as Trump seeks $70bn more for military",
+          "url": "https://www.middleeasteye.net/news/iran-war-us-launches-attacks-eleventh-night-as-trump-seeks-more-funding"
         },
         {
-          "outlet": "Middle East Eye",
+          "outlet": "The Wire (India)",
           "lean": "indie",
-          "title": "Iran strikes American military assets in Gulf and Jordan, after US hits Iranian cities",
-          "url": "https://www.middleeasteye.net/news/iran-strikes-military-assets-gulf-and-jordan-after-us-hits-iranian-cities"
-        },
-        {
-          "outlet": "The Conversation",
-          "lean": "analysis",
-          "title": "Despite Trump’s wishes, Iran is dragging the US into a long war",
-          "url": "https://theconversation.com/despite-trumps-wishes-iran-is-dragging-the-us-into-a-long-war-287163"
-        },
-        {
-          "outlet": "Coda Story",
-          "lean": "indie",
-          "title": "The AI-powered ‘forever wars’ start now",
-          "url": "https://www.codastory.com/armed-conflict/the-ai-powered-forever-wars-start-now/"
+          "title": "Cloud Over India as Trump Announces 25% Tariff On Iran Foreign Trade Partners",
+          "url": "https://thewire.in/diplomacy/india-as-trump-announces-25-tariff-over-iran-trade"
         }
       ]
     }
