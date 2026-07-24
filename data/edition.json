@@ -1,7 +1,7 @@
 {
   "date_iso": "2026-07-24",
   "date_human": "Friday, July 24, 2026",
-  "summary": "11 countries. A fresh wave of US tariffs on 60 trading partners takes effect today, replacing the expiring 10 percent global levy and hitting China, the EU, India and much of Africa with new duties of 10 to 12.5 percent under a forced labor rationale. The US war with Iran runs alongside it, as US Central Command presses further strikes, Congress passes a symbolic rebuke, and Trump ties a Saudi nuclear deal to recognition of Israel.",
+  "summary": "11 countries. Foreign coverage of America is wider than any single story today. The new US tariffs on 60 partners and the war with Iran are still the biggest threads, but outlets are also covering the country's 250th anniversary and its deepening divisions, the aftermath of the World Cup, a court freezing the Paramount and Warner Bros merger, US and China planning AI talks, the race to lead the UN, and US dealings from Kenya to Ukraine.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -12,17 +12,16 @@
           "outlet": "France 24",
           "lean": "funded",
           "date": "2026-07-24",
-          "title": "US imposes new tariffs on 60 partners as Trump rebuilds trade agenda",
-          "url": "https://www.france24.com/en/live-news/20260724-us-imposes-new-tariffs-on-60-partners-as-trump-rebuilds-trade-agenda",
-          "note": "Leads on the duties taking effect and the protests they drew from Beijing and others."
+          "title": "UN leadership candidates outline visions ahead of secretary-general race",
+          "url": "https://www.france24.com/en/americas/20260724-un-leadership-candidates-outline-visions-ahead-of-secretary-general-race",
+          "note": "Washington holds a veto over the choice, so US preferences loom over the field."
         },
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "2026-07-23",
-          "title": "US House passes symbolic Iran war rebuke to Trump",
-          "url": "https://www.france24.com/en/live-news/20260723-us-house-passes-symbolic-iran-war-rebuke-to-trump",
-          "note": "Notes the resolution carries little legal force and Trump is expected to ignore it."
+          "date": "2026-07-24",
+          "title": "Over 80% of Mexican exports exempt from new US tariffs",
+          "url": "https://www.france24.com/en/live-news/20260724-over-80-of-mexican-exports-exempt-from-new-us-tariffs"
         }
       ]
     },
@@ -34,16 +33,17 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-07-21",
-          "title": "Trump vows Iran will pay for deaths as mediators push truce",
-          "url": "https://www.japantimes.co.jp/news/2026/07/21/world/trump-iran-mediators-truce/"
+          "date": "2026-07-22",
+          "title": "U.S. and China to hold AI talks in September, sources say",
+          "url": "https://www.japantimes.co.jp/news/2026/07/22/world/us-china-ai-talks/"
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-07-21",
-          "title": "U.S. attacks deepen hardship, not dissent, in Iran's restive south",
-          "url": "https://www.japantimes.co.jp/news/2026/07/21/world/us-attacks-dissent-iran-south/"
+          "date": "2026-05-19",
+          "title": "Japanese favorability toward U.S. falls below 30%, survey finds",
+          "url": "https://www.japantimes.co.jp/news/2026/05/19/japan/politics/japan-us-favorability-fall/",
+          "note": "A rare read on how a close ally now views America."
         }
       ]
     },
@@ -55,16 +55,17 @@
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-07-14",
-          "title": "Iran war updates: US launches 'additional round of strikes'",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz"
+          "date": "2026-07-20",
+          "title": "US judge orders pause on Paramount–Warner Bros merger",
+          "url": "https://www.aljazeera.com/economy/2026/7/20/us-judge-orders-pause-on-paramount-warner-bros"
         },
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-07-13",
-          "title": "Trump says US will become 'guardian' of Strait of Hormuz and collect tolls",
-          "url": "https://www.aljazeera.com/news/2026/7/13/trump-says-us-will-become-guardian-of-strait-of-hormuz-and-collect-tolls"
+          "date": "2026-06-13",
+          "title": "Ten observations after attending a World Cup match in the US",
+          "url": "https://www.aljazeera.com/news/2026/6/13/ten-observations-after-attending-a-world-cup-match-in-the-us",
+          "note": "A visitor's eye view of daily American life around the tournament."
         }
       ]
     },
@@ -76,18 +77,17 @@
         {
           "outlet": "RT",
           "lean": "state",
-          "date": "2026-07-22",
-          "title": "Trump tries to lower oil prices with talk of negotiations, Iran says it is not asking for them",
-          "orig": "Трамп пытается снизить цены на нефть словами о переговорах, Иран о них не просит",
-          "url": "https://russian.rt.com/world/news/1660046-iran-tramp-peregovory-neft",
-          "note": "Frames the war as a self-inflicted US energy problem."
+          "title": "'The best years are behind them': Western media on the 250th anniversary of the USA",
+          "orig": "«Лучшие годы позади»: западные СМИ — о 250-летии США",
+          "url": "https://russian.rt.com/world/article/1652293-250-yubilei-ssha-obzor",
+          "note": "A survey of gloomy Western commentary, presented to make a point about US decline."
         },
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "Trump threatens Iran with a manifold response for the death of every US serviceman",
-          "orig": "Трамп пригрозил Ирану многократным ответом за гибель каждого военного США",
-          "url": "https://russian.rt.com/world/news/1659416-ssha-iran-tramp"
+          "title": "US expert Dudakov calls the effect of US tariffs on Russia almost zero",
+          "orig": "Американист Дудаков назвал эффект пошлин США для России почти нулевым",
+          "url": "https://russian.rt.com/world/news/1661177-ekspert-ssha-poshliny"
         }
       ]
     },
@@ -99,29 +99,14 @@
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "US slaps fresh tariffs on China, over 50 other economies in latest wave",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3361650/us-slaps-fresh-tariffs-china-50-plus-countries-latest-wave"
+          "title": "US House votes to make daylight saving time permanent, passing bill to 'ditch the switch'",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3360586/us-house-votes-make-daylight-saving-time-permanent-passing-bill-ditch-switch"
         },
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "Trump's manufacturing push meets reality as costs rise and investment stalls",
-          "url": "https://www.scmp.com/news/us/politics/article/3361607/trumps-manufacturing-push-meets-reality-costs-rise-and-investment-stalls"
-        }
-      ]
-    },
-    {
-      "flag": "🇪🇺",
-      "name": "European Union",
-      "region": "Europe",
-      "items": [
-        {
-          "outlet": "Euronews",
-          "lean": "neutral",
-          "date": "2026-07-24",
-          "title": "US imposes new tariffs on dozens of countries over 'forced labour' claims",
-          "url": "https://www.euronews.com/business/2026/07/24/us-imposes-new-tariffs-on-dozens-of-countries-over-forced-labour-claims",
-          "note": "Reports the EU lands at the lower 10 percent rate after committing to forced labor import bans."
+          "title": "US small businesses sue Trump administration over new 'forced labour' tariffs",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3361812/us-small-businesses-sue-trump-administration-over-new-forced-labour-tariffs"
         }
       ]
     },
@@ -133,14 +118,35 @@
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "Trade partners voice dismay, anger over US forced labor tariffs",
-          "url": "https://www.dailysabah.com/business/economy/trade-partners-voice-dismay-anger-over-us-forced-labor-tariffs"
+          "title": "United States respects Turkish plan to join BRICS",
+          "url": "https://www.dailysabah.com/politics/diplomacy/united-states-respects-turkish-plan-to-join-brics"
         },
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "Trump threatens to backtrack on UK trade deal over Iran war",
-          "url": "https://www.dailysabah.com/business/economy/trump-threatens-to-backtrack-on-uk-trade-deal-over-iran-war"
+          "title": "Iran war already cost US $37.5 billion yet Pentagon asks for more",
+          "url": "https://www.dailysabah.com/world/americas/iran-war-already-cost-us-375-billion-yet-pentagon-asks-for-more"
+        }
+      ]
+    },
+    {
+      "flag": "🇪🇺",
+      "name": "European Union",
+      "region": "Europe",
+      "items": [
+        {
+          "outlet": "Euronews",
+          "lean": "neutral",
+          "date": "2026-07-23",
+          "title": "7,000 km of subsea cables link Portugal to US: What is the 'Nuvem' system?",
+          "url": "https://www.euronews.com/next/2026/07/23/7000-km-of-subsea-cables-link-portugal-to-us-what-is-the-nuvem-system"
+        },
+        {
+          "outlet": "Euronews",
+          "lean": "neutral",
+          "date": "2026-03-29",
+          "title": "A new way to measure poverty shows the US falling behind Europe",
+          "url": "https://www.euronews.com/business/2026/03/29/a-new-way-to-measure-poverty-shows-the-us-falling-behind-europe"
         }
       ]
     },
@@ -154,8 +160,14 @@
           "lean": "neutral",
           "date": "2026-07-24",
           "title": "US hits SA with 12.5% tariffs in sweeping announcement affecting 60 countries",
-          "url": "https://www.news24.com/business/economy/us-hits-sa-with-125-tariffs-in-sweeping-announcement-affecting-60-countries-20260724-0369",
-          "note": "Lists exemptions for gold, platinum and some foods, with a central bank warning on jobs."
+          "url": "https://www.news24.com/business/economy/us-hits-sa-with-125-tariffs-in-sweeping-announcement-affecting-60-countries-20260724-0369"
+        },
+        {
+          "outlet": "News24",
+          "lean": "neutral",
+          "date": "2026-05-26",
+          "title": "Bok legend Naas Botha lands coaching gig in the United States",
+          "url": "https://www.news24.com/sport/rugby/springboks/bok-legend-naas-botha-lands-coaching-gig-in-the-united-states-20260526-0334"
         }
       ]
     },
@@ -167,14 +179,14 @@
         {
           "outlet": "Daily Nation",
           "lean": "neutral",
-          "title": "Kenya eyes new bilateral trade deal with US, Agoa extension",
-          "url": "https://nation.africa/kenya/business/kenya-eyes-new-bilateral-trade-deal-with-us-agoa-extension--5288680"
+          "title": "Marco Rubio's mixed signals on Kenya Ebola centre spark concern",
+          "url": "https://nation.africa/kenya/health/marco-rubio-s-mixed-signals-on-kenya-ebola-centre-spark-concern-5486510"
         },
         {
           "outlet": "Daily Nation",
           "lean": "neutral",
-          "title": "How Trump's tariffs threaten AGOA renewal and affect US-Africa trade",
-          "url": "https://nation.africa/kenya/news/africa/how-trump-s-tariffs-affect-us-africa-trade-agoa-4989894"
+          "title": "Duale denial: US confirms seven Americans at disputed Laikipia facility",
+          "url": "https://nation.africa/kenya/health/duale-denial-us-confirms-seven-americans-at-disputed-laikipia-facility-5531302"
         }
       ]
     },
@@ -186,14 +198,14 @@
         {
           "outlet": "Buenos Aires Times",
           "lean": "neutral",
-          "title": "Bessent hosts Caputo as Argentina-US rescue talks begin",
-          "url": "https://www.batimes.com.ar/news/economy/bessent-hosts-caputo-in-washington-as-argentina-us-rescue-talks-begin.phtml"
+          "title": "United States at 250: More prosperous, more diverse, yet more divided",
+          "url": "https://batimes.com.ar/news/world/united-states-at-250-more-prosperous-more-diverse-yet-more-divided.phtml"
         },
         {
           "outlet": "Buenos Aires Times",
           "lean": "neutral",
-          "title": "As Milei's aura fades, Argentina starts to look for a third way",
-          "url": "https://www.batimes.com.ar/news/argentina/as-mileis-aura-fades-argentina-starts-to-look-for-a-third-way.phtml"
+          "title": "Milei visits Trump's home turf eyeing free-trade deal with US",
+          "url": "https://www.batimes.com.ar/news/argentina/milei-visits-trumps-home-turf-seeking-free-trade-deal-with-us.phtml"
         }
       ]
     },
@@ -205,14 +217,14 @@
         {
           "outlet": "Kyiv Post",
           "lean": "neutral",
-          "title": "US Senate Places Ukraine Support Act on Calendar, Opening Door to Floor Action",
-          "url": "https://www.kyivpost.com/post/80790"
+          "title": "US Adds 12.5% Tariff on Russian Goods Over Forced Labor Trade Rules",
+          "url": "https://www.kyivpost.com/post/80974"
         },
         {
           "outlet": "Kyiv Post",
           "lean": "neutral",
-          "title": "Trump Sees Putin as 'Weak Link,' Backs Ukraine on Patriot Missiles and Refinery Strikes",
-          "url": "https://www.kyivpost.com/post/80037"
+          "title": "'Time Is Not on Moscow's Side': US Warns Russia at UN as Its Casualties Hit 40,000 a Month",
+          "url": "https://www.kyivpost.com/post/78738"
         }
       ]
     }
