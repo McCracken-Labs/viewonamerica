@@ -177,6 +177,7 @@ def render_page(data, kind):
   </footer>
 </div>
 {SHARE_JS}
+<script defer src="count.js" data-endpoint="https://scissortail.mccrackenlabs.workers.dev" data-site="aworldview"></script>
 </body>
 </html>
 '''
@@ -214,6 +215,7 @@ def render_archive(archive):
   </footer>
 </div>
 {SHARE_JS}
+<script defer src="count.js" data-endpoint="https://scissortail.mccrackenlabs.workers.dev" data-site="aworldview"></script>
 </body>
 </html>
 '''
