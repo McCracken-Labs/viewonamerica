@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-07-24",
-  "date_human": "Friday, July 24, 2026",
+  "date_iso": "2026-07-25",
+  "date_human": "Saturday, July 25, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,14 +11,14 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Congress Has Demanded Answers to ICE Detaining Americans. The Administration Has Responded With Silence.",
-          "url": "https://www.propublica.org/article/trump-ice-immigration-detained-americans-congress-questions-unanswered"
+          "title": "Immigration Agents Have Often Grabbed and Mistreated Citizens, Congressional Investigators Find",
+          "url": "https://www.propublica.org/article/immigration-agents-detained-mistreated-citizens-congressional-investigation"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Unfettered and Unaccountable: How Trump Is Building a Violent, Shadowy Federal Police Force",
-          "url": "https://www.propublica.org/article/trump-dhs-ice-secret-police-civil-rights-unaccountable"
+          "title": "We Spent a Year Investigating How the FDA Let Risky Drugs Into the U.S. Market",
+          "url": "https://www.propublica.org/article/fda-methodology-american-medicine-research"
         }
       ]
     },
@@ -30,15 +30,16 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "2026-07-24",
-          "title": "Trump's National Killer Police Force",
-          "url": "https://theintercept.com/2026/07/24/trump-ice-deaths-mass-deportation/"
+          "date": "2026-07-18",
+          "title": "The United States of Betrayal",
+          "url": "https://theintercept.com/2026/07/18/united-states-betray-allies-trump-foreign-policy/"
         },
         {
           "outlet": "Jacobin",
           "lean": "left",
-          "title": "Trump Is Robbing You to Pay for His Dumb War",
-          "url": "https://jacobin.com/2026/04/trump-iran-budget-austerity-imperialism"
+          "date": "2026-07",
+          "title": "America's Empire Is Ending Much Like Spain's Did",
+          "url": "https://jacobin.com/2026/07/spain-habsburgs-decline-empire-trump"
         }
       ]
     },
@@ -50,21 +51,22 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "2026-07-23",
-          "title": "Trump Imposes Massively Harmful and Illegal Section 301 Tariffs",
-          "url": "https://reason.com/volokh/2026/07/23/trump-imposes-massively-harmful-and-illegal-section-301-tariffs/"
+          "date": "2026-07-04",
+          "title": "On America's 250th birthday, the United States arms the world's tyrannies",
+          "url": "https://reason.com/2026/07/04/on-americas-250th-birthday-the-united-states-arms-the-worlds-tyrannies/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "title": "The Iran War Is What Trumpism Looks Like",
-          "url": "https://thedispatch.com/newsletter/gfile/iran-war-donald-trump-maga/"
+          "title": "Why America Is the World's Corporate Headquarters",
+          "url": "https://thedispatch.com/article/big-companies-united-states-explained/"
         },
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
-          "title": "Iran war is eroding American power in Asia",
-          "url": "https://unherd.com/newsroom/iran-war-is-eroding-american-power-in-asia/?edition=us"
+          "date": "2026-07",
+          "title": "The American disaster",
+          "url": "https://unherd.com/2026/07/the-american-disaster/"
         }
       ]
     },
@@ -76,21 +78,29 @@
         {
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "date": "2026-07-22",
-          "title": "Kremlin no longer willing to return any occupied Ukrainian territory as part of potential peace deal, Bloomberg reports",
-          "url": "https://meduza.io/en/news/2026/07/22/kremlin-no-longer-willing-to-return-any-occupied-ukrainian-territory-as-part-of-potential-peace-deal-bloomberg-reports"
+          "date": "2026-03-27",
+          "title": "Ukrainians who came to the US under Biden are being deported under Trump. For some it means being sent straight to the war",
+          "orig": "Украинцев, приехавших в США при Байдене, при Трампе начали высылать обратно. Для некоторых это отправка прямиком на войну",
+          "url": "https://meduza.io/feature/2026/03/27/ukraintsev-priehavshih-v-ssha-pri-baydene-pri-trampe-nachali-vysylat-obratno-dlya-nekotoryh-eto-otpravka-pryamikom-na-voynu"
         },
         {
           "outlet": "IranWire (Iran, in exile)",
           "lean": "exile",
-          "title": "U.S. Completes 12th Wave of Strikes Against Iran",
-          "url": "https://iranwire.com/en/news/155343-us-completes-12th-wave-of-strikes-against-iran/"
+          "title": "US Releases Official Details of Memorandum of Understanding with Iran",
+          "url": "https://iranwire.com/en/news/153853-us-releases-official-details-of-memorandum-of-understanding-with-iran/"
         },
         {
-          "outlet": "IranWire (Iran, in exile)",
+          "outlet": "Hong Kong Free Press",
           "lean": "exile",
-          "title": "Trump Reposts Images of Executed Protesters in Iran",
-          "url": "https://iranwire.com/en/news/155278-trump-reposts-images-of-executed-protesters-in-iran/"
+          "date": "2026-07-23",
+          "title": "White House accuses China's Moonshot of stealing Anthropic AI",
+          "url": "https://hongkongfp.com/2026/07/23/white-house-accuses-chinas-moonshot-of-stealing-anthropic-ai/"
+        },
+        {
+          "outlet": "The Kyiv Independent (Ukraine)",
+          "lean": "exile",
+          "title": "US to begin talks on troop reductions in Europe later this year, America's NATO envoy says",
+          "url": "https://kyivindependent.com/us-to-begin-talks-on-troop-reductions-in-europe-later-this-year-nato-envoy-says/"
         }
       ]
     },
@@ -102,20 +112,32 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "Iran war: US launches attacks for 11th night as Trump seeks $70bn more for military",
-          "url": "https://www.middleeasteye.net/news/iran-war-us-launches-attacks-eleventh-night-as-trump-seeks-more-funding"
+          "title": "How Scott Bessent's 'economic statecraft' aims to justify US coercion",
+          "url": "https://www.middleeasteye.net/opinion/how-scott-bessents-economic-statecraft-aims-justify-us-coercion"
         },
         {
           "outlet": "The Wire (India)",
           "lean": "indie",
-          "title": "US Opens Process for Trump Tariff Refunds, But Indian Exporters Unlikely to See the Benefits",
-          "url": "https://thewire.in/trade/us-opens-process-for-trump-tariff-refunds-but-indian-exporters-unlikely-to-see-the-benefits"
+          "title": "India Should Reject Trump's Donroe Doctrine",
+          "url": "https://m.thewire.in/article/diplomacy/india-should-reject-trumps-donroe-doctrine"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "Under US law, Trump faces an impending deadline to end the Iran war. What happens if he ignores it?",
-          "url": "https://theconversation.com/under-us-law-trump-faces-an-impending-deadline-to-end-the-iran-war-what-happens-if-he-ignores-it-281728"
+          "title": "America at 250: still a 'democratic experiment'",
+          "url": "https://theconversation.com/america-at-250-still-a-democratic-experiment-286695"
+        },
+        {
+          "outlet": "Coda Story",
+          "lean": "indie",
+          "title": "America's culture war targets librarians",
+          "url": "https://www.codastory.com/rewriting-history/war-on-librarians-united-states/"
+        },
+        {
+          "outlet": "Rappler (Philippines)",
+          "lean": "indie",
+          "title": "Philippines, US to build industrial hub to strengthen supply chain security",
+          "url": "https://www.rappler.com/philippines/luzon-industrial-hub-usa-cooperation-pax-silica/"
         }
       ]
     }

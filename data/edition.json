@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-07-24",
-  "date_human": "Friday, July 24, 2026",
-  "summary": "11 countries. Foreign coverage of America is wider than any single story today. The new US tariffs on 60 partners and the war with Iran are still the biggest threads, but outlets are also covering the country's 250th anniversary and its deepening divisions, the aftermath of the World Cup, a court freezing the Paramount and Warner Bros merger, US and China planning AI talks, the race to lead the UN, and US dealings from Kenya to Ukraine.",
+  "date_iso": "2026-07-25",
+  "date_human": "Saturday, July 25, 2026",
+  "summary": "11 countries. The new US tariffs on 60 trading partners are the loudest story abroad, but the coverage runs wider than that. Outlets are also watching the 250th anniversary and the country's divisions, the aftermath of the World Cup, tighter US visa rules, an AI race with China, the fallout of the Iran war, and Washington's shifting role from Ukraine to Lebanon to the Philippines.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -12,16 +12,16 @@
           "outlet": "France 24",
           "lean": "funded",
           "date": "2026-07-24",
-          "title": "UN leadership candidates outline visions ahead of secretary-general race",
-          "url": "https://www.france24.com/en/americas/20260724-un-leadership-candidates-outline-visions-ahead-of-secretary-general-race",
-          "note": "Washington holds a veto over the choice, so US preferences loom over the field."
+          "title": "US imposes new tariffs on 60 partners as Trump rebuilds trade agenda",
+          "url": "https://www.france24.com/en/live-news/20260724-us-imposes-new-tariffs-on-60-partners-as-trump-rebuilds-trade-agenda"
         },
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "2026-07-24",
-          "title": "Over 80% of Mexican exports exempt from new US tariffs",
-          "url": "https://www.france24.com/en/live-news/20260724-over-80-of-mexican-exports-exempt-from-new-us-tariffs"
+          "date": "2026-07-19",
+          "title": "'The Odyssey' storms N. American Box Office",
+          "url": "https://www.france24.com/en/live-news/20260719-the-odyssey-storms-n-american-box-office",
+          "note": "A look at America through its cinema rather than its politics."
         }
       ]
     },
@@ -33,17 +33,16 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-07-22",
-          "title": "U.S. and China to hold AI talks in September, sources say",
-          "url": "https://www.japantimes.co.jp/news/2026/07/22/world/us-china-ai-talks/"
+          "date": "2026-07-21",
+          "title": "Mamdani's American dream",
+          "url": "https://www.japantimes.co.jp/commentary/2026/07/21/world/mamdanis-american-dream/"
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-05-19",
-          "title": "Japanese favorability toward U.S. falls below 30%, survey finds",
-          "url": "https://www.japantimes.co.jp/news/2026/05/19/japan/politics/japan-us-favorability-fall/",
-          "note": "A rare read on how a close ally now views America."
+          "date": "2026-07-16",
+          "title": "As shared values shift, what's next for U.S.-Japan relations?",
+          "url": "https://www.japantimes.co.jp/commentary/2026/07/16/japan/us-japan-relations-next/"
         }
       ]
     },
@@ -55,39 +54,40 @@
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-07-20",
-          "title": "US judge orders pause on Paramount–Warner Bros merger",
-          "url": "https://www.aljazeera.com/economy/2026/7/20/us-judge-orders-pause-on-paramount-warner-bros"
+          "date": "2026-06-13",
+          "title": "Ten observations after attending a World Cup match in the US",
+          "url": "https://www.aljazeera.com/news/2026/6/13/ten-observations-after-attending-a-world-cup-match-in-the-us"
         },
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-06-13",
-          "title": "Ten observations after attending a World Cup match in the US",
-          "url": "https://www.aljazeera.com/news/2026/6/13/ten-observations-after-attending-a-world-cup-match-in-the-us",
-          "note": "A visitor's eye view of daily American life around the tournament."
+          "date": "2026-07-20",
+          "title": "Last night, I was Spanish, and so were millions around the world",
+          "url": "https://www.aljazeera.com/opinions/2026/7/20/last-night-i-was-spanish-and-so-were-millions-around-the-world",
+          "note": "A reflection on the World Cup final played on US soil."
         }
       ]
     },
     {
       "flag": "🇷🇺",
       "name": "Russia",
-      "region": "Eurasia",
+      "region": "Eastern Europe",
       "items": [
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "'The best years are behind them': Western media on the 250th anniversary of the USA",
-          "orig": "«Лучшие годы позади»: западные СМИ — о 250-летии США",
-          "url": "https://russian.rt.com/world/article/1652293-250-yubilei-ssha-obzor",
-          "note": "A survey of gloomy Western commentary, presented to make a point about US decline."
+          "date": "2026-07-25",
+          "title": "Peskov says there is no progress in Russia-US relations",
+          "orig": "Песков заявил об отсутствии подвижек в отношениях России и США",
+          "url": "https://russian.rt.com/world/news/1661491-rossiya-ssha-peskov"
         },
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "US expert Dudakov calls the effect of US tariffs on Russia almost zero",
-          "orig": "Американист Дудаков назвал эффект пошлин США для России почти нулевым",
-          "url": "https://russian.rt.com/world/news/1661177-ekspert-ssha-poshliny"
+          "date": "2026-07-25",
+          "title": "US struck a tanker in the Gulf of Oman, two people killed",
+          "orig": "США атаковали танкер в Оманском заливе, два человека погибли",
+          "url": "https://russian.rt.com/world/news/1661235-ssha-atakovali-tanker"
         }
       ]
     },
@@ -99,14 +99,80 @@
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "US House votes to make daylight saving time permanent, passing bill to 'ditch the switch'",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3360586/us-house-votes-make-daylight-saving-time-permanent-passing-bill-ditch-switch"
+          "date": "2026-07-24",
+          "title": "US slaps fresh tariffs on China, over 50 other economies in latest wave",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3361650/us-slaps-fresh-tariffs-china-50-plus-countries-latest-wave"
         },
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "US small businesses sue Trump administration over new 'forced labour' tariffs",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3361812/us-small-businesses-sue-trump-administration-over-new-forced-labour-tariffs"
+          "title": "Another 'DeepSeek moment'? What China's Kimi K3 means for the global AI industry",
+          "url": "https://www.scmp.com/tech/big-tech/article/3361387/another-deepseek-moment-what-chinas-kimi-k3-means-global-ai-industry"
+        },
+        {
+          "outlet": "Global Times",
+          "lean": "state",
+          "title": "US to suspend immigrant visa processing for 75 nations; expert calls the politicization of immigration unprecedented",
+          "url": "https://www.globaltimes.cn/page/202601/1353263.shtml"
+        }
+      ]
+    },
+    {
+      "flag": "🇲🇽",
+      "name": "Mexico",
+      "region": "Latin America",
+      "items": [
+        {
+          "outlet": "El Universal",
+          "lean": "neutral",
+          "title": "US visa: United States to require deposits of up to $15,000",
+          "orig": "Visa americana: Estados Unidos pedirá depósitos de 15,000 dólares",
+          "url": "https://www.eluniversal.com.mx/destinos/visa-americana-estados-unidos-pedira-depositos-de-15000-dolares/"
+        },
+        {
+          "outlet": "El Universal",
+          "lean": "neutral",
+          "title": "United States avoids submitting to the UN human rights review",
+          "orig": "Estados Unidos evita someterse al examen de derechos humanos de la ONU",
+          "url": "https://www.eluniversal.com.mx/mundo/estados-unidos-evita-someterse-al-examen-de-derechos-humanos-de-la-onu/"
+        }
+      ]
+    },
+    {
+      "flag": "🇳🇬",
+      "name": "Nigeria",
+      "region": "Africa",
+      "items": [
+        {
+          "outlet": "The Punch",
+          "lean": "neutral",
+          "title": "US to resume Mexican cattle imports after year-long ban",
+          "url": "https://punchng.com/us-to-resume-mexican-cattle-imports-after-year-long-ban/"
+        },
+        {
+          "outlet": "The Punch",
+          "lean": "neutral",
+          "title": "Another round of anti-Trump protests hits US cities",
+          "url": "https://punchng.com/another-round-of-anti-trump-protests-hits-us-cities/"
+        }
+      ]
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "region": "East Asia",
+      "items": [
+        {
+          "outlet": "The Korea Herald",
+          "lean": "neutral",
+          "title": "Korea has long targeted US firms like Coupang: US House report",
+          "url": "https://www.koreaherald.com/article/10796143"
+        },
+        {
+          "outlet": "The Korea Herald",
+          "lean": "neutral",
+          "title": "NK release of American detainee loses spotlight as nuclear talks stall",
+          "url": "https://m.koreaherald.com/article/1851181"
         }
       ]
     },
@@ -118,94 +184,35 @@
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "United States respects Turkish plan to join BRICS",
-          "url": "https://www.dailysabah.com/politics/diplomacy/united-states-respects-turkish-plan-to-join-brics"
+          "title": "Trade partners voice dismay, anger over US forced labor tariffs",
+          "url": "https://www.dailysabah.com/business/economy/trade-partners-voice-dismay-anger-over-us-forced-labor-tariffs"
         },
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "Iran war already cost US $37.5 billion yet Pentagon asks for more",
-          "url": "https://www.dailysabah.com/world/americas/iran-war-already-cost-us-375-billion-yet-pentagon-asks-for-more"
+          "title": "Lebanon's Aoun seeks US support in high-stakes Washington visit",
+          "url": "https://www.dailysabah.com/world/mid-east/lebanons-aoun-seeks-us-support-in-high-stakes-washington-visit"
         }
       ]
     },
     {
       "flag": "🇪🇺",
       "name": "European Union",
-      "region": "Europe",
+      "region": "Western Europe",
       "items": [
         {
           "outlet": "Euronews",
           "lean": "neutral",
-          "date": "2026-07-23",
-          "title": "7,000 km of subsea cables link Portugal to US: What is the 'Nuvem' system?",
-          "url": "https://www.euronews.com/next/2026/07/23/7000-km-of-subsea-cables-link-portugal-to-us-what-is-the-nuvem-system"
+          "date": "2026-06-29",
+          "title": "US marks 250th anniversary in Brussels with messages of transatlantic solidarity",
+          "url": "https://www.euronews.com/my-europe/2026/06/29/us-marks-250th-anniversary-in-brussels-with-messages-of-transatlantic-solidarity"
         },
         {
           "outlet": "Euronews",
           "lean": "neutral",
-          "date": "2026-03-29",
-          "title": "A new way to measure poverty shows the US falling behind Europe",
-          "url": "https://www.euronews.com/business/2026/03/29/a-new-way-to-measure-poverty-shows-the-us-falling-behind-europe"
-        }
-      ]
-    },
-    {
-      "flag": "🇿🇦",
-      "name": "South Africa",
-      "region": "Africa",
-      "items": [
-        {
-          "outlet": "News24",
-          "lean": "neutral",
-          "date": "2026-07-24",
-          "title": "US hits SA with 12.5% tariffs in sweeping announcement affecting 60 countries",
-          "url": "https://www.news24.com/business/economy/us-hits-sa-with-125-tariffs-in-sweeping-announcement-affecting-60-countries-20260724-0369"
-        },
-        {
-          "outlet": "News24",
-          "lean": "neutral",
-          "date": "2026-05-26",
-          "title": "Bok legend Naas Botha lands coaching gig in the United States",
-          "url": "https://www.news24.com/sport/rugby/springboks/bok-legend-naas-botha-lands-coaching-gig-in-the-united-states-20260526-0334"
-        }
-      ]
-    },
-    {
-      "flag": "🇰🇪",
-      "name": "Kenya",
-      "region": "Africa",
-      "items": [
-        {
-          "outlet": "Daily Nation",
-          "lean": "neutral",
-          "title": "Marco Rubio's mixed signals on Kenya Ebola centre spark concern",
-          "url": "https://nation.africa/kenya/health/marco-rubio-s-mixed-signals-on-kenya-ebola-centre-spark-concern-5486510"
-        },
-        {
-          "outlet": "Daily Nation",
-          "lean": "neutral",
-          "title": "Duale denial: US confirms seven Americans at disputed Laikipia facility",
-          "url": "https://nation.africa/kenya/health/duale-denial-us-confirms-seven-americans-at-disputed-laikipia-facility-5531302"
-        }
-      ]
-    },
-    {
-      "flag": "🇦🇷",
-      "name": "Argentina",
-      "region": "Latin America",
-      "items": [
-        {
-          "outlet": "Buenos Aires Times",
-          "lean": "neutral",
-          "title": "United States at 250: More prosperous, more diverse, yet more divided",
-          "url": "https://batimes.com.ar/news/world/united-states-at-250-more-prosperous-more-diverse-yet-more-divided.phtml"
-        },
-        {
-          "outlet": "Buenos Aires Times",
-          "lean": "neutral",
-          "title": "Milei visits Trump's home turf eyeing free-trade deal with US",
-          "url": "https://www.batimes.com.ar/news/argentina/milei-visits-trumps-home-turf-seeking-free-trade-deal-with-us.phtml"
+          "date": "2026-01-23",
+          "title": "The United States has officially left WHO, ending a year of controversial health reforms",
+          "url": "https://www.euronews.com/health/2026/01/23/the-united-states-has-officially-left-who-ending-a-year-of-controversial-health-reforms"
         }
       ]
     },
@@ -217,14 +224,14 @@
         {
           "outlet": "Kyiv Post",
           "lean": "neutral",
-          "title": "US Adds 12.5% Tariff on Russian Goods Over Forced Labor Trade Rules",
-          "url": "https://www.kyivpost.com/post/80974"
+          "title": "Washington drops neutral role, backs Kyiv on sanctions",
+          "url": "https://www.kyivpost.com/post/78992"
         },
         {
           "outlet": "Kyiv Post",
           "lean": "neutral",
-          "title": "'Time Is Not on Moscow's Side': US Warns Russia at UN as Its Casualties Hit 40,000 a Month",
-          "url": "https://www.kyivpost.com/post/78738"
+          "title": "Under Trump, US global image falls below Russia for first time, survey finds",
+          "url": "https://www.kyivpost.com/post/75709"
         }
       ]
     }
