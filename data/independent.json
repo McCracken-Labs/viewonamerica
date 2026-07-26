@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-07-25",
-  "date_human": "Saturday, July 25, 2026",
+  "date_iso": "2026-07-26",
+  "date_human": "Sunday, July 26, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,14 +11,14 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Immigration Agents Have Often Grabbed and Mistreated Citizens, Congressional Investigators Find",
-          "url": "https://www.propublica.org/article/immigration-agents-detained-mistreated-citizens-congressional-investigation"
+          "title": "We Spent a Year Investigating How the FDA Let Risky Drugs Into the U.S. Market",
+          "url": "https://www.propublica.org/article/fda-methodology-american-medicine-research"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "We Spent a Year Investigating How the FDA Let Risky Drugs Into the U.S. Market",
-          "url": "https://www.propublica.org/article/fda-methodology-american-medicine-research"
+          "title": "Immigration Agents Have Often Grabbed and Mistreated Citizens, Congressional Investigators Find",
+          "url": "https://www.propublica.org/article/immigration-agents-detained-mistreated-citizens-congressional-investigation"
         }
       ]
     },
@@ -30,16 +30,22 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "2026-07-18",
-          "title": "The United States of Betrayal",
-          "url": "https://theintercept.com/2026/07/18/united-states-betray-allies-trump-foreign-policy/"
+          "date": "2026-07-04",
+          "title": "The Horrifying Lessons of 250 Years of American History",
+          "url": "https://theintercept.com/2026/07/04/july-4-america-250-trump/"
         },
         {
           "outlet": "Jacobin",
           "lean": "left",
-          "date": "2026-07",
-          "title": "America's Empire Is Ending Much Like Spain's Did",
-          "url": "https://jacobin.com/2026/07/spain-habsburgs-decline-empire-trump"
+          "date": "2026-06",
+          "title": "How to Democratize the United States",
+          "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
+        },
+        {
+          "outlet": "openDemocracy (UK)",
+          "lean": "left",
+          "title": "These statistics show why the status quo is failing most Americans",
+          "url": "https://www.opendemocracy.net/en/these-statistics-show-why-status-quo-failing-most-americans/"
         }
       ]
     },
@@ -64,9 +70,9 @@
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
-          "date": "2026-07",
-          "title": "The American disaster",
-          "url": "https://unherd.com/2026/07/the-american-disaster/"
+          "date": "2026-06",
+          "title": "How the Constitution failed America",
+          "url": "https://unherd.com/2026/06/how-the-constitution-failed-america/"
         }
       ]
     },
@@ -78,29 +84,28 @@
         {
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "date": "2026-03-27",
-          "title": "Ukrainians who came to the US under Biden are being deported under Trump. For some it means being sent straight to the war",
-          "orig": "Украинцев, приехавших в США при Байдене, при Трампе начали высылать обратно. Для некоторых это отправка прямиком на войну",
-          "url": "https://meduza.io/feature/2026/03/27/ukraintsev-priehavshih-v-ssha-pri-baydene-pri-trampe-nachali-vysylat-obratno-dlya-nekotoryh-eto-otpravka-pryamikom-na-voynu"
+          "date": "2026-07-23",
+          "title": "Rubio says ending war in Ukraine needs 'new ideas,' previous proposals unacceptable to Kyiv",
+          "url": "https://meduza.io/en/news/2026/07/23/rubio-says-ending-war-in-ukraine-needs-new-ideas-previous-proposals-unacceptable-to-kyiv"
         },
         {
           "outlet": "IranWire (Iran, in exile)",
           "lean": "exile",
-          "title": "US Releases Official Details of Memorandum of Understanding with Iran",
-          "url": "https://iranwire.com/en/news/153853-us-releases-official-details-of-memorandum-of-understanding-with-iran/"
+          "title": "Rubio: US is Ready for Talks With Iran Despite Ongoing Strikes",
+          "url": "https://iranwire.com/en/news/155214-rubio-us-is-ready-for-talks-with-iran-despite-ongoing-strikes/"
         },
         {
           "outlet": "Hong Kong Free Press",
           "lean": "exile",
-          "date": "2026-07-23",
-          "title": "White House accuses China's Moonshot of stealing Anthropic AI",
-          "url": "https://hongkongfp.com/2026/07/23/white-house-accuses-chinas-moonshot-of-stealing-anthropic-ai/"
+          "date": "2026-04-29",
+          "title": "US leads new call condemning China's actions in Panama Canal dispute",
+          "url": "https://hongkongfp.com/2026/04/29/us-leads-new-call-condemning-chinas-actions-in-panama-canal-dispute/"
         },
         {
           "outlet": "The Kyiv Independent (Ukraine)",
           "lean": "exile",
-          "title": "US to begin talks on troop reductions in Europe later this year, America's NATO envoy says",
-          "url": "https://kyivindependent.com/us-to-begin-talks-on-troop-reductions-in-europe-later-this-year-nato-envoy-says/"
+          "title": "US State Department approves $373.6 million weapons sale to Ukraine",
+          "url": "https://kyivindependent.com/us-state-department-approves-373-million-weapons-sale-ukraine/"
         }
       ]
     },
@@ -112,8 +117,8 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "How Scott Bessent's 'economic statecraft' aims to justify US coercion",
-          "url": "https://www.middleeasteye.net/opinion/how-scott-bessents-economic-statecraft-aims-justify-us-coercion"
+          "title": "How the US system of world dominance is consuming itself",
+          "url": "https://www.middleeasteye.net/opinion/how-us-system-world-dominance-consuming-itself"
         },
         {
           "outlet": "The Wire (India)",
@@ -124,20 +129,8 @@
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "America at 250: still a 'democratic experiment'",
-          "url": "https://theconversation.com/america-at-250-still-a-democratic-experiment-286695"
-        },
-        {
-          "outlet": "Coda Story",
-          "lean": "indie",
-          "title": "America's culture war targets librarians",
-          "url": "https://www.codastory.com/rewriting-history/war-on-librarians-united-states/"
-        },
-        {
-          "outlet": "Rappler (Philippines)",
-          "lean": "indie",
-          "title": "Philippines, US to build industrial hub to strengthen supply chain security",
-          "url": "https://www.rappler.com/philippines/luzon-industrial-hub-usa-cooperation-pax-silica/"
+          "title": "US defies forecasts of economic slowdown, but its growth isn't making ordinary people better off",
+          "url": "https://theconversation.com/us-defies-forecasts-of-economic-slowdown-but-its-growth-isnt-making-ordinary-people-better-off-283989"
         }
       ]
     }

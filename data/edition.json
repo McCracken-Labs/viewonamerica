@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-07-25",
-  "date_human": "Saturday, July 25, 2026",
-  "summary": "11 countries. The new US tariffs on 60 trading partners are the loudest story abroad, but the coverage runs wider than that. Outlets are also watching the 250th anniversary and the country's divisions, the aftermath of the World Cup, tighter US visa rules, an AI race with China, the fallout of the Iran war, and Washington's shifting role from Ukraine to Lebanon to the Philippines.",
+  "date_iso": "2026-07-26",
+  "date_human": "Sunday, July 26, 2026",
+  "summary": "11 countries. The day's coverage spreads well beyond one story. Outlets track the new US tariffs on 60 partners and the aftermath of the Iran war, but they also lead with an AI driven boom on US markets, the country's 250th year, falling US favorability abroad, the World Cup, a slide in a climate ranking, and Washington's shifting hand from Ukraine to Seoul to Riyadh.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -11,17 +11,17 @@
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "2026-07-24",
-          "title": "US imposes new tariffs on 60 partners as Trump rebuilds trade agenda",
-          "url": "https://www.france24.com/en/live-news/20260724-us-imposes-new-tariffs-on-60-partners-as-trump-rebuilds-trade-agenda"
+          "date": "2026-07-23",
+          "title": "AI-led boom in IPOs raises concerns about a bust",
+          "url": "https://www.france24.com/en/live-news/20260723-ai-led-boom-in-ipos-raises-concerns-about-a-bust",
+          "note": "A market story rather than a political one, on an AI driven surge in US listings."
         },
         {
           "outlet": "France 24",
           "lean": "funded",
           "date": "2026-07-19",
           "title": "'The Odyssey' storms N. American Box Office",
-          "url": "https://www.france24.com/en/live-news/20260719-the-odyssey-storms-n-american-box-office",
-          "note": "A look at America through its cinema rather than its politics."
+          "url": "https://www.france24.com/en/live-news/20260719-the-odyssey-storms-n-american-box-office"
         }
       ]
     },
@@ -33,16 +33,16 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-07-21",
-          "title": "Mamdani's American dream",
-          "url": "https://www.japantimes.co.jp/commentary/2026/07/21/world/mamdanis-american-dream/"
+          "date": "2026-05-19",
+          "title": "Japanese favorability toward U.S. falls below 30%, survey finds",
+          "url": "https://www.japantimes.co.jp/news/2026/05/19/japan/politics/japan-us-favorability-fall/"
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-07-16",
-          "title": "As shared values shift, what's next for U.S.-Japan relations?",
-          "url": "https://www.japantimes.co.jp/commentary/2026/07/16/japan/us-japan-relations-next/"
+          "date": "2026-07-21",
+          "title": "Mamdani's American dream",
+          "url": "https://www.japantimes.co.jp/commentary/2026/07/21/world/mamdanis-american-dream/"
         }
       ]
     },
@@ -54,17 +54,16 @@
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-06-13",
-          "title": "Ten observations after attending a World Cup match in the US",
-          "url": "https://www.aljazeera.com/news/2026/6/13/ten-observations-after-attending-a-world-cup-match-in-the-us"
+          "date": "2026-06-23",
+          "title": "US Senate votes to pass Iran war powers resolution in blow to Trump",
+          "url": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump"
         },
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-07-20",
-          "title": "Last night, I was Spanish, and so were millions around the world",
-          "url": "https://www.aljazeera.com/opinions/2026/7/20/last-night-i-was-spanish-and-so-were-millions-around-the-world",
-          "note": "A reflection on the World Cup final played on US soil."
+          "date": "2026-06-05",
+          "title": "FIFA World Cup 2026 talking points: NFL-style half-time show, kits and more",
+          "url": "https://www.aljazeera.com/news/2026/6/5/fifa-world-cup-2026-super-bowl-half-time-show-kits-football-talking-points"
         }
       ]
     },
@@ -76,103 +75,35 @@
         {
           "outlet": "RT",
           "lean": "state",
-          "date": "2026-07-25",
-          "title": "Peskov says there is no progress in Russia-US relations",
-          "orig": "Песков заявил об отсутствии подвижек в отношениях России и США",
-          "url": "https://russian.rt.com/world/news/1661491-rossiya-ssha-peskov"
+          "title": "Rubio: US ready to play a constructive role in a Ukraine settlement",
+          "orig": "Рубио: США готовы сыграть конструктивную роль в урегулировании на Украине",
+          "url": "https://russian.rt.com/world/news/1660478-ssha-ukraina-rubio"
         },
         {
           "outlet": "RT",
           "lean": "state",
-          "date": "2026-07-25",
-          "title": "US struck a tanker in the Gulf of Oman, two people killed",
-          "orig": "США атаковали танкер в Оманском заливе, два человека погибли",
-          "url": "https://russian.rt.com/world/news/1661235-ssha-atakovali-tanker"
+          "title": "NYP: US could deploy thousands of troops in an operation to seize Iranian uranium",
+          "orig": "NYP: США могут задействовать тысячи солдат в операции по захвату иранского урана",
+          "url": "https://russian.rt.com/world/news/1661690-ssha-soldaty-uran"
         }
       ]
     },
     {
       "flag": "🇨🇳",
-      "name": "China & Hong Kong",
+      "name": "China",
       "region": "East Asia",
       "items": [
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "date": "2026-07-24",
           "title": "US slaps fresh tariffs on China, over 50 other economies in latest wave",
           "url": "https://www.scmp.com/news/us/diplomacy/article/3361650/us-slaps-fresh-tariffs-china-50-plus-countries-latest-wave"
         },
         {
-          "outlet": "South China Morning Post",
-          "lean": "neutral",
-          "title": "Another 'DeepSeek moment'? What China's Kimi K3 means for the global AI industry",
-          "url": "https://www.scmp.com/tech/big-tech/article/3361387/another-deepseek-moment-what-chinas-kimi-k3-means-global-ai-industry"
-        },
-        {
           "outlet": "Global Times",
           "lean": "state",
-          "title": "US to suspend immigrant visa processing for 75 nations; expert calls the politicization of immigration unprecedented",
-          "url": "https://www.globaltimes.cn/page/202601/1353263.shtml"
-        }
-      ]
-    },
-    {
-      "flag": "🇲🇽",
-      "name": "Mexico",
-      "region": "Latin America",
-      "items": [
-        {
-          "outlet": "El Universal",
-          "lean": "neutral",
-          "title": "US visa: United States to require deposits of up to $15,000",
-          "orig": "Visa americana: Estados Unidos pedirá depósitos de 15,000 dólares",
-          "url": "https://www.eluniversal.com.mx/destinos/visa-americana-estados-unidos-pedira-depositos-de-15000-dolares/"
-        },
-        {
-          "outlet": "El Universal",
-          "lean": "neutral",
-          "title": "United States avoids submitting to the UN human rights review",
-          "orig": "Estados Unidos evita someterse al examen de derechos humanos de la ONU",
-          "url": "https://www.eluniversal.com.mx/mundo/estados-unidos-evita-someterse-al-examen-de-derechos-humanos-de-la-onu/"
-        }
-      ]
-    },
-    {
-      "flag": "🇳🇬",
-      "name": "Nigeria",
-      "region": "Africa",
-      "items": [
-        {
-          "outlet": "The Punch",
-          "lean": "neutral",
-          "title": "US to resume Mexican cattle imports after year-long ban",
-          "url": "https://punchng.com/us-to-resume-mexican-cattle-imports-after-year-long-ban/"
-        },
-        {
-          "outlet": "The Punch",
-          "lean": "neutral",
-          "title": "Another round of anti-Trump protests hits US cities",
-          "url": "https://punchng.com/another-round-of-anti-trump-protests-hits-us-cities/"
-        }
-      ]
-    },
-    {
-      "flag": "🇰🇷",
-      "name": "South Korea",
-      "region": "East Asia",
-      "items": [
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "Korea has long targeted US firms like Coupang: US House report",
-          "url": "https://www.koreaherald.com/article/10796143"
-        },
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "NK release of American detainee loses spotlight as nuclear talks stall",
-          "url": "https://m.koreaherald.com/article/1851181"
+          "title": "Don-roe Doctrine? A close look at a 200-year scourge across Latin America under US' shadow",
+          "url": "https://www.globaltimes.cn/page/202601/1352483.shtml"
         }
       ]
     },
@@ -184,35 +115,73 @@
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "Trade partners voice dismay, anger over US forced labor tariffs",
-          "url": "https://www.dailysabah.com/business/economy/trade-partners-voice-dismay-anger-over-us-forced-labor-tariffs"
+          "title": "United States respects Turkish plan to join BRICS",
+          "url": "https://www.dailysabah.com/politics/diplomacy/united-states-respects-turkish-plan-to-join-brics"
         },
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "Lebanon's Aoun seeks US support in high-stakes Washington visit",
-          "url": "https://www.dailysabah.com/world/mid-east/lebanons-aoun-seeks-us-support-in-high-stakes-washington-visit"
+          "title": "64-team World Cup could reshape football's balance of power",
+          "url": "https://www.dailysabah.com/sports/football/64-team-world-cup-could-reshape-footballs-balance-of-power"
         }
       ]
     },
     {
-      "flag": "🇪🇺",
-      "name": "European Union",
-      "region": "Western Europe",
+      "flag": "🇲🇽",
+      "name": "Mexico",
+      "region": "Latin America",
       "items": [
         {
-          "outlet": "Euronews",
+          "outlet": "El Universal",
           "lean": "neutral",
-          "date": "2026-06-29",
-          "title": "US marks 250th anniversary in Brussels with messages of transatlantic solidarity",
-          "url": "https://www.euronews.com/my-europe/2026/06/29/us-marks-250th-anniversary-in-brussels-with-messages-of-transatlantic-solidarity"
+          "title": "United States falls in the Climate Change Performance Index",
+          "orig": "Estados Unidos cae en el Índice de Desempeño Climático",
+          "url": "https://www.eluniversal.com.mx/mundo/estados-unidos-cae-en-el-indice-de-desempeno-climatico/"
         },
         {
-          "outlet": "Euronews",
+          "outlet": "El Universal",
           "lean": "neutral",
-          "date": "2026-01-23",
-          "title": "The United States has officially left WHO, ending a year of controversial health reforms",
-          "url": "https://www.euronews.com/health/2026/01/23/the-united-states-has-officially-left-who-ending-a-year-of-controversial-health-reforms"
+          "title": "United States avoids the UN human rights review",
+          "orig": "Estados Unidos evita someterse al examen de derechos humanos de la ONU",
+          "url": "https://www.eluniversal.com.mx/mundo/estados-unidos-evita-someterse-al-examen-de-derechos-humanos-de-la-onu/"
+        }
+      ]
+    },
+    {
+      "flag": "🇳🇬",
+      "name": "Nigeria",
+      "region": "West Africa",
+      "items": [
+        {
+          "outlet": "The Punch",
+          "lean": "neutral",
+          "title": "US to resume Mexican cattle imports after year-long ban",
+          "url": "https://punchng.com/us-to-resume-mexican-cattle-imports-after-year-long-ban/"
+        },
+        {
+          "outlet": "The Punch",
+          "lean": "neutral",
+          "title": "Trump declares English as official language of US",
+          "url": "https://punchng.com/trump-declares-english-as-official-language-of-us/"
+        }
+      ]
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "region": "East Asia",
+      "items": [
+        {
+          "outlet": "The Korea Herald",
+          "lean": "neutral",
+          "title": "LG chief travels to US to examine future growth engines including AI",
+          "url": "https://m.koreaherald.com/article/3421806"
+        },
+        {
+          "outlet": "The Korea Herald",
+          "lean": "neutral",
+          "title": "Campbell calls defense cost deal with Seoul 'extraordinarily generous,' hopes Trump govt. will grasp its 'wisdom'",
+          "url": "https://www.koreaherald.com/article/10011153"
         }
       ]
     },
@@ -224,14 +193,29 @@
         {
           "outlet": "Kyiv Post",
           "lean": "neutral",
-          "title": "Washington drops neutral role, backs Kyiv on sanctions",
+          "title": "Washington Drops Neutral Role, Backs Kyiv on Sanctions",
           "url": "https://www.kyivpost.com/post/78992"
+        }
+      ]
+    },
+    {
+      "flag": "🇿🇦",
+      "name": "South Africa",
+      "region": "Southern Africa",
+      "items": [
+        {
+          "outlet": "News24",
+          "lean": "neutral",
+          "date": "2026-03-13",
+          "title": "Springbok legend Naas Botha relocates to the US: 'SA will forever hold a special place'",
+          "url": "https://www.news24.com/sport/rugby/springboks/springbok-legend-naas-botha-relocates-to-the-us-sa-will-forever-hold-a-special-place-20260313-0868"
         },
         {
-          "outlet": "Kyiv Post",
+          "outlet": "News24",
           "lean": "neutral",
-          "title": "Under Trump, US global image falls below Russia for first time, survey finds",
-          "url": "https://www.kyivpost.com/post/75709"
+          "date": "2026-07-23",
+          "title": "Trump says Saudi nuclear deal contingent on recognising Israel",
+          "url": "https://www.news24.com/world/trump-says-saudi-nuclear-deal-contingent-on-recognising-israel-20260723-0889"
         }
       ]
     }
