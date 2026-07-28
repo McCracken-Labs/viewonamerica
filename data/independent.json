@@ -11,8 +11,8 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "We Spent a Year Investigating How the FDA Let Risky Drugs Into the U.S. Market",
-          "url": "https://www.propublica.org/article/fda-methodology-american-medicine-research"
+          "title": "Trump's Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
+          "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"
         },
         {
           "outlet": "ProPublica",
@@ -30,22 +30,16 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "2026-07-04",
-          "title": "The Horrifying Lessons of 250 Years of American History",
-          "url": "https://theintercept.com/2026/07/04/july-4-america-250-trump/"
+          "date": "Jul 21",
+          "title": "“Cover-Up” Unravels as Pentagon Admits Nearly 100 Injured in Iran Strikes",
+          "url": "https://theintercept.com/2026/07/21/iran-war-pentagon-casualties-injuries/"
         },
         {
-          "outlet": "Jacobin",
+          "outlet": "The Intercept",
           "lean": "left",
-          "date": "2026-06",
-          "title": "How to Democratize the United States",
-          "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
-        },
-        {
-          "outlet": "openDemocracy (UK)",
-          "lean": "left",
-          "title": "These statistics show why the status quo is failing most Americans",
-          "url": "https://www.opendemocracy.net/en/these-statistics-show-why-status-quo-failing-most-americans/"
+          "date": "Jul 24",
+          "title": "Trump's National Killer Police Force",
+          "url": "https://theintercept.com/2026/07/24/trump-ice-deaths-mass-deportation/"
         }
       ]
     },
@@ -57,22 +51,21 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "2026-07-04",
-          "title": "On America's 250th birthday, the United States arms the world's tyrannies",
-          "url": "https://reason.com/2026/07/04/on-americas-250th-birthday-the-united-states-arms-the-worlds-tyrannies/"
+          "date": "Jul 27",
+          "title": "Here's how much cigarettes cost in each U.S. state",
+          "url": "https://reason.com/2026/07/27/the-best-and-worst-states-to-be-a-smoker/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "title": "Why America Is the World's Corporate Headquarters",
-          "url": "https://thedispatch.com/article/big-companies-united-states-explained/"
+          "title": "Here Comes Another Round of Sham Tariffs",
+          "url": "https://thedispatch.com/newsletter/dispatch-markets/trump-tariffs-section-301-forced-labor-pretext/"
         },
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
-          "date": "2026-06",
-          "title": "How the Constitution failed America",
-          "url": "https://unherd.com/2026/06/how-the-constitution-failed-america/"
+          "title": "How Germans made America",
+          "url": "https://unherd.com/2026/07/how-germans-made-america/"
         }
       ]
     },
@@ -84,9 +77,10 @@
         {
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "date": "2026-07-23",
-          "title": "Rubio says ending war in Ukraine needs 'new ideas,' previous proposals unacceptable to Kyiv",
-          "url": "https://meduza.io/en/news/2026/07/23/rubio-says-ending-war-in-ukraine-needs-new-ideas-previous-proposals-unacceptable-to-kyiv"
+          "date": "Jul 28",
+          "title": "Zelensky has arrived in the US, with talks with Trump planned",
+          "url": "https://meduza.io/news/2026/07/28/zelenskiy-priehal-v-ssha-u-nego-zaplanirovany-peregovory-s-trampom",
+          "orig": "Зеленский приехал в США. У него запланированы переговоры с Трампом"
         },
         {
           "outlet": "IranWire (Iran, in exile)",
@@ -97,15 +91,9 @@
         {
           "outlet": "Hong Kong Free Press",
           "lean": "exile",
-          "date": "2026-04-29",
-          "title": "US leads new call condemning China's actions in Panama Canal dispute",
-          "url": "https://hongkongfp.com/2026/04/29/us-leads-new-call-condemning-chinas-actions-in-panama-canal-dispute/"
-        },
-        {
-          "outlet": "The Kyiv Independent (Ukraine)",
-          "lean": "exile",
-          "title": "US State Department approves $373.6 million weapons sale to Ukraine",
-          "url": "https://kyivindependent.com/us-state-department-approves-373-million-weapons-sale-ukraine/"
+          "date": "Jul 17",
+          "title": "China's Xi Jinping says AI should not be dominated by one country",
+          "url": "https://hongkongfp.com/2026/07/17/chinas-xi-jinping-says-ai-should-not-be-dominated-by-one-country/"
         }
       ]
     },
@@ -115,22 +103,22 @@
       "region": "Reader-funded, outside the US",
       "items": [
         {
-          "outlet": "Middle East Eye",
-          "lean": "indie",
-          "title": "How the US system of world dominance is consuming itself",
-          "url": "https://www.middleeasteye.net/opinion/how-us-system-world-dominance-consuming-itself"
+          "outlet": "The Conversation",
+          "lean": "analysis",
+          "title": "America at 250: still a 'democratic experiment'",
+          "url": "https://theconversation.com/america-at-250-still-a-democratic-experiment-286695"
         },
         {
-          "outlet": "The Wire (India)",
+          "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "India Should Reject Trump's Donroe Doctrine",
-          "url": "https://m.thewire.in/article/diplomacy/india-should-reject-trumps-donroe-doctrine"
+          "title": "How Scott Bessent's 'economic statecraft' aims to justify US coercion",
+          "url": "https://www.middleeasteye.net/opinion/how-scott-bessents-economic-statecraft-aims-justify-us-coercion"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "US defies forecasts of economic slowdown, but its growth isn't making ordinary people better off",
-          "url": "https://theconversation.com/us-defies-forecasts-of-economic-slowdown-but-its-growth-isnt-making-ordinary-people-better-off-283989"
+          "title": "2026 isn't the first time Christians have tried to claim the United States as their own",
+          "url": "https://theconversation.com/2026-isnt-the-first-time-christians-have-tried-to-claim-the-united-states-as-their-own-283246"
         }
       ]
     }
