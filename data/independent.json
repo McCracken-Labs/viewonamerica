@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-07-28",
-  "date_human": "Tuesday, July 28, 2026",
+  "date_iso": "2026-07-29",
+  "date_human": "Wednesday, July 29, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,14 +11,14 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Trump's Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
-          "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"
+          "title": "We Found That More Than 170 U.S. Citizens Have Been Held by Immigration Agents. They've Been Kicked, Dragged and Detained for Days.",
+          "url": "https://www.propublica.org/article/immigration-dhs-american-citizens-arrested-detained-against-will"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Immigration Agents Have Often Grabbed and Mistreated Citizens, Congressional Investigators Find",
-          "url": "https://www.propublica.org/article/immigration-agents-detained-mistreated-citizens-congressional-investigation"
+          "title": "Inside the Utility Company Lobbying Blitz That Will Hike Electric Bills",
+          "url": "https://www.propublica.org/article/inside-the-utility-company-lobbying-blitz-that-will-hike-electric-bills"
         }
       ]
     },
@@ -28,18 +28,16 @@
       "region": "Adversarial, progressive",
       "items": [
         {
-          "outlet": "The Intercept",
+          "outlet": "Jacobin",
           "lean": "left",
-          "date": "Jul 21",
-          "title": "“Cover-Up” Unravels as Pentagon Admits Nearly 100 Injured in Iran Strikes",
-          "url": "https://theintercept.com/2026/07/21/iran-war-pentagon-casualties-injuries/"
+          "title": "Why the US Is Losing the Iran War",
+          "url": "https://jacobin.com/2026/05/us-empire-hegemony-war-trump"
         },
         {
-          "outlet": "The Intercept",
+          "outlet": "openDemocracy (UK)",
           "lean": "left",
-          "date": "Jul 24",
-          "title": "Trump's National Killer Police Force",
-          "url": "https://theintercept.com/2026/07/24/trump-ice-deaths-mass-deportation/"
+          "title": "US midterms: Why America is no longer an authentic democracy",
+          "url": "https://www.opendemocracy.net/en/5050/us-midterms-republicans-democrats-democracy/"
         }
       ]
     },
@@ -51,21 +49,22 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "Jul 27",
-          "title": "Here's how much cigarettes cost in each U.S. state",
-          "url": "https://reason.com/2026/07/27/the-best-and-worst-states-to-be-a-smoker/"
+          "date": "Jul 16",
+          "title": "Why foreign tourism to the U.S. is declining under Trump",
+          "url": "https://reason.com/2026/07/16/tourism-to-the-u-s-is-declining/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "title": "Here Comes Another Round of Sham Tariffs",
-          "url": "https://thedispatch.com/newsletter/dispatch-markets/trump-tariffs-section-301-forced-labor-pretext/"
+          "title": "Why America Is the World's Corporate Headquarters",
+          "url": "https://thedispatch.com/article/big-companies-united-states-explained/"
         },
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
-          "title": "How Germans made America",
-          "url": "https://unherd.com/2026/07/how-germans-made-america/"
+          "date": "Jul",
+          "title": "The American disaster",
+          "url": "https://unherd.com/2026/07/the-american-disaster/"
         }
       ]
     },
@@ -78,22 +77,21 @@
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
           "date": "Jul 28",
-          "title": "Zelensky has arrived in the US, with talks with Trump planned",
-          "url": "https://meduza.io/news/2026/07/28/zelenskiy-priehal-v-ssha-u-nego-zaplanirovany-peregovory-s-trampom",
-          "orig": "Зеленский приехал в США. У него запланированы переговоры с Трампом"
+          "title": "France compared the US to North Korea on human rights. American diplomats boycotted the French delegation's remarks at the UN",
+          "url": "https://meduza.io/news/2026/07/28/frantsiya-sravnila-ssha-s-kndr-po-situatsii-s-pravami-cheloveka-amerikanskie-diplomaty-boykotirovali-vystuplenie-frantsuzskih-kolleg-v-oon",
+          "orig": "Франция сравнила США с КНДР по ситуации с правами человека. Американские дипломаты бойкотировали выступление французских коллег в ООН"
         },
         {
           "outlet": "IranWire (Iran, in exile)",
           "lean": "exile",
-          "title": "Rubio: US is Ready for Talks With Iran Despite Ongoing Strikes",
-          "url": "https://iranwire.com/en/news/155214-rubio-us-is-ready-for-talks-with-iran-despite-ongoing-strikes/"
+          "title": "US Urges Citizens to Leave Iran Immediately",
+          "url": "https://iranwire.com/en/news/155242-us-urges-citizens-to-leave-iran-immediately/"
         },
         {
-          "outlet": "Hong Kong Free Press",
+          "outlet": "The Kyiv Independent (Ukraine)",
           "lean": "exile",
-          "date": "Jul 17",
-          "title": "China's Xi Jinping says AI should not be dominated by one country",
-          "url": "https://hongkongfp.com/2026/07/17/chinas-xi-jinping-says-ai-should-not-be-dominated-by-one-country/"
+          "title": "US to begin talks on troop reductions in Europe later this year, America's NATO envoy says",
+          "url": "https://kyivindependent.com/us-to-begin-talks-on-troop-reductions-in-europe-later-this-year-nato-envoy-says/"
         }
       ]
     },
@@ -103,22 +101,22 @@
       "region": "Reader-funded, outside the US",
       "items": [
         {
-          "outlet": "The Conversation",
-          "lean": "analysis",
-          "title": "America at 250: still a 'democratic experiment'",
-          "url": "https://theconversation.com/america-at-250-still-a-democratic-experiment-286695"
-        },
-        {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "How Scott Bessent's 'economic statecraft' aims to justify US coercion",
-          "url": "https://www.middleeasteye.net/opinion/how-scott-bessents-economic-statecraft-aims-justify-us-coercion"
+          "title": "US sending 100 troops and a missile defence system to Israel",
+          "url": "https://www.middleeasteye.net/news/us-sending-100-troops-and-missile-defence-system-israel"
+        },
+        {
+          "outlet": "The Wire (India)",
+          "lean": "indie",
+          "title": "Trump Abandons Global Leadership",
+          "url": "https://m.thewire.in/article/world/trump-abandons-global-leadership"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "2026 isn't the first time Christians have tried to claim the United States as their own",
-          "url": "https://theconversation.com/2026-isnt-the-first-time-christians-have-tried-to-claim-the-united-states-as-their-own-283246"
+          "title": "How the US has celebrated its independence over the years",
+          "url": "https://theconversation.com/how-the-us-has-celebrated-its-independence-over-the-years-285172"
         }
       ]
     }

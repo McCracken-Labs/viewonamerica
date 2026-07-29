@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-07-28",
-  "date_human": "Tuesday, July 28, 2026",
-  "summary": "10 countries, from Iran strike diplomacy and a new wave of tariffs to a US walkout at the UN, plus courts, immigration, infrastructure and the mood toward America abroad.",
+  "date_iso": "2026-07-29",
+  "date_human": "Wednesday, July 29, 2026",
+  "summary": "11 countries, from the paused US war with Iran and a fresh wave of tariffs to student visa limits, climate rankings, the World Cup and the mood toward America in its 250th year.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -11,10 +11,10 @@
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "Jul 27",
-          "title": "US walks out of UN Security Council meeting as France condemns rights vote",
-          "url": "https://www.france24.com/en/france/20260727-us-walks-out-of-un-security-council-meeting-as-france-condemns-rights-vote",
-          "note": "Paris likened Washington's stance on the UN human rights chief to that of authoritarian states, and the US delegation left the room."
+          "date": "Jul 4",
+          "title": "250 years of US independence: How France helped turn the tide of the Revolutionary War",
+          "url": "https://www.france24.com/en/americas/20260704-250-years-of-us-independence-how-france-helped-turn-the-tide-of-the-revolutionary-war",
+          "note": "Paris looks back at its role in the American Revolution as the US marks 250 years."
         }
       ]
     },
@@ -26,16 +26,16 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "Jul 21",
-          "title": "Tumbling U.S. status in the world should be no surprise",
-          "url": "https://www.japantimes.co.jp/commentary/2026/07/21/world/tumbling-us-world-status/"
+          "date": "Jul 26",
+          "title": "U.S. holds fire against Iran as reports emerge of stockpile concerns",
+          "url": "https://www.japantimes.co.jp/news/2026/07/26/world/us-halts-iran-strikes-houthis/"
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
           "date": "Jul 16",
-          "title": "As shared values shift, what's next for U.S.-Japan relations?",
-          "url": "https://www.japantimes.co.jp/commentary/2026/07/16/japan/us-japan-relations-next/"
+          "title": "China outpolls U.S., and Xi beats Trump, in Pew survey",
+          "url": "https://www.japantimes.co.jp/news/2026/07/16/asia-pacific/politics/china-japan-pew/"
         }
       ]
     },
@@ -48,15 +48,15 @@
           "outlet": "Al Jazeera",
           "lean": "funded",
           "date": "Jul 28",
-          "title": "Trump says Iran talks taking place during pause in US military strikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes"
+          "title": "New poll shows confusion over Democratic Socialists of America ideals",
+          "url": "https://www.aljazeera.com/news/2026/7/28/new-poll-shows-confusion-over-democratic-socialists-of-america-ideals"
         },
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "Jul 24",
-          "title": "Trump's latest 'forced labour tariffs': Who's been hit, how badly?",
-          "url": "https://www.aljazeera.com/economy/2026/7/24/trumps-latest-forced-labour-tariffs-whos-been-hit-how-badly"
+          "date": "Jul 6",
+          "title": "USA 1-4 Belgium: FIFA World Cup 2026 round of 16 – as it happened",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/7/6/usa-belgium-live-fifa-world-cup-2026-round-of-16"
         }
       ]
     },
@@ -68,16 +68,16 @@
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "France's UN mission: the US has stopped being a 'beacon of human rights'",
-          "url": "https://russian.rt.com/world/news/1662131-franciya-oon-ssha",
-          "orig": "Постпредство Франции при ООН: США перестали быть «маяком прав человека»"
+          "title": "Politico: US may not pass a sanctions bill against Russia before September",
+          "url": "https://russian.rt.com/world/news/1663182-sankcii-ssha-rossiya",
+          "orig": "Politico: США могут не принять до сентября законопроект о санкциях против России"
         },
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "WSJ: US delayed a large-scale operation against Iran over a shortage of Patriot missiles",
-          "url": "https://russian.rt.com/world/news/1662174-ssha-operaciya-iran-wsj",
-          "orig": "WSJ: США отложили масштабную операцию против Ирана из-за нехватки ракет Patriot"
+          "title": "US oil production fell by 2,000 barrels per day over the week",
+          "url": "https://russian.rt.com/business/news/1663143-neftedobycha-ssha-snizilas",
+          "orig": "Нефтедобыча в США снизилась на 2 тысячи баррелей в сутки за неделю"
         }
       ]
     },
@@ -91,46 +91,82 @@
           "lean": "neutral",
           "title": "US slaps fresh tariffs on China, over 50 other economies in latest wave",
           "url": "https://www.scmp.com/news/us/diplomacy/article/3361650/us-slaps-fresh-tariffs-china-50-plus-countries-latest-wave"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "neutral",
+          "title": "America declares international law for thee but not for me",
+          "url": "https://www.scmp.com/opinion/world-opinion/article/3361944/america-declares-international-law-thee-not-me"
         }
       ]
     },
     {
-      "flag": "🇪🇺",
-      "name": "Europe",
-      "region": "European Union",
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "region": "East Asia",
       "items": [
         {
-          "outlet": "Euronews",
+          "outlet": "The Korea Herald",
           "lean": "neutral",
-          "date": "Jul 27",
-          "title": "One year on, is the Turnberry deal already at risk?",
-          "url": "https://www.euronews.com/my-europe/2026/07/27/one-year-on-is-the-turnberry-deal-already-at-risk",
-          "note": "A look at the EU-US trade deal on its first anniversary, with fresh tariff threats testing it."
+          "title": "'Four years isn't enough': Korean students shaken by new US stay limits",
+          "url": "https://www.koreaherald.com/article/10812010"
         },
         {
-          "outlet": "Euronews",
+          "outlet": "The Korea Herald",
           "lean": "neutral",
-          "title": "These are the most popular National Parks in the United States",
-          "url": "https://www.euronews.com/travel/2026/03/18/these-are-the-most-popular-national-parks-in-the-united-states"
+          "title": "S. Korea, US begin 4-week war remains search in regions near East Sea",
+          "url": "https://www.koreaherald.com/article/10710551"
         }
       ]
     },
     {
-      "flag": "🇹🇷",
-      "name": "Türkiye",
-      "region": "Middle East",
+      "flag": "🇺🇦",
+      "name": "Ukraine",
+      "region": "Eastern Europe",
       "items": [
         {
-          "outlet": "Daily Sabah",
-          "lean": "progov",
-          "title": "New Canada-US bridge opens, strengthening key trade corridor",
-          "url": "https://www.dailysabah.com/world/americas/new-canada-us-bridge-opens-strengthening-key-trade-corridor"
+          "outlet": "Kyiv Post",
+          "lean": "neutral",
+          "title": "Pentagon Admits US Drone Production Remains Far Behind Ukraine",
+          "url": "https://www.kyivpost.com/post/81195"
         },
         {
-          "outlet": "Daily Sabah",
-          "lean": "progov",
-          "title": "Trump begins selling 2028 merch on US president's store",
-          "url": "https://www.dailysabah.com/world/americas/trump-begins-selling-2028-merch-on-us-presidents-store"
+          "outlet": "Kyiv Post",
+          "lean": "neutral",
+          "title": "Under Trump US Global Image Falls Below Russia for First Time, Survey Finds",
+          "url": "https://www.kyivpost.com/post/75709"
+        }
+      ]
+    },
+    {
+      "flag": "🇦🇷",
+      "name": "Argentina",
+      "region": "Latin America",
+      "items": [
+        {
+          "outlet": "Buenos Aires Times",
+          "lean": "neutral",
+          "title": "United States at 250: More prosperous, more diverse, yet more divided",
+          "url": "https://batimes.com.ar/news/world/united-states-at-250-more-prosperous-more-diverse-yet-more-divided.phtml"
+        },
+        {
+          "outlet": "Buenos Aires Times",
+          "lean": "neutral",
+          "title": "Outrage as FIFA's Infantino bends rules to Trump's whim at World Cup",
+          "url": "https://www.batimes.com.ar/news/sports/outrage-as-fifas-infantino-bends-rules-to-trumps-whim-at-world-cup.phtml"
+        }
+      ]
+    },
+    {
+      "flag": "🇰🇪",
+      "name": "Kenya",
+      "region": "East Africa",
+      "items": [
+        {
+          "outlet": "Daily Nation",
+          "lean": "neutral",
+          "title": "US deports former American football star Daniel Adongo",
+          "url": "https://nation.africa/kenya/news/us-deports-former-american-football-star-daniel-adongo-5537754"
         }
       ]
     },
@@ -142,55 +178,37 @@
         {
           "outlet": "El Universal",
           "lean": "neutral",
-          "title": "US visa: United States will require deposits of 15,000 dollars",
-          "url": "https://www.eluniversal.com.mx/destinos/visa-americana-estados-unidos-pedira-depositos-de-15000-dolares/",
-          "orig": "Visa americana: Estados Unidos pedirá depósitos de 15,000 dólares"
+          "title": "United States falls in the Climate Change Performance Index",
+          "url": "https://www.eluniversal.com.mx/mundo/estados-unidos-cae-en-el-indice-de-desempeno-climatico/",
+          "orig": "Estados Unidos cae en el Índice de Desempeño Climático"
         },
         {
           "outlet": "El Universal",
           "lean": "neutral",
-          "title": "The 'Michoacán Plan' and the United States' decision",
-          "url": "https://www.eluniversal.com.mx/opinion/salvador-garcia-soto/el-plan-michoacan-y-la-decision-de-estados-unidos/",
-          "orig": "El \"Plan Michoacán\" y la decisión de Estados Unidos"
+          "title": "United States avoids submitting to the UN human rights review",
+          "url": "https://www.eluniversal.com.mx/mundo/estados-unidos-evita-someterse-al-examen-de-derechos-humanos-de-la-onu/",
+          "orig": "Estados Unidos evita someterse al examen de derechos humanos de la ONU"
         }
       ]
     },
     {
-      "flag": "🇿🇦",
-      "name": "South Africa",
-      "region": "Southern Africa",
+      "flag": "🇪🇺",
+      "name": "Europe",
+      "region": "European Union",
       "items": [
         {
-          "outlet": "News24",
+          "outlet": "Euronews",
+          "lean": "neutral",
+          "date": "Jul 29",
+          "title": "US intercepts Iranian attack and launches joint strikes with Saudi Arabia against Iran-backed militias in Iraq",
+          "url": "https://www.euronews.com/2026/07/29/us-intercepts-iranian-attack-and-launches-joint-strikes-with-saudi-arabia-against-iran-bac"
+        },
+        {
+          "outlet": "Euronews",
           "lean": "neutral",
           "date": "Jul 24",
-          "title": "6 UN secretary general candidates face tough questions ahead of vote",
-          "url": "https://www.news24.com/world/6-un-secretary-general-candidates-face-tough-questions-ahead-of-vote-20260724-0327"
-        },
-        {
-          "outlet": "News24",
-          "lean": "neutral",
-          "title": "Trump to attend Supreme Court hearing on US birthright citizenship, amid repeal push",
-          "url": "https://www.news24.com/world/trump-to-attend-supreme-court-hearing-on-us-birthright-citizenship-amid-repeal-push-20260401-0384"
-        }
-      ]
-    },
-    {
-      "flag": "🇳🇬",
-      "name": "Nigeria",
-      "region": "West Africa",
-      "items": [
-        {
-          "outlet": "The Punch",
-          "lean": "neutral",
-          "title": "US House votes to withhold 100% of aid to Nigeria over Christian persecution",
-          "url": "https://punchng.com/us-house-votes-to-withhold-100-of-aid-to-nigeria-over-christian-persecution/"
-        },
-        {
-          "outlet": "The Punch",
-          "lean": "neutral",
-          "title": "Trump declares English as official language of US",
-          "url": "https://punchng.com/trump-declares-english-as-official-language-of-us/"
+          "title": "US launches trade probe into EU over big tech fines",
+          "url": "https://www.euronews.com/my-europe/2026/07/24/eu-seeks-dialogue-with-us-as-tensions-rise-after-google-fine"
         }
       ]
     }
