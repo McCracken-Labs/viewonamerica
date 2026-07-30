@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-07-29",
-  "date_human": "Wednesday, July 29, 2026",
+  "date_iso": "2026-07-30",
+  "date_human": "Thursday, July 30, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,14 +11,14 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "We Found That More Than 170 U.S. Citizens Have Been Held by Immigration Agents. They've Been Kicked, Dragged and Detained for Days.",
-          "url": "https://www.propublica.org/article/immigration-dhs-american-citizens-arrested-detained-against-will"
+          "title": "Trump’s Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
+          "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Inside the Utility Company Lobbying Blitz That Will Hike Electric Bills",
-          "url": "https://www.propublica.org/article/inside-the-utility-company-lobbying-blitz-that-will-hike-electric-bills"
+          "title": "Inspector General Probes Whether Trump, DOGE Sought Private Taxpayer Information or Sensitive IRS Material",
+          "url": "https://www.propublica.org/article/trump-doge-irs-treasury-tigta-inspector-general-probe"
         }
       ]
     },
@@ -28,16 +28,18 @@
       "region": "Adversarial, progressive",
       "items": [
         {
-          "outlet": "Jacobin",
+          "outlet": "The Intercept",
           "lean": "left",
-          "title": "Why the US Is Losing the Iran War",
-          "url": "https://jacobin.com/2026/05/us-empire-hegemony-war-trump"
+          "date": "Jul 1",
+          "title": "Trump Has Already Launched More Death Penalty Prosecutions Than in His Entire First Term",
+          "url": "https://theintercept.com/2026/07/01/trump-federal-death-penalty-prosecutions-blanche-bondi/"
         },
         {
-          "outlet": "openDemocracy (UK)",
+          "outlet": "Jacobin",
           "lean": "left",
-          "title": "US midterms: Why America is no longer an authentic democracy",
-          "url": "https://www.opendemocracy.net/en/5050/us-midterms-republicans-democrats-democracy/"
+          "date": "Jun",
+          "title": "How to Democratize the United States",
+          "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
         }
       ]
     },
@@ -49,22 +51,23 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "Jul 16",
-          "title": "Why foreign tourism to the U.S. is declining under Trump",
-          "url": "https://reason.com/2026/07/16/tourism-to-the-u-s-is-declining/"
+          "date": "Jul 24",
+          "title": "Tariff man",
+          "url": "https://reason.com/2026/07/24/tariff-man/",
+          "note": "A libertarian read on the latest tariff round."
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "title": "Why America Is the World's Corporate Headquarters",
-          "url": "https://thedispatch.com/article/big-companies-united-states-explained/"
+          "title": "Why Americans Are So Down on America",
+          "url": "https://thedispatch.com/newsletter/boilingfrogs/trump-american-pride-decline-socialism/"
         },
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
           "date": "Jul",
           "title": "The American disaster",
-          "url": "https://unherd.com/2026/07/the-american-disaster/"
+          "url": "https://unherd.com/2026/07/the-american-disaster/?edition=us"
         }
       ]
     },
@@ -76,21 +79,28 @@
         {
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "date": "Jul 28",
-          "title": "France compared the US to North Korea on human rights. American diplomats boycotted the French delegation's remarks at the UN",
-          "url": "https://meduza.io/news/2026/07/28/frantsiya-sravnila-ssha-s-kndr-po-situatsii-s-pravami-cheloveka-amerikanskie-diplomaty-boykotirovali-vystuplenie-frantsuzskih-kolleg-v-oon",
-          "orig": "Франция сравнила США с КНДР по ситуации с правами человека. Американские дипломаты бойкотировали выступление французских коллег в ООН"
+          "date": "Jul 24",
+          "title": "US imposes new tariffs on 60 countries, including Russia",
+          "url": "https://meduza.io/news/2026/07/24/ssha-vveli-novye-poshliny-v-otnoshenii-60-stran-vklyuchaya-rossiyu",
+          "orig": "США ввели новые пошлины в отношении 60 стран, включая Россию"
         },
         {
           "outlet": "IranWire (Iran, in exile)",
           "lean": "exile",
-          "title": "US Urges Citizens to Leave Iran Immediately",
-          "url": "https://iranwire.com/en/news/155242-us-urges-citizens-to-leave-iran-immediately/"
+          "title": "Rubio: US is Ready for Talks With Iran Despite Ongoing Strikes",
+          "url": "https://iranwire.com/en/news/155214-rubio-us-is-ready-for-talks-with-iran-despite-ongoing-strikes/"
+        },
+        {
+          "outlet": "Hong Kong Free Press",
+          "lean": "exile",
+          "date": "Jul 30",
+          "title": "China accuses US of suppression over humanoid robot ban",
+          "url": "https://hongkongfp.com/2026/07/30/china-accuses-us-of-suppression-over-humanoid-robot-ban/"
         },
         {
           "outlet": "The Kyiv Independent (Ukraine)",
           "lean": "exile",
-          "title": "US to begin talks on troop reductions in Europe later this year, America's NATO envoy says",
+          "title": "US to begin talks on troop reductions in Europe later this year, America’s NATO envoy says",
           "url": "https://kyivindependent.com/us-to-begin-talks-on-troop-reductions-in-europe-later-this-year-nato-envoy-says/"
         }
       ]
@@ -103,8 +113,8 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "US sending 100 troops and a missile defence system to Israel",
-          "url": "https://www.middleeasteye.net/news/us-sending-100-troops-and-missile-defence-system-israel"
+          "title": "How Scott Bessent’s ‘economic statecraft’ aims to justify US coercion",
+          "url": "https://www.middleeasteye.net/opinion/how-scott-bessents-economic-statecraft-aims-justify-us-coercion"
         },
         {
           "outlet": "The Wire (India)",
@@ -115,8 +125,14 @@
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "How the US has celebrated its independence over the years",
-          "url": "https://theconversation.com/how-the-us-has-celebrated-its-independence-over-the-years-285172"
+          "title": "America at 250: still a ‘democratic experiment’",
+          "url": "https://theconversation.com/america-at-250-still-a-democratic-experiment-286695"
+        },
+        {
+          "outlet": "The Conversation",
+          "lean": "analysis",
+          "title": "‘Disasterclass’ as timid Socceroos fail to show enough ambition against United States",
+          "url": "https://theconversation.com/disasterclass-as-timid-socceroos-fail-to-show-enough-ambition-against-united-states-285361"
         }
       ]
     }

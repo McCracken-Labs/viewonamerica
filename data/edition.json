@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-07-29",
-  "date_human": "Wednesday, July 29, 2026",
-  "summary": "11 countries, from the paused US war with Iran and a fresh wave of tariffs to student visa limits, climate rankings, the World Cup and the mood toward America in its 250th year.",
+  "date_iso": "2026-07-30",
+  "date_human": "Thursday, July 30, 2026",
+  "summary": "11 countries. A fresh wave of US strikes on Iran leads the day, but the coverage runs wide: tariffs and a steady Federal Reserve on the economy, a US trade probe into the EU, China's new AI models, visa and aid cuts felt across Africa, the midterm elections, sanctions politics with Russia, a $22 billion airport rebuild, the World Cup and the national parks.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -12,9 +12,16 @@
           "outlet": "France 24",
           "lean": "funded",
           "date": "Jul 4",
-          "title": "250 years of US independence: How France helped turn the tide of the Revolutionary War",
-          "url": "https://www.france24.com/en/americas/20260704-250-years-of-us-independence-how-france-helped-turn-the-tide-of-the-revolutionary-war",
-          "note": "Paris looks back at its role in the American Revolution as the US marks 250 years."
+          "title": "US celebrates 250 years of independence amid polarising political landscape",
+          "url": "https://www.france24.com/en/us-celebrates-250-years-of-independence-amid-polarising-political-landscape",
+          "note": "Paris marks the anniversary with a wary read on the American mood."
+        },
+        {
+          "outlet": "France 24",
+          "lean": "funded",
+          "date": "Jun 26",
+          "title": "Turkey - USA: Ayhan’s late winner sees Turkey edge past USMNT",
+          "url": "https://www.france24.com/en/sport/20260626-turkey-usa-live-hosts-chase-top-spot-as-group-d-reaches-finale"
         }
       ]
     },
@@ -26,16 +33,16 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "Jul 26",
-          "title": "U.S. holds fire against Iran as reports emerge of stockpile concerns",
-          "url": "https://www.japantimes.co.jp/news/2026/07/26/world/us-halts-iran-strikes-houthis/"
+          "date": "Jul 16",
+          "title": "As shared values shift, what’s next for U.S.-Japan relations?",
+          "url": "https://www.japantimes.co.jp/commentary/2026/07/16/japan/us-japan-relations-next/"
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "Jul 16",
-          "title": "China outpolls U.S., and Xi beats Trump, in Pew survey",
-          "url": "https://www.japantimes.co.jp/news/2026/07/16/asia-pacific/politics/china-japan-pew/"
+          "date": "Jun 19",
+          "title": "UFC spectacle at White House sparks questions about power and freedom",
+          "url": "https://www.japantimes.co.jp/commentary/2026/06/19/world/white-house-fight-night/"
         }
       ]
     },
@@ -47,16 +54,17 @@
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "Jul 28",
-          "title": "New poll shows confusion over Democratic Socialists of America ideals",
-          "url": "https://www.aljazeera.com/news/2026/7/28/new-poll-shows-confusion-over-democratic-socialists-of-america-ideals"
+          "date": "Jul 30",
+          "title": "US launches ‘heavy wave’ of new attacks on Iran",
+          "url": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran",
+          "note": "The day’s biggest US story, told from the Gulf."
         },
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "Jul 6",
-          "title": "USA 1-4 Belgium: FIFA World Cup 2026 round of 16 – as it happened",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/7/6/usa-belgium-live-fifa-world-cup-2026-round-of-16"
+          "date": "Jul 28",
+          "title": "New poll shows confusion over Democratic Socialists of America ideals",
+          "url": "https://www.aljazeera.com/news/2026/7/28/new-poll-shows-confusion-over-democratic-socialists-of-america-ideals"
         }
       ]
     },
@@ -68,126 +76,96 @@
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "Politico: US may not pass a sanctions bill against Russia before September",
+          "title": "Politico: US may not pass Russia sanctions bill before September",
           "url": "https://russian.rt.com/world/news/1663182-sankcii-ssha-rossiya",
           "orig": "Politico: США могут не принять до сентября законопроект о санкциях против России"
         },
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "US oil production fell by 2,000 barrels per day over the week",
-          "url": "https://russian.rt.com/business/news/1663143-neftedobycha-ssha-snizilas",
-          "orig": "Нефтедобыча в США снизилась на 2 тысячи баррелей в сутки за неделю"
+          "title": "Trump unveils $22 billion plan to rebuild Washington’s Dulles Airport",
+          "url": "https://russian.rt.com/world/news/1663290-tramp-aeroport-dallas",
+          "orig": "Трамп представил план реконструкции аэропорта Даллеса за $22 млрд"
         }
       ]
     },
     {
       "flag": "🇨🇳",
       "name": "China",
-      "region": "East Asia",
+      "region": "Greater China",
       "items": [
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
+          "date": "Jul 24",
           "title": "US slaps fresh tariffs on China, over 50 other economies in latest wave",
           "url": "https://www.scmp.com/news/us/diplomacy/article/3361650/us-slaps-fresh-tariffs-china-50-plus-countries-latest-wave"
         },
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "America declares international law for thee but not for me",
-          "url": "https://www.scmp.com/opinion/world-opinion/article/3361944/america-declares-international-law-thee-not-me"
+          "title": "Another ‘DeepSeek moment’? What China’s Kimi K3 means for the global AI industry",
+          "url": "https://www.scmp.com/tech/big-tech/article/3361387/another-deepseek-moment-what-chinas-kimi-k3-means-global-ai-industry"
         }
       ]
     },
     {
-      "flag": "🇰🇷",
-      "name": "South Korea",
-      "region": "East Asia",
+      "flag": "🇹🇷",
+      "name": "Türkiye",
+      "region": "Middle East",
       "items": [
         {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "'Four years isn't enough': Korean students shaken by new US stay limits",
-          "url": "https://www.koreaherald.com/article/10812010"
+          "outlet": "Daily Sabah",
+          "lean": "progov",
+          "title": "US, France trade barbs over UN human rights leadership vote",
+          "url": "https://www.dailysabah.com/world/americas/us-france-trade-barbs-over-un-human-rights-leadership-vote"
         },
         {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "S. Korea, US begin 4-week war remains search in regions near East Sea",
-          "url": "https://www.koreaherald.com/article/10710551"
+          "outlet": "Daily Sabah",
+          "lean": "progov",
+          "title": "US health aid overhaul raises new fears for HIV, malaria lifelines",
+          "url": "https://www.dailysabah.com/world/africa/us-health-aid-overhaul-raises-new-fears-for-hiv-malaria-lifelines"
         }
       ]
     },
     {
-      "flag": "🇺🇦",
-      "name": "Ukraine",
-      "region": "Eastern Europe",
+      "flag": "🇳🇬",
+      "name": "Nigeria",
+      "region": "West Africa",
       "items": [
         {
-          "outlet": "Kyiv Post",
+          "outlet": "The Punch",
           "lean": "neutral",
-          "title": "Pentagon Admits US Drone Production Remains Far Behind Ukraine",
-          "url": "https://www.kyivpost.com/post/81195"
+          "title": "US to stop routine visa processing at Abuja embassy, 24 other African missions",
+          "url": "https://punchng.com/us-to-stop-routine-visa-processing-at-abuja-embassy-24-other-african-missions/",
+          "note": "A change felt directly by Nigerian travellers and students."
         },
         {
-          "outlet": "Kyiv Post",
+          "outlet": "The Punch",
           "lean": "neutral",
-          "title": "Under Trump US Global Image Falls Below Russia for First Time, Survey Finds",
-          "url": "https://www.kyivpost.com/post/75709"
+          "title": "FULL LIST: Trump’s tariffs on Nigeria, 59 other countries over forced labour claims",
+          "url": "https://punchng.com/full-list-trumps-tariffs-on-nigeria-59-other-countries-over-forced-labour-claims/"
         }
       ]
     },
     {
-      "flag": "🇦🇷",
-      "name": "Argentina",
-      "region": "Latin America",
+      "flag": "🇿🇦",
+      "name": "South Africa",
+      "region": "Southern Africa",
       "items": [
         {
-          "outlet": "Buenos Aires Times",
+          "outlet": "News24",
           "lean": "neutral",
-          "title": "United States at 250: More prosperous, more diverse, yet more divided",
-          "url": "https://batimes.com.ar/news/world/united-states-at-250-more-prosperous-more-diverse-yet-more-divided.phtml"
+          "date": "Jul 30",
+          "title": "US launches ‘powerful’ retaliation strikes on Iran",
+          "url": "https://www.news24.com/world/us-launches-powerful-retaliation-strikes-on-iran-20260730-0305"
         },
         {
-          "outlet": "Buenos Aires Times",
+          "outlet": "News24",
           "lean": "neutral",
-          "title": "Outrage as FIFA's Infantino bends rules to Trump's whim at World Cup",
-          "url": "https://www.batimes.com.ar/news/sports/outrage-as-fifas-infantino-bends-rules-to-trumps-whim-at-world-cup.phtml"
-        }
-      ]
-    },
-    {
-      "flag": "🇰🇪",
-      "name": "Kenya",
-      "region": "East Africa",
-      "items": [
-        {
-          "outlet": "Daily Nation",
-          "lean": "neutral",
-          "title": "US deports former American football star Daniel Adongo",
-          "url": "https://nation.africa/kenya/news/us-deports-former-american-football-star-daniel-adongo-5537754"
-        }
-      ]
-    },
-    {
-      "flag": "🇲🇽",
-      "name": "Mexico",
-      "region": "Latin America",
-      "items": [
-        {
-          "outlet": "El Universal",
-          "lean": "neutral",
-          "title": "United States falls in the Climate Change Performance Index",
-          "url": "https://www.eluniversal.com.mx/mundo/estados-unidos-cae-en-el-indice-de-desempeno-climatico/",
-          "orig": "Estados Unidos cae en el Índice de Desempeño Climático"
-        },
-        {
-          "outlet": "El Universal",
-          "lean": "neutral",
-          "title": "United States avoids submitting to the UN human rights review",
-          "url": "https://www.eluniversal.com.mx/mundo/estados-unidos-evita-someterse-al-examen-de-derechos-humanos-de-la-onu/",
-          "orig": "Estados Unidos evita someterse al examen de derechos humanos de la ONU"
+          "date": "Mar 13",
+          "title": "Springbok legend Naas Botha relocates to the US: ‘SA will forever hold a special place’",
+          "url": "https://www.news24.com/sport/rugby/springboks/springbok-legend-naas-botha-relocates-to-the-us-sa-will-forever-hold-a-special-place-20260313-0868"
         }
       ]
     },
@@ -199,16 +177,56 @@
         {
           "outlet": "Euronews",
           "lean": "neutral",
-          "date": "Jul 29",
-          "title": "US intercepts Iranian attack and launches joint strikes with Saudi Arabia against Iran-backed militias in Iraq",
-          "url": "https://www.euronews.com/2026/07/29/us-intercepts-iranian-attack-and-launches-joint-strikes-with-saudi-arabia-against-iran-bac"
+          "date": "Jul 24",
+          "title": "US launches trade probe into EU over big tech fines",
+          "url": "https://www.euronews.com/my-europe/2026/07/24/eu-seeks-dialogue-with-us-as-tensions-rise-after-google-fine"
         },
         {
           "outlet": "Euronews",
           "lean": "neutral",
-          "date": "Jul 24",
-          "title": "US launches trade probe into EU over big tech fines",
-          "url": "https://www.euronews.com/my-europe/2026/07/24/eu-seeks-dialogue-with-us-as-tensions-rise-after-google-fine"
+          "date": "Mar 18",
+          "title": "These are the most popular National Parks in the United States",
+          "url": "https://www.euronews.com/travel/2026/03/18/these-are-the-most-popular-national-parks-in-the-united-states"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇦",
+      "name": "Ukraine",
+      "region": "Eastern Europe",
+      "items": [
+        {
+          "outlet": "Kyiv Post",
+          "lean": "neutral",
+          "title": "Zelensky to Meet Trump at White House With Patriots and Peace Talks on Agenda",
+          "url": "https://www.kyivpost.com/post/81197"
+        },
+        {
+          "outlet": "Kyiv Post",
+          "lean": "neutral",
+          "title": "Washington Drops Neutral Role, Backs Kyiv on Sanctions",
+          "url": "https://www.kyivpost.com/post/78992"
+        }
+      ]
+    },
+    {
+      "flag": "🇲🇽",
+      "name": "Mexico",
+      "region": "Latin America",
+      "items": [
+        {
+          "outlet": "El Universal",
+          "lean": "neutral",
+          "title": "Fed holds interest rates steady, keeping them between 3.5% and 3.75%",
+          "url": "https://www.eluniversal.com.mx/cartera/fed-mantiene-sin-cambios-los-tipos-de-interes-quedan-entre-35-y-el-375/",
+          "orig": "Fed mantiene sin cambios los tipos de interés; quedan entre 3.5% y el 3.75%"
+        },
+        {
+          "outlet": "El Universal",
+          "lean": "neutral",
+          "title": "Global View: America’s 2026 elections, undermined from within",
+          "url": "https://www.eluniversal.com.mx/mundo/mirada-global-elecciones-2026-en-eu-socavadas-desde-adentro/",
+          "orig": "Mirada Global. Elecciones 2026 en EU, socavadas desde adentro"
         }
       ]
     }
