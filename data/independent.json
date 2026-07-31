@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-07-30",
-  "date_human": "Thursday, July 30, 2026",
+  "date_iso": "2026-07-31",
+  "date_human": "Friday, July 31, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,14 +11,14 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Trump’s Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
+          "title": "Trump's Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
           "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Inspector General Probes Whether Trump, DOGE Sought Private Taxpayer Information or Sensitive IRS Material",
-          "url": "https://www.propublica.org/article/trump-doge-irs-treasury-tigta-inspector-general-probe"
+          "title": "Immigration Agents Have Often Grabbed and Mistreated Citizens, Congressional Investigators Find",
+          "url": "https://www.propublica.org/article/immigration-agents-detained-mistreated-citizens-congressional-investigation"
         }
       ]
     },
@@ -30,14 +30,14 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "Jul 1",
-          "title": "Trump Has Already Launched More Death Penalty Prosecutions Than in His Entire First Term",
-          "url": "https://theintercept.com/2026/07/01/trump-federal-death-penalty-prosecutions-blanche-bondi/"
+          "date": "2026-07-29",
+          "title": "Donald Trump and Wars of Choice",
+          "url": "https://theintercept.com/2026/07/29/trump-wars-of-choice-iran/"
         },
         {
           "outlet": "Jacobin",
           "lean": "left",
-          "date": "Jun",
+          "date": "2026-06",
           "title": "How to Democratize the United States",
           "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
         }
@@ -51,23 +51,23 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "Jul 24",
-          "title": "Tariff man",
-          "url": "https://reason.com/2026/07/24/tariff-man/",
-          "note": "A libertarian read on the latest tariff round."
+          "date": "2026-07-16",
+          "title": "Why foreign tourism to the U.S. is declining under Trump",
+          "url": "https://reason.com/2026/07/16/tourism-to-the-u-s-is-declining/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "title": "Why Americans Are So Down on America",
-          "url": "https://thedispatch.com/newsletter/boilingfrogs/trump-american-pride-decline-socialism/"
+          "title": "Why America Is the World's Corporate Headquarters",
+          "url": "https://thedispatch.com/article/big-companies-united-states-explained/",
+          "note": "A center-right read on where big firms still base themselves."
         },
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
-          "date": "Jul",
+          "date": "2026-07",
           "title": "The American disaster",
-          "url": "https://unherd.com/2026/07/the-american-disaster/?edition=us"
+          "url": "https://unherd.com/2026/07/the-american-disaster/"
         }
       ]
     },
@@ -79,10 +79,10 @@
         {
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "date": "Jul 24",
-          "title": "US imposes new tariffs on 60 countries, including Russia",
-          "url": "https://meduza.io/news/2026/07/24/ssha-vveli-novye-poshliny-v-otnoshenii-60-stran-vklyuchaya-rossiyu",
-          "orig": "США ввели новые пошлины в отношении 60 стран, включая Россию"
+          "date": "2026-07-31",
+          "title": "Trump announces a deal for the complete disarmament of Hamas",
+          "url": "https://meduza.io/news/2026/07/31/tramp-ob-yavil-o-soglashenii-po-polnomu-razoruzheniyu-hamas",
+          "orig": "Трамп объявил о соглашении по полному разоружению ХАМАС"
         },
         {
           "outlet": "IranWire (Iran, in exile)",
@@ -93,14 +93,15 @@
         {
           "outlet": "Hong Kong Free Press",
           "lean": "exile",
-          "date": "Jul 30",
+          "date": "2026-07-30",
           "title": "China accuses US of suppression over humanoid robot ban",
-          "url": "https://hongkongfp.com/2026/07/30/china-accuses-us-of-suppression-over-humanoid-robot-ban/"
+          "url": "https://hongkongfp.com/2026/07/30/china-accuses-us-of-suppression-over-humanoid-robot-ban/",
+          "note": "A tech-trade fight beyond the day's war news."
         },
         {
           "outlet": "The Kyiv Independent (Ukraine)",
           "lean": "exile",
-          "title": "US to begin talks on troop reductions in Europe later this year, America’s NATO envoy says",
+          "title": "US to begin talks on troop reductions in Europe later this year, America's NATO envoy says",
           "url": "https://kyivindependent.com/us-to-begin-talks-on-troop-reductions-in-europe-later-this-year-nato-envoy-says/"
         }
       ]
@@ -113,8 +114,8 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "How Scott Bessent’s ‘economic statecraft’ aims to justify US coercion",
-          "url": "https://www.middleeasteye.net/opinion/how-scott-bessents-economic-statecraft-aims-justify-us-coercion"
+          "title": "US-Iran peace deal: Six things we learned from the Islamabad Memorandum of Understanding",
+          "url": "https://www.middleeasteye.net/explainers/us-iran-peace-deal-memorandum-six-things-learned"
         },
         {
           "outlet": "The Wire (India)",
@@ -125,14 +126,15 @@
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "America at 250: still a ‘democratic experiment’",
-          "url": "https://theconversation.com/america-at-250-still-a-democratic-experiment-286695"
+          "title": "America at 250: still a 'democratic experiment'",
+          "url": "https://theconversation.com/america-at-250-still-a-democratic-experiment-286695",
+          "note": "An academic look at the anniversary rather than the war."
         },
         {
-          "outlet": "The Conversation",
-          "lean": "analysis",
-          "title": "‘Disasterclass’ as timid Socceroos fail to show enough ambition against United States",
-          "url": "https://theconversation.com/disasterclass-as-timid-socceroos-fail-to-show-enough-ambition-against-united-states-285361"
+          "outlet": "Rappler (Philippines)",
+          "lean": "indie",
+          "title": "How US-Israeli war on Iran is upending global business",
+          "url": "https://www.rappler.com/business/worldwide-upended-united-states-israel-war-iran/"
         }
       ]
     }

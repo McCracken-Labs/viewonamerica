@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-07-30",
-  "date_human": "Thursday, July 30, 2026",
-  "summary": "11 countries. A fresh wave of US strikes on Iran leads the day, but the coverage runs wide: tariffs and a steady Federal Reserve on the economy, a US trade probe into the EU, China's new AI models, visa and aid cuts felt across Africa, the midterm elections, sanctions politics with Russia, a $22 billion airport rebuild, the World Cup and the national parks.",
+  "date_iso": "2026-07-31",
+  "date_human": "Friday, July 31, 2026",
+  "summary": "10 countries. The renewed US strikes on Iran are in the mix through Qatar and Türkiye, but the coverage runs wide today. Outlets are also leading on trade and the USMCA talks, a court case over destroyed evidence, US health aid cuts felt in Africa, deportations, a conductor taking over the San Francisco Symphony, padel's boom in Miami, security ties across Asia, and the mood toward America in its 250th year.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -11,17 +11,17 @@
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "Jul 4",
-          "title": "US celebrates 250 years of independence amid polarising political landscape",
-          "url": "https://www.france24.com/en/us-celebrates-250-years-of-independence-amid-polarising-political-landscape",
-          "note": "Paris marks the anniversary with a wary read on the American mood."
+          "date": "2026-07-29",
+          "title": "US man accused of destroying evidence by wiping phone at airport",
+          "url": "https://www.france24.com/en/live-news/20260729-us-man-accused-of-destroying-evidence-by-wiping-phone-at-airport",
+          "note": "A courts and legal story rather than the day's foreign-policy news."
         },
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "Jun 26",
-          "title": "Turkey - USA: Ayhan’s late winner sees Turkey edge past USMNT",
-          "url": "https://www.france24.com/en/sport/20260626-turkey-usa-live-hosts-chase-top-spot-as-group-d-reaches-finale"
+          "date": "2026-07-04",
+          "title": "250 years of US independence: How France helped turn the tide of the Revolutionary War",
+          "url": "https://www.france24.com/en/americas/20260704-250-years-of-us-independence-how-france-helped-turn-the-tide-of-the-revolutionary-war"
         }
       ]
     },
@@ -33,16 +33,17 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "Jul 16",
-          "title": "As shared values shift, what’s next for U.S.-Japan relations?",
+          "date": "2026-07-16",
+          "title": "As shared values shift, what's next for U.S.-Japan relations?",
           "url": "https://www.japantimes.co.jp/commentary/2026/07/16/japan/us-japan-relations-next/"
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "Jun 19",
-          "title": "UFC spectacle at White House sparks questions about power and freedom",
-          "url": "https://www.japantimes.co.jp/commentary/2026/06/19/world/white-house-fight-night/"
+          "date": "2026-07-21",
+          "title": "Tumbling U.S. status in the world should be no surprise",
+          "url": "https://www.japantimes.co.jp/commentary/2026/07/21/world/tumbling-us-world-status/",
+          "note": "Commentary on how allies read America's standing."
         }
       ]
     },
@@ -54,58 +55,52 @@
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "Jul 30",
-          "title": "US launches ‘heavy wave’ of new attacks on Iran",
+          "date": "2026-07-30",
+          "title": "US launches 'heavy wave' of new attacks on Iran",
           "url": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran",
-          "note": "The day’s biggest US story, told from the Gulf."
-        },
-        {
-          "outlet": "Al Jazeera",
-          "lean": "funded",
-          "date": "Jul 28",
-          "title": "New poll shows confusion over Democratic Socialists of America ideals",
-          "url": "https://www.aljazeera.com/news/2026/7/28/new-poll-shows-confusion-over-democratic-socialists-of-america-ideals"
+          "note": "The day's biggest US story, from an outlet close to it."
         }
       ]
     },
     {
       "flag": "🇷🇺",
       "name": "Russia",
-      "region": "Eurasia",
+      "region": "Eastern Europe and Eurasia",
       "items": [
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "Politico: US may not pass Russia sanctions bill before September",
-          "url": "https://russian.rt.com/world/news/1663182-sankcii-ssha-rossiya",
-          "orig": "Politico: США могут не принять до сентября законопроект о санкциях против России"
+          "title": "Best years behind it: Western media on the 250th anniversary of the US",
+          "url": "https://russian.rt.com/world/article/1652293-250-yubilei-ssha-obzor",
+          "orig": "«Лучшие годы позади»: западные СМИ — о 250-летии США"
         },
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "Trump unveils $22 billion plan to rebuild Washington’s Dulles Airport",
-          "url": "https://russian.rt.com/world/news/1663290-tramp-aeroport-dallas",
-          "orig": "Трамп представил план реконструкции аэропорта Даллеса за $22 млрд"
+          "title": "Medvedev: the world is united by the understanding that the US cannot decide for others",
+          "url": "https://russian.rt.com/world/news/1653038-medvedev-mir-ssha",
+          "orig": "Медведев: мир объединяет понимание, что США не могут решать за других"
         }
       ]
     },
     {
       "flag": "🇨🇳",
-      "name": "China",
-      "region": "Greater China",
+      "name": "China and Hong Kong",
+      "region": "East Asia",
       "items": [
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "date": "Jul 24",
-          "title": "US slaps fresh tariffs on China, over 50 other economies in latest wave",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3361650/us-slaps-fresh-tariffs-china-50-plus-countries-latest-wave"
+          "title": "China still on track to supplant US as world's No 1 economy in 10 years: academic",
+          "url": "https://www.scmp.com/economy/china-economy/article/3347863/china-still-track-supplant-us-worlds-no-1-economy-10-years-academic",
+          "note": "The economic angle on the US-China contest."
         },
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "Another ‘DeepSeek moment’? What China’s Kimi K3 means for the global AI industry",
-          "url": "https://www.scmp.com/tech/big-tech/article/3361387/another-deepseek-moment-what-chinas-kimi-k3-means-global-ai-industry"
+          "title": "Hong Kong-born conductor Elim Chan becomes first woman to lead San Francisco Symphony",
+          "url": "https://www.scmp.com/lifestyle/arts/article/3354429/hong-kong-born-conductor-elim-chan-becomes-first-woman-lead-san-francisco-symphony",
+          "note": "A culture item away from the political news."
         }
       ]
     },
@@ -117,95 +112,75 @@
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "US, France trade barbs over UN human rights leadership vote",
-          "url": "https://www.dailysabah.com/world/americas/us-france-trade-barbs-over-un-human-rights-leadership-vote"
+          "title": "US-Saudi strikes on pro-Iran groups in Iraq reignite Mideast war",
+          "url": "https://www.dailysabah.com/world/mid-east/us-saudi-strikes-on-pro-iran-groups-in-iraq-reignite-mideast-war"
         },
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
           "title": "US health aid overhaul raises new fears for HIV, malaria lifelines",
-          "url": "https://www.dailysabah.com/world/africa/us-health-aid-overhaul-raises-new-fears-for-hiv-malaria-lifelines"
+          "url": "https://www.dailysabah.com/world/africa/us-health-aid-overhaul-raises-new-fears-for-hiv-malaria-lifelines",
+          "note": "How US aid cuts land in Africa."
         }
       ]
     },
     {
-      "flag": "🇳🇬",
-      "name": "Nigeria",
-      "region": "West Africa",
+      "flag": "🇦🇷",
+      "name": "Argentina",
+      "region": "Latin America",
       "items": [
         {
-          "outlet": "The Punch",
+          "outlet": "Buenos Aires Times",
           "lean": "neutral",
-          "title": "US to stop routine visa processing at Abuja embassy, 24 other African missions",
-          "url": "https://punchng.com/us-to-stop-routine-visa-processing-at-abuja-embassy-24-other-african-missions/",
-          "note": "A change felt directly by Nigerian travellers and students."
+          "title": "United States at 250: More prosperous, more diverse, yet more divided",
+          "url": "https://batimes.com.ar/news/world/united-states-at-250-more-prosperous-more-diverse-yet-more-divided.phtml"
         },
         {
-          "outlet": "The Punch",
+          "outlet": "Buenos Aires Times",
           "lean": "neutral",
-          "title": "FULL LIST: Trump’s tariffs on Nigeria, 59 other countries over forced labour claims",
-          "url": "https://punchng.com/full-list-trumps-tariffs-on-nigeria-59-other-countries-over-forced-labour-claims/"
+          "title": "'Sport of the future'? Padel's Miami boom augurs US expansion",
+          "url": "https://batimes.com.ar/news/sports/sport-of-the-future-padels-miami-boom-augurs-us-expansion.phtml",
+          "note": "A sport story on a game spreading in the US."
         }
       ]
     },
     {
-      "flag": "🇿🇦",
-      "name": "South Africa",
-      "region": "Southern Africa",
+      "flag": "🇰🇪",
+      "name": "Kenya",
+      "region": "Africa",
       "items": [
         {
-          "outlet": "News24",
+          "outlet": "Daily Nation",
           "lean": "neutral",
-          "date": "Jul 30",
-          "title": "US launches ‘powerful’ retaliation strikes on Iran",
-          "url": "https://www.news24.com/world/us-launches-powerful-retaliation-strikes-on-iran-20260730-0305"
+          "title": "US deports former American football star Daniel Adongo",
+          "url": "https://nation.africa/kenya/news/us-deports-former-american-football-star-daniel-adongo-5537754",
+          "note": "An immigration case with a Kenyan angle."
         },
         {
-          "outlet": "News24",
+          "outlet": "Daily Nation",
           "lean": "neutral",
-          "date": "Mar 13",
-          "title": "Springbok legend Naas Botha relocates to the US: ‘SA will forever hold a special place’",
-          "url": "https://www.news24.com/sport/rugby/springboks/springbok-legend-naas-botha-relocates-to-the-us-sa-will-forever-hold-a-special-place-20260313-0868"
+          "title": "Why Donald Trump's deputy JD Vance is coming to Kenya",
+          "url": "https://nation.africa/kenya/weekly-review/why-donald-trump-s-deputy-jd-vance-is-coming-to-kenya-5258278"
         }
       ]
     },
     {
-      "flag": "🇪🇺",
-      "name": "Europe",
-      "region": "European Union",
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "region": "East Asia",
       "items": [
         {
-          "outlet": "Euronews",
+          "outlet": "The Korea Herald",
           "lean": "neutral",
-          "date": "Jul 24",
-          "title": "US launches trade probe into EU over big tech fines",
-          "url": "https://www.euronews.com/my-europe/2026/07/24/eu-seeks-dialogue-with-us-as-tensions-rise-after-google-fine"
+          "title": "Top military officers of S. Korea, US, Japan reaffirm 3-way cooperation against NK threats",
+          "url": "https://www.koreaherald.com/article/10810630"
         },
         {
-          "outlet": "Euronews",
+          "outlet": "The Korea Herald",
           "lean": "neutral",
-          "date": "Mar 18",
-          "title": "These are the most popular National Parks in the United States",
-          "url": "https://www.euronews.com/travel/2026/03/18/these-are-the-most-popular-national-parks-in-the-united-states"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇦",
-      "name": "Ukraine",
-      "region": "Eastern Europe",
-      "items": [
-        {
-          "outlet": "Kyiv Post",
-          "lean": "neutral",
-          "title": "Zelensky to Meet Trump at White House With Patriots and Peace Talks on Agenda",
-          "url": "https://www.kyivpost.com/post/81197"
-        },
-        {
-          "outlet": "Kyiv Post",
-          "lean": "neutral",
-          "title": "Washington Drops Neutral Role, Backs Kyiv on Sanctions",
-          "url": "https://www.kyivpost.com/post/78992"
+          "title": "Campbell calls defense cost deal with Seoul 'extraordinarily generous,' hopes Trump govt. will grasp its 'wisdom'",
+          "url": "https://www.koreaherald.com/article/10011153",
+          "note": "The cost of the US security alliance in Asia."
         }
       ]
     },
@@ -217,16 +192,17 @@
         {
           "outlet": "El Universal",
           "lean": "neutral",
-          "title": "Fed holds interest rates steady, keeping them between 3.5% and 3.75%",
-          "url": "https://www.eluniversal.com.mx/cartera/fed-mantiene-sin-cambios-los-tipos-de-interes-quedan-entre-35-y-el-375/",
-          "orig": "Fed mantiene sin cambios los tipos de interés; quedan entre 3.5% y el 3.75%"
+          "title": "Unity and strategy for the USMCA negotiation",
+          "url": "https://www.eluniversal.com.mx/opinion/juan-pablo-castanon-castanon/unidad-y-estrategia-para-la-negociacion-del-tmec/",
+          "orig": "Unidad y estrategia para la negociación del TMEC",
+          "note": "A view on the coming North American trade talks."
         },
         {
           "outlet": "El Universal",
           "lean": "neutral",
-          "title": "Global View: America’s 2026 elections, undermined from within",
-          "url": "https://www.eluniversal.com.mx/mundo/mirada-global-elecciones-2026-en-eu-socavadas-desde-adentro/",
-          "orig": "Mirada Global. Elecciones 2026 en EU, socavadas desde adentro"
+          "title": "The 'new' role of the United States in the world",
+          "url": "https://www.eluniversal.com.mx/opinion/federico-novelo-y-urdanivia/el-nuevo-papel-de-estados-unidos-en-el-mundo/",
+          "orig": "El \"nuevo\" papel de Estados Unidos en el mundo"
         }
       ]
     }
