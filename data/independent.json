@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-07-31",
-  "date_human": "Friday, July 31, 2026",
+  "date_iso": "2026-08-01",
+  "date_human": "Saturday, August 1, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,14 +11,14 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Trump's Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
-          "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"
+          "title": "Immigration Agents Have Often Grabbed and Mistreated Citizens, Congressional Investigators Find",
+          "url": "https://www.propublica.org/article/immigration-agents-detained-mistreated-citizens-congressional-investigation"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Immigration Agents Have Often Grabbed and Mistreated Citizens, Congressional Investigators Find",
-          "url": "https://www.propublica.org/article/immigration-agents-detained-mistreated-citizens-congressional-investigation"
+          "title": "Trump's Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
+          "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"
         }
       ]
     },
@@ -30,16 +30,16 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "2026-07-29",
-          "title": "Donald Trump and Wars of Choice",
-          "url": "https://theintercept.com/2026/07/29/trump-wars-of-choice-iran/"
+          "date": "2026-07-20",
+          "title": "U.S. Official: Iran Attacks Injured “Far More” Troops Than Pentagon Admits",
+          "url": "https://theintercept.com/2026/07/20/united-states-iran-war-casualties-cover-up-pentagon/"
         },
         {
           "outlet": "Jacobin",
           "lean": "left",
-          "date": "2026-06",
-          "title": "How to Democratize the United States",
-          "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
+          "date": "2026-07",
+          "title": "Mamdani-Style Mayors Should Study Peru's Democracy Experiment",
+          "url": "https://jacobin.com/2026/07/peru-participatory-democracy-local-governance"
         }
       ]
     },
@@ -59,8 +59,7 @@
           "outlet": "The Dispatch",
           "lean": "cright",
           "title": "Why America Is the World's Corporate Headquarters",
-          "url": "https://thedispatch.com/article/big-companies-united-states-explained/",
-          "note": "A center-right read on where big firms still base themselves."
+          "url": "https://thedispatch.com/article/big-companies-united-states-explained/"
         },
         {
           "outlet": "UnHerd (UK)",
@@ -79,10 +78,9 @@
         {
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "date": "2026-07-31",
-          "title": "Trump announces a deal for the complete disarmament of Hamas",
-          "url": "https://meduza.io/news/2026/07/31/tramp-ob-yavil-o-soglashenii-po-polnomu-razoruzheniyu-hamas",
-          "orig": "Трамп объявил о соглашении по полному разоружению ХАМАС"
+          "date": "2026-07-28",
+          "title": "Zelensky arrives in the US for talks with Trump",
+          "url": "https://meduza.io/en/news/2026/07/28/zelensky-arrives-in-the-us-he-has-talks-planned-with-u-s-president-trump"
         },
         {
           "outlet": "IranWire (Iran, in exile)",
@@ -95,14 +93,13 @@
           "lean": "exile",
           "date": "2026-07-30",
           "title": "China accuses US of suppression over humanoid robot ban",
-          "url": "https://hongkongfp.com/2026/07/30/china-accuses-us-of-suppression-over-humanoid-robot-ban/",
-          "note": "A tech-trade fight beyond the day's war news."
+          "url": "https://hongkongfp.com/2026/07/30/china-accuses-us-of-suppression-over-humanoid-robot-ban/"
         },
         {
           "outlet": "The Kyiv Independent (Ukraine)",
           "lean": "exile",
-          "title": "US to begin talks on troop reductions in Europe later this year, America's NATO envoy says",
-          "url": "https://kyivindependent.com/us-to-begin-talks-on-troop-reductions-in-europe-later-this-year-nato-envoy-says/"
+          "title": "US State Department approves $373.6 million weapons sale to Ukraine",
+          "url": "https://kyivindependent.com/us-state-department-approves-373-million-weapons-sale-ukraine/"
         }
       ]
     },
@@ -114,27 +111,20 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "US-Iran peace deal: Six things we learned from the Islamabad Memorandum of Understanding",
-          "url": "https://www.middleeasteye.net/explainers/us-iran-peace-deal-memorandum-six-things-learned"
-        },
-        {
-          "outlet": "The Wire (India)",
-          "lean": "indie",
-          "title": "Trump Abandons Global Leadership",
-          "url": "https://m.thewire.in/article/world/trump-abandons-global-leadership"
+          "title": "US held secret meeting between Algeria, Morocco, Polisario and Mauritania over Western Sahara",
+          "url": "https://www.middleeasteye.net/news/us-holds-meeting-between-algeria-morocco-mauritania-over-western-sahara"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "America at 250: still a 'democratic experiment'",
-          "url": "https://theconversation.com/america-at-250-still-a-democratic-experiment-286695",
-          "note": "An academic look at the anniversary rather than the war."
+          "title": "The US is turning 250 – and Trump is making it all about him",
+          "url": "https://theconversation.com/the-us-is-turning-250-and-trump-is-making-it-all-about-him-284563"
         },
         {
           "outlet": "Rappler (Philippines)",
           "lean": "indie",
-          "title": "How US-Israeli war on Iran is upending global business",
-          "url": "https://www.rappler.com/business/worldwide-upended-united-states-israel-war-iran/"
+          "title": "Trump administration directs spy satellite agencies to surveil US-Mexico border",
+          "url": "https://www.rappler.com/world/us-canada/trump-administration-directs-spy-satellite-agencies-surveil-mexico-border/"
         }
       ]
     }

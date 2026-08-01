@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-07-31",
-  "date_human": "Friday, July 31, 2026",
-  "summary": "10 countries. The renewed US strikes on Iran are in the mix through Qatar and Türkiye, but the coverage runs wide today. Outlets are also leading on trade and the USMCA talks, a court case over destroyed evidence, US health aid cuts felt in Africa, deportations, a conductor taking over the San Francisco Symphony, padel's boom in Miami, security ties across Asia, and the mood toward America in its 250th year.",
+  "date_iso": "2026-08-01",
+  "date_human": "Saturday, August 1, 2026",
+  "summary": "11 countries. The renewed US strikes on Iran surface through Qatar, but today's coverage spreads wide. Outlets are leading on a slowing US economy, a trade probe into the EU, visa curbs felt across Africa and Latin America, sanctions diplomacy over Russia and Ukraine, a court case over evidence wiped at an airport, an athlete indicted in Washington, and how allies in Asia read a shifting America.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -11,17 +11,17 @@
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "2026-07-29",
-          "title": "US man accused of destroying evidence by wiping phone at airport",
-          "url": "https://www.france24.com/en/live-news/20260729-us-man-accused-of-destroying-evidence-by-wiping-phone-at-airport",
-          "note": "A courts and legal story rather than the day's foreign-policy news."
+          "date": "2026-08-01",
+          "title": "US embassies urge citizens to consider departing Middle East",
+          "url": "https://www.france24.com/en/live-news/20260801-us-embassies-urge-citizens-to-consider-departing-middle-east",
+          "note": "Framed as a regional security warning as tensions rise."
         },
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "2026-07-04",
-          "title": "250 years of US independence: How France helped turn the tide of the Revolutionary War",
-          "url": "https://www.france24.com/en/americas/20260704-250-years-of-us-independence-how-france-helped-turn-the-tide-of-the-revolutionary-war"
+          "date": "2026-07-29",
+          "title": "US man accused of destroying evidence by wiping phone at airport",
+          "url": "https://www.france24.com/en/live-news/20260729-us-man-accused-of-destroying-evidence-by-wiping-phone-at-airport"
         }
       ]
     },
@@ -42,8 +42,7 @@
           "lean": "neutral",
           "date": "2026-07-21",
           "title": "Tumbling U.S. status in the world should be no surprise",
-          "url": "https://www.japantimes.co.jp/commentary/2026/07/21/world/tumbling-us-world-status/",
-          "note": "Commentary on how allies read America's standing."
+          "url": "https://www.japantimes.co.jp/commentary/2026/07/21/world/tumbling-us-world-status/"
         }
       ]
     },
@@ -58,7 +57,14 @@
           "date": "2026-07-30",
           "title": "US launches 'heavy wave' of new attacks on Iran",
           "url": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran",
-          "note": "The day's biggest US story, from an outlet close to it."
+          "note": "The day's biggest US story, led from the Gulf."
+        },
+        {
+          "outlet": "Al Jazeera",
+          "lean": "funded",
+          "date": "2026-07-02",
+          "title": "Trump administration indicts Olympic athlete for Reflecting Pool vandalism",
+          "url": "https://www.aljazeera.com/news/2026/7/2/trump-administration-indicts-olympic-athlete-for-reflecting-pool-vandalism"
         }
       ]
     },
@@ -70,16 +76,16 @@
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "Best years behind it: Western media on the 250th anniversary of the US",
-          "url": "https://russian.rt.com/world/article/1652293-250-yubilei-ssha-obzor",
-          "orig": "«Лучшие годы позади»: западные СМИ — о 250-летии США"
+          "title": "Rubio says US plans to resume Russia-Ukraine talks",
+          "url": "https://russian.rt.com/world/news/1664303-ssha-peregovory-rossiya-ukraina",
+          "orig": "Рубио заявил о планах США возобновить переговоры России и Украины"
         },
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "Medvedev: the world is united by the understanding that the US cannot decide for others",
-          "url": "https://russian.rt.com/world/news/1653038-medvedev-mir-ssha",
-          "orig": "Медведев: мир объединяет понимание, что США не могут решать за других"
+          "title": "Politico: US may not pass a Russia sanctions bill before September",
+          "url": "https://russian.rt.com/world/news/1663182-sankcii-ssha-rossiya",
+          "orig": "Politico: США могут не принять до сентября законопроект о санкциях против России"
         }
       ]
     },
@@ -92,95 +98,74 @@
           "outlet": "South China Morning Post",
           "lean": "neutral",
           "title": "China still on track to supplant US as world's No 1 economy in 10 years: academic",
-          "url": "https://www.scmp.com/economy/china-economy/article/3347863/china-still-track-supplant-us-worlds-no-1-economy-10-years-academic",
-          "note": "The economic angle on the US-China contest."
+          "url": "https://www.scmp.com/economy/china-economy/article/3347863/china-still-track-supplant-us-worlds-no-1-economy-10-years-academic"
         },
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "Hong Kong-born conductor Elim Chan becomes first woman to lead San Francisco Symphony",
-          "url": "https://www.scmp.com/lifestyle/arts/article/3354429/hong-kong-born-conductor-elim-chan-becomes-first-woman-lead-san-francisco-symphony",
-          "note": "A culture item away from the political news."
+          "title": "Fifa boss received 33% bonus increase after Club World Cup in US$6 million pay deal",
+          "url": "https://www.scmp.com/sport/football/article/3347291/fifa-boss-received-33-bonus-increase-after-club-world-cup-us6-million-pay-deal"
         }
       ]
     },
     {
-      "flag": "🇹🇷",
-      "name": "Türkiye",
-      "region": "Middle East",
+      "flag": "🇪🇺",
+      "name": "Europe",
+      "region": "European Union",
       "items": [
         {
-          "outlet": "Daily Sabah",
-          "lean": "progov",
-          "title": "US-Saudi strikes on pro-Iran groups in Iraq reignite Mideast war",
-          "url": "https://www.dailysabah.com/world/mid-east/us-saudi-strikes-on-pro-iran-groups-in-iraq-reignite-mideast-war"
+          "outlet": "Euronews",
+          "lean": "neutral",
+          "date": "2026-07-24",
+          "title": "US launches trade probe into EU over big tech fines",
+          "url": "https://www.euronews.com/my-europe/2026/07/24/eu-seeks-dialogue-with-us-as-tensions-rise-after-google-fine"
         },
         {
-          "outlet": "Daily Sabah",
-          "lean": "progov",
-          "title": "US health aid overhaul raises new fears for HIV, malaria lifelines",
-          "url": "https://www.dailysabah.com/world/africa/us-health-aid-overhaul-raises-new-fears-for-hiv-malaria-lifelines",
-          "note": "How US aid cuts land in Africa."
+          "outlet": "Euronews",
+          "lean": "neutral",
+          "date": "2026-07-30",
+          "title": "How the EU AI Act is reshaping company rules from Washington to Tokyo",
+          "url": "https://www.euronews.com/next/2026/07/30/how-the-eu-ai-act-is-reshaping-company-rules-from-washington-to-tokyo"
         }
       ]
     },
     {
-      "flag": "🇦🇷",
-      "name": "Argentina",
-      "region": "Latin America",
+      "flag": "🇳🇬",
+      "name": "Nigeria",
+      "region": "West Africa",
       "items": [
         {
-          "outlet": "Buenos Aires Times",
+          "outlet": "The Punch",
           "lean": "neutral",
-          "title": "United States at 250: More prosperous, more diverse, yet more divided",
-          "url": "https://batimes.com.ar/news/world/united-states-at-250-more-prosperous-more-diverse-yet-more-divided.phtml"
+          "title": "US to stop routine visa processing at Abuja embassy, 24 other African missions",
+          "url": "https://punchng.com/us-to-stop-routine-visa-processing-at-abuja-embassy-24-other-african-missions/"
         },
         {
-          "outlet": "Buenos Aires Times",
+          "outlet": "The Punch",
           "lean": "neutral",
-          "title": "'Sport of the future'? Padel's Miami boom augurs US expansion",
-          "url": "https://batimes.com.ar/news/sports/sport-of-the-future-padels-miami-boom-augurs-us-expansion.phtml",
-          "note": "A sport story on a game spreading in the US."
+          "title": "US condemns Kaduna attack, urges FG to tackle Middle Belt violence",
+          "url": "https://punchng.com/us-condemns-kaduna-attack-urges-fg-to-tackle-middle-belt-violence/"
         }
       ]
     },
     {
-      "flag": "🇰🇪",
-      "name": "Kenya",
-      "region": "Africa",
+      "flag": "🇿🇦",
+      "name": "South Africa",
+      "region": "Southern Africa",
       "items": [
         {
-          "outlet": "Daily Nation",
+          "outlet": "News24",
           "lean": "neutral",
-          "title": "US deports former American football star Daniel Adongo",
-          "url": "https://nation.africa/kenya/news/us-deports-former-american-football-star-daniel-adongo-5537754",
-          "note": "An immigration case with a Kenyan angle."
+          "date": "2026-07-30",
+          "title": "US growth slows in second quarter, but domestic demand robust",
+          "url": "https://www.news24.com/business/economy/us-growth-slows-in-second-quarter-but-domestic-demand-robust-20260730-0980"
         },
         {
-          "outlet": "Daily Nation",
+          "outlet": "News24",
           "lean": "neutral",
-          "title": "Why Donald Trump's deputy JD Vance is coming to Kenya",
-          "url": "https://nation.africa/kenya/weekly-review/why-donald-trump-s-deputy-jd-vance-is-coming-to-kenya-5258278"
-        }
-      ]
-    },
-    {
-      "flag": "🇰🇷",
-      "name": "South Korea",
-      "region": "East Asia",
-      "items": [
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "Top military officers of S. Korea, US, Japan reaffirm 3-way cooperation against NK threats",
-          "url": "https://www.koreaherald.com/article/10810630"
-        },
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "Campbell calls defense cost deal with Seoul 'extraordinarily generous,' hopes Trump govt. will grasp its 'wisdom'",
-          "url": "https://www.koreaherald.com/article/10011153",
-          "note": "The cost of the US security alliance in Asia."
+          "date": "2026-03-11",
+          "title": "Thousands of white expats head back to SA despite Trump's 'persecution' claims",
+          "url": "https://www.news24.com/southafrica/news/thousands-of-white-expats-head-back-to-sa-despite-trumps-persecution-claims-20260311-0518"
         }
       ]
     },
@@ -192,17 +177,54 @@
         {
           "outlet": "El Universal",
           "lean": "neutral",
-          "title": "Unity and strategy for the USMCA negotiation",
-          "url": "https://www.eluniversal.com.mx/opinion/juan-pablo-castanon-castanon/unidad-y-estrategia-para-la-negociacion-del-tmec/",
-          "orig": "Unidad y estrategia para la negociación del TMEC",
-          "note": "A view on the coming North American trade talks."
+          "title": "United States avoids submitting to the UN human rights review",
+          "url": "https://www.eluniversal.com.mx/mundo/estados-unidos-evita-someterse-al-examen-de-derechos-humanos-de-la-onu/",
+          "orig": "Estados Unidos evita someterse al examen de derechos humanos de la ONU"
         },
         {
           "outlet": "El Universal",
           "lean": "neutral",
-          "title": "The 'new' role of the United States in the world",
-          "url": "https://www.eluniversal.com.mx/opinion/federico-novelo-y-urdanivia/el-nuevo-papel-de-estados-unidos-en-el-mundo/",
-          "orig": "El \"nuevo\" papel de Estados Unidos en el mundo"
+          "title": "US visa: United States to require deposits of up to $15,000",
+          "url": "https://www.eluniversal.com.mx/destinos/visa-americana-estados-unidos-pedira-depositos-de-15000-dolares/",
+          "orig": "Visa americana: Estados Unidos pedirá depósitos de 15,000 dólares"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇦",
+      "name": "Ukraine",
+      "region": "Eastern Europe",
+      "items": [
+        {
+          "outlet": "Kyiv Post",
+          "lean": "neutral",
+          "title": "US Senate Deal Would Expand Sanctions on Russia, Iran Energy Buyers",
+          "url": "https://www.kyivpost.com/post/81259"
+        },
+        {
+          "outlet": "Kyiv Post",
+          "lean": "neutral",
+          "title": "Washington Drops Neutral Role, Backs Kyiv on Sanctions",
+          "url": "https://www.kyivpost.com/post/78992"
+        }
+      ]
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "region": "East Asia",
+      "items": [
+        {
+          "outlet": "The Korea Herald",
+          "lean": "neutral",
+          "title": "Yoon, Trump, in phone call, agree to hold meeting at early date",
+          "url": "https://www.koreaherald.com/article/3849157"
+        },
+        {
+          "outlet": "The Korea Herald",
+          "lean": "neutral",
+          "title": "Top military officers of S. Korea, US, Japan reaffirm 3-way cooperation against NK threats",
+          "url": "https://www.koreaherald.com/article/10810630"
         }
       ]
     }
