@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-08-01",
-  "date_human": "Saturday, August 1, 2026",
-  "summary": "11 countries. The renewed US strikes on Iran surface through Qatar, but today's coverage spreads wide. Outlets are leading on a slowing US economy, a trade probe into the EU, visa curbs felt across Africa and Latin America, sanctions diplomacy over Russia and Ukraine, a court case over evidence wiped at an airport, an athlete indicted in Washington, and how allies in Asia read a shifting America.",
+  "date_iso": "2026-08-03",
+  "date_human": "Monday, August 3, 2026",
+  "summary": "11 countries. The Iran file returns through fresh US-Iran talks, but today's coverage runs wide. Outlets lead on slowing US growth, a 25-state lawsuit over tariffs, consulate closures and a visa halt across Africa, a World Cup knockout and its opening show, a food-borne outbreak in Michigan, wildfire evacuations, and how allies from Seoul to Kyiv read a shifting Washington.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -11,10 +11,10 @@
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "2026-08-01",
-          "title": "US embassies urge citizens to consider departing Middle East",
-          "url": "https://www.france24.com/en/live-news/20260801-us-embassies-urge-citizens-to-consider-departing-middle-east",
-          "note": "Framed as a regional security warning as tensions rise."
+          "date": "2026-07-27",
+          "title": "US walks out of UN Security Council meeting as France condemns rights vote",
+          "url": "https://www.france24.com/en/france/20260727-us-walks-out-of-un-security-council-meeting-as-france-condemns-rights-vote",
+          "note": "A rare public rift between two longtime allies."
         },
         {
           "outlet": "France 24",
@@ -33,16 +33,16 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-07-16",
-          "title": "As shared values shift, what's next for U.S.-Japan relations?",
-          "url": "https://www.japantimes.co.jp/commentary/2026/07/16/japan/us-japan-relations-next/"
+          "date": "2026-05-19",
+          "title": "Japanese favorability toward U.S. falls below 30%, survey finds",
+          "url": "https://www.japantimes.co.jp/news/2026/05/19/japan/politics/japan-us-favorability-fall/"
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-07-21",
-          "title": "Tumbling U.S. status in the world should be no surprise",
-          "url": "https://www.japantimes.co.jp/commentary/2026/07/21/world/tumbling-us-world-status/"
+          "date": "2026-07-16",
+          "title": "As shared values shift, what's next for U.S.-Japan relations?",
+          "url": "https://www.japantimes.co.jp/commentary/2026/07/16/japan/us-japan-relations-next/"
         }
       ]
     },
@@ -55,77 +55,144 @@
           "outlet": "Al Jazeera",
           "lean": "funded",
           "date": "2026-07-30",
-          "title": "US launches 'heavy wave' of new attacks on Iran",
-          "url": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran",
-          "note": "The day's biggest US story, led from the Gulf."
+          "title": "Why is US GDP growth slowing, and how can it be reversed?",
+          "url": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed"
         },
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-07-02",
-          "title": "Trump administration indicts Olympic athlete for Reflecting Pool vandalism",
-          "url": "https://www.aljazeera.com/news/2026/7/2/trump-administration-indicts-olympic-athlete-for-reflecting-pool-vandalism"
+          "date": "2026-06-16",
+          "title": "What to know about this week's US primary elections",
+          "url": "https://www.aljazeera.com/news/2026/6/16/what-to-know-about-this-weeks-us-primary-elections"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "lean": "funded",
+          "date": "2026-07-06",
+          "title": "USA 1-4 Belgium: FIFA World Cup 2026 round of 16 - as it happened",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/7/6/usa-belgium-live-fifa-world-cup-2026-round-of-16"
         }
       ]
     },
     {
       "flag": "🇷🇺",
       "name": "Russia",
-      "region": "Eastern Europe and Eurasia",
+      "region": "Eastern Europe",
       "items": [
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "Rubio says US plans to resume Russia-Ukraine talks",
-          "url": "https://russian.rt.com/world/news/1664303-ssha-peregovory-rossiya-ukraina",
-          "orig": "Рубио заявил о планах США возобновить переговоры России и Украины"
+          "title": "Trump announces talks with Iran on August 3",
+          "url": "https://russian.rt.com/world/news/1664807-ssha-iran-peregovory",
+          "orig": "Трамп анонсировал переговоры с Ираном 3 августа"
         },
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "Politico: US may not pass a Russia sanctions bill before September",
-          "url": "https://russian.rt.com/world/news/1663182-sankcii-ssha-rossiya",
-          "orig": "Politico: США могут не принять до сентября законопроект о санкциях против России"
+          "title": "CNN: thousands of families ordered to evacuate over wildfire in Washington state",
+          "url": "https://russian.rt.com/world/news/1664560-vashington-pozhar-evakuaciya",
+          "orig": "CNN: тысячи семей получили приказ покинуть дома из-за пожара в штате Вашингтон"
         }
       ]
     },
     {
       "flag": "🇨🇳",
-      "name": "China and Hong Kong",
+      "name": "China & Hong Kong",
       "region": "East Asia",
       "items": [
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "China still on track to supplant US as world's No 1 economy in 10 years: academic",
-          "url": "https://www.scmp.com/economy/china-economy/article/3347863/china-still-track-supplant-us-worlds-no-1-economy-10-years-academic"
+          "title": "US State Department to close consulates in Canada, Japan and Indonesia, sources say",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362853/us-state-department-close-consulates-canada-japan-and-indonesia-sources-say",
+          "note": "Reported retrenchment of the US diplomatic footprint."
         },
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "Fifa boss received 33% bonus increase after Club World Cup in US$6 million pay deal",
-          "url": "https://www.scmp.com/sport/football/article/3347291/fifa-boss-received-33-bonus-increase-after-club-world-cup-us6-million-pay-deal"
+          "title": "My Take: America has always been a rogue state, and even more so under Donald Trump",
+          "url": "https://www.scmp.com/opinion/article/3349185/america-has-always-been-rogue-state-and-even-more-so-under-donald-trump"
         }
       ]
     },
     {
       "flag": "🇪🇺",
       "name": "Europe",
-      "region": "European Union",
+      "region": "Europe",
       "items": [
         {
           "outlet": "Euronews",
           "lean": "neutral",
-          "date": "2026-07-24",
-          "title": "US launches trade probe into EU over big tech fines",
-          "url": "https://www.euronews.com/my-europe/2026/07/24/eu-seeks-dialogue-with-us-as-tensions-rise-after-google-fine"
+          "date": "2026-06-03",
+          "title": "Canada calls for US and Mexico free trade deal to be renewed for 16 years",
+          "url": "https://www.euronews.com/business/2026/06/03/canada-calls-for-us-and-mexico-free-trade-deal-to-be-renewed-for-16-years"
         },
         {
           "outlet": "Euronews",
           "lean": "neutral",
-          "date": "2026-07-30",
-          "title": "How the EU AI Act is reshaping company rules from Washington to Tokyo",
-          "url": "https://www.euronews.com/next/2026/07/30/how-the-eu-ai-act-is-reshaping-company-rules-from-washington-to-tokyo"
+          "date": "2026-05-15",
+          "title": "What is the 'Thucydides Trap' that Xi invoked in his meeting with Trump?",
+          "url": "https://www.euronews.com/2026/05/15/what-is-the-thucydides-trap-that-xi-invoked-in-his-meeting-with-trump"
+        }
+      ]
+    },
+    {
+      "flag": "🇹🇷",
+      "name": "Türkiye",
+      "region": "West Asia",
+      "items": [
+        {
+          "outlet": "Daily Sabah",
+          "lean": "progov",
+          "title": "US health aid overhaul raises new fears for HIV, malaria lifelines",
+          "url": "https://www.dailysabah.com/world/africa/us-health-aid-overhaul-raises-new-fears-for-hiv-malaria-lifelines"
+        },
+        {
+          "outlet": "Daily Sabah",
+          "lean": "progov",
+          "title": "United States respects Turkish plan to join BRICS",
+          "url": "https://www.dailysabah.com/politics/diplomacy/united-states-respects-turkish-plan-to-join-brics"
+        }
+      ]
+    },
+    {
+      "flag": "🇲🇽",
+      "name": "Mexico",
+      "region": "Latin America",
+      "items": [
+        {
+          "outlet": "El Universal",
+          "lean": "neutral",
+          "title": "Trump faces lawsuit from 25 states over new tariffs, accused of trying to sidestep the Supreme Court ruling",
+          "url": "https://www.eluniversal.com.mx/mundo/trump-enfrenta-demanda-de-25-estados-por-nuevos-aranceles-acusan-que-busca-eludir-fallo-de-la-corte-suprema/",
+          "orig": "Trump enfrenta demanda de 25 estados por nuevos aranceles; acusan que busca eludir fallo de la Corte Suprema"
+        },
+        {
+          "outlet": "El Universal",
+          "lean": "neutral",
+          "title": "US reports its first two deaths in a Michigan cyclospora outbreak",
+          "url": "https://www.eluniversal.com.mx/mundo/eu-reporta-2-muertes-por-cyclospora-en-michigan-van-mas-de-4-mil-casos-confirmados/",
+          "orig": "EU reporta primeras dos muertes por \"diarrea explosiva\" a causa de cyclospora en Michigan"
+        }
+      ]
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "region": "East Asia",
+      "items": [
+        {
+          "outlet": "The Korea Herald",
+          "lean": "neutral",
+          "title": "New US ambassador begins mission with hotteok, hymns",
+          "url": "https://www.koreaherald.com/article/10828287",
+          "note": "A softer diplomatic opening after a tense stretch."
+        },
+        {
+          "outlet": "The Korea Herald",
+          "lean": "neutral",
+          "title": "Former US envoy urges US to ease N. Korean travel ban, citing impact on aid workers",
+          "url": "https://www.koreaherald.com/article/10829803"
         }
       ]
     },
@@ -143,50 +210,8 @@
         {
           "outlet": "The Punch",
           "lean": "neutral",
-          "title": "US condemns Kaduna attack, urges FG to tackle Middle Belt violence",
-          "url": "https://punchng.com/us-condemns-kaduna-attack-urges-fg-to-tackle-middle-belt-violence/"
-        }
-      ]
-    },
-    {
-      "flag": "🇿🇦",
-      "name": "South Africa",
-      "region": "Southern Africa",
-      "items": [
-        {
-          "outlet": "News24",
-          "lean": "neutral",
-          "date": "2026-07-30",
-          "title": "US growth slows in second quarter, but domestic demand robust",
-          "url": "https://www.news24.com/business/economy/us-growth-slows-in-second-quarter-but-domestic-demand-robust-20260730-0980"
-        },
-        {
-          "outlet": "News24",
-          "lean": "neutral",
-          "date": "2026-03-11",
-          "title": "Thousands of white expats head back to SA despite Trump's 'persecution' claims",
-          "url": "https://www.news24.com/southafrica/news/thousands-of-white-expats-head-back-to-sa-despite-trumps-persecution-claims-20260311-0518"
-        }
-      ]
-    },
-    {
-      "flag": "🇲🇽",
-      "name": "Mexico",
-      "region": "Latin America",
-      "items": [
-        {
-          "outlet": "El Universal",
-          "lean": "neutral",
-          "title": "United States avoids submitting to the UN human rights review",
-          "url": "https://www.eluniversal.com.mx/mundo/estados-unidos-evita-someterse-al-examen-de-derechos-humanos-de-la-onu/",
-          "orig": "Estados Unidos evita someterse al examen de derechos humanos de la ONU"
-        },
-        {
-          "outlet": "El Universal",
-          "lean": "neutral",
-          "title": "US visa: United States to require deposits of up to $15,000",
-          "url": "https://www.eluniversal.com.mx/destinos/visa-americana-estados-unidos-pedira-depositos-de-15000-dolares/",
-          "orig": "Visa americana: Estados Unidos pedirá depósitos de 15,000 dólares"
+          "title": "Rema, Lisa, Anitta shine at World Cup 2026 opening ceremony",
+          "url": "https://punchng.com/rema-lisa-anitta-shine-at-world-cup-2026-opening-ceremony/"
         }
       ]
     },
@@ -198,33 +223,14 @@
         {
           "outlet": "Kyiv Post",
           "lean": "neutral",
-          "title": "US Senate Deal Would Expand Sanctions on Russia, Iran Energy Buyers",
-          "url": "https://www.kyivpost.com/post/81259"
+          "title": "US to Cede Command of Group Coordinating Military Aid, Training to Ukraine",
+          "url": "https://www.kyivpost.com/post/81592"
         },
         {
           "outlet": "Kyiv Post",
           "lean": "neutral",
           "title": "Washington Drops Neutral Role, Backs Kyiv on Sanctions",
           "url": "https://www.kyivpost.com/post/78992"
-        }
-      ]
-    },
-    {
-      "flag": "🇰🇷",
-      "name": "South Korea",
-      "region": "East Asia",
-      "items": [
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "Yoon, Trump, in phone call, agree to hold meeting at early date",
-          "url": "https://www.koreaherald.com/article/3849157"
-        },
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "Top military officers of S. Korea, US, Japan reaffirm 3-way cooperation against NK threats",
-          "url": "https://www.koreaherald.com/article/10810630"
         }
       ]
     }

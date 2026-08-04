@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-08-01",
-  "date_human": "Saturday, August 1, 2026",
+  "date_iso": "2026-08-03",
+  "date_human": "Monday, August 3, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,14 +11,14 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Immigration Agents Have Often Grabbed and Mistreated Citizens, Congressional Investigators Find",
-          "url": "https://www.propublica.org/article/immigration-agents-detained-mistreated-citizens-congressional-investigation"
+          "title": "Trump's Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
+          "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Trump's Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
-          "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"
+          "title": "DHS Plans \"All-Out War\" on Immigration Scammers as Fraud Complaints Double",
+          "url": "https://www.propublica.org/article/trump-dhs-immigration-scams-fraud-homeland-security"
         }
       ]
     },
@@ -31,15 +31,22 @@
           "outlet": "The Intercept",
           "lean": "left",
           "date": "2026-07-20",
-          "title": "U.S. Official: Iran Attacks Injured “Far More” Troops Than Pentagon Admits",
+          "title": "U.S. Official: Iran Attacks Injured \"Far More\" Troops Than Pentagon Admits",
           "url": "https://theintercept.com/2026/07/20/united-states-iran-war-casualties-cover-up-pentagon/"
+        },
+        {
+          "outlet": "The Intercept",
+          "lean": "left",
+          "date": "2026-07-22",
+          "title": "GOP Rep. Called Israeli-U.S. Defense Tech Integration \"Dangerous.\" The House Passed It Anyway.",
+          "url": "https://theintercept.com/2026/07/22/ndaa-defense-bill-pentagon-israel-massie/"
         },
         {
           "outlet": "Jacobin",
           "lean": "left",
-          "date": "2026-07",
-          "title": "Mamdani-Style Mayors Should Study Peru's Democracy Experiment",
-          "url": "https://jacobin.com/2026/07/peru-participatory-democracy-local-governance"
+          "date": "2026-06",
+          "title": "How to Democratize the United States",
+          "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
         }
       ]
     },
@@ -51,9 +58,9 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "2026-07-16",
-          "title": "Why foreign tourism to the U.S. is declining under Trump",
-          "url": "https://reason.com/2026/07/16/tourism-to-the-u-s-is-declining/"
+          "date": "2026-08-01",
+          "title": "Walt Whitman's warning about American democracy",
+          "url": "https://reason.com/2026/08/01/walt-whitmans-american-vistas/"
         },
         {
           "outlet": "The Dispatch",
@@ -83,23 +90,10 @@
           "url": "https://meduza.io/en/news/2026/07/28/zelensky-arrives-in-the-us-he-has-talks-planned-with-u-s-president-trump"
         },
         {
-          "outlet": "IranWire (Iran, in exile)",
-          "lean": "exile",
-          "title": "Rubio: US is Ready for Talks With Iran Despite Ongoing Strikes",
-          "url": "https://iranwire.com/en/news/155214-rubio-us-is-ready-for-talks-with-iran-despite-ongoing-strikes/"
-        },
-        {
-          "outlet": "Hong Kong Free Press",
-          "lean": "exile",
-          "date": "2026-07-30",
-          "title": "China accuses US of suppression over humanoid robot ban",
-          "url": "https://hongkongfp.com/2026/07/30/china-accuses-us-of-suppression-over-humanoid-robot-ban/"
-        },
-        {
           "outlet": "The Kyiv Independent (Ukraine)",
           "lean": "exile",
-          "title": "US State Department approves $373.6 million weapons sale to Ukraine",
-          "url": "https://kyivindependent.com/us-state-department-approves-373-million-weapons-sale-ukraine/"
+          "title": "US increasingly polarized over Ukraine support as Trump's 'America First' deepens party divide",
+          "url": "https://kyivindependent.com/83-of-democrats-back-ukraine-aid-79-of-republicans-against-poll-shows/"
         }
       ]
     },
@@ -111,20 +105,20 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "US held secret meeting between Algeria, Morocco, Polisario and Mauritania over Western Sahara",
-          "url": "https://www.middleeasteye.net/news/us-holds-meeting-between-algeria-morocco-mauritania-over-western-sahara"
+          "title": "How US policy in the Middle East is unravelling",
+          "url": "https://www.middleeasteye.net/opinion/how-us-policy-middle-east-unravelling"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "The US is turning 250 – and Trump is making it all about him",
-          "url": "https://theconversation.com/the-us-is-turning-250-and-trump-is-making-it-all-about-him-284563"
+          "title": "Trump wants to make daylight saving time permanent, but some fear the move would be a nightmare",
+          "url": "https://theconversation.com/trump-wants-to-make-daylight-saving-time-permanent-but-some-fear-the-move-would-be-a-nightmare-287501"
         },
         {
-          "outlet": "Rappler (Philippines)",
-          "lean": "indie",
-          "title": "Trump administration directs spy satellite agencies to surveil US-Mexico border",
-          "url": "https://www.rappler.com/world/us-canada/trump-administration-directs-spy-satellite-agencies-surveil-mexico-border/"
+          "outlet": "The Conversation",
+          "lean": "analysis",
+          "title": "Republicans control Congress, so why is Trump's SAVE America Act stuck?",
+          "url": "https://theconversation.com/republicans-control-congress-so-why-is-trumps-save-america-act-stuck-287156"
         }
       ]
     }
