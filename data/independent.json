@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-08-03",
-  "date_human": "Monday, August 3, 2026",
+  "date_iso": "2026-08-04",
+  "date_human": "Tuesday, August 4, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,14 +11,14 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Trump's Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
+          "title": "Trump’s Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
           "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "DHS Plans \"All-Out War\" on Immigration Scammers as Fraud Complaints Double",
-          "url": "https://www.propublica.org/article/trump-dhs-immigration-scams-fraud-homeland-security"
+          "title": "Trump Administration Killed Criminal Investigation of GOP Senator’s Coal Companies",
+          "url": "https://www.propublica.org/article/trump-jim-justice-doj-southern-coal-investigation-west-virginia"
         }
       ]
     },
@@ -30,23 +30,16 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "2026-07-20",
-          "title": "U.S. Official: Iran Attacks Injured \"Far More\" Troops Than Pentagon Admits",
-          "url": "https://theintercept.com/2026/07/20/united-states-iran-war-casualties-cover-up-pentagon/"
-        },
-        {
-          "outlet": "The Intercept",
-          "lean": "left",
-          "date": "2026-07-22",
-          "title": "GOP Rep. Called Israeli-U.S. Defense Tech Integration \"Dangerous.\" The House Passed It Anyway.",
-          "url": "https://theintercept.com/2026/07/22/ndaa-defense-bill-pentagon-israel-massie/"
+          "date": "2026-06-24",
+          "title": "The Intercept Sues to Uncover Secretive Government Anti-Protester Database",
+          "url": "https://theintercept.com/2026/06/24/intercept-lawsuit-ice-protesters-surveillance-travel/"
         },
         {
           "outlet": "Jacobin",
           "lean": "left",
-          "date": "2026-06",
-          "title": "How to Democratize the United States",
-          "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
+          "date": "2026-01",
+          "title": "ICE Detention Contractors Are Reaping Massive Profits",
+          "url": "https://jacobin.com/2026/01/ice-migrant-detention-contractors-profits"
         }
       ]
     },
@@ -58,15 +51,15 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "2026-08-01",
-          "title": "Walt Whitman's warning about American democracy",
-          "url": "https://reason.com/2026/08/01/walt-whitmans-american-vistas/"
+          "date": "2026-07-31",
+          "title": "A small spice company is leading the latest challenge to Trump's tariffs",
+          "url": "https://reason.com/2026/07/31/meet-the-spice-entrepreneur-challenging-trumps-newest-tariffs/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "title": "Why America Is the World's Corporate Headquarters",
-          "url": "https://thedispatch.com/article/big-companies-united-states-explained/"
+          "title": "Trump’s Fossil Fuel Revival Stalls",
+          "url": "https://thedispatch.com/newsletter/dispatch-energy/trumps-oil-coal-gas-fossil-fuels/"
         },
         {
           "outlet": "UnHerd (UK)",
@@ -85,15 +78,22 @@
         {
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "date": "2026-07-28",
-          "title": "Zelensky arrives in the US for talks with Trump",
-          "url": "https://meduza.io/en/news/2026/07/28/zelensky-arrives-in-the-us-he-has-talks-planned-with-u-s-president-trump"
+          "date": "2026-07-31",
+          "title": "‘I’m not sure’: Trump casts doubt on his offer to let Ukraine produce Patriot missiles",
+          "url": "https://meduza.io/en/news/2026/07/31/i-m-not-sure-trump-casts-doubt-on-his-offer-to-let-ukraine-produce-patriot-missiles"
         },
         {
-          "outlet": "The Kyiv Independent (Ukraine)",
+          "outlet": "IranWire (Iran, in exile)",
           "lean": "exile",
-          "title": "US increasingly polarized over Ukraine support as Trump's 'America First' deepens party divide",
-          "url": "https://kyivindependent.com/83-of-democrats-back-ukraine-aid-79-of-republicans-against-poll-shows/"
+          "title": "US Senate Advances Bill to Extend Iran Sanctions Until 2031",
+          "url": "https://iranwire.com/en/news/155613-us-senate-advances-bill-to-extend-iran-sanctions-until-2031/"
+        },
+        {
+          "outlet": "Hong Kong Free Press",
+          "lean": "exile",
+          "date": "2026-07-19",
+          "title": "US ends its state of emergency over Hong Kong security threat",
+          "url": "https://hongkongfp.com/2026/07/19/us-ends-its-state-of-emergency-over-hong-kong-security-threat/"
         }
       ]
     },
@@ -105,20 +105,20 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "How US policy in the Middle East is unravelling",
-          "url": "https://www.middleeasteye.net/opinion/how-us-policy-middle-east-unravelling"
+          "title": "Trump moves to revoke US citizenships from naturalised Americans",
+          "url": "https://www.middleeasteye.net/news/trump-moves-revoke-us-citizenships-naturalised-americans"
+        },
+        {
+          "outlet": "The Wire (India)",
+          "lean": "indie",
+          "title": "Jaishankar Raises US Visa Restrictions as Rubio Defends Trump’s ‘America First’ Policies",
+          "url": "https://m.thewire.in/article/diplomacy/jaishankar-raises-us-visa-restrictions-as-rubio-defends-trumps-america-first-policies"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "Trump wants to make daylight saving time permanent, but some fear the move would be a nightmare",
-          "url": "https://theconversation.com/trump-wants-to-make-daylight-saving-time-permanent-but-some-fear-the-move-would-be-a-nightmare-287501"
-        },
-        {
-          "outlet": "The Conversation",
-          "lean": "analysis",
-          "title": "Republicans control Congress, so why is Trump's SAVE America Act stuck?",
-          "url": "https://theconversation.com/republicans-control-congress-so-why-is-trumps-save-america-act-stuck-287156"
+          "title": "How the world sees Donald Trump: surveys show other countries see US president as ‘unreliable’ and ‘dangerous’",
+          "url": "https://theconversation.com/how-the-world-sees-donald-trump-surveys-show-other-countries-see-us-president-as-unreliable-and-dangerous-283305"
         }
       ]
     }

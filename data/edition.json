@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-08-03",
-  "date_human": "Monday, August 3, 2026",
-  "summary": "11 countries. The Iran file returns through fresh US-Iran talks, but today's coverage runs wide. Outlets lead on slowing US growth, a 25-state lawsuit over tariffs, consulate closures and a visa halt across Africa, a World Cup knockout and its opening show, a food-borne outbreak in Michigan, wildfire evacuations, and how allies from Seoul to Kyiv read a shifting Washington.",
+  "date_iso": "2026-08-04",
+  "date_human": "Tuesday, August 4, 2026",
+  "summary": "10 countries. Iran and the tariffs fight lead the day, but coverage runs wide. Outlets carry a fresh US strike on Iran and reports of depleted US missile stocks, a 25-state lawsuit over new tariffs, a joint yen intervention with Japan, US sanctions on Russian defense units, a peso rescue for Argentina, a Fifth Amendment fight at home, Kenyan nurses chasing the American Dream, anti-Trump protests in US cities, and World Cup mockery in Mexico.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -11,17 +11,17 @@
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "2026-07-27",
-          "title": "US walks out of UN Security Council meeting as France condemns rights vote",
-          "url": "https://www.france24.com/en/france/20260727-us-walks-out-of-un-security-council-meeting-as-france-condemns-rights-vote",
-          "note": "A rare public rift between two longtime allies."
+          "date": "2026-08-04",
+          "title": "25 US states sue Trump administration over sweeping new tariffs",
+          "url": "https://www.france24.com/en/americas/20260804-25-us-states-sue-trump-administration-over-sweeping-new-tariffs",
+          "note": "The bloc of mostly Democratic-led states says the president exceeded his tax power."
         },
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "2026-07-29",
-          "title": "US man accused of destroying evidence by wiping phone at airport",
-          "url": "https://www.france24.com/en/live-news/20260729-us-man-accused-of-destroying-evidence-by-wiping-phone-at-airport"
+          "date": "2026-08-01",
+          "title": "US embassies urge citizens to consider departing Middle East",
+          "url": "https://www.france24.com/en/live-news/20260801-us-embassies-urge-citizens-to-consider-departing-middle-east"
         }
       ]
     },
@@ -33,16 +33,17 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-05-19",
-          "title": "Japanese favorability toward U.S. falls below 30%, survey finds",
-          "url": "https://www.japantimes.co.jp/news/2026/05/19/japan/politics/japan-us-favorability-fall/"
+          "date": "2026-08-03",
+          "title": "Japan and U.S. confirm joint yen intervention",
+          "url": "https://www.japantimes.co.jp/business/2026/08/03/markets/japan-us-joint-yen-intervention/",
+          "note": "A rare coordinated move to steady a yen at levels last seen in 1986."
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-07-16",
-          "title": "As shared values shift, what's next for U.S.-Japan relations?",
-          "url": "https://www.japantimes.co.jp/commentary/2026/07/16/japan/us-japan-relations-next/"
+          "date": "2026-08-03",
+          "title": "Taiwan minister says close ties with U.S. Pacific Command boost defense readiness",
+          "url": "https://www.japantimes.co.jp/news/2026/08/03/asia-pacific/politics/taiwan-us-pacific-command-defense/"
         }
       ]
     },
@@ -55,43 +56,36 @@
           "outlet": "Al Jazeera",
           "lean": "funded",
           "date": "2026-07-30",
-          "title": "Why is US GDP growth slowing, and how can it be reversed?",
-          "url": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed"
+          "title": "US launches ‘heavy wave’ of new attacks on Iran",
+          "url": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran"
         },
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-06-16",
-          "title": "What to know about this week's US primary elections",
-          "url": "https://www.aljazeera.com/news/2026/6/16/what-to-know-about-this-weeks-us-primary-elections"
-        },
-        {
-          "outlet": "Al Jazeera",
-          "lean": "funded",
-          "date": "2026-07-06",
-          "title": "USA 1-4 Belgium: FIFA World Cup 2026 round of 16 - as it happened",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/7/6/usa-belgium-live-fifa-world-cup-2026-round-of-16"
+          "date": "2026-08-02",
+          "title": "Most Americans say Trump has gone too far on US immigration: Poll",
+          "url": "https://www.aljazeera.com/news/2026/8/2/most-americans-say-trump-has-gone-too-far-on-us-immigration-poll"
         }
       ]
     },
     {
       "flag": "🇷🇺",
       "name": "Russia",
-      "region": "Eastern Europe",
+      "region": "Eurasia",
       "items": [
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "Trump announces talks with Iran on August 3",
-          "url": "https://russian.rt.com/world/news/1664807-ssha-iran-peregovory",
-          "orig": "Трамп анонсировал переговоры с Ираном 3 августа"
+          "title": "‘For violating US law’: Washington imposes sanctions on Russian Defence Ministry units",
+          "orig": "«За нарушение законодательства США»: Вашингтон ввёл санкции против подразделений Минобороны РФ",
+          "url": "https://russian.rt.com/world/article/1665442-ssha-sankcii-minoborony-rossiya"
         },
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "CNN: thousands of families ordered to evacuate over wildfire in Washington state",
-          "url": "https://russian.rt.com/world/news/1664560-vashington-pozhar-evakuaciya",
-          "orig": "CNN: тысячи семей получили приказ покинуть дома из-за пожара в штате Вашингтон"
+          "title": "Reuters: US has nearly exhausted its long-range missiles in the war with Iran",
+          "orig": "Reuters: США почти полностью израсходовали дальнобойные ракеты в войне с Ираном",
+          "url": "https://russian.rt.com/world/news/1665539-ssha-rakety-rashod-voina"
         }
       ]
     },
@@ -103,134 +97,109 @@
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "US State Department to close consulates in Canada, Japan and Indonesia, sources say",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362853/us-state-department-close-consulates-canada-japan-and-indonesia-sources-say",
-          "note": "Reported retrenchment of the US diplomatic footprint."
+          "title": "US slaps fresh tariffs on China, over 50 other economies in latest wave",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3361650/us-slaps-fresh-tariffs-china-50-plus-countries-latest-wave"
         },
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "My Take: America has always been a rogue state, and even more so under Donald Trump",
-          "url": "https://www.scmp.com/opinion/article/3349185/america-has-always-been-rogue-state-and-even-more-so-under-donald-trump"
+          "title": "Fauci’s refusals put spotlight on ‘pleading the Fifth’ right in US",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362344/faucis-silence-puts-fresh-spotlight-pleading-fifth-right-us"
         }
       ]
     },
     {
-      "flag": "🇪🇺",
-      "name": "Europe",
-      "region": "Europe",
+      "flag": "🇦🇷",
+      "name": "Argentina",
+      "region": "South America",
       "items": [
         {
-          "outlet": "Euronews",
+          "outlet": "Buenos Aires Times",
           "lean": "neutral",
-          "date": "2026-06-03",
-          "title": "Canada calls for US and Mexico free trade deal to be renewed for 16 years",
-          "url": "https://www.euronews.com/business/2026/06/03/canada-calls-for-us-and-mexico-free-trade-deal-to-be-renewed-for-16-years"
+          "title": "United States buys pesos, confirms US$20-billion lifeline for Milei and Argentina",
+          "url": "https://batimes.com.ar/news/economy/united-states-buys-pesos-confirms-us20-billion-lifeline-for-milei-and-argentina.phtml",
+          "note": "Washington props up a close ally facing turbulent currency markets."
+        }
+      ]
+    },
+    {
+      "flag": "🇿🇦",
+      "name": "South Africa",
+      "region": "Southern Africa",
+      "items": [
+        {
+          "outlet": "News24",
+          "lean": "neutral",
+          "date": "2026-08-03",
+          "title": "Oil slumps on hopes of Iran deal, rand gains ground",
+          "url": "https://www.news24.com/business/markets/commodities/oil-slumps-on-hopes-of-iran-deal-rand-gains-ground-20260803-0600"
         },
         {
-          "outlet": "Euronews",
+          "outlet": "News24",
           "lean": "neutral",
-          "date": "2026-05-15",
-          "title": "What is the 'Thucydides Trap' that Xi invoked in his meeting with Trump?",
-          "url": "https://www.euronews.com/2026/05/15/what-is-the-thucydides-trap-that-xi-invoked-in-his-meeting-with-trump"
+          "date": "2026-07-31",
+          "title": "‘That’s going to be us’: Trump says ‘terrible’ Spain migrant crisis warning for US",
+          "url": "https://www.news24.com/world/thats-going-to-be-us-trump-says-terrible-spain-migrant-crisis-warning-for-us-20260731-0893"
+        }
+      ]
+    },
+    {
+      "flag": "🇰🇪",
+      "name": "Kenya",
+      "region": "East Africa",
+      "items": [
+        {
+          "outlet": "Daily Nation",
+          "lean": "neutral",
+          "title": "Scrubs and dollars: How Kenyan nurses are living American Dream",
+          "url": "https://nation.africa/kenya/diaspora/scrubs-and-dollars-how-kenyan-nurses-are-living-american-dream-5543896"
+        },
+        {
+          "outlet": "Daily Nation",
+          "lean": "neutral",
+          "title": "Not a single US dollar for condoms: Inside Kenya’s rising HIV and STI risks",
+          "url": "https://nation.africa/kenya/health/not-a-single-us-dollar-for-condoms-inside-kenya-s-rising-hiv-and-sti-risks--5419406",
+          "note": "US aid cuts land hard on frontline health programs."
         }
       ]
     },
     {
       "flag": "🇹🇷",
       "name": "Türkiye",
-      "region": "West Asia",
+      "region": "Middle East",
       "items": [
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "US health aid overhaul raises new fears for HIV, malaria lifelines",
-          "url": "https://www.dailysabah.com/world/africa/us-health-aid-overhaul-raises-new-fears-for-hiv-malaria-lifelines"
+          "title": "3rd wave of anti-Trump ‘No Kings’ protests sweeps across US cities",
+          "url": "https://www.dailysabah.com/world/americas/3rd-wave-of-anti-trump-no-kings-protests-sweeps-across-us-cities"
         },
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "United States respects Turkish plan to join BRICS",
-          "url": "https://www.dailysabah.com/politics/diplomacy/united-states-respects-turkish-plan-to-join-brics"
+          "title": "Chinese automakers may enter US in next decade, Ford CEO tells employees",
+          "url": "https://www.dailysabah.com/business/economy/chinese-automakers-may-enter-us-in-next-decade-ford-ceo-tells-employees"
         }
       ]
     },
     {
       "flag": "🇲🇽",
       "name": "Mexico",
-      "region": "Latin America",
+      "region": "North America",
       "items": [
         {
           "outlet": "El Universal",
           "lean": "neutral",
-          "title": "Trump faces lawsuit from 25 states over new tariffs, accused of trying to sidestep the Supreme Court ruling",
-          "url": "https://www.eluniversal.com.mx/mundo/trump-enfrenta-demanda-de-25-estados-por-nuevos-aranceles-acusan-que-busca-eludir-fallo-de-la-corte-suprema/",
-          "orig": "Trump enfrenta demanda de 25 estados por nuevos aranceles; acusan que busca eludir fallo de la Corte Suprema"
+          "title": "Memes mock the United States and Trump after World Cup loss to Belgium",
+          "orig": "Memes se burlan de Estados Unidos y Trump al caer vs Bélgica",
+          "url": "https://www.eluniversal.com.mx/deportes/memes-se-burlan-de-estados-unidos-y-trump-al-caer-vs-belgica/"
         },
         {
           "outlet": "El Universal",
           "lean": "neutral",
-          "title": "US reports its first two deaths in a Michigan cyclospora outbreak",
-          "url": "https://www.eluniversal.com.mx/mundo/eu-reporta-2-muertes-por-cyclospora-en-michigan-van-mas-de-4-mil-casos-confirmados/",
-          "orig": "EU reporta primeras dos muertes por \"diarrea explosiva\" a causa de cyclospora en Michigan"
-        }
-      ]
-    },
-    {
-      "flag": "🇰🇷",
-      "name": "South Korea",
-      "region": "East Asia",
-      "items": [
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "New US ambassador begins mission with hotteok, hymns",
-          "url": "https://www.koreaherald.com/article/10828287",
-          "note": "A softer diplomatic opening after a tense stretch."
-        },
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "Former US envoy urges US to ease N. Korean travel ban, citing impact on aid workers",
-          "url": "https://www.koreaherald.com/article/10829803"
-        }
-      ]
-    },
-    {
-      "flag": "🇳🇬",
-      "name": "Nigeria",
-      "region": "West Africa",
-      "items": [
-        {
-          "outlet": "The Punch",
-          "lean": "neutral",
-          "title": "US to stop routine visa processing at Abuja embassy, 24 other African missions",
-          "url": "https://punchng.com/us-to-stop-routine-visa-processing-at-abuja-embassy-24-other-african-missions/"
-        },
-        {
-          "outlet": "The Punch",
-          "lean": "neutral",
-          "title": "Rema, Lisa, Anitta shine at World Cup 2026 opening ceremony",
-          "url": "https://punchng.com/rema-lisa-anitta-shine-at-world-cup-2026-opening-ceremony/"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇦",
-      "name": "Ukraine",
-      "region": "Eastern Europe",
-      "items": [
-        {
-          "outlet": "Kyiv Post",
-          "lean": "neutral",
-          "title": "US to Cede Command of Group Coordinating Military Aid, Training to Ukraine",
-          "url": "https://www.kyivpost.com/post/81592"
-        },
-        {
-          "outlet": "Kyiv Post",
-          "lean": "neutral",
-          "title": "Washington Drops Neutral Role, Backs Kyiv on Sanctions",
-          "url": "https://www.kyivpost.com/post/78992"
+          "title": "Trump hits record public discontent as 73% of Americans say he has ignored the country’s most urgent problems",
+          "orig": "Trump registra récord de descontento social; 73% de estadounidenses cree que no ha atendido los problemas más urgentes de EU",
+          "url": "https://www.eluniversal.com.mx/mundo/trump-registra-record-de-descontento-social-73-de-estadounidenses-cree-que-no-ha-atendido-los-problemas-mas-urgentes-de-eu/"
         }
       ]
     }
