@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-08-04",
-  "date_human": "Tuesday, August 4, 2026",
-  "summary": "10 countries. Iran and the tariffs fight lead the day, but coverage runs wide. Outlets carry a fresh US strike on Iran and reports of depleted US missile stocks, a 25-state lawsuit over new tariffs, a joint yen intervention with Japan, US sanctions on Russian defense units, a peso rescue for Argentina, a Fifth Amendment fight at home, Kenyan nurses chasing the American Dream, anti-Trump protests in US cities, and World Cup mockery in Mexico.",
+  "date_iso": "2026-08-05",
+  "date_human": "Wednesday, August 5, 2026",
+  "summary": "10 countries. The day's news runs from the war with Iran and a wave of US consulate closures to new tariffs, a planned ban on Chinese data-center parts, immigration, a legal case against Venezuela's Maduro, protests, and the 2026 World Cup. The mix spans economy, diplomacy, tech, courts, sport, and society, not one story alone.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -11,17 +11,17 @@
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "2026-08-04",
-          "title": "25 US states sue Trump administration over sweeping new tariffs",
-          "url": "https://www.france24.com/en/americas/20260804-25-us-states-sue-trump-administration-over-sweeping-new-tariffs",
-          "note": "The bloc of mostly Democratic-led states says the president exceeded his tax power."
+          "date": "2026-08-01",
+          "title": "US embassies urge citizens to consider departing Middle East",
+          "url": "https://www.france24.com/en/live-news/20260801-us-embassies-urge-citizens-to-consider-departing-middle-east"
         },
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "2026-08-01",
-          "title": "US embassies urge citizens to consider departing Middle East",
-          "url": "https://www.france24.com/en/live-news/20260801-us-embassies-urge-citizens-to-consider-departing-middle-east"
+          "date": "2026-07-04",
+          "title": "250 years of US independence: How France helped turn the tide of the Revolutionary War",
+          "url": "https://www.france24.com/en/americas/20260704-250-years-of-us-independence-how-france-helped-turn-the-tide-of-the-revolutionary-war",
+          "note": "An anniversary look back rather than a story from the front page."
         }
       ]
     },
@@ -33,17 +33,16 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-08-03",
-          "title": "Japan and U.S. confirm joint yen intervention",
-          "url": "https://www.japantimes.co.jp/business/2026/08/03/markets/japan-us-joint-yen-intervention/",
-          "note": "A rare coordinated move to steady a yen at levels last seen in 1986."
+          "date": "2026-08-04",
+          "title": "Bessent's yen rescue to boost U.S. pressure on Japan trade, rates",
+          "url": "https://www.japantimes.co.jp/business/2026/08/04/economy/bessent-yen-rescue-pressure-japan/"
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-08-03",
-          "title": "Taiwan minister says close ties with U.S. Pacific Command boost defense readiness",
-          "url": "https://www.japantimes.co.jp/news/2026/08/03/asia-pacific/politics/taiwan-us-pacific-command-defense/"
+          "date": "2026-07-16",
+          "title": "As shared values shift, what's next for U.S.-Japan relations?",
+          "url": "https://www.japantimes.co.jp/commentary/2026/07/16/japan/us-japan-relations-next/"
         }
       ]
     },
@@ -55,16 +54,16 @@
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-07-30",
-          "title": "US launches ‘heavy wave’ of new attacks on Iran",
-          "url": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran"
+          "date": "2026-08-02",
+          "title": "Most Americans say Trump has gone too far on US immigration: Poll",
+          "url": "https://www.aljazeera.com/news/2026/8/2/most-americans-say-trump-has-gone-too-far-on-us-immigration-poll"
         },
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-08-02",
-          "title": "Most Americans say Trump has gone too far on US immigration: Poll",
-          "url": "https://www.aljazeera.com/news/2026/8/2/most-americans-say-trump-has-gone-too-far-on-us-immigration-poll"
+          "date": "2026-07-30",
+          "title": "US launches 'heavy wave' of new attacks on Iran",
+          "url": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran"
         }
       ]
     },
@@ -74,18 +73,18 @@
       "region": "Eurasia",
       "items": [
         {
-          "outlet": "RT",
+          "outlet": "RT (Russian)",
           "lean": "state",
-          "title": "‘For violating US law’: Washington imposes sanctions on Russian Defence Ministry units",
-          "orig": "«За нарушение законодательства США»: Вашингтон ввёл санкции против подразделений Минобороны РФ",
-          "url": "https://russian.rt.com/world/article/1665442-ssha-sankcii-minoborony-rossiya"
+          "title": "WP: US annuls the visa of Brazil's ambassador",
+          "url": "https://russian.rt.com/world/news/1666013-ssha-viza-braziliya",
+          "orig": "WP: США аннулировали визу посла Бразилии"
         },
         {
-          "outlet": "RT",
+          "outlet": "RT (Russian)",
           "lean": "state",
-          "title": "Reuters: US has nearly exhausted its long-range missiles in the war with Iran",
-          "orig": "Reuters: США почти полностью израсходовали дальнобойные ракеты в войне с Ираном",
-          "url": "https://russian.rt.com/world/news/1665539-ssha-rakety-rashod-voina"
+          "title": "Reuters: US prepares a ban on importing new Chinese components for data centers",
+          "url": "https://russian.rt.com/world/news/1665774-ssha-zapret-kitayskie-komponenty-data-tsentry",
+          "orig": "Reuters: США готовят запрет на импорт новых компонентов из КНР для дата-центров"
         }
       ]
     },
@@ -97,14 +96,85 @@
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "US slaps fresh tariffs on China, over 50 other economies in latest wave",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3361650/us-slaps-fresh-tariffs-china-50-plus-countries-latest-wave"
+          "title": "US State Department to close consulates in Canada, Japan and Indonesia, sources say",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362853/us-state-department-close-consulates-canada-japan-and-indonesia-sources-say"
         },
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "Fauci’s refusals put spotlight on ‘pleading the Fifth’ right in US",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362344/faucis-silence-puts-fresh-spotlight-pleading-fifth-right-us"
+          "title": "China still on track to supplant US as world's No 1 economy in 10 years: academic",
+          "url": "https://www.scmp.com/economy/china-economy/article/3347863/china-still-track-supplant-us-worlds-no-1-economy-10-years-academic"
+        },
+        {
+          "outlet": "Global Times",
+          "lean": "state",
+          "title": "US reportedly plans to close five foreign missions; fiscal pressure pushes Washington toward more cost-conscious diplomatic strategy: Chinese expert",
+          "url": "https://www.globaltimes.cn/page/202608/1367520.shtml"
+        }
+      ]
+    },
+    {
+      "flag": "🇪🇺",
+      "name": "Europe",
+      "region": "Europe",
+      "items": [
+        {
+          "outlet": "Euronews",
+          "lean": "neutral",
+          "date": "2026-07-24",
+          "title": "US imposes new tariffs on dozens of countries over 'forced labour' claims",
+          "url": "https://www.euronews.com/business/2026/07/24/us-imposes-new-tariffs-on-dozens-of-countries-over-forced-labour-claims"
+        }
+      ]
+    },
+    {
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "region": "East Asia",
+      "items": [
+        {
+          "outlet": "The Korea Herald",
+          "lean": "neutral",
+          "title": "New US ambassador begins mission with hotteok, hymns",
+          "url": "https://www.koreaherald.com/article/10828287"
+        },
+        {
+          "outlet": "The Korea Herald",
+          "lean": "neutral",
+          "title": "Top military officers of S. Korea, US, Japan reaffirm 3-way cooperation against NK threats",
+          "url": "https://www.koreaherald.com/article/10810630"
+        }
+      ]
+    },
+    {
+      "flag": "🇳🇬",
+      "name": "Nigeria",
+      "region": "West Africa",
+      "items": [
+        {
+          "outlet": "The Punch",
+          "lean": "neutral",
+          "title": "Pochettino signs new USA contract until 2030 World Cup",
+          "url": "https://punchng.com/pochettino-signs-new-usa-contract-until-2030-world-cup/"
+        },
+        {
+          "outlet": "The Punch",
+          "lean": "neutral",
+          "title": "Another round of anti-Trump protests hits US cities",
+          "url": "https://punchng.com/another-round-of-anti-trump-protests-hits-us-cities/"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇦",
+      "name": "Ukraine",
+      "region": "Eastern Europe",
+      "items": [
+        {
+          "outlet": "Kyiv Post",
+          "lean": "neutral",
+          "title": "US to Cede Command of Group Coordinating Military Aid, Training to Ukraine",
+          "url": "https://www.kyivpost.com/post/81592"
         }
       ]
     },
@@ -116,90 +186,14 @@
         {
           "outlet": "Buenos Aires Times",
           "lean": "neutral",
-          "title": "United States buys pesos, confirms US$20-billion lifeline for Milei and Argentina",
-          "url": "https://batimes.com.ar/news/economy/united-states-buys-pesos-confirms-us20-billion-lifeline-for-milei-and-argentina.phtml",
-          "note": "Washington props up a close ally facing turbulent currency markets."
-        }
-      ]
-    },
-    {
-      "flag": "🇿🇦",
-      "name": "South Africa",
-      "region": "Southern Africa",
-      "items": [
-        {
-          "outlet": "News24",
-          "lean": "neutral",
-          "date": "2026-08-03",
-          "title": "Oil slumps on hopes of Iran deal, rand gains ground",
-          "url": "https://www.news24.com/business/markets/commodities/oil-slumps-on-hopes-of-iran-deal-rand-gains-ground-20260803-0600"
+          "title": "Maduro to face 'full wrath' of US law on drug, terrorism charges",
+          "url": "https://batimes.com.ar/news/latin-america/united-states-maduro-will-face-full-wrath-of-us-law-on-drug-terrorism-charges.phtml"
         },
         {
-          "outlet": "News24",
+          "outlet": "Buenos Aires Times",
           "lean": "neutral",
-          "date": "2026-07-31",
-          "title": "‘That’s going to be us’: Trump says ‘terrible’ Spain migrant crisis warning for US",
-          "url": "https://www.news24.com/world/thats-going-to-be-us-trump-says-terrible-spain-migrant-crisis-warning-for-us-20260731-0893"
-        }
-      ]
-    },
-    {
-      "flag": "🇰🇪",
-      "name": "Kenya",
-      "region": "East Africa",
-      "items": [
-        {
-          "outlet": "Daily Nation",
-          "lean": "neutral",
-          "title": "Scrubs and dollars: How Kenyan nurses are living American Dream",
-          "url": "https://nation.africa/kenya/diaspora/scrubs-and-dollars-how-kenyan-nurses-are-living-american-dream-5543896"
-        },
-        {
-          "outlet": "Daily Nation",
-          "lean": "neutral",
-          "title": "Not a single US dollar for condoms: Inside Kenya’s rising HIV and STI risks",
-          "url": "https://nation.africa/kenya/health/not-a-single-us-dollar-for-condoms-inside-kenya-s-rising-hiv-and-sti-risks--5419406",
-          "note": "US aid cuts land hard on frontline health programs."
-        }
-      ]
-    },
-    {
-      "flag": "🇹🇷",
-      "name": "Türkiye",
-      "region": "Middle East",
-      "items": [
-        {
-          "outlet": "Daily Sabah",
-          "lean": "progov",
-          "title": "3rd wave of anti-Trump ‘No Kings’ protests sweeps across US cities",
-          "url": "https://www.dailysabah.com/world/americas/3rd-wave-of-anti-trump-no-kings-protests-sweeps-across-us-cities"
-        },
-        {
-          "outlet": "Daily Sabah",
-          "lean": "progov",
-          "title": "Chinese automakers may enter US in next decade, Ford CEO tells employees",
-          "url": "https://www.dailysabah.com/business/economy/chinese-automakers-may-enter-us-in-next-decade-ford-ceo-tells-employees"
-        }
-      ]
-    },
-    {
-      "flag": "🇲🇽",
-      "name": "Mexico",
-      "region": "North America",
-      "items": [
-        {
-          "outlet": "El Universal",
-          "lean": "neutral",
-          "title": "Memes mock the United States and Trump after World Cup loss to Belgium",
-          "orig": "Memes se burlan de Estados Unidos y Trump al caer vs Bélgica",
-          "url": "https://www.eluniversal.com.mx/deportes/memes-se-burlan-de-estados-unidos-y-trump-al-caer-vs-belgica/"
-        },
-        {
-          "outlet": "El Universal",
-          "lean": "neutral",
-          "title": "Trump hits record public discontent as 73% of Americans say he has ignored the country’s most urgent problems",
-          "orig": "Trump registra récord de descontento social; 73% de estadounidenses cree que no ha atendido los problemas más urgentes de EU",
-          "url": "https://www.eluniversal.com.mx/mundo/trump-registra-record-de-descontento-social-73-de-estadounidenses-cree-que-no-ha-atendido-los-problemas-mas-urgentes-de-eu/"
+          "title": "United States at 250: More prosperous, more diverse, yet more divided",
+          "url": "https://batimes.com.ar/news/world/united-states-at-250-more-prosperous-more-diverse-yet-more-divided.phtml"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-08-04",
-  "date_human": "Tuesday, August 4, 2026",
+  "date_iso": "2026-08-05",
+  "date_human": "Wednesday, August 5, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,14 +11,14 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Trump’s Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
-          "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"
+          "title": "Immigration Agents Have Often Grabbed and Mistreated Citizens, Congressional Investigators Find",
+          "url": "https://www.propublica.org/article/immigration-agents-detained-mistreated-citizens-congressional-investigation"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Trump Administration Killed Criminal Investigation of GOP Senator’s Coal Companies",
-          "url": "https://www.propublica.org/article/trump-jim-justice-doj-southern-coal-investigation-west-virginia"
+          "title": "Trump's Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
+          "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"
         }
       ]
     },
@@ -30,16 +30,16 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "2026-06-24",
-          "title": "The Intercept Sues to Uncover Secretive Government Anti-Protester Database",
-          "url": "https://theintercept.com/2026/06/24/intercept-lawsuit-ice-protesters-surveillance-travel/"
+          "date": "2026-07-20",
+          "title": "U.S. Official: Iran Attacks Injured “Far More” Troops Than Pentagon Admits",
+          "url": "https://theintercept.com/2026/07/20/united-states-iran-war-casualties-cover-up-pentagon/"
         },
         {
           "outlet": "Jacobin",
           "lean": "left",
-          "date": "2026-01",
-          "title": "ICE Detention Contractors Are Reaping Massive Profits",
-          "url": "https://jacobin.com/2026/01/ice-migrant-detention-contractors-profits"
+          "date": "2026-06",
+          "title": "How to Democratize the United States",
+          "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
         }
       ]
     },
@@ -51,15 +51,15 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "2026-07-31",
-          "title": "A small spice company is leading the latest challenge to Trump's tariffs",
-          "url": "https://reason.com/2026/07/31/meet-the-spice-entrepreneur-challenging-trumps-newest-tariffs/"
+          "date": "2026-07-16",
+          "title": "Why foreign tourism to the U.S. is declining under Trump",
+          "url": "https://reason.com/2026/07/16/tourism-to-the-u-s-is-declining/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "title": "Trump’s Fossil Fuel Revival Stalls",
-          "url": "https://thedispatch.com/newsletter/dispatch-energy/trumps-oil-coal-gas-fossil-fuels/"
+          "title": "Why America Is the World's Corporate Headquarters",
+          "url": "https://thedispatch.com/article/big-companies-united-states-explained/"
         },
         {
           "outlet": "UnHerd (UK)",
@@ -78,22 +78,23 @@
         {
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "date": "2026-07-31",
-          "title": "‘I’m not sure’: Trump casts doubt on his offer to let Ukraine produce Patriot missiles",
-          "url": "https://meduza.io/en/news/2026/07/31/i-m-not-sure-trump-casts-doubt-on-his-offer-to-let-ukraine-produce-patriot-missiles"
+          "date": "2026-03-27",
+          "title": "Ukrainians who came to the US under Biden are being deported under Trump. For some it is a route straight to the war",
+          "url": "https://meduza.io/feature/2026/03/27/ukraintsev-priehavshih-v-ssha-pri-baydene-pri-trampe-nachali-vysylat-obratno-dlya-nekotoryh-eto-otpravka-pryamikom-na-voynu",
+          "orig": "Украинцев, приехавших в США при Байдене, при Трампе начали высылать обратно"
         },
         {
           "outlet": "IranWire (Iran, in exile)",
           "lean": "exile",
-          "title": "US Senate Advances Bill to Extend Iran Sanctions Until 2031",
-          "url": "https://iranwire.com/en/news/155613-us-senate-advances-bill-to-extend-iran-sanctions-until-2031/"
+          "title": "CENTCOM Refutes IRGC Claims of Control Over the Strait of Hormuz",
+          "url": "https://iranwire.com/en/news/155355-centcom-refutes-irgc-claims-of-control-over-the-strait-of-hormuz/"
         },
         {
           "outlet": "Hong Kong Free Press",
           "lean": "exile",
-          "date": "2026-07-19",
-          "title": "US ends its state of emergency over Hong Kong security threat",
-          "url": "https://hongkongfp.com/2026/07/19/us-ends-its-state-of-emergency-over-hong-kong-security-threat/"
+          "date": "2026-07-30",
+          "title": "China accuses US of suppression over humanoid robot ban",
+          "url": "https://hongkongfp.com/2026/07/30/china-accuses-us-of-suppression-over-humanoid-robot-ban/"
         }
       ]
     },
@@ -105,20 +106,20 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "Trump moves to revoke US citizenships from naturalised Americans",
-          "url": "https://www.middleeasteye.net/news/trump-moves-revoke-us-citizenships-naturalised-americans"
+          "title": "Buried in the new defence budget, a plan to merge the US and Israeli militaries",
+          "url": "https://www.middleeasteye.net/news/buried-new-defence-budget-plan-to-merge-us-israeli-militaries"
         },
         {
           "outlet": "The Wire (India)",
           "lean": "indie",
-          "title": "Jaishankar Raises US Visa Restrictions as Rubio Defends Trump’s ‘America First’ Policies",
-          "url": "https://m.thewire.in/article/diplomacy/jaishankar-raises-us-visa-restrictions-as-rubio-defends-trumps-america-first-policies"
+          "title": "The World Has Lost Faith in Trump, But India Remains Uncertain, Finds Survey",
+          "url": "https://thewire.in/world/the-world-has-lost-faith-in-trump-india-remains-uncertain"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "How the world sees Donald Trump: surveys show other countries see US president as ‘unreliable’ and ‘dangerous’",
-          "url": "https://theconversation.com/how-the-world-sees-donald-trump-surveys-show-other-countries-see-us-president-as-unreliable-and-dangerous-283305"
+          "title": "New Trump administration rules on federal science funding could make American research slower, costlier and harder to share",
+          "url": "https://theconversation.com/new-trump-administration-rules-on-federal-science-funding-could-make-american-research-slower-costlier-and-harder-to-share-286430"
         }
       ]
     }
