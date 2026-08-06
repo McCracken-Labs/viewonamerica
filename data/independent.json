@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-08-05",
-  "date_human": "Wednesday, August 5, 2026",
+  "date_iso": "2026-08-06",
+  "date_human": "Thursday, August 6, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -13,12 +13,6 @@
           "lean": "invest",
           "title": "Immigration Agents Have Often Grabbed and Mistreated Citizens, Congressional Investigators Find",
           "url": "https://www.propublica.org/article/immigration-agents-detained-mistreated-citizens-congressional-investigation"
-        },
-        {
-          "outlet": "ProPublica",
-          "lean": "invest",
-          "title": "Trump's Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
-          "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"
         }
       ]
     },
@@ -31,15 +25,15 @@
           "outlet": "The Intercept",
           "lean": "left",
           "date": "2026-07-20",
-          "title": "U.S. Official: Iran Attacks Injured “Far More” Troops Than Pentagon Admits",
+          "title": "U.S. Official: Iran Attacks Injured \"Far More\" Troops Than Pentagon Admits",
           "url": "https://theintercept.com/2026/07/20/united-states-iran-war-casualties-cover-up-pentagon/"
         },
         {
           "outlet": "Jacobin",
           "lean": "left",
-          "date": "2026-06",
-          "title": "How to Democratize the United States",
-          "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
+          "date": "2026-08",
+          "title": "No, Americans Aren't Better Off Than Western Europeans",
+          "url": "https://jacobin.com/2026/08/gdp-us-europe-economy-inequality"
         }
       ]
     },
@@ -51,15 +45,15 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "2026-07-16",
-          "title": "Why foreign tourism to the U.S. is declining under Trump",
-          "url": "https://reason.com/2026/07/16/tourism-to-the-u-s-is-declining/"
+          "date": "2026-08-05",
+          "title": "Senators want to claw back Trump's spending power. They should just pass a real budget instead.",
+          "url": "https://reason.com/2026/08/05/senators-want-to-claw-back-trumps-spending-power-they-should-just-pass-a-real-budget-instead/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "title": "Why America Is the World's Corporate Headquarters",
-          "url": "https://thedispatch.com/article/big-companies-united-states-explained/"
+          "title": "Here Comes Another Round of Sham Tariffs",
+          "url": "https://thedispatch.com/newsletter/dispatch-markets/trump-tariffs-section-301-forced-labor-pretext/"
         },
         {
           "outlet": "UnHerd (UK)",
@@ -76,12 +70,10 @@
       "region": "Diaspora newsrooms covering home, and its US dealings, from abroad",
       "items": [
         {
-          "outlet": "Meduza (Russia, in exile)",
+          "outlet": "The Kyiv Independent (Ukraine)",
           "lean": "exile",
-          "date": "2026-03-27",
-          "title": "Ukrainians who came to the US under Biden are being deported under Trump. For some it is a route straight to the war",
-          "url": "https://meduza.io/feature/2026/03/27/ukraintsev-priehavshih-v-ssha-pri-baydene-pri-trampe-nachali-vysylat-obratno-dlya-nekotoryh-eto-otpravka-pryamikom-na-voynu",
-          "orig": "Украинцев, приехавших в США при Байдене, при Трампе начали высылать обратно"
+          "title": "US hits Russian military entities, citizens with sanctions over links to Iran, North Korea, Syria",
+          "url": "https://kyivindependent.com/us-hits-russian-military-entities-citizens-with-sanctions/"
         },
         {
           "outlet": "IranWire (Iran, in exile)",
@@ -90,11 +82,12 @@
           "url": "https://iranwire.com/en/news/155355-centcom-refutes-irgc-claims-of-control-over-the-strait-of-hormuz/"
         },
         {
-          "outlet": "Hong Kong Free Press",
+          "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "date": "2026-07-30",
-          "title": "China accuses US of suppression over humanoid robot ban",
-          "url": "https://hongkongfp.com/2026/07/30/china-accuses-us-of-suppression-over-humanoid-robot-ban/"
+          "date": "2026-05-28",
+          "title": "Kallas says the US evacuated diplomats from Kyiv after Russian strike threats; the US embassy and Ukraine's foreign ministry deny it",
+          "orig": "Кая Каллас заявила, что США эвакуировали дипломатов из Киева после угроз России нанести удары. Посольство США и МИД Украины это отрицают",
+          "url": "https://meduza.io/news/2026/05/28/kaya-kallas-zayavila-chto-ssha-evakuirovali-diplomatov-iz-kieva-posle-ugroz-rossii-nanesti-udary-mid-ukrainy-s-ney-ne-soglasen"
         }
       ]
     },
@@ -106,20 +99,20 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "Buried in the new defence budget, a plan to merge the US and Israeli militaries",
-          "url": "https://www.middleeasteye.net/news/buried-new-defence-budget-plan-to-merge-us-israeli-militaries"
+          "title": "US depleted 'virtually all' long-range precision missiles during Iran war: Report",
+          "url": "https://www.middleeasteye.net/news/us-depleted-virtually-all-long-range-precision-missiles-iran-war-report"
         },
         {
           "outlet": "The Wire (India)",
           "lean": "indie",
           "title": "The World Has Lost Faith in Trump, But India Remains Uncertain, Finds Survey",
-          "url": "https://thewire.in/world/the-world-has-lost-faith-in-trump-india-remains-uncertain"
+          "url": "https://m.thewire.in/article/world/the-world-has-lost-faith-in-trump-india-remains-uncertain/amp"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "New Trump administration rules on federal science funding could make American research slower, costlier and harder to share",
-          "url": "https://theconversation.com/new-trump-administration-rules-on-federal-science-funding-could-make-american-research-slower-costlier-and-harder-to-share-286430"
+          "title": "The end of 'Pax Americana' and start of a 'post-American' era doesn't necessarily mean the world will be less safe",
+          "url": "https://theconversation.com/the-end-of-pax-americana-and-start-of-a-post-american-era-doesnt-necessarily-mean-the-world-will-be-less-safe-274354"
         }
       ]
     }

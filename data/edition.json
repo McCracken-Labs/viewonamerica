@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-08-05",
-  "date_human": "Wednesday, August 5, 2026",
-  "summary": "10 countries. The day's news runs from the war with Iran and a wave of US consulate closures to new tariffs, a planned ban on Chinese data-center parts, immigration, a legal case against Venezuela's Maduro, protests, and the 2026 World Cup. The mix spans economy, diplomacy, tech, courts, sport, and society, not one story alone.",
+  "date_iso": "2026-08-06",
+  "date_human": "Thursday, August 6, 2026",
+  "summary": "10 countries. America's Middle East tensions and a rare US-Japan currency intervention led the day, but the world's front pages also carried US courts and elections, a deadly cyclospora outbreak, immigration and visa rules, climate rankings, and Kenyan nurses chasing the American Dream.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -14,14 +14,6 @@
           "date": "2026-08-01",
           "title": "US embassies urge citizens to consider departing Middle East",
           "url": "https://www.france24.com/en/live-news/20260801-us-embassies-urge-citizens-to-consider-departing-middle-east"
-        },
-        {
-          "outlet": "France 24",
-          "lean": "funded",
-          "date": "2026-07-04",
-          "title": "250 years of US independence: How France helped turn the tide of the Revolutionary War",
-          "url": "https://www.france24.com/en/americas/20260704-250-years-of-us-independence-how-france-helped-turn-the-tide-of-the-revolutionary-war",
-          "note": "An anniversary look back rather than a story from the front page."
         }
       ]
     },
@@ -33,16 +25,17 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-08-04",
-          "title": "Bessent's yen rescue to boost U.S. pressure on Japan trade, rates",
-          "url": "https://www.japantimes.co.jp/business/2026/08/04/economy/bessent-yen-rescue-pressure-japan/"
+          "date": "2026-08-05",
+          "title": "Japan and U.S. begin working-level talks on host nation support",
+          "url": "https://www.japantimes.co.jp/news/2026/08/05/japan/politics/us-japan-host-nation-support/"
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-07-16",
-          "title": "As shared values shift, what's next for U.S.-Japan relations?",
-          "url": "https://www.japantimes.co.jp/commentary/2026/07/16/japan/us-japan-relations-next/"
+          "date": "2026-08-04",
+          "title": "Bessent's yen rescue to boost U.S. pressure on Japan trade, rates",
+          "url": "https://www.japantimes.co.jp/business/2026/08/04/economy/bessent-yen-rescue-pressure-japan/",
+          "note": "Read in Tokyo as Washington leveraging a currency rescue for trade concessions."
         }
       ]
     },
@@ -54,37 +47,37 @@
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-08-02",
-          "title": "Most Americans say Trump has gone too far on US immigration: Poll",
-          "url": "https://www.aljazeera.com/news/2026/8/2/most-americans-say-trump-has-gone-too-far-on-us-immigration-poll"
+          "date": "2026-08-06",
+          "title": "Senate panel votes to hold former official Fauci in contempt of Congress",
+          "url": "https://www.aljazeera.com/news/2026/8/6/senate-panel-votes-to-hold-former-official-fauci-in-contempt-of-congress"
         },
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-07-30",
-          "title": "US launches 'heavy wave' of new attacks on Iran",
-          "url": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran"
+          "date": "2026-08-05",
+          "title": "Abdul El-Sayed wins Michigan Democratic primary for Senate in blow to AIPAC",
+          "url": "https://www.aljazeera.com/news/2026/8/5/abdul-el-sayed-wins-michigan-democratic-primary-for-senate-in-blow-to-aipac"
         }
       ]
     },
     {
       "flag": "🇷🇺",
       "name": "Russia",
-      "region": "Eurasia",
+      "region": "Eastern Europe",
       "items": [
         {
-          "outlet": "RT (Russian)",
+          "outlet": "RT",
           "lean": "state",
           "title": "WP: US annuls the visa of Brazil's ambassador",
-          "url": "https://russian.rt.com/world/news/1666013-ssha-viza-braziliya",
-          "orig": "WP: США аннулировали визу посла Бразилии"
+          "orig": "WP: США аннулировали визу посла Бразилии",
+          "url": "https://russian.rt.com/world/news/1666013-ssha-viza-braziliya"
         },
         {
-          "outlet": "RT (Russian)",
+          "outlet": "RT",
           "lean": "state",
-          "title": "Reuters: US prepares a ban on importing new Chinese components for data centers",
-          "url": "https://russian.rt.com/world/news/1665774-ssha-zapret-kitayskie-komponenty-data-tsentry",
-          "orig": "Reuters: США готовят запрет на импорт новых компонентов из КНР для дата-центров"
+          "title": "US imposes sanctions on units of Russia's Defence Ministry",
+          "orig": "США ввели санкции против подразделений МО России",
+          "url": "https://russian.rt.com/world/news/1665333-ssha-sankcii-minoborony"
         }
       ]
     },
@@ -94,22 +87,11 @@
       "region": "East Asia",
       "items": [
         {
-          "outlet": "South China Morning Post",
-          "lean": "neutral",
-          "title": "US State Department to close consulates in Canada, Japan and Indonesia, sources say",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362853/us-state-department-close-consulates-canada-japan-and-indonesia-sources-say"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "lean": "neutral",
-          "title": "China still on track to supplant US as world's No 1 economy in 10 years: academic",
-          "url": "https://www.scmp.com/economy/china-economy/article/3347863/china-still-track-supplant-us-worlds-no-1-economy-10-years-academic"
-        },
-        {
           "outlet": "Global Times",
           "lean": "state",
-          "title": "US reportedly plans to close five foreign missions; fiscal pressure pushes Washington toward more cost-conscious diplomatic strategy: Chinese expert",
-          "url": "https://www.globaltimes.cn/page/202608/1367520.shtml"
+          "title": "Japan, US intervened in currency market for 1st time in 15 years",
+          "url": "https://www.globaltimes.cn/page/202608/1367401.shtml",
+          "note": "Beijing's state paper frames the joint yen buying as a sign of strain in the US-led financial order."
         }
       ]
     },
@@ -121,79 +103,83 @@
         {
           "outlet": "Euronews",
           "lean": "neutral",
-          "date": "2026-07-24",
-          "title": "US imposes new tariffs on dozens of countries over 'forced labour' claims",
-          "url": "https://www.euronews.com/business/2026/07/24/us-imposes-new-tariffs-on-dozens-of-countries-over-forced-labour-claims"
-        }
-      ]
-    },
-    {
-      "flag": "🇰🇷",
-      "name": "South Korea",
-      "region": "East Asia",
-      "items": [
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "New US ambassador begins mission with hotteok, hymns",
-          "url": "https://www.koreaherald.com/article/10828287"
+          "date": "2026-08-04",
+          "title": "What is Cyclospora? Two deaths as US outbreak puts Europe on alert",
+          "url": "https://www.euronews.com/my-europe/2026/08/04/what-is-cyclospora-two-deaths-as-us-outbreak-puts-europe-on-alert"
         },
         {
-          "outlet": "The Korea Herald",
+          "outlet": "Euronews",
           "lean": "neutral",
-          "title": "Top military officers of S. Korea, US, Japan reaffirm 3-way cooperation against NK threats",
-          "url": "https://www.koreaherald.com/article/10810630"
+          "date": "2026-07-30",
+          "title": "How the EU AI Act is reshaping company rules from Washington to Tokyo",
+          "url": "https://www.euronews.com/next/2026/07/30/how-the-eu-ai-act-is-reshaping-company-rules-from-washington-to-tokyo"
         }
       ]
     },
     {
-      "flag": "🇳🇬",
-      "name": "Nigeria",
-      "region": "West Africa",
+      "flag": "🇹🇷",
+      "name": "Türkiye",
+      "region": "Middle East",
       "items": [
         {
-          "outlet": "The Punch",
-          "lean": "neutral",
-          "title": "Pochettino signs new USA contract until 2030 World Cup",
-          "url": "https://punchng.com/pochettino-signs-new-usa-contract-until-2030-world-cup/"
+          "outlet": "Daily Sabah",
+          "lean": "progov",
+          "title": "3rd wave of anti-Trump 'No Kings' protests sweeps across US cities",
+          "url": "https://www.dailysabah.com/world/americas/3rd-wave-of-anti-trump-no-kings-protests-sweeps-across-us-cities"
         },
         {
-          "outlet": "The Punch",
-          "lean": "neutral",
-          "title": "Another round of anti-Trump protests hits US cities",
-          "url": "https://punchng.com/another-round-of-anti-trump-protests-hits-us-cities/"
+          "outlet": "Daily Sabah",
+          "lean": "progov",
+          "title": "US mulls closing 5 diplomatic posts, expands Libya, Syria presence",
+          "url": "https://www.dailysabah.com/world/americas/us-mulls-closing-5-diplomatic-posts-expands-libya-syria-presence"
         }
       ]
     },
     {
-      "flag": "🇺🇦",
-      "name": "Ukraine",
-      "region": "Eastern Europe",
+      "flag": "🇲🇽",
+      "name": "Mexico",
+      "region": "Latin America",
       "items": [
         {
-          "outlet": "Kyiv Post",
+          "outlet": "El Universal",
           "lean": "neutral",
-          "title": "US to Cede Command of Group Coordinating Military Aid, Training to Ukraine",
-          "url": "https://www.kyivpost.com/post/81592"
-        }
-      ]
-    },
-    {
-      "flag": "🇦🇷",
-      "name": "Argentina",
-      "region": "South America",
-      "items": [
-        {
-          "outlet": "Buenos Aires Times",
-          "lean": "neutral",
-          "title": "Maduro to face 'full wrath' of US law on drug, terrorism charges",
-          "url": "https://batimes.com.ar/news/latin-america/united-states-maduro-will-face-full-wrath-of-us-law-on-drug-terrorism-charges.phtml"
+          "title": "US visa: America to require deposits of 15,000 dollars",
+          "orig": "Visa americana: Estados Unidos pedirá depósitos de 15,000 dólares",
+          "url": "https://www.eluniversal.com.mx/destinos/visa-americana-estados-unidos-pedira-depositos-de-15000-dolares/"
         },
         {
-          "outlet": "Buenos Aires Times",
+          "outlet": "El Universal",
           "lean": "neutral",
-          "title": "United States at 250: More prosperous, more diverse, yet more divided",
-          "url": "https://batimes.com.ar/news/world/united-states-at-250-more-prosperous-more-diverse-yet-more-divided.phtml"
+          "title": "United States falls in the Climate Performance Index",
+          "orig": "Estados Unidos cae en el Índice de Desempeño Climático",
+          "url": "https://www.eluniversal.com.mx/mundo/estados-unidos-cae-en-el-indice-de-desempeno-climatico/"
+        }
+      ]
+    },
+    {
+      "flag": "🇰🇪",
+      "name": "Kenya",
+      "region": "East Africa",
+      "items": [
+        {
+          "outlet": "Daily Nation",
+          "lean": "neutral",
+          "title": "Scrubs and dollars: How Kenyan nurses are living the American Dream",
+          "url": "https://nation.africa/kenya/diaspora/scrubs-and-dollars-how-kenyan-nurses-are-living-american-dream-5543896"
+        }
+      ]
+    },
+    {
+      "flag": "🇿🇦",
+      "name": "South Africa",
+      "region": "Southern Africa",
+      "items": [
+        {
+          "outlet": "News24",
+          "lean": "neutral",
+          "date": "2026-08-04",
+          "title": "From Gulag to Autocracy Inc: Anne Applebaum on why democracies can still win",
+          "url": "https://www.news24.com/opinions/analysis/from-gulag-to-autocracy-inc-anne-applebaum-on-why-democracies-can-still-win-20260804-0730"
         }
       ]
     }
