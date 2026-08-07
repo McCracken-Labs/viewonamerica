@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-08-06",
-  "date_human": "Thursday, August 6, 2026",
-  "summary": "10 countries. America's Middle East tensions and a rare US-Japan currency intervention led the day, but the world's front pages also carried US courts and elections, a deadly cyclospora outbreak, immigration and visa rules, climate rankings, and Kenyan nurses chasing the American Dream.",
+  "date_iso": "2026-08-07",
+  "date_human": "Friday, August 7, 2026",
+  "summary": "11 countries today, with coverage spread across trade, immigration, courts, diplomacy, elections, sport and the economy. A fresh US tariff wave and a coordinated US and Japan currency move lead the economic news, while immigration and citizenship stories run from Nigeria to Mexico. The Iran war, Ukraine aid and a US midterm primary round out the mix.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -11,9 +11,9 @@
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "2026-08-01",
           "title": "US embassies urge citizens to consider departing Middle East",
-          "url": "https://www.france24.com/en/live-news/20260801-us-embassies-urge-citizens-to-consider-departing-middle-east"
+          "url": "https://www.france24.com/en/live-news/20260801-us-embassies-urge-citizens-to-consider-departing-middle-east",
+          "note": "Security advisory as tensions with Iran persist."
         }
       ]
     },
@@ -25,17 +25,15 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-08-05",
-          "title": "Japan and U.S. begin working-level talks on host nation support",
-          "url": "https://www.japantimes.co.jp/news/2026/08/05/japan/politics/us-japan-host-nation-support/"
+          "title": "Japan and U.S. confirm joint yen intervention",
+          "url": "https://www.japantimes.co.jp/business/2026/08/03/markets/japan-us-joint-yen-intervention/",
+          "note": "First coordinated yen buying in decades."
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-08-04",
-          "title": "Bessent's yen rescue to boost U.S. pressure on Japan trade, rates",
-          "url": "https://www.japantimes.co.jp/business/2026/08/04/economy/bessent-yen-rescue-pressure-japan/",
-          "note": "Read in Tokyo as Washington leveraging a currency rescue for trade concessions."
+          "title": "Japanese favorability toward U.S. falls below 30%, survey finds",
+          "url": "https://www.japantimes.co.jp/news/2026/05/19/japan/politics/japan-us-favorability-fall/"
         }
       ]
     },
@@ -47,37 +45,36 @@
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-08-06",
-          "title": "Senate panel votes to hold former official Fauci in contempt of Congress",
-          "url": "https://www.aljazeera.com/news/2026/8/6/senate-panel-votes-to-hold-former-official-fauci-in-contempt-of-congress"
+          "title": "How Abdul El-Sayed’s ‘extraordinary’ win stunned pro-Israel establishment",
+          "url": "https://www.aljazeera.com/news/2026/8/6/how-abdul-el-sayeds-extraordinary-win-stunned-pro-israel-establishment",
+          "note": "Michigan Democratic Senate primary result."
         },
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-08-05",
-          "title": "Abdul El-Sayed wins Michigan Democratic primary for Senate in blow to AIPAC",
-          "url": "https://www.aljazeera.com/news/2026/8/5/abdul-el-sayed-wins-michigan-democratic-primary-for-senate-in-blow-to-aipac"
+          "title": "Ten observations after attending a World Cup match in the US",
+          "url": "https://www.aljazeera.com/news/2026/6/13/ten-observations-after-attending-a-world-cup-match-in-the-us"
         }
       ]
     },
     {
       "flag": "🇷🇺",
       "name": "Russia",
-      "region": "Eastern Europe",
+      "region": "Eurasia",
       "items": [
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "WP: US annuls the visa of Brazil's ambassador",
-          "orig": "WP: США аннулировали визу посла Бразилии",
-          "url": "https://russian.rt.com/world/news/1666013-ssha-viza-braziliya"
+          "title": "US reports mass layoffs of workers across various sectors",
+          "url": "https://russian.rt.com/world/news/1666990-ssha-sokraschenie-sotrudnikov",
+          "orig": "В США сообщили о массовом сокращении сотрудников из разных сфер"
         },
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "US imposes sanctions on units of Russia's Defence Ministry",
-          "orig": "США ввели санкции против подразделений МО России",
-          "url": "https://russian.rt.com/world/news/1665333-ssha-sankcii-minoborony"
+          "title": "Trump bans ‘birth tourism’ in the US",
+          "url": "https://russian.rt.com/world/news/1666763-tramp-zapretil-rodilniy-turizm",
+          "orig": "Трамп запретил «родильный туризм» в США"
         }
       ]
     },
@@ -87,45 +84,62 @@
       "region": "East Asia",
       "items": [
         {
+          "outlet": "South China Morning Post",
+          "lean": "neutral",
+          "title": "US slaps fresh tariffs on China, over 50 other economies in latest wave",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3361650/us-slaps-fresh-tariffs-china-50-plus-countries-latest-wave"
+        },
+        {
           "outlet": "Global Times",
           "lean": "state",
-          "title": "Japan, US intervened in currency market for 1st time in 15 years",
-          "url": "https://www.globaltimes.cn/page/202608/1367401.shtml",
-          "note": "Beijing's state paper frames the joint yen buying as a sign of strain in the US-led financial order."
+          "title": "US reportedly plans to close five foreign missions; fiscal pressure pushes Washington toward more cost-conscious diplomatic strategy: Chinese expert",
+          "url": "https://www.globaltimes.cn/page/202608/1367520.shtml"
         }
       ]
     },
     {
-      "flag": "🇪🇺",
-      "name": "Europe",
-      "region": "Europe",
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "region": "East Asia",
       "items": [
         {
-          "outlet": "Euronews",
+          "outlet": "The Korea Herald",
           "lean": "neutral",
-          "date": "2026-08-04",
-          "title": "What is Cyclospora? Two deaths as US outbreak puts Europe on alert",
-          "url": "https://www.euronews.com/my-europe/2026/08/04/what-is-cyclospora-two-deaths-as-us-outbreak-puts-europe-on-alert"
+          "title": "US announces 12.5% tariffs on S. Korea, 59 others over forced labor concerns",
+          "url": "https://www.koreaherald.com/article/10818622",
+          "note": "Section 301 levies take effect Friday, Washington time."
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇦",
+      "name": "Ukraine",
+      "region": "Eastern Europe",
+      "items": [
+        {
+          "outlet": "Kyiv Post",
+          "lean": "neutral",
+          "title": "US to Cede Command of Group Coordinating Military Aid, Training to Ukraine",
+          "url": "https://www.kyivpost.com/post/81592"
         },
         {
-          "outlet": "Euronews",
+          "outlet": "Kyiv Post",
           "lean": "neutral",
-          "date": "2026-07-30",
-          "title": "How the EU AI Act is reshaping company rules from Washington to Tokyo",
-          "url": "https://www.euronews.com/next/2026/07/30/how-the-eu-ai-act-is-reshaping-company-rules-from-washington-to-tokyo"
+          "title": "Ukraine Has Restored Full US Intelligence Support Since 2025 Freeze, Boosting Strikes Inside Russia",
+          "url": "https://www.kyivpost.com/post/81812"
         }
       ]
     },
     {
       "flag": "🇹🇷",
       "name": "Türkiye",
-      "region": "Middle East",
+      "region": "Eastern Mediterranean",
       "items": [
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "3rd wave of anti-Trump 'No Kings' protests sweeps across US cities",
-          "url": "https://www.dailysabah.com/world/americas/3rd-wave-of-anti-trump-no-kings-protests-sweeps-across-us-cities"
+          "title": "United States respects Turkish plan to join BRICS",
+          "url": "https://www.dailysabah.com/politics/diplomacy/united-states-respects-turkish-plan-to-join-brics"
         },
         {
           "outlet": "Daily Sabah",
@@ -143,43 +157,54 @@
         {
           "outlet": "El Universal",
           "lean": "neutral",
-          "title": "US visa: America to require deposits of 15,000 dollars",
-          "orig": "Visa americana: Estados Unidos pedirá depósitos de 15,000 dólares",
-          "url": "https://www.eluniversal.com.mx/destinos/visa-americana-estados-unidos-pedira-depositos-de-15000-dolares/"
+          "title": "United States avoids submitting to the UN human rights review",
+          "url": "https://www.eluniversal.com.mx/mundo/estados-unidos-evita-someterse-al-examen-de-derechos-humanos-de-la-onu/",
+          "orig": "Estados Unidos evita someterse al examen de derechos humanos de la ONU"
         },
         {
           "outlet": "El Universal",
           "lean": "neutral",
           "title": "United States falls in the Climate Performance Index",
-          "orig": "Estados Unidos cae en el Índice de Desempeño Climático",
-          "url": "https://www.eluniversal.com.mx/mundo/estados-unidos-cae-en-el-indice-de-desempeno-climatico/"
+          "url": "https://www.eluniversal.com.mx/mundo/estados-unidos-cae-en-el-indice-de-desempeno-climatico/",
+          "orig": "Estados Unidos cae en el Índice de Desempeño Climático"
         }
       ]
     },
     {
-      "flag": "🇰🇪",
-      "name": "Kenya",
-      "region": "East Africa",
+      "flag": "🇦🇷",
+      "name": "Argentina",
+      "region": "Latin America",
       "items": [
         {
-          "outlet": "Daily Nation",
+          "outlet": "Buenos Aires Times",
           "lean": "neutral",
-          "title": "Scrubs and dollars: How Kenyan nurses are living the American Dream",
-          "url": "https://nation.africa/kenya/diaspora/scrubs-and-dollars-how-kenyan-nurses-are-living-american-dream-5543896"
+          "title": "Maduro to face 'full wrath' of US law on drug, terrorism charges",
+          "url": "https://batimes.com.ar/news/latin-america/united-states-maduro-will-face-full-wrath-of-us-law-on-drug-terrorism-charges.phtml"
         }
       ]
     },
     {
-      "flag": "🇿🇦",
-      "name": "South Africa",
-      "region": "Southern Africa",
+      "flag": "🇳🇬",
+      "name": "Nigeria",
+      "region": "West Africa",
       "items": [
         {
-          "outlet": "News24",
+          "outlet": "The Punch",
           "lean": "neutral",
-          "date": "2026-08-04",
-          "title": "From Gulag to Autocracy Inc: Anne Applebaum on why democracies can still win",
-          "url": "https://www.news24.com/opinions/analysis/from-gulag-to-autocracy-inc-anne-applebaum-on-why-democracies-can-still-win-20260804-0730"
+          "title": "US to revoke citizenship of three Nigerians in major crackdown",
+          "url": "https://punchng.com/us-to-revoke-citizenship-of-three-nigerians-in-major-crackdown/"
+        },
+        {
+          "outlet": "The Punch",
+          "lean": "neutral",
+          "title": "US backs 200 Nigerian entrepreneurs for local, export markets",
+          "url": "https://punchng.com/us-backs-200-nigerian-entrepreneurs-for-local-export-markets/"
+        },
+        {
+          "outlet": "The Punch",
+          "lean": "neutral",
+          "title": "Joshua vs Fury fight likely in USA, not UK",
+          "url": "https://punchng.com/usa-to-host-joshua-vs-fury-match/"
         }
       ]
     }
