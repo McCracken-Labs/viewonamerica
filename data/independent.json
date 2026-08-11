@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-08-10",
-  "date_human": "Monday, August 10, 2026",
+  "date_iso": "2026-08-11",
+  "date_human": "Tuesday, August 11, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,15 +11,15 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Trump's Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
-          "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations",
-          "note": "Terrorism, white-collar and drug cases among those shelved."
+          "title": "White Parents Rallied to Chase a Black Educator Out of Town. Then, They Followed Her to the Next One.",
+          "url": "https://www.propublica.org/article/georgia-dei-crt-schools-parents",
+          "note": "A look at how school culture fights play out in one Georgia town."
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Immigration Agents Have Often Grabbed and Mistreated Citizens, Congressional Investigators Find",
-          "url": "https://www.propublica.org/article/immigration-agents-detained-mistreated-citizens-congressional-investigation"
+          "title": "How a Chinese American Gangster Transformed Money Laundering for Drug Cartels",
+          "url": "https://www.propublica.org/article/china-cartels-xizhi-li-money-laundering"
         }
       ]
     },
@@ -31,15 +31,23 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
+          "date": "2026-07-18",
           "title": "The United States of Betrayal",
           "url": "https://theintercept.com/2026/07/18/united-states-betray-allies-trump-foreign-policy/"
         },
         {
           "outlet": "Jacobin",
           "lean": "left",
-          "title": "No, Americans Aren't Better Off Than Western Europeans",
-          "url": "https://jacobin.com/2026/08/gdp-us-europe-economy-inequality",
-          "note": "A wealth gap that the raw GDP numbers hide."
+          "date": "2026-06",
+          "title": "How to Democratize the United States",
+          "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
+        },
+        {
+          "outlet": "The Intercept",
+          "lean": "left",
+          "date": "2026-07-11",
+          "title": "Rebecca Nagle on the Boomerang of Empire",
+          "url": "https://theintercept.com/2026/07/11/america-250-history-myths-native/"
         }
       ]
     },
@@ -51,6 +59,7 @@
         {
           "outlet": "Reason",
           "lean": "libert",
+          "date": "2026-07-16",
           "title": "Why foreign tourism to the U.S. is declining under Trump",
           "url": "https://reason.com/2026/07/16/tourism-to-the-u-s-is-declining/"
         },
@@ -59,13 +68,14 @@
           "lean": "cright",
           "title": "Why America Is the World's Corporate Headquarters",
           "url": "https://thedispatch.com/article/big-companies-united-states-explained/",
-          "note": "17 of the 20 most valuable public firms are American."
+          "note": "On why so many of the world's largest firms are US-based."
         },
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
-          "title": "Why the US economy beats Europe",
-          "url": "https://unherd.com/2026/04/why-the-us-economy-beats-europe/"
+          "date": "2026-07",
+          "title": "The American disaster",
+          "url": "https://unherd.com/2026/07/the-american-disaster/"
         }
       ]
     },
@@ -75,17 +85,25 @@
       "region": "Diaspora newsrooms covering home, and its US dealings, from abroad",
       "items": [
         {
-          "outlet": "Meduza (Russia, in exile)",
-          "lean": "exile",
-          "title": "U.S. denies visa to Russia's deputy foreign minister, who had been set to attend U.N. Security Council debates",
-          "url": "https://meduza.io/en/news/2026/05/27/u-s-denies-visa-to-russia-s-deputy-foreign-minister-who-had-been-set-to-attend-u-n-security-council-debates"
-        },
-        {
           "outlet": "Hong Kong Free Press",
           "lean": "exile",
-          "title": "China accuses US of suppression over humanoid robot ban",
-          "url": "https://hongkongfp.com/2026/07/30/china-accuses-us-of-suppression-over-humanoid-robot-ban/",
-          "note": "Washington bars imports of foreign-made humanoid and quadruped robots."
+          "date": "2026-07-24",
+          "title": "US unveils new tariffs on 60 partners, inc. China, as Trump rebuilds trade agenda",
+          "url": "https://hongkongfp.com/2026/07/24/us-unveils-new-tariffs-on-60-partners-inc-china-as-trump-rebuilds-trade-agenda/"
+        },
+        {
+          "outlet": "The Kyiv Independent (Ukraine)",
+          "lean": "exile",
+          "title": "US increasingly polarized over Ukraine support as Trump's 'America First' deepens party divide",
+          "url": "https://kyivindependent.com/83-of-democrats-back-ukraine-aid-79-of-republicans-against-poll-shows/"
+        },
+        {
+          "outlet": "Meduza (Russia, in exile)",
+          "lean": "exile",
+          "date": "2026-03-27",
+          "title": "Ukrainians who arrived in the US under Biden are being deported under Trump. For some it means being sent straight to the war",
+          "url": "https://meduza.io/feature/2026/03/27/ukraintsev-priehavshih-v-ssha-pri-baydene-pri-trampe-nachali-vysylat-obratno-dlya-nekotoryh-eto-otpravka-pryamikom-na-voynu",
+          "orig": "Украинцев, приехавших в США при Байдене, при Трампе начали высылать обратно. Для некоторых это отправка прямиком на войну"
         }
       ]
     },
@@ -97,14 +115,14 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "Israel must take sharply declining US public support seriously, think tank warns",
-          "url": "https://www.middleeasteye.net/news/israel-must-take-sharply-declining-us-public-support-seriously-think-tank-warns"
+          "title": "US sending 100 troops and a missile defence system to Israel",
+          "url": "https://www.middleeasteye.net/news/us-sending-100-troops-and-missile-defence-system-israel"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "America at 250: still a 'democratic experiment'",
-          "url": "https://theconversation.com/america-at-250-still-a-democratic-experiment-286695"
+          "title": "The US is turning 250 and Trump is making it all about him",
+          "url": "https://theconversation.com/the-us-is-turning-250-and-trump-is-making-it-all-about-him-284563"
         }
       ]
     }

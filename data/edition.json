@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-08-10",
-  "date_human": "Monday, August 10, 2026",
-  "summary": "10 countries today, with US coverage spread across tech, trade, immigration, diplomacy, courts, culture, sport and society. The Iran talks and a new tariff and sanctions push run through the political news, but they share the page with Meta's AI spending, a critical minerals deal, World Cup football, a fresh ambassador in Seoul and polling on how the world now sees America.",
+  "date_iso": "2026-08-11",
+  "date_human": "Tuesday, August 11, 2026",
+  "summary": "11 countries today, with US coverage spread across climate, trade, tech, immigration, courts, diplomacy, defense and society. The Iran strike threats and the Russia and Ukraine track run through the political news, but they share the page with the hottest July on record, subsea cables to Portugal, a new envoy in Seoul, a citizenship crackdown reported from Nigeria and Mexico's note on a skipped UN human rights review.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -11,15 +11,17 @@
         {
           "outlet": "France 24",
           "lean": "funded",
-          "title": "Meta misses profit expectations, sticks to massive AI spending",
-          "url": "https://www.france24.com/en/live-news/20260729-meta-misses-profit-expectations-sticks-to-massive-ai-spending",
-          "note": "US tech giants keep pouring money into AI despite weaker earnings."
+          "date": "2026-08-10",
+          "title": "US had hottest month on record in July",
+          "url": "https://www.france24.com/en/live-news/20260810-us-had-hottest-month-on-record-in-july",
+          "note": "July was the warmest month in 132 years of US temperature records."
         },
         {
           "outlet": "France 24",
           "lean": "funded",
-          "title": "250 years of US independence: How France helped turn the tide of the Revolutionary War",
-          "url": "https://www.france24.com/en/americas/20260704-250-years-of-us-independence-how-france-helped-turn-the-tide-of-the-revolutionary-war"
+          "date": "2026-08-01",
+          "title": "US embassies urge citizens to consider departing Middle East",
+          "url": "https://www.france24.com/en/live-news/20260801-us-embassies-urge-citizens-to-consider-departing-middle-east"
         }
       ]
     },
@@ -31,6 +33,7 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
+          "date": "2026-08-05",
           "title": "Japan and U.S. begin working-level talks on host nation support",
           "url": "https://www.japantimes.co.jp/news/2026/08/05/japan/politics/us-japan-host-nation-support/",
           "note": "Negotiations over the cost of hosting US forces in Japan."
@@ -38,8 +41,9 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "title": "America is betting against international law",
-          "url": "https://www.japantimes.co.jp/commentary/2026/08/03/world/america-vs-international-law/"
+          "date": "2026-07-21",
+          "title": "Tumbling U.S. status in the world should be no surprise",
+          "url": "https://www.japantimes.co.jp/commentary/2026/07/21/world/tumbling-us-world-status/"
         }
       ]
     },
@@ -51,15 +55,16 @@
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "title": "United States at 250: Seven tests of the American experiment",
-          "url": "https://www.aljazeera.com/video/featured-documentaries/2026/7/12/united-states-at-250-seven-tests-of-the-american-experiment",
-          "note": "A documentary look at the state of American democracy."
+          "date": "2026-08-11",
+          "title": "Trump warns of 'jihadists' ruling in Washington as Democrats show momentum",
+          "url": "https://www.aljazeera.com/news/2026/8/11/trump-warns-of-jihadists-ruling-in-washington-as-democrats-show-momentum"
         },
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "title": "The pitfalls of institutionalising US military aid to Israel",
-          "url": "https://www.aljazeera.com/opinions/2026/7/6/the-pitfalls-of-institutionalising-us-military-aid-to-israel"
+          "date": "2026-08-01",
+          "title": "Iran warns against 'flames of war' amid US strike threats on energy sites",
+          "url": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites"
         }
       ]
     },
@@ -71,51 +76,58 @@
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "Vance says progress made in US-Iran talks",
-          "orig": "Вэнс заявил о прогрессе в переговорах США с Ираном",
-          "url": "https://russian.rt.com/world/news/1667414-ssha-iran-peregovory",
-          "note": "Russian state media tracks the US approach to Iran closely."
+          "title": "Rubio says U.S. plans to resume Russia-Ukraine talks",
+          "url": "https://russian.rt.com/world/news/1664303-ssha-peregovory-rossiya-ukraina",
+          "orig": "Рубио заявил о планах США возобновить переговоры России и Украины"
         },
         {
           "outlet": "RT",
           "lean": "state",
-          "title": "Trump names Will Scharf as new White House counsel",
-          "orig": "Трамп назначил Уилла Шарфа новым юрисконсультом Белого дома",
-          "url": "https://russian.rt.com/world/news/1667877-tramp-naznachil-sharfa-yuriskonsultom"
+          "title": "U.S. imposes sanctions on units of Russia's Defense Ministry",
+          "url": "https://russian.rt.com/world/news/1665333-ssha-sankcii-minoborony",
+          "orig": "США ввели санкции против подразделений МО России"
         }
       ]
     },
     {
       "flag": "🇨🇳",
-      "name": "China & Hong Kong",
+      "name": "China",
       "region": "East Asia",
       "items": [
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "US unveils critical minerals deals in latest push to counter China",
-          "url": "https://www.scmp.com/news/us/article/3363367/us-unveils-critical-minerals-deals-latest-push-counter-china",
-          "note": "About $2 billion for mining projects to cut reliance on China."
+          "title": "US 'digging in' to Asia but wants 'partners not dependency': Pentagon",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363543/us-digging-asia-wants-partners-not-dependency-pentagon"
         },
         {
-          "outlet": "Global Times",
-          "lean": "state",
-          "title": "US reportedly plans to close five foreign missions; fiscal pressure pushes Washington toward more cost-conscious diplomatic strategy: Chinese expert",
-          "url": "https://www.globaltimes.cn/page/202608/1367520.shtml"
+          "outlet": "South China Morning Post",
+          "lean": "neutral",
+          "title": "America has always been a rogue state, and even more so under Donald Trump",
+          "url": "https://www.scmp.com/opinion/article/3349185/america-has-always-been-rogue-state-and-even-more-so-under-donald-trump",
+          "note": "A My Take opinion column."
         }
       ]
     },
     {
-      "flag": "🇹🇷",
-      "name": "Türkiye",
-      "region": "Middle East",
+      "flag": "🇪🇺",
+      "name": "Europe",
+      "region": "Europe",
       "items": [
         {
-          "outlet": "Daily Sabah",
-          "lean": "progov",
-          "title": "United States respects Turkish plan to join BRICS",
-          "url": "https://www.dailysabah.com/politics/diplomacy/united-states-respects-turkish-plan-to-join-brics",
-          "note": "Washington's response to Ankara's tilt toward the BRICS bloc."
+          "outlet": "Euronews",
+          "lean": "neutral",
+          "date": "2026-08-08",
+          "title": "US intends to send $1 billion in aid to Colombia following de la Espriella's inauguration",
+          "url": "https://www.euronews.com/2026/08/08/us-intends-to-send-1-billion-in-aid-to-colombia-following-de-la-espriellas-inauguration"
+        },
+        {
+          "outlet": "Euronews",
+          "lean": "neutral",
+          "date": "2026-07-23",
+          "title": "7,000 km of subsea cables link Portugal to US: What is the 'Nuvem' system?",
+          "url": "https://www.euronews.com/next/2026/07/23/7000-km-of-subsea-cables-link-portugal-to-us-what-is-the-nuvem-system",
+          "note": "A new transatlantic data cable project."
         }
       ]
     },
@@ -127,37 +139,10 @@
         {
           "outlet": "El Universal",
           "lean": "neutral",
-          "title": "United States seals a historic rout, buries Paraguay in its opening 2026 World Cup match",
-          "orig": "Estados Unidos sella una histórica goleada; sepulta a Paraguay en su primer partido del Mundial 2026",
-          "url": "https://www.eluniversal.com.mx/deportes/estados-unidos-golea-a-paraguay-christian-pulisic-brilla-en-el-mundial-2026/",
-          "note": "Christian Pulisic stars as the co-hosts open at home."
-        },
-        {
-          "outlet": "El Universal",
-          "lean": "neutral",
-          "title": "US plans to allocate one billion dollars to Colombia, seeks to strengthen security cooperation",
-          "orig": "EU prevé destinar mil mdd a Colombia; busca reforzar la cooperación en seguridad",
-          "url": "https://www.eluniversal.com.mx/mundo/eu-preve-destinar-mil-mdd-a-colombia-busca-reforzar-la-cooperacion-en-seguridad/"
-        }
-      ]
-    },
-    {
-      "flag": "🇳🇬",
-      "name": "Nigeria",
-      "region": "West Africa",
-      "items": [
-        {
-          "outlet": "The Punch",
-          "lean": "neutral",
-          "title": "US introduces $250,000 visa bonds for select immigrant applicants",
-          "url": "https://punchng.com/us-introduces-250000-visa-bonds-for-select-immigrant-applicants/",
-          "note": "A new bond pilot that immigration lawyers say could reshape access."
-        },
-        {
-          "outlet": "The Punch",
-          "lean": "neutral",
-          "title": "US backs 200 Nigerian entrepreneurs for local, export markets",
-          "url": "https://punchng.com/us-backs-200-nigerian-entrepreneurs-for-local-export-markets/"
+          "title": "United States avoids submitting to the UN human rights review",
+          "url": "https://www.eluniversal.com.mx/mundo/estados-unidos-evita-someterse-al-examen-de-derechos-humanos-de-la-onu/",
+          "orig": "Estados Unidos evita someterse al examen de derechos humanos de la ONU",
+          "note": "The US became the second country to skip the UN periodic review."
         }
       ]
     },
@@ -169,15 +154,33 @@
         {
           "outlet": "The Korea Herald",
           "lean": "neutral",
-          "title": "Top military officers of S. Korea, US, Japan reaffirm 3-way cooperation against NK threats",
-          "url": "https://www.koreaherald.com/article/10810630",
-          "note": "Trilateral defense coordination continues in Northeast Asia."
+          "title": "New US ambassador begins mission with hotteok, hymns",
+          "url": "https://www.koreaherald.com/article/10828287"
         },
         {
           "outlet": "The Korea Herald",
           "lean": "neutral",
-          "title": "New US ambassador begins mission with hotteok, hymns",
-          "url": "https://www.koreaherald.com/article/10828287"
+          "title": "[Andrew Sheng] US-China ideological clashes",
+          "url": "https://www.koreaherald.com/article/10829527"
+        }
+      ]
+    },
+    {
+      "flag": "🇳🇬",
+      "name": "Nigeria",
+      "region": "West Africa",
+      "items": [
+        {
+          "outlet": "The Punch",
+          "lean": "neutral",
+          "title": "US to revoke citizenship of three Nigerians in major crackdown",
+          "url": "https://punchng.com/us-to-revoke-citizenship-of-three-nigerians-in-major-crackdown/"
+        },
+        {
+          "outlet": "The Punch",
+          "lean": "neutral",
+          "title": "US backs 200 Nigerian entrepreneurs for local, export markets",
+          "url": "https://punchng.com/us-backs-200-nigerian-entrepreneurs-for-local-export-markets/"
         }
       ]
     },
@@ -190,14 +193,32 @@
           "outlet": "Kyiv Post",
           "lean": "neutral",
           "title": "Ukraine Secures Monthly US Patriot Missile Deliveries, Zelensky Says",
-          "url": "https://www.kyivpost.com/post/81981",
-          "note": "Kyiv says the volumes are still lower than in previous years."
+          "url": "https://www.kyivpost.com/post/81981"
         },
         {
           "outlet": "Kyiv Post",
           "lean": "neutral",
-          "title": "Under Trump US Global Image Falls Below Russia for First Time, Survey Finds",
-          "url": "https://www.kyivpost.com/post/75709"
+          "title": "Washington Drops Neutral Role, Backs Kyiv on Sanctions",
+          "url": "https://www.kyivpost.com/post/78992"
+        }
+      ]
+    },
+    {
+      "flag": "🇹🇷",
+      "name": "Türkiye",
+      "region": "West Asia",
+      "items": [
+        {
+          "outlet": "Daily Sabah",
+          "lean": "progov",
+          "title": "Pentagon presses defense companies to boost weapons production",
+          "url": "https://www.dailysabah.com/business/defense/pentagon-presses-defense-companies-to-boost-weapons-production"
+        },
+        {
+          "outlet": "Daily Sabah",
+          "lean": "progov",
+          "title": "How will 'America First' tariffs affect the US economy?",
+          "url": "https://www.dailysabah.com/opinion/op-ed/how-will-america-first-tariffs-affect-the-us-economy"
         }
       ]
     }
