@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-08-11",
-  "date_human": "Tuesday, August 11, 2026",
+  "date_iso": "2026-08-12",
+  "date_human": "Wednesday, August 12, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,15 +11,14 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "White Parents Rallied to Chase a Black Educator Out of Town. Then, They Followed Her to the Next One.",
-          "url": "https://www.propublica.org/article/georgia-dei-crt-schools-parents",
-          "note": "A look at how school culture fights play out in one Georgia town."
+          "title": "We Found That More Than 170 U.S. Citizens Have Been Held by Immigration Agents. They've Been Kicked, Dragged and Detained for Days.",
+          "url": "https://www.propublica.org/article/immigration-dhs-american-citizens-arrested-detained-against-will"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "How a Chinese American Gangster Transformed Money Laundering for Drug Cartels",
-          "url": "https://www.propublica.org/article/china-cartels-xizhi-li-money-laundering"
+          "title": "How Walmart's Financial Services Became a Fraud Magnet",
+          "url": "https://www.propublica.org/article/walmart-financial-services-became-fraud-magnet-gift-cards-money-laundering"
         }
       ]
     },
@@ -31,9 +30,16 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "2026-07-18",
-          "title": "The United States of Betrayal",
-          "url": "https://theintercept.com/2026/07/18/united-states-betray-allies-trump-foreign-policy/"
+          "date": "2026-07-17",
+          "title": "Trump's Formula for Forever Wars",
+          "url": "https://theintercept.com/2026/07/17/spencer-ackerman-lindsey-graham-iran-war/"
+        },
+        {
+          "outlet": "Jacobin",
+          "lean": "left",
+          "date": "2026-08",
+          "title": "No, Americans Aren't Better Off Than Western Europeans",
+          "url": "https://jacobin.com/2026/08/gdp-us-europe-economy-inequality"
         },
         {
           "outlet": "Jacobin",
@@ -41,13 +47,6 @@
           "date": "2026-06",
           "title": "How to Democratize the United States",
           "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
-        },
-        {
-          "outlet": "The Intercept",
-          "lean": "left",
-          "date": "2026-07-11",
-          "title": "Rebecca Nagle on the Boomerang of Empire",
-          "url": "https://theintercept.com/2026/07/11/america-250-history-myths-native/"
         }
       ]
     },
@@ -67,8 +66,7 @@
           "outlet": "The Dispatch",
           "lean": "cright",
           "title": "Why America Is the World's Corporate Headquarters",
-          "url": "https://thedispatch.com/article/big-companies-united-states-explained/",
-          "note": "On why so many of the world's largest firms are US-based."
+          "url": "https://thedispatch.com/article/big-companies-united-states-explained/"
         },
         {
           "outlet": "UnHerd (UK)",
@@ -85,25 +83,31 @@
       "region": "Diaspora newsrooms covering home, and its US dealings, from abroad",
       "items": [
         {
+          "outlet": "Meduza (Russia, in exile)",
+          "lean": "exile",
+          "date": "2026-02-27",
+          "title": "For the first time in 100 years, more people left the US than arrived. Hundreds of thousands of Americans want to live elsewhere",
+          "orig": "Впервые за 100 лет из США уехали больше людей, чем приехали. Сотни тысяч американцев хотят жить где-то еще",
+          "url": "https://meduza.io/feature/2026/02/27/vpervye-za-100-let-iz-ssha-uehali-bolshe-lyudey-chem-priehali-sotni-tysyach-amerikantsev-hotyat-zhit-gde-to-esche"
+        },
+        {
+          "outlet": "IranWire (Iran, in exile)",
+          "lean": "exile",
+          "title": "CENTCOM Says 48 Vessels Diverted Under Iran Naval Blockade",
+          "url": "https://iranwire.com/en/news/155950-centcom-says-48-vessels-diverted-under-iran-naval-blockade/"
+        },
+        {
           "outlet": "Hong Kong Free Press",
           "lean": "exile",
-          "date": "2026-07-24",
-          "title": "US unveils new tariffs on 60 partners, inc. China, as Trump rebuilds trade agenda",
-          "url": "https://hongkongfp.com/2026/07/24/us-unveils-new-tariffs-on-60-partners-inc-china-as-trump-rebuilds-trade-agenda/"
+          "date": "2026-07-30",
+          "title": "China accuses US of suppression over humanoid robot ban",
+          "url": "https://hongkongfp.com/2026/07/30/china-accuses-us-of-suppression-over-humanoid-robot-ban/"
         },
         {
           "outlet": "The Kyiv Independent (Ukraine)",
           "lean": "exile",
-          "title": "US increasingly polarized over Ukraine support as Trump's 'America First' deepens party divide",
-          "url": "https://kyivindependent.com/83-of-democrats-back-ukraine-aid-79-of-republicans-against-poll-shows/"
-        },
-        {
-          "outlet": "Meduza (Russia, in exile)",
-          "lean": "exile",
-          "date": "2026-03-27",
-          "title": "Ukrainians who arrived in the US under Biden are being deported under Trump. For some it means being sent straight to the war",
-          "url": "https://meduza.io/feature/2026/03/27/ukraintsev-priehavshih-v-ssha-pri-baydene-pri-trampe-nachali-vysylat-obratno-dlya-nekotoryh-eto-otpravka-pryamikom-na-voynu",
-          "orig": "Украинцев, приехавших в США при Байдене, при Трампе начали высылать обратно. Для некоторых это отправка прямиком на войну"
+          "title": "US to begin talks on troop reductions in Europe later this year, America's NATO envoy says",
+          "url": "https://kyivindependent.com/us-to-begin-talks-on-troop-reductions-in-europe-later-this-year-nato-envoy-says/"
         }
       ]
     },
@@ -115,14 +119,20 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "US sending 100 troops and a missile defence system to Israel",
-          "url": "https://www.middleeasteye.net/news/us-sending-100-troops-and-missile-defence-system-israel"
+          "title": "How Scott Bessent's 'economic statecraft' aims to justify US coercion",
+          "url": "https://www.middleeasteye.net/opinion/how-scott-bessents-economic-statecraft-aims-justify-us-coercion"
+        },
+        {
+          "outlet": "The Wire (India)",
+          "lean": "indie",
+          "title": "Donald Trump's Plans for Canada, Greenland and Panama Are Alarming",
+          "url": "https://m.thewire.in/article/world/donald-trumps-plans-for-canada-greenland-and-panama-are-alarming"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "The US is turning 250 and Trump is making it all about him",
-          "url": "https://theconversation.com/the-us-is-turning-250-and-trump-is-making-it-all-about-him-284563"
+          "title": "America at 250: still a 'democratic experiment'",
+          "url": "https://theconversation.com/america-at-250-still-a-democratic-experiment-286695"
         }
       ]
     }
