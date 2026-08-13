@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-08-12",
-  "date_human": "Wednesday, August 12, 2026",
+  "date_iso": "2026-08-13",
+  "date_human": "Thursday, August 13, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,14 +11,14 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "We Found That More Than 170 U.S. Citizens Have Been Held by Immigration Agents. They've Been Kicked, Dragged and Detained for Days.",
-          "url": "https://www.propublica.org/article/immigration-dhs-american-citizens-arrested-detained-against-will"
+          "title": "Democrats Investigating ICE Detentions of American Kids",
+          "url": "https://www.propublica.org/article/american-kids-detained-trump-immigration-deportation-democrats-investigation"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "How Walmart's Financial Services Became a Fraud Magnet",
-          "url": "https://www.propublica.org/article/walmart-financial-services-became-fraud-magnet-gift-cards-money-laundering"
+          "title": "Inside Trump’s Effort to “Take Over” the Midterm Elections",
+          "url": "https://www.propublica.org/article/trump-midterm-elections-takeover"
         }
       ]
     },
@@ -30,23 +30,22 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "2026-07-17",
-          "title": "Trump's Formula for Forever Wars",
-          "url": "https://theintercept.com/2026/07/17/spencer-ackerman-lindsey-graham-iran-war/"
+          "date": "2026-08-07",
+          "title": "Congress Might Give ICE the Power to Go After Shoplifters",
+          "url": "https://theintercept.com/2026/08/07/congress-ice-shoplifting-theft-surveillance/"
         },
         {
           "outlet": "Jacobin",
           "lean": "left",
-          "date": "2026-08",
-          "title": "No, Americans Aren't Better Off Than Western Europeans",
-          "url": "https://jacobin.com/2026/08/gdp-us-europe-economy-inequality"
+          "date": "2026-07",
+          "title": "US Empire’s Belligerent Decline in Latin America",
+          "url": "https://jacobin.com/2026/07/us-empire-decline-trump-latin-america"
         },
         {
-          "outlet": "Jacobin",
+          "outlet": "openDemocracy (UK)",
           "lean": "left",
-          "date": "2026-06",
-          "title": "How to Democratize the United States",
-          "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
+          "title": "Netanyahu faces a new threat: The collapse of Western support",
+          "url": "https://www.opendemocracy.net/netanyahu-new-threat-collapse-support-united-states-israel-iran-gaza/"
         }
       ]
     },
@@ -58,22 +57,22 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "2026-07-16",
-          "title": "Why foreign tourism to the U.S. is declining under Trump",
-          "url": "https://reason.com/2026/07/16/tourism-to-the-u-s-is-declining/"
+          "date": "2026-08-13",
+          "title": "Pollsters do autopsy on polling misses in Wisconsin, Michigan Democratic primaries",
+          "url": "https://reason.com/2026/08/13/pollsters-do-their-autopsy/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "title": "Why America Is the World's Corporate Headquarters",
-          "url": "https://thedispatch.com/article/big-companies-united-states-explained/"
+          "title": "The World Cup Is Putting American Abundance on Display",
+          "url": "https://thedispatch.com/newsletter/dispatch-markets/american-prosperity-world-cup-trade-peace/"
         },
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
-          "date": "2026-07",
-          "title": "The American disaster",
-          "url": "https://unherd.com/2026/07/the-american-disaster/"
+          "date": "2026-08",
+          "title": "Meet America’s MAGA exiles",
+          "url": "https://unherd.com/2026/08/meet-americas-maga-exiles/"
         }
       ]
     },
@@ -85,29 +84,22 @@
         {
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "date": "2026-02-27",
-          "title": "For the first time in 100 years, more people left the US than arrived. Hundreds of thousands of Americans want to live elsewhere",
-          "orig": "Впервые за 100 лет из США уехали больше людей, чем приехали. Сотни тысяч американцев хотят жить где-то еще",
-          "url": "https://meduza.io/feature/2026/02/27/vpervye-za-100-let-iz-ssha-uehali-bolshe-lyudey-chem-priehali-sotni-tysyach-amerikantsev-hotyat-zhit-gde-to-esche"
+          "date": "2026-08-12",
+          "title": "Ex-Marine Robert Gilman tried to get out of a Russian prison by volunteering for the invasion of Ukraine. He got out on humanitarian grounds instead — so what does Putin want in return?",
+          "url": "https://meduza.io/en/feature/2026/08/12/ex-marine-robert-gilman-tried-to-get-out-of-a-russian-prison-by-volunteering-for-the-invasion-of-ukraine-he-got-out-on-humanitarian-grounds-instead-so-what-does-putin-want-in-return"
         },
         {
           "outlet": "IranWire (Iran, in exile)",
           "lean": "exile",
-          "title": "CENTCOM Says 48 Vessels Diverted Under Iran Naval Blockade",
-          "url": "https://iranwire.com/en/news/155950-centcom-says-48-vessels-diverted-under-iran-naval-blockade/"
-        },
-        {
-          "outlet": "Hong Kong Free Press",
-          "lean": "exile",
-          "date": "2026-07-30",
-          "title": "China accuses US of suppression over humanoid robot ban",
-          "url": "https://hongkongfp.com/2026/07/30/china-accuses-us-of-suppression-over-humanoid-robot-ban/"
+          "title": "CENTCOM Refutes IRGC Claims of Control Over the Strait of Hormuz",
+          "url": "https://iranwire.com/en/news/155355-centcom-refutes-irgc-claims-of-control-over-the-strait-of-hormuz/"
         },
         {
           "outlet": "The Kyiv Independent (Ukraine)",
           "lean": "exile",
-          "title": "US to begin talks on troop reductions in Europe later this year, America's NATO envoy says",
-          "url": "https://kyivindependent.com/us-to-begin-talks-on-troop-reductions-in-europe-later-this-year-nato-envoy-says/"
+          "date": "2026-08-05",
+          "title": "Voice of America to relaunch Ukrainian-language broadcasting",
+          "url": "https://kyivindependent.com/voice-of-america-to-relaunch-ukrainian-language-broadcasting/"
         }
       ]
     },
@@ -119,20 +111,26 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "How Scott Bessent's 'economic statecraft' aims to justify US coercion",
+          "title": "How Scott Bessent’s ‘economic statecraft’ aims to justify US coercion",
           "url": "https://www.middleeasteye.net/opinion/how-scott-bessents-economic-statecraft-aims-justify-us-coercion"
         },
         {
           "outlet": "The Wire (India)",
           "lean": "indie",
-          "title": "Donald Trump's Plans for Canada, Greenland and Panama Are Alarming",
-          "url": "https://m.thewire.in/article/world/donald-trumps-plans-for-canada-greenland-and-panama-are-alarming"
+          "title": "The Unfinished Deal Between India and the US",
+          "url": "https://m.thewire.in/article/diplomacy/the-unfinished-deal-between-india-and-the-us"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "America at 250: still a 'democratic experiment'",
-          "url": "https://theconversation.com/america-at-250-still-a-democratic-experiment-286695"
+          "title": "US defies forecasts of economic slowdown, but its growth isn’t making ordinary people better off",
+          "url": "https://theconversation.com/us-defies-forecasts-of-economic-slowdown-but-its-growth-isnt-making-ordinary-people-better-off-283989"
+        },
+        {
+          "outlet": "Rappler (Philippines)",
+          "lean": "indie",
+          "title": "Wildfires in Washington state destroy over 700 buildings, force 64,000 to flee",
+          "url": "https://www.rappler.com/world/us-canada/wildfires-washington-us-destroy-buildings-force-evacuations-august-2026/"
         }
       ]
     }
