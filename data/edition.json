@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-08-13",
-  "date_human": "Thursday, August 13, 2026",
-  "summary": "11 countries today, with US coverage spread across politics, the economy, energy, science, immigration, courts, diplomacy, trade, defense and culture. The US naval blockade of Iran and a warning that the war could end soon share the page with a contested Wisconsin primary, a boom in gas plants built to feed AI, a fight over US climate science, a lawsuit against Trump over paid access to his social posts, and Washington's pressure on Argentina over a Huawei deal.",
+  "date_iso": "2026-08-15",
+  "date_human": "Saturday, August 15, 2026",
+  "summary": "12 countries today. The Iran war and the Strait of Hormuz still lead in the Gulf and in Kyiv, but the spread is wide: a guilty plea in a New York courtroom, a campus shooting in Virginia, a US organ donation shutdown that worries Chinese students, a revoked visa for a former Mexican president's son, a Kenyan extradition case, a Disney showcase in Anaheim and a Chinese animated film opening across North America.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -11,17 +11,17 @@
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "2026-08-12",
-          "title": "Moderate Crowley beats democratic socialist Hong in Wisconsin governor's primary",
-          "url": "https://www.france24.com/en/americas/20260812-david-crowley-beats-progressive-francesca-hong-wisconsin-democratic-primary",
-          "note": "Paris reads the Democratic split ahead of the midterms."
+          "date": "2026-08-13",
+          "title": "US ambassador to Israel slams settler siege of West Bank Palestinians as ‘terror’",
+          "url": "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
+          "note": "Paris notes a rare public break between a US envoy and Israeli settlers."
         },
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "2026-08-11",
-          "title": "AI's hunger for power sparks US private gas plant boom",
-          "url": "https://www.france24.com/en/live-news/20260811-ai-s-hunger-for-power-sparks-us-private-gas-plant-boom"
+          "date": "2026-07-24",
+          "title": "Over 80% of Mexican exports exempt from new US tariffs",
+          "url": "https://www.france24.com/en/live-news/20260724-over-80-of-mexican-exports-exempt-from-new-us-tariffs"
         }
       ]
     },
@@ -33,59 +33,81 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-08-13",
-          "title": "‘Imposing ignorance’: U.S. climate science under siege",
-          "url": "https://www.japantimes.co.jp/environment/2026/08/13/climate-change/us-climate-science-ignorance/"
+          "date": "2026-08-14",
+          "title": "What a Sino-American ‘G2’ would mean for Asian security",
+          "url": "https://www.japantimes.co.jp/commentary/2026/08/14/japan/us-china-pivot-asia-security/",
+          "note": "Tokyo's worry is a Washington that settles things with Beijing over its allies' heads."
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-08-08",
-          "title": "America’s cyberforces grapple with cluster of deaths by suicide",
-          "url": "https://www.japantimes.co.jp/news/2026/08/08/world/us-cyberforces-suicides-focus/"
+          "date": "2026-08-10",
+          "title": "U.S. Forces airlift water for Kumamoto earthquake victims",
+          "url": "https://www.japantimes.co.jp/news/2026/08/10/japan/us-airlift-water-kumamoto/"
+        },
+        {
+          "outlet": "The Japan Times",
+          "lean": "neutral",
+          "date": "2026-08-05",
+          "title": "U.S. ambassador to skip peace ceremonies in Hiroshima and Nagasaki",
+          "url": "https://www.japantimes.co.jp/news/2026/08/05/japan/us-ambassador-hiroshima-nagasaki-ceremonies-skip/"
         }
       ]
     },
     {
       "flag": "🇶🇦",
       "name": "Qatar",
-      "region": "Middle East",
+      "region": "Gulf",
       "items": [
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-08-13",
-          "title": "Iran war live: US says can maintain blockade on Iran ‘indefinitely’",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control",
-          "note": "The day's biggest US story, tracked live from Doha."
+          "date": "2026-08-14",
+          "title": "Iran war updates: Trump says will declare Hormuz US territory ‘pretty soon’",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade"
         },
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-08-12",
-          "title": "Media groups sue Trump over paid access to public social media posts",
-          "url": "https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts"
+          "date": "2026-08-09",
+          "title": "It won’t be Trump who kills the ICC",
+          "url": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc",
+          "note": "An opinion piece arguing the court's problems started long before US sanctions."
+        },
+        {
+          "outlet": "Al Jazeera",
+          "lean": "funded",
+          "date": "2026-08-08",
+          "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
+          "url": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea"
         }
       ]
     },
     {
       "flag": "🇷🇺",
       "name": "Russia",
-      "region": "Eastern Europe",
+      "region": "Eurasia",
       "items": [
         {
-          "outlet": "RT",
+          "outlet": "RT (Russian service)",
           "lean": "state",
-          "title": "WSJ: US to send aircraft carrier USS George Washington to the Middle East",
-          "url": "https://russian.rt.com/world/news/1669437-ssha-blizhnii-vostok-avianosec",
-          "orig": "WSJ: США направят на Ближний Восток авианосец USS George Washington"
+          "title": "US State Department drops the diversity and inclusion agenda in its diplomatic service",
+          "url": "https://russian.rt.com/world/news/1669459-gosdep-ssha-povestka",
+          "orig": "В Госдепе США отказались от повестки разнообразия и инклюзивности в дипкорпусе"
         },
         {
-          "outlet": "RT",
+          "outlet": "RT (Russian service)",
           "lean": "state",
-          "title": "US and more than 40 countries call for 24 hours’ notice of missile launches",
-          "url": "https://russian.rt.com/world/news/1668749-ssha-prizvali-preduprezhdat-raketah",
-          "orig": "США и ещё 40 стран призвали предупреждать о запусках ракет за сутки"
+          "title": "Bloomberg: the US has probably abandoned the military option on Cuba",
+          "url": "https://russian.rt.com/world/news/1669935-ssha-kuba-scenarii",
+          "orig": "Bloomberg: США, вероятно, отказались от военного сценария на Кубе"
+        },
+        {
+          "outlet": "RT (Russian service)",
+          "lean": "state",
+          "title": "Lavrov: Moscow is waiting for an answer from the US about its part in strikes deep inside Russia",
+          "url": "https://russian.rt.com/world/news/1669673-rossiya-ssha-udary",
+          "orig": "Лавров: Москва ждёт ответа от США об участии в ударах вглубь России"
         }
       ]
     },
@@ -97,54 +119,137 @@
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "US unveils critical minerals deals in latest push to counter China",
-          "url": "https://www.scmp.com/news/us/article/3363367/us-unveils-critical-minerals-deals-latest-push-counter-china"
+          "date": "2026-08-15",
+          "title": "5 people shot at US university as police probe multiple suspects",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3364162/multiple-shooters-5-people-shot-us-university"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "neutral",
+          "title": "US organ donation organisation’s shutdown invokes Chinese students’ worst fears",
+          "url": "https://www.scmp.com/news/china/science/article/3364028/us-organ-donation-organisations-shutdown-invokes-chinese-students-worst-fears",
+          "note": "A US health regulation story read through the eyes of Chinese families abroad."
         },
         {
           "outlet": "Global Times",
           "lean": "state",
-          "title": "China retaliates against latest US restrictions with a range of swift countermeasures",
-          "url": "https://www.globaltimes.cn/page/202608/1367580.shtml",
-          "note": "Beijing's state paper frames the trade fight as US aggression."
+          "title": "Chinese animated hit \"All Wishes Come True\" makes North American premiere",
+          "url": "https://www.globaltimes.cn/page/202608/1368253.shtml"
+        }
+      ]
+    },
+    {
+      "flag": "🇪🇺",
+      "name": "Europe",
+      "region": "Pan-European",
+      "items": [
+        {
+          "outlet": "Euronews",
+          "lean": "neutral",
+          "date": "2026-08-14",
+          "title": "Luigi Mangione admits shooting healthcare CEO Brian Thompson in New York court",
+          "url": "https://www.euronews.com/2026/08/14/luigi-mangione-admits-shooting-healthcare-ceo-brian-thompson-in-new-york-court"
+        },
+        {
+          "outlet": "Euronews",
+          "lean": "neutral",
+          "date": "2026-08-15",
+          "title": "From Gaza condoms to 'Your mom': Outgoing White House press secretary Karoline Leavitt's most divisive moments",
+          "url": "https://www.euronews.com/culture/2026/08/15/from-gaza-condoms-to-your-mom-outgoing-white-house-press-secretary-karoline-leavitts-most-"
         }
       ]
     },
     {
       "flag": "🇹🇷",
       "name": "Türkiye",
-      "region": "Middle East and Anatolia",
+      "region": "Eastern Mediterranean",
       "items": [
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "Clean energy survived Trump's rollback, but what about 2026?",
-          "url": "https://www.dailysabah.com/business/energy/clean-energy-survived-trumps-rollback-but-what-about-2026"
-        },
-        {
-          "outlet": "Daily Sabah",
-          "lean": "progov",
-          "title": "ICE role at Milano Cortina 2026 sparks political backlash in Italy",
-          "url": "https://www.dailysabah.com/sports/ice-role-at-milano-cortina-2026-sparks-political-backlash-in-italy/news"
+          "title": "US arrests dozens of military veterans protesting Iran war at Capitol",
+          "url": "https://www.dailysabah.com/world/americas/us-arrests-dozens-of-military-veterans-protesting-iran-war-at-capitol",
+          "note": "Ankara's pro-government paper puts American dissent about the war on its Americas page."
         }
       ]
     },
     {
-      "flag": "🇰🇷",
-      "name": "South Korea",
-      "region": "East Asia",
+      "flag": "🇰🇪",
+      "name": "Kenya",
+      "region": "East Africa",
       "items": [
         {
-          "outlet": "The Korea Herald",
+          "outlet": "Daily Nation",
           "lean": "neutral",
-          "title": "New US ambassador begins mission with hotteok, hymns",
-          "url": "https://www.koreaherald.com/article/10828287"
+          "title": "Court approves extradition of three Kenyans to US over multi-million fraud",
+          "url": "https://nation.africa/kenya/news/court-approves-extradition-of-three-kenyans-to-us-over-multi-million-fraud-5549814"
         },
         {
-          "outlet": "The Korea Herald",
+          "outlet": "Daily Nation",
           "lean": "neutral",
-          "title": "Girl group aespa kicks off North American, European tour",
-          "url": "https://www.koreaherald.com/article/10408643",
-          "note": "A lighter note: K-pop's growing footprint across US arenas."
+          "title": "US missionary pilot kidnapped in Niger freed after nine months",
+          "url": "https://nation.africa/kenya/news/africa/us-missionary-pilot-kidnapped-in-niger-freed-after-nine-months-5557514"
+        }
+      ]
+    },
+    {
+      "flag": "🇿🇦",
+      "name": "South Africa",
+      "region": "Southern Africa",
+      "items": [
+        {
+          "outlet": "News24",
+          "lean": "neutral",
+          "date": "2026-08-14",
+          "title": "Son of former Mexican president says US revoked his visa",
+          "url": "https://www.news24.com/world/son-of-former-mexican-president-says-us-revoked-his-visa-20260814-1023"
+        }
+      ]
+    },
+    {
+      "flag": "🇲🇽",
+      "name": "Mexico",
+      "region": "North America",
+      "items": [
+        {
+          "outlet": "El Universal",
+          "lean": "neutral",
+          "title": "Key points of the US 2026 Defense Strategy: the border declared national security, plus unilateral action against drug traffickers",
+          "url": "https://www.eluniversal.com.mx/mundo/puntos-clave-de-la-estrategia-de-defensa-2026-de-eu-anuncia-frontera-como-seguridad-nacional-y-acciones-unilaterales-contra-el-narco/",
+          "orig": "Puntos clave de la Estrategia de Defensa 2026 de EU; anuncia frontera como seguridad nacional y acciones unilaterales contra el narco"
+        },
+        {
+          "outlet": "El Universal",
+          "lean": "neutral",
+          "title": "Global view: the 2026 US elections, undermined from within",
+          "url": "https://www.eluniversal.com.mx/mundo/mirada-global-elecciones-2026-en-eu-socavadas-desde-adentro/",
+          "orig": "Mirada Global. Elecciones 2026 en EU, socavadas desde adentro"
+        },
+        {
+          "outlet": "El Universal",
+          "lean": "neutral",
+          "title": "D23 2026: Disney brings its stars together and unveils what is coming over the next few years",
+          "url": "https://www.eluniversal.com.mx/espectaculos/d23-2026-disney-reune-a-sus-estrellas-y-presenta-sus-novedades-para-los-proximos-anos/",
+          "orig": "D23 2026: Disney reúne a sus estrellas y presenta sus novedades para los próximos años"
+        }
+      ]
+    },
+    {
+      "flag": "🇦🇷",
+      "name": "Argentina",
+      "region": "South America",
+      "items": [
+        {
+          "outlet": "Buenos Aires Times",
+          "lean": "neutral",
+          "title": "Rubio: US wants to globalise fight against far-left 'terrorism'",
+          "url": "https://www.batimes.com.ar/news/world/rubio-says-united-states-wants-to-globalise-fight-against-far-left-terrorism.phtml"
+        },
+        {
+          "outlet": "Buenos Aires Times",
+          "lean": "neutral",
+          "title": "Oxenford takes up post as Argentina’s ambassador to United States",
+          "url": "https://www.batimes.com.ar/news/argentina/oxenford-takes-up-post-as-argentinas-ambassador-to-united-states.phtml"
         }
       ]
     },
@@ -162,70 +267,8 @@
         {
           "outlet": "Kyiv Post",
           "lean": "neutral",
-          "title": "Washington Drops Neutral Role, Backs Kyiv on Sanctions",
-          "url": "https://www.kyivpost.com/post/78992"
-        }
-      ]
-    },
-    {
-      "flag": "🇲🇽",
-      "name": "Mexico",
-      "region": "Latin America",
-      "items": [
-        {
-          "outlet": "El Universal",
-          "lean": "neutral",
-          "title": "White House spokeswoman Karoline Leavitt to leave her post at the end of August, Trump reveals",
-          "url": "https://www.eluniversal.com.mx/mundo/portavoz-de-la-casa-blanca-karoline-leavitt-deja-el-cargo-a-finales-de-agosto-revela-trump-para-pasar-mas-tiempo-con-sus-hijos/",
-          "orig": "Vocera de la Casa Blanca, Karoline Leavitt, deja el cargo a finales de agosto, revela Trump"
-        },
-        {
-          "outlet": "El Universal",
-          "lean": "neutral",
-          "title": "Key points of the US 2026 Defense Strategy: the border named as national security, and unilateral action against drug traffickers",
-          "url": "https://www.eluniversal.com.mx/mundo/puntos-clave-de-la-estrategia-de-defensa-2026-de-eu-anuncia-frontera-como-seguridad-nacional-y-acciones-unilaterales-contra-el-narco/",
-          "orig": "Puntos clave de la Estrategia de Defensa 2026 de EU; anuncia frontera como seguridad nacional y acciones unilaterales contra el narco"
-        }
-      ]
-    },
-    {
-      "flag": "🇦🇷",
-      "name": "Argentina",
-      "region": "Latin America",
-      "items": [
-        {
-          "outlet": "Buenos Aires Times",
-          "lean": "neutral",
-          "date": "2026-08-07",
-          "title": "China alleges US meddling as Huawei courts Vaca Muerta",
-          "url": "https://www.batimes.com.ar/news/amp/economy/china-alleges-us-meddling-as-huawei-courts-argentina-oil-region.phtml",
-          "note": "Washington leans on Buenos Aires over a Chinese telecoms deal."
-        },
-        {
-          "outlet": "Buenos Aires Times",
-          "lean": "neutral",
-          "title": "Brazil hits new diplomatic lows with United States and Argentina",
-          "url": "https://batimes.com.ar/news/latin-america/brazil-hits-new-diplomatic-lows-with-united-states-and-argentina.phtml"
-        }
-      ]
-    },
-    {
-      "flag": "🇳🇬",
-      "name": "Nigeria",
-      "region": "West Africa",
-      "items": [
-        {
-          "outlet": "The Punch",
-          "lean": "neutral",
-          "title": "US to revoke citizenship of three Nigerians in major crackdown",
-          "url": "https://punchng.com/us-to-revoke-citizenship-of-three-nigerians-in-major-crackdown/",
-          "note": "Read in Lagos as a warning to the diaspora."
-        },
-        {
-          "outlet": "The Punch",
-          "lean": "neutral",
-          "title": "US cancels over 175,000 visas over crime, security violations",
-          "url": "https://punchng.com/us-cancels-over-175000-visas-over-crime-security-violations/"
+          "title": "US Backs Japan After Putin’s Visit to Disputed Kuril Islands",
+          "url": "https://www.kyivpost.com/post/82375"
         }
       ]
     }
