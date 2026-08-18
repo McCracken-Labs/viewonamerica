@@ -1,145 +1,157 @@
 {
-  "date_iso": "2026-08-17",
-  "date_human": "Monday, August 17, 2026",
-  "summary": "Independent journalism on America",
-  "countries": [
+ "date_iso": "2026-08-18",
+ "date_human": "Tuesday, August 18, 2026",
+ "summary": "Independent journalism on America",
+ "countries": [
+  {
+   "flag": "🔎",
+   "name": "Investigative & nonprofit",
+   "region": "Follow-the-money reporting",
+   "items": [
     {
-      "flag": "🔎",
-      "name": "Investigative & nonprofit",
-      "region": "Follow-the-money reporting",
-      "items": [
-        {
-          "outlet": "ProPublica",
-          "lean": "invest",
-          "title": "Department of Education Halts Thousands of Civil Rights Investigations",
-          "url": "https://www.propublica.org/article/department-of-education-civil-rights-office-investigations"
-        },
-        {
-          "outlet": "ProPublica",
-          "lean": "invest",
-          "title": "Democrats Investigating ICE Detentions of American Kids",
-          "url": "https://www.propublica.org/article/american-kids-detained-trump-immigration-deportation-democrats-investigation",
-          "note": "More than 170 US citizens held for some period by immigration agents, according to the congressional inquiry."
-        }
-      ]
+     "outlet": "ProPublica",
+     "lean": "invest",
+     "title": "How Trump’s Unprecedented Effort to Prosecute Noncitizen Voters Fell Apart",
+     "url": "https://www.propublica.org/article/noncitizen-voting-trump-homeland-security-investigations"
     },
     {
-      "flag": "🇺🇸",
-      "name": "Independent left (U.S.)",
-      "region": "Adversarial, progressive",
-      "items": [
-        {
-          "outlet": "The Intercept",
-          "lean": "left",
-          "date": "2026-08-11",
-          "title": "“Total Whitewash”: New Pentagon Report Claims U.S. Killed No Civilians in Boat Strikes",
-          "url": "https://theintercept.com/2026/08/11/war-department-civilian-casualties-boat-strikes-yemen/"
-        },
-        {
-          "outlet": "The Intercept",
-          "lean": "left",
-          "date": "2026-07-22",
-          "title": "GOP Rep. Called Israeli–U.S. Defense Tech Integration “Dangerous.” The House Passed It Anyway.",
-          "url": "https://theintercept.com/2026/07/22/ndaa-defense-bill-pentagon-israel-massie/"
-        },
-        {
-          "outlet": "Jacobin",
-          "lean": "left",
-          "date": "2026-08",
-          "title": "No, Americans Aren’t Better Off Than Western Europeans",
-          "url": "https://jacobin.com/2026/08/gdp-us-europe-economy-inequality",
-          "note": "An argument about what a high GDP per head does and does not buy."
-        }
-      ]
-    },
-    {
-      "flag": "🗽",
-      "name": "Independent right & heterodox",
-      "region": "Libertarian, conservative, contrarian",
-      "items": [
-        {
-          "outlet": "Reason",
-          "lean": "libert",
-          "date": "2026-08-16",
-          "title": "Trump says courts can’t review his tariffs, deportations, or troop deployments",
-          "url": "https://reason.com/2026/08/16/trumps-assault-on-judicial-review-undermines-a-crucial-safeguard-against-tyranny/"
-        },
-        {
-          "outlet": "Reason",
-          "lean": "libert",
-          "date": "2026-08-17",
-          "title": "Judge’s Allegedly “Relying Wholly” on AI in Order Is Covered by Judicial Immunity, Court Rules",
-          "url": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
-          "note": "A courts and AI question that will come up again."
-        },
-        {
-          "outlet": "The Dispatch",
-          "lean": "cright",
-          "title": "Half of America Cannot Afford to Live, and Other Wrong Numbers",
-          "url": "https://thedispatch.com/article/affordability-crisis-healthcare-housing-childcare/",
-          "note": "A conservative outlet picking apart affordability statistics used by both parties."
-        },
-        {
-          "outlet": "UnHerd (UK)",
-          "lean": "hetero",
-          "date": "2026-07",
-          "title": "The American disaster",
-          "url": "https://unherd.com/2026/07/the-american-disaster/"
-        }
-      ]
-    },
-    {
-      "flag": "🕊️",
-      "name": "Reporting in exile",
-      "region": "Diaspora newsrooms covering home, and its US dealings, from abroad",
-      "items": [
-        {
-          "outlet": "Hong Kong Free Press",
-          "lean": "exile",
-          "date": "2026-08-14",
-          "title": "Donald Trump announces tariffs of up to 100% on imported drones",
-          "url": "https://hongkongfp.com/2026/08/14/donald-trump-announces-tariffs-of-up-to-100-on-imported-drones/",
-          "note": "The drone trade is dominated by Chinese makers, which is why Hong Kong reads this as a China story."
-        },
-        {
-          "outlet": "The Kyiv Independent (Ukraine)",
-          "lean": "exile",
-          "title": "‘This is not rewarding Russia’ — US official defends extension of sanctions waiver on Russian oil",
-          "url": "https://kyivindependent.com/this-is-not-rewarding-russia-us-official-defends-extension-of-sanctions-waiver-on-russian-oil/"
-        },
-        {
-          "outlet": "IranWire (Iran, in exile)",
-          "lean": "exile",
-          "title": "CENTCOM Refutes IRGC Claims of Control Over the Strait of Hormuz",
-          "url": "https://iranwire.com/en/news/155355-centcom-refutes-irgc-claims-of-control-over-the-strait-of-hormuz/"
-        }
-      ]
-    },
-    {
-      "flag": "🌍",
-      "name": "International independent & analysis",
-      "region": "Reader-funded, outside the US",
-      "items": [
-        {
-          "outlet": "Middle East Eye",
-          "lean": "indie",
-          "title": "Centcom chief visits US carrier enforcing Iran blockade amid reports of severe strain on crew",
-          "url": "https://www.middleeasteye.net/news/centcom-chief-visits-us-carrier-enforcing-iran-blockade-amid-reports-severe-strain-crew"
-        },
-        {
-          "outlet": "The Wire (India)",
-          "lean": "indie",
-          "title": "The United States Is Hosting the World Cup. It Is Also Keeping Fans and Players Out.",
-          "url": "https://m.thewire.in/article/sport/the-united-states-is-hosting-the-world-cup-it-is-also-keeping-fans-and-players-out",
-          "note": "Visa policy meets the biggest sporting event America has staged in decades."
-        },
-        {
-          "outlet": "The Conversation",
-          "lean": "analysis",
-          "title": "2026 isn’t the first time Christians have tried to claim the United States as their own",
-          "url": "https://theconversation.com/2026-isnt-the-first-time-christians-have-tried-to-claim-the-united-states-as-their-own-283246"
-        }
-      ]
+     "outlet": "ProPublica",
+     "lean": "invest",
+     "title": "Trump Administration Orders USDA Employees to Investigate Foreign Researchers They Work With",
+     "url": "https://www.propublica.org/article/trump-usda-foreign-scientists"
     }
-  ]
+   ]
+  },
+  {
+   "flag": "🇺🇸",
+   "name": "Independent left (U.S.)",
+   "region": "Adversarial, progressive",
+   "items": [
+    {
+     "outlet": "The Intercept",
+     "lean": "left",
+     "date": "2026-08-14",
+     "title": "Has the Left Really Met Its Limit?",
+     "url": "https://theintercept.com/2026/08/14/david-sirota-democratic-establishment/"
+    },
+    {
+     "outlet": "The Intercept",
+     "lean": "left",
+     "date": "2026-08-07",
+     "title": "Congress Might Give ICE the Power to Go After Shoplifters",
+     "url": "https://theintercept.com/2026/08/07/congress-ice-shoplifting-theft-surveillance/"
+    },
+    {
+     "outlet": "Jacobin",
+     "lean": "left",
+     "title": "US Empire’s Belligerent Decline in Latin America",
+     "url": "https://jacobin.com/2026/07/us-empire-decline-trump-latin-america"
+    }
+   ]
+  },
+  {
+   "flag": "🗽",
+   "name": "Independent right & heterodox",
+   "region": "Libertarian, conservative, contrarian",
+   "items": [
+    {
+     "outlet": "Reason",
+     "lean": "libert",
+     "date": "2026-08-15",
+     "title": "Trump promised transparency. His administration keeps finding new ways to hide records.",
+     "url": "https://reason.com/2026/08/15/trump-promised-transparency-his-administration-keeps-finding-new-ways-to-hide-records/"
+    },
+    {
+     "outlet": "Reason",
+     "lean": "libert",
+     "date": "2026-08-12",
+     "title": "Border Patrol saves America from Canadian trucker delivering goods in New Mexico",
+     "url": "https://reason.com/2026/08/12/border-patrol-saves-america-from-canadian-trucker-delivering-goods-in-new-mexico/"
+    },
+    {
+     "outlet": "The Dispatch",
+     "lean": "cright",
+     "title": "Why Won’t Trump Show Us the Iran Deal?",
+     "url": "https://thedispatch.com/article/trump-iran-deal-details-nuclear-strait-hormuz/",
+     "note": "Criticism of the Iran deal from the right, on the grounds of secrecy rather than policy."
+    },
+    {
+     "outlet": "The Dispatch",
+     "lean": "cright",
+     "title": "Data Centers Are Not the Problem. Bad Policy Is.",
+     "url": "https://thedispatch.com/newsletter/dispatch-markets/data-center-water-electric-taxes-benefits/"
+    },
+    {
+     "outlet": "UnHerd (UK)",
+     "lean": "hetero",
+     "title": "The American disaster",
+     "url": "https://unherd.com/2026/07/the-american-disaster/"
+    }
+   ]
+  },
+  {
+   "flag": "🕊️",
+   "name": "Reporting in exile",
+   "region": "Diaspora newsrooms covering home, and its US dealings, from abroad",
+   "items": [
+    {
+     "outlet": "Meduza (Russia, in exile)",
+     "lean": "exile",
+     "date": "2026-07-03",
+     "title": "How the Trump-Putin summit in Alaska spawned the Kremlin’s myth of the ‘spirit of Anchorage’ — and why it collapsed",
+     "url": "https://meduza.io/en/feature/2026/07/03/how-the-trump-putin-summit-in-alaska-spawned-the-kremlin-s-myth-of-the-spirit-of-anchorage-and-why-it-collapsed"
+    },
+    {
+     "outlet": "IranWire (Iran, in exile)",
+     "lean": "exile",
+     "title": "US Reroutes 64 Vessels in Naval Blockade of Iran",
+     "url": "https://iranwire.com/en/news/156431-us-reroutes-64-vessels-in-naval-blockade-of-iran/"
+    },
+    {
+     "outlet": "IranWire (Iran, in exile)",
+     "lean": "exile",
+     "title": "Baghaei: No Talks With the US; Negotiations Are Exclusively With Oman",
+     "url": "https://iranwire.com/en/news/155786-baghaei-no-talks-with-the-us-negotiations-are-exclusively-with-oman/"
+    },
+    {
+     "outlet": "Hong Kong Free Press",
+     "lean": "exile",
+     "date": "2026-08-14",
+     "title": "Donald Trump announces tariffs of up to 100% on imported drones",
+     "url": "https://hongkongfp.com/2026/08/14/donald-trump-announces-tariffs-of-up-to-100-on-imported-drones/"
+    }
+   ]
+  },
+  {
+   "flag": "🌍",
+   "name": "International independent & analysis",
+   "region": "Reader-funded, outside the US",
+   "items": [
+    {
+     "outlet": "Middle East Eye",
+     "lean": "indie",
+     "title": "US needs to move bases from Gulf to Israel, former Centcom commander says",
+     "url": "https://www.middleeasteye.net/news/us-needs-move-bases-from-gulf-to-israel-former-centcom-commander-says"
+    },
+    {
+     "outlet": "The Conversation",
+     "lean": "analysis",
+     "title": "US defies forecasts of economic slowdown, but its growth isn’t making ordinary people better off",
+     "url": "https://theconversation.com/us-defies-forecasts-of-economic-slowdown-but-its-growth-isnt-making-ordinary-people-better-off-283989"
+    },
+    {
+     "outlet": "The Conversation",
+     "lean": "analysis",
+     "title": "Republicans control Congress, so why is Trump’s SAVE America Act stuck?",
+     "url": "https://theconversation.com/republicans-control-congress-so-why-is-trumps-save-america-act-stuck-287156"
+    },
+    {
+     "outlet": "Rappler (Philippines)",
+     "lean": "indie",
+     "title": "[OPINION] What America’s AI boom teaches us about scrutinizing Pax Silica",
+     "url": "https://www.rappler.com/voices/thought-leaders/opinion-filipinos-distrust-pax-silica-us-data-center-comparison/"
+    }
+   ]
+  }
+ ]
 }

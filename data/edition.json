@@ -1,300 +1,276 @@
 {
-  "date_iso": "2026-08-17",
-  "date_human": "Monday, August 17, 2026",
-  "summary": "11 countries today. The Iran war and the Strait of Hormuz still lead in the Gulf and in Ankara, but tariffs are the other running story: drone duties in Brussels, a lawsuit from Democratic states, a Korean trade envoy back in Washington. Around them sit a citizenship crackdown that reaches Lagos, Fauci taking the Fifth, a stalled Patriot supply in Kyiv, an American flagged ship firing on Ecuadorian fishing boats, and a survey showing how far US standing has slipped in Tokyo.",
-  "countries": [
+ "date_iso": "2026-08-18",
+ "date_human": "Tuesday, August 18, 2026",
+ "summary": "11 countries today. The scaled back Korea drills and the collapse of the US and Iran memorandum lead in Asia and the Gulf, but the day also brings record low reservoirs in the American West, a paused border wall in a Texas national park, trade friction with Brussels, an ICE detention case in Virginia, and a Kenyan basketball star leaving the WNBA for the Australian off season.",
+ "countries": [
+  {
+   "flag": "🇫🇷",
+   "name": "France",
+   "region": "Western Europe",
+   "items": [
     {
-      "flag": "🇫🇷",
-      "name": "France",
-      "region": "Western Europe",
-      "items": [
-        {
-          "outlet": "France 24",
-          "lean": "funded",
-          "date": "2026-08-13",
-          "title": "US ambassador to Israel slams settler siege of West Bank Palestinians as ‘terror’",
-          "url": "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
-          "note": "Paris notes a rare public break between a US envoy and Israeli settlers."
-        },
-        {
-          "outlet": "France 24",
-          "lean": "funded",
-          "date": "2026-08-02",
-          "title": "Trump says US backed Japanese yen in rare currency intervention",
-          "url": "https://www.france24.com/en/economy/20260802-trump-us-backed-japanese-yen-currency-intervention"
-        },
-        {
-          "outlet": "France 24",
-          "lean": "funded",
-          "date": "2026-08-01",
-          "title": "US embassies urge citizens to consider departing Middle East",
-          "url": "https://www.france24.com/en/live-news/20260801-us-embassies-urge-citizens-to-consider-departing-middle-east"
-        }
-      ]
+     "outlet": "France 24",
+     "lean": "funded",
+     "date": "2026-08-17",
+     "title": "Trump orders Pentagon to scale back military drills with South Korea hours before start",
+     "url": "https://www.france24.com/en/americas/20260817-trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-hours-before-start"
     },
     {
-      "flag": "🇯🇵",
-      "name": "Japan",
-      "region": "East Asia",
-      "items": [
-        {
-          "outlet": "The Japan Times",
-          "lean": "neutral",
-          "date": "2026-08-05",
-          "title": "Japan and U.S. begin working-level talks on host nation support",
-          "url": "https://www.japantimes.co.jp/news/2026/08/05/japan/politics/us-japan-host-nation-support/",
-          "note": "Tokyo expects to be asked to pay more for the American troops it hosts."
-        },
-        {
-          "outlet": "The Japan Times",
-          "lean": "neutral",
-          "date": "2026-07-21",
-          "title": "Tumbling U.S. status in the world should be no surprise",
-          "url": "https://www.japantimes.co.jp/commentary/2026/07/21/world/tumbling-us-world-status/"
-        },
-        {
-          "outlet": "The Japan Times",
-          "lean": "neutral",
-          "date": "2026-05-19",
-          "title": "Japanese favorability toward U.S. falls below 30%, survey finds",
-          "url": "https://www.japantimes.co.jp/news/2026/05/19/japan/politics/japan-us-favorability-fall/",
-          "note": "A first since the start of the second Trump term, and still being cited in Tokyo commentary."
-        }
-      ]
+     "outlet": "France 24",
+     "lean": "funded",
+     "date": "2026-08-17",
+     "title": "Two largest US reservoirs hit record lows amid western drought",
+     "url": "https://www.france24.com/en/live-news/20260817-two-largest-us-reservoirs-hit-record-lows-amid-western-drought",
+     "note": "French coverage of America is running the water crisis alongside the wars."
     },
     {
-      "flag": "🇶🇦",
-      "name": "Qatar",
-      "region": "Gulf",
-      "items": [
-        {
-          "outlet": "Al Jazeera",
-          "lean": "funded",
-          "date": "2026-08-16",
-          "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
-          "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he",
-          "note": "Doha treats the claim as a legal question first, not a rhetorical one."
-        },
-        {
-          "outlet": "Al Jazeera",
-          "lean": "funded",
-          "date": "2026-07-24",
-          "title": "Trump’s latest ‘forced labour tariffs’: Who’s been hit, how badly?",
-          "url": "https://www.aljazeera.com/economy/2026/7/24/trumps-latest-forced-labour-tariffs-whos-been-hit-how-badly"
-        },
-        {
-          "outlet": "Al Jazeera",
-          "lean": "funded",
-          "date": "2026-08-11",
-          "title": "Iran, US set new conditions during Hormuz talks: What does this mean?",
-          "url": "https://www.aljazeera.com/news/2026/8/11/iran-us-set-new-conditions-during-hormuz-talks-what-does-this-mean"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "name": "Russia",
-      "region": "Eastern Europe",
-      "items": [
-        {
-          "outlet": "RT (Russian service)",
-          "lean": "state",
-          "title": "US imposes sanctions on units of Russia’s Defence Ministry",
-          "url": "https://russian.rt.com/world/news/1665333-ssha-sankcii-minoborony",
-          "orig": "США ввели санкции против подразделений МО России"
-        },
-        {
-          "outlet": "RT (Russian service)",
-          "lean": "state",
-          "title": "US State Department drops the diversity and inclusion agenda for its diplomatic corps",
-          "url": "https://russian.rt.com/world/news/1669459-gosdep-ssha-povestka",
-          "orig": "В Госдепе США отказались от повестки разнообразия и инклюзивности в дипкорпусе",
-          "note": "Moscow state media likes American culture war stories as much as it likes sanctions news."
-        },
-        {
-          "outlet": "RT (Russian service)",
-          "lean": "state",
-          "title": "CNN: an unidentified ship flying the US flag attacked two Ecuadorian fishing vessels",
-          "url": "https://russian.rt.com/world/news/1670557-korabl-ssha-ataka-sudov",
-          "orig": "CNN: неизвестный корабль с флагом США атаковал два эквадорских рыболовных судна"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "name": "China & Hong Kong",
-      "region": "East Asia",
-      "items": [
-        {
-          "outlet": "South China Morning Post",
-          "lean": "neutral",
-          "title": "Fauci’s refusals put spotlight on ‘pleading the Fifth’ right in US",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362344/faucis-silence-puts-fresh-spotlight-pleading-fifth-right-us",
-          "note": "Explaining an American constitutional right to readers who do not have one."
-        },
-        {
-          "outlet": "South China Morning Post",
-          "lean": "neutral",
-          "title": "Democratic US states sue to challenge Trump’s latest round of tariffs",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3362848/democratic-us-states-sue-challenge-trumps-latest-round-tariffs"
-        },
-        {
-          "outlet": "South China Morning Post",
-          "lean": "neutral",
-          "title": "How US staged Air Force One departure to hide Trump’s secret exit from Turkey",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3363600/how-us-staged-air-force-one-departure-hide-trumps-secret-exit-turkey"
-        }
-      ]
-    },
-    {
-      "flag": "🇪🇺",
-      "name": "Europe",
-      "region": "European Union",
-      "items": [
-        {
-          "outlet": "Euronews",
-          "lean": "neutral",
-          "date": "2026-08-14",
-          "title": "Trump imposes drone tariffs of up to 100% with a lower rate for the EU and UK",
-          "url": "https://www.euronews.com/business/2026/08/14/trump-imposes-drone-tariffs-of-up-to-100-with-a-lower-rate-for-the-eu-and-uk"
-        },
-        {
-          "outlet": "Euronews",
-          "lean": "neutral",
-          "date": "2026-08-14",
-          "title": "White House says it’s losing $19B-$26B a year in revenue as countries dodge tariffs",
-          "url": "https://www.euronews.com/2026/08/14/white-house-says-its-losing-19b-26b-a-year-in-revenue-as-countries-dodge-tariffs"
-        },
-        {
-          "outlet": "Euronews",
-          "lean": "neutral",
-          "date": "2026-08-14",
-          "title": "EU pushes back as US revives trade pressure on bloc and accuses Brussels of enabling China to evade tariffs",
-          "url": "https://www.euronews.com/my-europe/2026/08/14/eu-pushes-back-as-us-revives-trade-pressure-on-bloc-and-accuses-brussels-of-enabling-china"
-        }
-      ]
-    },
-    {
-      "flag": "🇹🇷",
-      "name": "Türkiye",
-      "region": "Middle East",
-      "items": [
-        {
-          "outlet": "Daily Sabah",
-          "lean": "progov",
-          "title": "US arrests dozens of military veterans protesting Iran war at Capitol",
-          "url": "https://www.dailysabah.com/world/americas/us-arrests-dozens-of-military-veterans-protesting-iran-war-at-capitol",
-          "note": "Ankara gives prominent play to American dissent over the war."
-        },
-        {
-          "outlet": "Daily Sabah",
-          "lean": "progov",
-          "title": "Trump scales down US-S. Korea joint military drills hours from start",
-          "url": "https://www.dailysabah.com/world/mid-east/trump-scales-down-us-s-korea-joint-military-drills-hours-from-start"
-        },
-        {
-          "outlet": "Daily Sabah",
-          "lean": "progov",
-          "title": "Ecuador’s fishermen risk cartels, extortion, US strikes at sea",
-          "url": "https://www.dailysabah.com/world/americas/ecuadors-fishermen-risk-cartels-extortion-us-strikes-at-sea"
-        }
-      ]
-    },
-    {
-      "flag": "🇳🇬",
-      "name": "Nigeria",
-      "region": "West Africa",
-      "items": [
-        {
-          "outlet": "The Punch",
-          "lean": "neutral",
-          "title": "US to revoke citizenship of three Nigerians in major crackdown",
-          "url": "https://punchng.com/us-to-revoke-citizenship-of-three-nigerians-in-major-crackdown/",
-          "note": "Denaturalisation is a domestic US legal story in Washington and a family story in Lagos."
-        },
-        {
-          "outlet": "The Punch",
-          "lean": "neutral",
-          "title": "US to stop routine visa processing at Abuja embassy, 24 other African missions",
-          "url": "https://punchng.com/us-to-stop-routine-visa-processing-at-abuja-embassy-24-other-african-missions/"
-        },
-        {
-          "outlet": "The Punch",
-          "lean": "neutral",
-          "title": "My ancestry search ended in Lagos royal family — US-born Nigerian, Olomo",
-          "url": "https://punchng.com/my-ancestry-search-ended-in-lagos-royal-family-us-born-nigerian-olomo/"
-        }
-      ]
-    },
-    {
-      "flag": "🇰🇷",
-      "name": "South Korea",
-      "region": "East Asia",
-      "items": [
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "Industry minister again heads for Washington amid growing U.S. tariff pressure",
-          "url": "https://www.koreaherald.com/article/10842730"
-        },
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "US sanctions 2 individuals, 4 entities to target NK IT worker network",
-          "url": "https://www.koreaherald.com/article/10400884"
-        },
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "Key S. Korea-US military drills begin amid OPCON transition push",
-          "url": "https://www.koreaherald.com/article/10842938"
-        }
-      ]
-    },
-    {
-      "flag": "🇦🇷",
-      "name": "Argentina",
-      "region": "South America",
-      "items": [
-        {
-          "outlet": "Buenos Aires Times",
-          "lean": "neutral",
-          "title": "United States at 250: More prosperous, more diverse, yet more divided",
-          "url": "https://batimes.com.ar/news/world/united-states-at-250-more-prosperous-more-diverse-yet-more-divided.phtml"
-        },
-        {
-          "outlet": "Buenos Aires Times",
-          "lean": "neutral",
-          "title": "Rubio: US wants to globalise fight against far-left ‘terrorism’",
-          "url": "https://www.batimes.com.ar/news/world/rubio-says-united-states-wants-to-globalise-fight-against-far-left-terrorism.phtml",
-          "note": "Read in Buenos Aires as a policy with a long regional history behind it."
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇦",
-      "name": "Ukraine",
-      "region": "Eastern Europe",
-      "items": [
-        {
-          "outlet": "Kyiv Post",
-          "lean": "neutral",
-          "title": "Patriot Missiles in Short Supply Worldwide, Ukraine Scrambles to Protect Cities",
-          "url": "https://www.kyivpost.com/post/82493"
-        },
-        {
-          "outlet": "Kyiv Post",
-          "lean": "neutral",
-          "title": "Trump Walks Back Promise to Let Ukraine Build Patriots Over Russia Fears",
-          "url": "https://www.kyivpost.com/post/82131"
-        },
-        {
-          "outlet": "Kyiv Post",
-          "lean": "neutral",
-          "title": "Why an American Army Veteran Traveled to Ukraine’s Front Line Without Taking a Cent",
-          "url": "https://www.kyivpost.com/post/82123"
-        }
-      ]
+     "outlet": "France 24",
+     "lean": "funded",
+     "date": "2026-08-18",
+     "title": "Trump pauses controversial border construction in Texas national park",
+     "url": "https://www.france24.com/en/americas/20260818-trump-pauses-controversial-border-construction-in-texas-national-park"
     }
-  ]
+   ]
+  },
+  {
+   "flag": "🇯🇵",
+   "name": "Japan",
+   "region": "East Asia",
+   "items": [
+    {
+     "outlet": "The Japan Times",
+     "lean": "neutral",
+     "date": "2026-08-17",
+     "title": "Trump orders ‘inappropriate’ U.S.-South Korean military drills scaled back",
+     "url": "https://www.japantimes.co.jp/news/2026/08/17/asia-pacific/politics/us-south-korea-military-exercises-trump/",
+     "note": "Read in Tokyo as a question about what alliance commitments are now worth."
+    },
+    {
+     "outlet": "The Japan Times",
+     "lean": "neutral",
+     "date": "2026-08-04",
+     "title": "U.S. to close consulates in Canada, Japan and Indonesia, sources say",
+     "url": "https://www.japantimes.co.jp/news/2026/08/04/world/politics/us-consulates-canada-japan-indonesia/"
+    },
+    {
+     "outlet": "The Japan Times",
+     "lean": "neutral",
+     "date": "2026-08-03",
+     "title": "Japan and U.S. confirm joint yen intervention",
+     "url": "https://www.japantimes.co.jp/business/2026/08/03/markets/japan-us-joint-yen-intervention/"
+    }
+   ]
+  },
+  {
+   "flag": "🇶🇦",
+   "name": "Qatar",
+   "region": "Gulf",
+   "items": [
+    {
+     "outlet": "Al Jazeera",
+     "lean": "funded",
+     "date": "2026-08-17",
+     "title": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
+     "url": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "lean": "funded",
+     "date": "2026-08-12",
+     "title": "Wisconsin race upset: Key takeaways from US primary election results",
+     "url": "https://www.aljazeera.com/news/2026/8/12/wisconsin-race-tight-key-takeaways-from-us-primary-election-results",
+     "note": "Gulf readers get the American midterm primaries covered in detail, not just the war."
+    },
+    {
+     "outlet": "Al Jazeera",
+     "lean": "funded",
+     "date": "2026-08-15",
+     "title": "California tackles multiple wildfires as firefighter workforce faces strain",
+     "url": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain"
+    }
+   ]
+  },
+  {
+   "flag": "🇷🇺",
+   "name": "Russia",
+   "region": "Eurasia",
+   "items": [
+    {
+     "outlet": "RT (Russian service)",
+     "lean": "state",
+     "title": "FT: The US hopes for a breakthrough in the Ukraine talks thanks to unexpected negotiators",
+     "url": "https://russian.rt.com/world/news/1671117-ssha-proryv-dialog",
+     "orig": "FT: США надеются на прорыв в диалоге по Украине из-за неожиданных переговорщиков"
+    },
+    {
+     "outlet": "RT (Russian service)",
+     "lean": "state",
+     "title": "The US State Department drops the diversity and inclusion agenda in the diplomatic corps",
+     "url": "https://russian.rt.com/world/news/1669459-gosdep-ssha-povestka",
+     "orig": "В Госдепе США отказались от повестки разнообразия и инклюзивности в дипкорпусе",
+     "note": "State media picks up American culture war stories that flatter its own line."
+    },
+    {
+     "outlet": "RT (Russian service)",
+     "lean": "state",
+     "title": "EURACTIV: The US may allow Europe to use its missiles from NATO launchers",
+     "url": "https://russian.rt.com/world/news/1671111-euractiv-ssha-evropa",
+     "orig": "EURACTIV: США могут позволить Европе использовать свои ракеты с установок НАТО"
+    }
+   ]
+  },
+  {
+   "flag": "🇨🇳",
+   "name": "China & Hong Kong",
+   "region": "East Asia",
+   "items": [
+    {
+     "outlet": "South China Morning Post",
+     "lean": "neutral",
+     "date": "2026-08-10",
+     "title": "US ‘digging in’ to Asia but wants ‘partners not dependency’: Pentagon",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3363543/us-digging-asia-wants-partners-not-dependency-pentagon"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "lean": "neutral",
+     "date": "2026-08-16",
+     "title": "How the US could squeeze Iran with economic isolation – and the risks involved",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3364177/how-us-could-squeeze-iran-economic-isolation-and-risks-involved"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "lean": "neutral",
+     "title": "US-China investment, ‘Chinese Schindler’, DJI Pentagon battle: 7 US-China relations reads",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3364121/us-china-investment-chinese-schindler-dji-pentagon-battle-7-us-china-relations-reads"
+    }
+   ]
+  },
+  {
+   "flag": "🇪🇺",
+   "name": "European Union",
+   "region": "Europe",
+   "items": [
+    {
+     "outlet": "Euronews",
+     "lean": "neutral",
+     "date": "2026-08-14",
+     "title": "EU pushes back as US revives trade pressure on bloc and accuses Brussels of enabling China to evade tariffs",
+     "url": "https://www.euronews.com/my-europe/2026/08/14/eu-pushes-back-as-us-revives-trade-pressure-on-bloc-and-accuses-brussels-of-enabling-china"
+    },
+    {
+     "outlet": "Euronews",
+     "lean": "neutral",
+     "date": "2026-07-24",
+     "title": "US imposes new tariffs on dozens of countries over ‘forced labour’ claims",
+     "url": "https://www.euronews.com/business/2026/07/24/us-imposes-new-tariffs-on-dozens-of-countries-over-forced-labour-claims"
+    }
+   ]
+  },
+  {
+   "flag": "🇲🇽",
+   "name": "Mexico",
+   "region": "Latin America",
+   "items": [
+    {
+     "outlet": "El Universal",
+     "lean": "neutral",
+     "title": "Mexican man detained by ICE in Virginia wakes up in hospital with beatings and a brain bleed, says he was given an electric shock",
+     "url": "https://www.eluniversal.com.mx/mundo/mexicano-detenido-por-ice-en-virginia-despierta-en-hospital-con-golpes-y-un-derrame-en-la-cabeza-asegura-que-recibio-una-descarga-electrica/",
+     "orig": "Mexicano detenido por ICE en Virginia despierta en hospital con golpes y un derrame en la cabeza",
+     "note": "Immigration enforcement is a domestic story in Mexico, reported through the families involved."
+    },
+    {
+     "outlet": "El Universal",
+     "lean": "neutral",
+     "date": "2026-08-14",
+     "title": "We have shown the US there is no scheme for routing Chinese goods: Sheinbaum on the White House report",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-reacciona-a-informe-sobre-evasion-de-aranceles-hemos-demostrado-a-eu-que-no-hay-esquema-de-triangulacion-con-china-dice/",
+     "orig": "Hemos demostrado a EU que no hay esquema de triangulación con mercancías chinas: Sheinbaum sobre informe de la Casa Blanca"
+    },
+    {
+     "outlet": "El Universal",
+     "lean": "neutral",
+     "title": "Sheinbaum prepares a review of new US measures on ‘birth tourism’: very few cases, she says",
+     "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-alista-revision-a-nuevas-medidas-sobre-turismo-de-maternidad-en-eu-son-muy-pocos-casos-senala/",
+     "orig": "Sheinbaum alista revisión a nuevas medidas sobre “turismo de maternidad” en EU"
+    }
+   ]
+  },
+  {
+   "flag": "🇰🇪",
+   "name": "Kenya",
+   "region": "East Africa",
+   "items": [
+    {
+     "outlet": "Daily Nation",
+     "lean": "neutral",
+     "title": "Why WNBA star Madina Okot is heading to Australia",
+     "url": "https://nation.africa/kenya/sports/why-wnba-star-madina-okot-is-heading-to-australia-5550462",
+     "note": "Kenya's biggest paper covers America mostly through the Kenyans who go there to work and play."
+    }
+   ]
+  },
+  {
+   "flag": "🇿🇦",
+   "name": "South Africa",
+   "region": "Southern Africa",
+   "items": [
+    {
+     "outlet": "News24",
+     "lean": "neutral",
+     "date": "2026-08-13",
+     "title": "US immigration agency plans to buy electric shock gloves, alarming rights groups",
+     "url": "https://www.news24.com/world/us-immigration-agency-plans-to-buy-electric-shock-gloves-alarming-rights-groups-20260813-0910"
+    },
+    {
+     "outlet": "News24",
+     "lean": "neutral",
+     "date": "2026-08-18",
+     "title": "Hamas says it is committed to Gaza deal after Trump’s son-in-law visits Israel",
+     "url": "https://www.news24.com/world/hamas-says-it-is-committed-to-gaza-deal-after-trumps-son-in-law-visits-israel-20260818-0610"
+    }
+   ]
+  },
+  {
+   "flag": "🇹🇷",
+   "name": "Türkiye",
+   "region": "Anatolia",
+   "items": [
+    {
+     "outlet": "Daily Sabah",
+     "lean": "progov",
+     "title": "Iran ready for new ‘offensive’ after US dismisses truce extension",
+     "url": "https://www.dailysabah.com/world/mid-east/iran-ready-for-new-offensive-after-us-dismisses-truce-extension"
+    },
+    {
+     "outlet": "Daily Sabah",
+     "lean": "progov",
+     "title": "Disney unveils star-studded cast for new ‘X-Men’ film at D23",
+     "url": "https://www.dailysabah.com/arts/cinema/disney-unveils-star-studded-cast-for-new-x-men-film-at-d23",
+     "note": "American soft power still runs on the same rails, war or no war."
+    }
+   ]
+  },
+  {
+   "flag": "🇦🇷",
+   "name": "Argentina",
+   "region": "South America",
+   "items": [
+    {
+     "outlet": "Buenos Aires Times",
+     "lean": "neutral",
+     "title": "Brazil hits new diplomatic lows with United States and Argentina",
+     "url": "https://batimes.com.ar/news/latin-america/brazil-hits-new-diplomatic-lows-with-united-states-and-argentina.phtml",
+     "note": "Brasilia says Washington and Buenos Aires are leaning on its October election."
+    },
+    {
+     "outlet": "Buenos Aires Times",
+     "lean": "neutral",
+     "title": "US ambassador warns Argentina over Chinese firms in Vaca Muerta",
+     "url": "https://www.batimes.com.ar/news/amp/economy/us-ambassador-warns-argentina-over-chinese-firms-in-vaca-muerta.phtml"
+    }
+   ]
+  }
+ ]
 }
