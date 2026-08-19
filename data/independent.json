@@ -1,6 +1,6 @@
 {
- "date_iso": "2026-08-18",
- "date_human": "Tuesday, August 18, 2026",
+ "date_iso": "2026-08-19",
+ "date_human": "Wednesday, August 19, 2026",
  "summary": "Independent journalism on America",
  "countries": [
   {
@@ -11,14 +11,14 @@
     {
      "outlet": "ProPublica",
      "lean": "invest",
-     "title": "How Trump’s Unprecedented Effort to Prosecute Noncitizen Voters Fell Apart",
-     "url": "https://www.propublica.org/article/noncitizen-voting-trump-homeland-security-investigations"
+     "title": "We Found That More Than 170 U.S. Citizens Have Been Held by Immigration Agents. They’ve Been Kicked, Dragged and Detained for Days.",
+     "url": "https://www.propublica.org/article/immigration-dhs-american-citizens-arrested-detained-against-will"
     },
     {
      "outlet": "ProPublica",
      "lean": "invest",
-     "title": "Trump Administration Orders USDA Employees to Investigate Foreign Researchers They Work With",
-     "url": "https://www.propublica.org/article/trump-usda-foreign-scientists"
+     "title": "How Much Money Will Host Cities Make From the 2026 World Cup? Not Much.",
+     "url": "https://www.propublica.org/article/world-cup-2026-host-cities-revenue-houston"
     }
    ]
   },
@@ -35,17 +35,16 @@
      "url": "https://theintercept.com/2026/08/14/david-sirota-democratic-establishment/"
     },
     {
-     "outlet": "The Intercept",
+     "outlet": "Jacobin",
      "lean": "left",
-     "date": "2026-08-07",
-     "title": "Congress Might Give ICE the Power to Go After Shoplifters",
-     "url": "https://theintercept.com/2026/08/07/congress-ice-shoplifting-theft-surveillance/"
+     "title": "The Union Deal That’s Undermining Gig Workers",
+     "url": "https://jacobin.com/2026/08/uber-rideshare-exploitation-unions-organizing"
     },
     {
      "outlet": "Jacobin",
      "lean": "left",
-     "title": "US Empire’s Belligerent Decline in Latin America",
-     "url": "https://jacobin.com/2026/07/us-empire-decline-trump-latin-america"
+     "title": "No, Americans Aren’t Better Off Than Western Europeans",
+     "url": "https://jacobin.com/2026/08/gdp-us-europe-economy-inequality"
     }
    ]
   },
@@ -57,29 +56,22 @@
     {
      "outlet": "Reason",
      "lean": "libert",
-     "date": "2026-08-15",
-     "title": "Trump promised transparency. His administration keeps finding new ways to hide records.",
-     "url": "https://reason.com/2026/08/15/trump-promised-transparency-his-administration-keeps-finding-new-ways-to-hide-records/"
+     "date": "2026-08-19",
+     "title": "ICE admits it investigated a critic based on constitutionally protected speech",
+     "url": "https://reason.com/2026/08/19/ice-admits-it-investigated-a-critic-based-on-constitutionally-protected-speech/"
     },
     {
      "outlet": "Reason",
      "lean": "libert",
-     "date": "2026-08-12",
-     "title": "Border Patrol saves America from Canadian trucker delivering goods in New Mexico",
-     "url": "https://reason.com/2026/08/12/border-patrol-saves-america-from-canadian-trucker-delivering-goods-in-new-mexico/"
+     "date": "2026-08-17",
+     "title": "As France pauses social media ban, American lawmakers race to restrict the internet",
+     "url": "https://reason.com/2026/08/17/as-france-pauses-social-media-ban-american-lawmakers-race-to-restrict-the-internet/"
     },
     {
      "outlet": "The Dispatch",
      "lean": "cright",
-     "title": "Why Won’t Trump Show Us the Iran Deal?",
-     "url": "https://thedispatch.com/article/trump-iran-deal-details-nuclear-strait-hormuz/",
-     "note": "Criticism of the Iran deal from the right, on the grounds of secrecy rather than policy."
-    },
-    {
-     "outlet": "The Dispatch",
-     "lean": "cright",
-     "title": "Data Centers Are Not the Problem. Bad Policy Is.",
-     "url": "https://thedispatch.com/newsletter/dispatch-markets/data-center-water-electric-taxes-benefits/"
+     "title": "The Data Center Backlash Is Really About Abundance",
+     "url": "https://thedispatch.com/newsletter/dispatch-energy/data-center-bans-abundance-energy-demand/"
     },
     {
      "outlet": "UnHerd (UK)",
@@ -95,13 +87,6 @@
    "region": "Diaspora newsrooms covering home, and its US dealings, from abroad",
    "items": [
     {
-     "outlet": "Meduza (Russia, in exile)",
-     "lean": "exile",
-     "date": "2026-07-03",
-     "title": "How the Trump-Putin summit in Alaska spawned the Kremlin’s myth of the ‘spirit of Anchorage’ — and why it collapsed",
-     "url": "https://meduza.io/en/feature/2026/07/03/how-the-trump-putin-summit-in-alaska-spawned-the-kremlin-s-myth-of-the-spirit-of-anchorage-and-why-it-collapsed"
-    },
-    {
      "outlet": "IranWire (Iran, in exile)",
      "lean": "exile",
      "title": "US Reroutes 64 Vessels in Naval Blockade of Iran",
@@ -110,15 +95,21 @@
     {
      "outlet": "IranWire (Iran, in exile)",
      "lean": "exile",
-     "title": "Baghaei: No Talks With the US; Negotiations Are Exclusively With Oman",
-     "url": "https://iranwire.com/en/news/155786-baghaei-no-talks-with-the-us-negotiations-are-exclusively-with-oman/"
+     "title": "US Indicts 17 Iranian Operatives in Mass Cyber-Theft Scheme",
+     "url": "https://iranwire.com/en/news/156484-us-indicts-17-iranian-operatives-in-mass-cyber-theft-scheme/"
     },
     {
      "outlet": "Hong Kong Free Press",
      "lean": "exile",
-     "date": "2026-08-14",
-     "title": "Donald Trump announces tariffs of up to 100% on imported drones",
-     "url": "https://hongkongfp.com/2026/08/14/donald-trump-announces-tariffs-of-up-to-100-on-imported-drones/"
+     "date": "2026-07-30",
+     "title": "China accuses US of suppression over humanoid robot ban",
+     "url": "https://hongkongfp.com/2026/07/30/china-accuses-us-of-suppression-over-humanoid-robot-ban/"
+    },
+    {
+     "outlet": "The Kyiv Independent (Ukraine)",
+     "lean": "exile",
+     "title": "US envoys Witkoff, Kushner expected to visit Kyiv in August, media reports",
+     "url": "https://kyivindependent.com/us-envoys-witkoff-kushner-expected-to-visit-kyiv-in-august-media-reports/"
     }
    ]
   },
@@ -130,26 +121,33 @@
     {
      "outlet": "Middle East Eye",
      "lean": "indie",
-     "title": "US needs to move bases from Gulf to Israel, former Centcom commander says",
-     "url": "https://www.middleeasteye.net/news/us-needs-move-bases-from-gulf-to-israel-former-centcom-commander-says"
-    },
-    {
-     "outlet": "The Conversation",
-     "lean": "analysis",
-     "title": "US defies forecasts of economic slowdown, but its growth isn’t making ordinary people better off",
-     "url": "https://theconversation.com/us-defies-forecasts-of-economic-slowdown-but-its-growth-isnt-making-ordinary-people-better-off-283989"
-    },
-    {
-     "outlet": "The Conversation",
-     "lean": "analysis",
-     "title": "Republicans control Congress, so why is Trump’s SAVE America Act stuck?",
-     "url": "https://theconversation.com/republicans-control-congress-so-why-is-trumps-save-america-act-stuck-287156"
+     "title": "Trump labels Strait of Hormuz ‘US territory’ as Iran says Israel is biggest obstacle to negotiations",
+     "url": "https://www.middleeasteye.net/news/trump-labels-strait-hormuz-us-territory-iran-says-israel-remains-biggest-obstacle-negotiations"
     },
     {
      "outlet": "Rappler (Philippines)",
      "lean": "indie",
-     "title": "[OPINION] What America’s AI boom teaches us about scrutinizing Pax Silica",
-     "url": "https://www.rappler.com/voices/thought-leaders/opinion-filipinos-distrust-pax-silica-us-data-center-comparison/"
+     "title": "Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins",
+     "url": "https://www.rappler.com/technology/social-media/meta-rejects-claims-hook-children-facebook-instagram-us-trial/",
+     "note": "Twenty nine US states are suing Meta in an Oakland federal court, followed closely from Manila."
+    },
+    {
+     "outlet": "The Conversation",
+     "lean": "analysis",
+     "title": "After Supreme Court setback, Trump again targets immigration by expanding definition of birthright citizenship",
+     "url": "https://theconversation.com/after-supreme-court-setback-trump-again-targets-immigration-by-expanding-definition-of-birthright-citizenship-289465"
+    },
+    {
+     "outlet": "The Wire (India)",
+     "lean": "indie",
+     "title": "Three Axes of Crisis Defining the United States in 2026, And Glimmers of Hope",
+     "url": "https://m.thewire.in/article/government/three-axes-of-crisis-defining-the-united-states-in-2026-and-glimmers-of-hope"
+    },
+    {
+     "outlet": "Coda Story",
+     "lean": "indie",
+     "title": "How Trump is bringing shell companies back onshore",
+     "url": "https://www.codastory.com/oligarchy/how-trump-is-bringing-shell-companies-back-onshore/"
     }
    ]
   }
