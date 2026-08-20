@@ -1,155 +1,66 @@
 {
- "date_iso": "2026-08-19",
- "date_human": "Wednesday, August 19, 2026",
- "summary": "Independent journalism on America",
- "countries": [
-  {
-   "flag": "🔎",
-   "name": "Investigative & nonprofit",
-   "region": "Follow-the-money reporting",
-   "items": [
+  "date_iso": "2026-08-20",
+  "date_human": "Thursday, August 20, 2026",
+  "summary": "Independent journalism on America",
+  "countries": [
     {
-     "outlet": "ProPublica",
-     "lean": "invest",
-     "title": "We Found That More Than 170 U.S. Citizens Have Been Held by Immigration Agents. They’ve Been Kicked, Dragged and Detained for Days.",
-     "url": "https://www.propublica.org/article/immigration-dhs-american-citizens-arrested-detained-against-will"
+      "flag": "🔎",
+      "name": "Investigative & nonprofit",
+      "region": "Follow-the-money reporting",
+      "items": [
+        {"outlet": "ProPublica", "lean": "invest", "title": "Joint Congressional Investigation Launched in Response to ProPublica’s Revelations on Detained Americans", "url": "https://www.propublica.org/article/immigration-ice-americans-detained-joint-congressional-investigation"},
+        {"outlet": "ProPublica", "lean": "invest", "title": "Caught in the Crackdown: As Arrests at Anti-ICE Protests Piled Up, Prosecutions Crumbled", "url": "https://www.propublica.org/article/caught-in-crackdown-ice-cbp-doj-trump-arrests-convictions"},
+        {"outlet": "ProPublica", "lean": "invest", "title": "DOJ in Puerto Rico Halted Drugs-for-Votes Investigation", "url": "https://www.propublica.org/article/trump-doj-puerto-rico-election-fraud-prison-drugs-votes"}
+      ]
     },
     {
-     "outlet": "ProPublica",
-     "lean": "invest",
-     "title": "How Much Money Will Host Cities Make From the 2026 World Cup? Not Much.",
-     "url": "https://www.propublica.org/article/world-cup-2026-host-cities-revenue-houston"
+      "flag": "🇺🇸",
+      "name": "Independent left (U.S.)",
+      "region": "Adversarial, progressive",
+      "items": [
+        {"outlet": "The Intercept", "lean": "left", "date": "2026-08-08", "title": "Rubio Is Trying to Keep Leftists Out of U.S. by Banning Supporters of “Economic Sabotage”", "url": "https://theintercept.com/2026/08/08/state-department-rubio-leftists-visas-terrorism/"},
+        {"outlet": "The Intercept", "lean": "left", "date": "2026-08-12", "title": "Tennessee Plans Another Execution Despite Its Brutal Recent Mistakes", "url": "https://theintercept.com/2026/08/12/tennessee-oklahoma-alabama-executions-anthony-darrell-hines-carlos-cuesta-rodriguez-jeremy-williams/"},
+        {"outlet": "Jacobin", "lean": "left", "date": "2026-08", "title": "No, Americans Aren’t Better Off Than Western Europeans", "url": "https://jacobin.com/2026/08/gdp-us-europe-economy-inequality"},
+        {"outlet": "Jacobin", "lean": "left", "date": "2026-08", "title": "Trump Gets Real About US Dominance of Latin America", "url": "https://jacobin.com/2026/08/monroe-doctrine-trump-american-imperialism"}
+      ]
+    },
+    {
+      "flag": "🗽",
+      "name": "Independent right & heterodox",
+      "region": "Libertarian, conservative, contrarian",
+      "items": [
+        {"outlet": "Reason", "lean": "libert", "date": "2026-08-20", "title": "Texas requires the Ten Commandments be posted in every classroom. SCOTUS may decide if that’s constitutional.", "url": "https://reason.com/2026/08/20/texas-requires-the-ten-commandments-be-posted-in-every-classroom-scotus-may-decide-if-thats-constitutional/"},
+        {"outlet": "Reason", "lean": "libert", "date": "2026-08-19", "title": "Border agents searched his phone 5 times without a warrant. He’s asking the Supreme Court to put a stop to it.", "url": "https://reason.com/2026/08/19/border-agents-searched-his-phone-5-times-without-a-warrant-hes-asking-the-supreme-court-to-put-a-stop-to-it/"},
+        {"outlet": "The Dispatch", "lean": "cright", "title": "The Tragedy of U.S. Debt", "url": "https://thedispatch.com/article/debt-gdp-interest-rates-trump-republicans/", "note": "A fiscal argument from the centre right, aimed squarely at Republicans."},
+        {"outlet": "The Dispatch", "lean": "cright", "title": "We Owe It to Our Children to Build Things That Last", "url": "https://thedispatch.com/article/american-construction-building-quality-posterity/"},
+        {"outlet": "UnHerd (UK)", "lean": "hetero", "date": "2026-08", "title": "America’s unstoppable Hispanic future", "url": "https://unherd.com/2026/08/americas-unstoppable-hispanic-future/"},
+        {"outlet": "UnHerd (UK)", "lean": "hetero", "date": "2026-08", "title": "The 'Me Decade' — 50 years later", "url": "https://unherd.com/2026/08/the-me-decade-50-years-later/"}
+      ]
+    },
+    {
+      "flag": "🕊️",
+      "name": "Reporting in exile",
+      "region": "Diaspora newsrooms covering home, and its US dealings, from abroad",
+      "items": [
+        {"outlet": "Meduza (Russia, in exile)", "lean": "exile", "date": "2026-08-18", "title": "What happens if China attacks Taiwan and Russia attacks an eastern NATO country? It turns out the West does not even have a rough plan", "url": "https://meduza.io/feature/2026/08/18/chto-budet-esli-kitay-napadet-na-tayvan-a-rossiya-na-vostochnuyu-stranu-nato", "orig": "Что будет, если Китай нападет на Тайвань, а Россия — на восточную страну НАТО?"},
+        {"outlet": "Hong Kong Free Press", "lean": "exile", "date": "2026-08-20", "title": "CK Hutchison seeks over US$1.5 billion from Panama over port takeover", "url": "https://hongkongfp.com/2026/08/20/ck-hutchison-seeks-over-us1-5-billion-from-panama-over-port-takeover/", "note": "The Panama ports deal, pushed hard by Washington, is now in arbitration."},
+        {"outlet": "The Kyiv Independent (Ukraine)", "lean": "exile", "title": "Trump imposes steep tariffs on drone imports", "url": "https://kyivindependent.com/trump-imposes-steep-tariffs-on-drone-imports/"},
+        {"outlet": "The Kyiv Independent (Ukraine)", "lean": "exile", "title": "US envoys Witkoff, Kushner expected to visit Kyiv in August, media reports", "url": "https://kyivindependent.com/us-envoys-witkoff-kushner-expected-to-visit-kyiv-in-august-media-reports/"}
+      ]
+    },
+    {
+      "flag": "🌍",
+      "name": "International independent & analysis",
+      "region": "Reader-funded, outside the US",
+      "items": [
+        {"outlet": "Middle East Eye", "lean": "indie", "title": "US elections: Progressive Democrat scores shock win in Florida", "url": "https://www.middleeasteye.net/news/us-elections-progressive-democrat-scores-shock-win-florida"},
+        {"outlet": "Middle East Eye", "lean": "indie", "title": "US strengthens military presence in breakaway Puntland amid battle for Red Sea", "url": "https://www.middleeasteye.net/news/us-strengthens-military-presence-breakaway-puntland-amid-battle-red-sea"},
+        {"outlet": "Rappler (Philippines)", "lean": "indie", "title": "Mark Zuckerberg encouraged growth over child safety, ex-Meta exec testifies", "url": "https://www.rappler.com/world/us-canada/mark-zuckerberg-encouraged-growth-child-safety-meta-testimony/"},
+        {"outlet": "Rappler (Philippines)", "lean": "indie", "title": "Trump put thousands of soldiers on Washington’s streets. They seldom stop crime", "url": "https://www.rappler.com/world/us-canada/trump-soldiers-deployment-washington-impact-crime/"},
+        {"outlet": "The Conversation", "lean": "analysis", "title": "Will a ‘Trump slump’ continue to hit US tourism in 2026 − and even keep World Cup fans away?", "url": "https://theconversation.com/will-a-trump-slump-continue-to-hit-us-tourism-in-2026-and-even-keep-world-cup-fans-away-274244"},
+        {"outlet": "The Wire (India)", "lean": "indie", "title": "The World Has Lost Faith in Trump, But India Remains Uncertain, Finds Survey", "url": "https://m.thewire.in/article/world/the-world-has-lost-faith-in-trump-india-remains-uncertain"},
+        {"outlet": "Coda Story", "lean": "indie", "title": "The Belongers: What the Chagos Islands tells us about the new world order", "url": "https://www.codastory.com/rewriting-history/the-belongers-what-the-chagos-islands-tells-us-about-the-new-world-order/"}
+      ]
     }
-   ]
-  },
-  {
-   "flag": "🇺🇸",
-   "name": "Independent left (U.S.)",
-   "region": "Adversarial, progressive",
-   "items": [
-    {
-     "outlet": "The Intercept",
-     "lean": "left",
-     "date": "2026-08-14",
-     "title": "Has the Left Really Met Its Limit?",
-     "url": "https://theintercept.com/2026/08/14/david-sirota-democratic-establishment/"
-    },
-    {
-     "outlet": "Jacobin",
-     "lean": "left",
-     "title": "The Union Deal That’s Undermining Gig Workers",
-     "url": "https://jacobin.com/2026/08/uber-rideshare-exploitation-unions-organizing"
-    },
-    {
-     "outlet": "Jacobin",
-     "lean": "left",
-     "title": "No, Americans Aren’t Better Off Than Western Europeans",
-     "url": "https://jacobin.com/2026/08/gdp-us-europe-economy-inequality"
-    }
-   ]
-  },
-  {
-   "flag": "🗽",
-   "name": "Independent right & heterodox",
-   "region": "Libertarian, conservative, contrarian",
-   "items": [
-    {
-     "outlet": "Reason",
-     "lean": "libert",
-     "date": "2026-08-19",
-     "title": "ICE admits it investigated a critic based on constitutionally protected speech",
-     "url": "https://reason.com/2026/08/19/ice-admits-it-investigated-a-critic-based-on-constitutionally-protected-speech/"
-    },
-    {
-     "outlet": "Reason",
-     "lean": "libert",
-     "date": "2026-08-17",
-     "title": "As France pauses social media ban, American lawmakers race to restrict the internet",
-     "url": "https://reason.com/2026/08/17/as-france-pauses-social-media-ban-american-lawmakers-race-to-restrict-the-internet/"
-    },
-    {
-     "outlet": "The Dispatch",
-     "lean": "cright",
-     "title": "The Data Center Backlash Is Really About Abundance",
-     "url": "https://thedispatch.com/newsletter/dispatch-energy/data-center-bans-abundance-energy-demand/"
-    },
-    {
-     "outlet": "UnHerd (UK)",
-     "lean": "hetero",
-     "title": "The American disaster",
-     "url": "https://unherd.com/2026/07/the-american-disaster/"
-    }
-   ]
-  },
-  {
-   "flag": "🕊️",
-   "name": "Reporting in exile",
-   "region": "Diaspora newsrooms covering home, and its US dealings, from abroad",
-   "items": [
-    {
-     "outlet": "IranWire (Iran, in exile)",
-     "lean": "exile",
-     "title": "US Reroutes 64 Vessels in Naval Blockade of Iran",
-     "url": "https://iranwire.com/en/news/156431-us-reroutes-64-vessels-in-naval-blockade-of-iran/"
-    },
-    {
-     "outlet": "IranWire (Iran, in exile)",
-     "lean": "exile",
-     "title": "US Indicts 17 Iranian Operatives in Mass Cyber-Theft Scheme",
-     "url": "https://iranwire.com/en/news/156484-us-indicts-17-iranian-operatives-in-mass-cyber-theft-scheme/"
-    },
-    {
-     "outlet": "Hong Kong Free Press",
-     "lean": "exile",
-     "date": "2026-07-30",
-     "title": "China accuses US of suppression over humanoid robot ban",
-     "url": "https://hongkongfp.com/2026/07/30/china-accuses-us-of-suppression-over-humanoid-robot-ban/"
-    },
-    {
-     "outlet": "The Kyiv Independent (Ukraine)",
-     "lean": "exile",
-     "title": "US envoys Witkoff, Kushner expected to visit Kyiv in August, media reports",
-     "url": "https://kyivindependent.com/us-envoys-witkoff-kushner-expected-to-visit-kyiv-in-august-media-reports/"
-    }
-   ]
-  },
-  {
-   "flag": "🌍",
-   "name": "International independent & analysis",
-   "region": "Reader-funded, outside the US",
-   "items": [
-    {
-     "outlet": "Middle East Eye",
-     "lean": "indie",
-     "title": "Trump labels Strait of Hormuz ‘US territory’ as Iran says Israel is biggest obstacle to negotiations",
-     "url": "https://www.middleeasteye.net/news/trump-labels-strait-hormuz-us-territory-iran-says-israel-remains-biggest-obstacle-negotiations"
-    },
-    {
-     "outlet": "Rappler (Philippines)",
-     "lean": "indie",
-     "title": "Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins",
-     "url": "https://www.rappler.com/technology/social-media/meta-rejects-claims-hook-children-facebook-instagram-us-trial/",
-     "note": "Twenty nine US states are suing Meta in an Oakland federal court, followed closely from Manila."
-    },
-    {
-     "outlet": "The Conversation",
-     "lean": "analysis",
-     "title": "After Supreme Court setback, Trump again targets immigration by expanding definition of birthright citizenship",
-     "url": "https://theconversation.com/after-supreme-court-setback-trump-again-targets-immigration-by-expanding-definition-of-birthright-citizenship-289465"
-    },
-    {
-     "outlet": "The Wire (India)",
-     "lean": "indie",
-     "title": "Three Axes of Crisis Defining the United States in 2026, And Glimmers of Hope",
-     "url": "https://m.thewire.in/article/government/three-axes-of-crisis-defining-the-united-states-in-2026-and-glimmers-of-hope"
-    },
-    {
-     "outlet": "Coda Story",
-     "lean": "indie",
-     "title": "How Trump is bringing shell companies back onshore",
-     "url": "https://www.codastory.com/oligarchy/how-trump-is-bringing-shell-companies-back-onshore/"
-    }
-   ]
-  }
- ]
+  ]
 }
