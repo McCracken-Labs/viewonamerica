@@ -1,16 +1,29 @@
 {
-  "date_iso": "2026-08-20",
-  "date_human": "Thursday, August 20, 2026",
-  "summary": "11 countries today. The Iran war and the Strait of Hormuz standoff still set the tone abroad, and Washington's new sanctions on the ICC president drew notice from Paris to Mexico City. Around that, the day spreads wide: US debt passing 40 trillion dollars, a last-minute tariff reprieve for Canada, the Korea drills cut back hours before they began, a Wall Street exodus seen from Istanbul, Kenyan coffee exports doubling, Russian watches selling well in America, and the world's ugliest dog.",
+  "date_iso": "2026-08-21",
+  "date_human": "Friday, August 21, 2026",
+  "summary": "10 countries today. The Iran sanctions push and the carrier swap in the Gulf still lead abroad, but the day spreads wider than that: a federal trial over Meta and children, US debt past 40 trillion dollars, the shortened Korea drills, Chinese countermeasures on trade, a Kakao Mobility listing in New York, an Argentine anti-abortion pact signed in Buenos Aires, and Carlos Alcaraz cleared for the US Open.",
   "countries": [
     {
       "flag": "🇫🇷",
       "name": "France",
       "region": "Western Europe",
       "items": [
-        {"outlet": "France 24", "lean": "funded", "date": "2026-08-18", "title": "US sanctions ICC chief Tomoko Akane of Japan", "url": "https://www.france24.com/en/live-news/20260818-us-sanctions-international-criminal-court-chief-tomoko-akane-of-japan", "note": "French coverage frames the sanctions as part of a wider campaign against the court."},
-        {"outlet": "France 24", "lean": "funded", "date": "2026-08-20", "title": "Trump says he will meet North Korea’s Kim Jong Un later this year", "url": "https://www.france24.com/en/americas/20260820-trump-says-he-will-meet-north-korea-s-kim-jong-un-later-this-year"},
-        {"outlet": "France 24", "lean": "funded", "date": "2026-08-13", "title": "US ambassador to Israel slams settler siege of West Bank Palestinians as ‘terror’", "url": "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror"}
+        {
+          "outlet": "France 24",
+          "lean": "funded",
+          "date": "Aug 19, 2026",
+          "title": "Meta sued by US states for hooking and exploiting kids in pursuit of profit",
+          "url": "https://www.france24.com/en/americas/20260819-meta-sued-by-us-states-for-hooking-and-exploiting-kids-in-pursuit-of-profit",
+          "note": "A coalition of 29 states is seeking 200 billion dollars. French coverage treats the case as a test of whether US courts will regulate American platforms at all."
+        },
+        {
+          "outlet": "France 24",
+          "lean": "funded",
+          "date": "Aug 20, 2026",
+          "title": "Panama Canal to cut daily ship traffic as drought worsens from El Nino",
+          "url": "https://www.france24.com/en/americas/20260820-panama-canal-to-cut-daily-ship-traffic-as-drought-worsens-from-el-nino",
+          "note": "Roughly two thirds of canal traffic is bound for or leaving US ports, so the cut lands first on American shippers."
+        }
       ]
     },
     {
@@ -18,17 +31,56 @@
       "name": "Japan",
       "region": "East Asia",
       "items": [
-        {"outlet": "The Japan Times", "lean": "neutral", "date": "2026-08-17", "title": "Trump orders ‘inappropriate’ U.S.-South Korean military drills scaled back", "url": "https://www.japantimes.co.jp/news/2026/08/17/asia-pacific/politics/us-south-korea-military-exercises-trump/", "note": "Read in Tokyo as a question about what American security guarantees are now worth."},
-        {"outlet": "The Japan Times", "lean": "neutral", "date": "2026-08-19", "title": "U.S. Paralympian sees LA Games as chance to challenge China and change perceptions", "url": "https://www.japantimes.co.jp/paralympics/2026/08/19/united-states-paralympians-support/"}
+        {
+          "outlet": "The Japan Times",
+          "lean": "neutral",
+          "date": "Aug 20, 2026",
+          "title": "North Korea fires off missile hours after Trump says he plans to meet Kim",
+          "url": "https://www.japantimes.co.jp/news/2026/08/20/asia-pacific/north-korea-missile-august-20/"
+        },
+        {
+          "outlet": "The Japan Times",
+          "lean": "neutral",
+          "date": "Aug 3, 2026",
+          "title": "Japan and U.S. confirm joint yen intervention",
+          "url": "https://www.japantimes.co.jp/business/2026/08/03/markets/japan-us-joint-yen-intervention/",
+          "note": "Tokyo and Washington acted together on the yen and said they are ready to do it again."
+        },
+        {
+          "outlet": "The Japan Times",
+          "lean": "neutral",
+          "date": "Aug 19, 2026",
+          "title": "U.S. Paralympian sees LA Games as chance to challenge China and change perceptions",
+          "url": "https://www.japantimes.co.jp/paralympics/2026/08/19/united-states-paralympians-support/"
+        }
       ]
     },
     {
       "flag": "🇶🇦",
       "name": "Qatar",
-      "region": "Middle East",
+      "region": "Gulf",
       "items": [
-        {"outlet": "Al Jazeera", "lean": "funded", "date": "2026-08-20", "title": "Publisher of US military newspaper resigns over differences with government", "url": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government", "note": "A press freedom story inside the US military, covered closely from Doha."},
-        {"outlet": "Al Jazeera", "lean": "funded", "date": "2026-08-16", "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?", "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he"}
+        {
+          "outlet": "Al Jazeera",
+          "lean": "funded",
+          "date": "Aug 20, 2026",
+          "title": "US Treasury secretary says new economic measures will 'collapse' Iran",
+          "url": "https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "lean": "funded",
+          "date": "Aug 20, 2026",
+          "title": "US charges woman for allegedly plotting attack on New York State Capitol",
+          "url": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "lean": "funded",
+          "date": "Aug 20, 2026",
+          "title": "How China and Russia could hobble Trump's plans to isolate Iran",
+          "url": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran"
+        }
       ]
     },
     {
@@ -36,9 +88,28 @@
       "name": "Russia",
       "region": "Eurasia",
       "items": [
-        {"outlet": "RT (Russian service)", "lean": "state", "title": "FT: US hopes for a breakthrough in the Ukraine dialogue thanks to unexpected negotiators", "url": "https://russian.rt.com/world/news/1671117-ssha-proryv-dialog", "orig": "FT: США надеются на прорыв в диалоге по Украине из-за неожиданных переговорщиков"},
-        {"outlet": "RT (Russian service)", "lean": "state", "title": "US State Department drops the diversity and inclusion agenda in its diplomatic corps", "url": "https://russian.rt.com/world/news/1669459-gosdep-ssha-povestka", "orig": "В Госдепе США отказались от повестки разнообразия и инклюзивности в дипкорпусе"},
-        {"outlet": "RT (Russian service)", "lean": "state", "title": "Russian watches receive enthusiastic reviews in the US", "url": "https://russian.rt.com/world/news/1671048-rossiyskie-chasy-v-ssha", "orig": "Российские часы получили восторженные отзывы в США", "note": "A soft consumer item, run as evidence that Russian goods still find American buyers."}
+        {
+          "outlet": "RT (Russian service)",
+          "lean": "state",
+          "title": "US worried that RT and Sputnik are expanding journalist training programmes",
+          "orig": "В США обеспокоены, что RT и Sputnik расширяют программы обучения журналистов",
+          "url": "https://russian.rt.com/world/news/1669786-ssha-rt-zhurnalisty",
+          "note": "RT reporting on an American think tank's alarm about RT itself."
+        },
+        {
+          "outlet": "RT (Russian service)",
+          "lean": "state",
+          "title": "Reuters: US asks Russia to release an imprisoned American",
+          "orig": "Reuters: США просят Россию освободить заключённого американца",
+          "url": "https://russian.rt.com/world/news/1666752-ssha-prosba-osvobodit-gilmana"
+        },
+        {
+          "outlet": "RT (Russian service)",
+          "lean": "state",
+          "title": "NYT: US worried about depleted arsenals and how Russia and China will read that",
+          "orig": "NYT: США обеспокоены истощением арсеналов и реакцией России и Китая на это",
+          "url": "https://russian.rt.com/world/news/1667700-ssha-istoschenie-arsenaly"
+        }
       ]
     },
     {
@@ -46,8 +117,25 @@
       "name": "China & Hong Kong",
       "region": "East Asia",
       "items": [
-        {"outlet": "South China Morning Post", "lean": "neutral", "title": "Why Iran war is the surest sign that the US is in decline", "url": "https://www.scmp.com/news/china/diplomacy/article/3351155/why-iran-war-surest-sign-us-decline"},
-        {"outlet": "Global Times", "lean": "state", "title": "Trump's approval rating falls to low point of 33 pct: poll", "url": "https://www.globaltimes.cn/page/202608/1368453.shtml", "note": "State media leads with the polling number rather than the war itself."}
+        {
+          "outlet": "South China Morning Post",
+          "lean": "neutral",
+          "title": "As Xi's US visit approaches, basic details of planned AI talks remain uncertain",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3364549/xis-us-visit-approaches-basic-details-planned-ai-talks-remain-uncertain"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "neutral",
+          "title": "US export controls achieving no strategic gain but hurting American firms, survey finds",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3363698/us-export-controls-achieving-no-strategic-gain-hurting-american-firms-survey-finds"
+        },
+        {
+          "outlet": "Global Times",
+          "lean": "state",
+          "title": "Pentagon's 'national security' audit deadline for US universities is also a countdown to a crisis for US scientific innovation",
+          "url": "https://www.globaltimes.cn/page/202608/1368488.shtml",
+          "note": "Thirty US universities were given two weeks to audit research ties or lose federal funding."
+        }
       ]
     },
     {
@@ -55,9 +143,27 @@
       "name": "European Union",
       "region": "Europe",
       "items": [
-        {"outlet": "Euronews", "lean": "neutral", "date": "2026-08-20", "title": "US debt tops $40 trillion as Treasury doubles bond buybacks to calm markets", "url": "https://www.euronews.com/business/2026/08/20/us-debt-tops-40-trillion-as-treasury-doubles-bond-buybacks-to-calm-markets"},
-        {"outlet": "Euronews", "lean": "neutral", "date": "2026-08-19", "title": "Trump says last minute deal reached with Canada to delay 50% US tariffs on imports from Ottawa", "url": "https://www.euronews.com/business/2026/08/19/trump-says-last-minute-deal-reached-with-canada-to-delay-50-us-tariffs-on-imports-from-ott"},
-        {"outlet": "Euronews", "lean": "neutral", "date": "2026-08-17", "title": "Lolling tongues and resting snarl face: The World’s Ugliest Dog contest in pictures", "url": "https://www.euronews.com/culture/2026/08/17/lolling-tongues-and-resting-snarl-face-the-worlds-ugliest-dog-contest-in-pictures", "note": "Not every European dispatch from America is about politics."}
+        {
+          "outlet": "Euronews",
+          "lean": "neutral",
+          "date": "Aug 20, 2026",
+          "title": "US debt tops $40 trillion as Treasury doubles bond buybacks to calm markets",
+          "url": "https://www.euronews.com/business/2026/08/20/us-debt-tops-40-trillion-as-treasury-doubles-bond-buybacks-to-calm-markets"
+        },
+        {
+          "outlet": "Euronews",
+          "lean": "neutral",
+          "date": "Aug 14, 2026",
+          "title": "EU pushes back as US revives trade pressure on bloc and accuses Brussels of enabling China to evade tariffs",
+          "url": "https://www.euronews.com/my-europe/2026/08/14/eu-pushes-back-as-us-revives-trade-pressure-on-bloc-and-accuses-brussels-of-enabling-china"
+        },
+        {
+          "outlet": "Euronews",
+          "lean": "neutral",
+          "date": "Aug 20, 2026",
+          "title": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln",
+          "url": "https://www.euronews.com/2026/08/20/new-us-carrier-strike-group-arrives-in-middle-east-to-relieve-long-deployed-uss-abraham-li"
+        }
       ]
     },
     {
@@ -65,27 +171,75 @@
       "name": "Türkiye",
       "region": "Eastern Mediterranean",
       "items": [
-        {"outlet": "Daily Sabah", "lean": "progov", "title": "'Buy America' to 'Bye America': Wall Street exodus gains pace", "url": "https://www.dailysabah.com/business/finance/buy-america-to-bye-america-wall-street-exodus-gains-pace"},
-        {"outlet": "Daily Sabah", "lean": "progov", "title": "United States respects Turkish plan to join BRICS", "url": "https://www.dailysabah.com/politics/diplomacy/united-states-respects-turkish-plan-to-join-brics"}
+        {
+          "outlet": "Daily Sabah",
+          "lean": "progov",
+          "title": "ICC lashes out at 'flagrant attack' after US sanctions President Akane",
+          "url": "https://www.dailysabah.com/world/americas/icc-lashes-out-at-flagrant-attack-after-us-sanctions-president-akane/amp"
+        },
+        {
+          "outlet": "Daily Sabah",
+          "lean": "progov",
+          "title": "Turkish American groups call on Congress to OK F-35 sale to Türkiye",
+          "url": "https://www.dailysabah.com/business/defense/turkish-american-groups-call-on-congress-to-ok-f-35-sale-to-turkiye/amp"
+        },
+        {
+          "outlet": "Daily Sabah",
+          "lean": "progov",
+          "title": "Alcaraz confirms US Open return after 4-month wrist injury hiatus",
+          "url": "https://www.dailysabah.com/sports/tennis/alcaraz-confirms-us-open-return-after-4-month-wrist-injury-hiatus"
+        }
       ]
     },
     {
-      "flag": "🇲🇽",
-      "name": "Mexico",
-      "region": "North America",
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "region": "East Asia",
       "items": [
-        {"outlet": "El Universal", "lean": "neutral", "title": "Opposition dares others to tear up their visas in support of Andy", "url": "https://www.eluniversal.com.mx/nacion/reta-la-oposicion-a-romper-visas-en-apoyo-a-andy/", "orig": "Reta la oposición a romper visas en apoyo a Andy", "note": "US visa revocations have become a domestic political fight in Mexico."},
-        {"outlet": "El Universal", "lean": "neutral", "title": "Key points of the US 2026 Defense Strategy: it names the border as national security and announces unilateral action against drug trafficking", "url": "https://www.eluniversal.com.mx/mundo/puntos-clave-de-la-estrategia-de-defensa-2026-de-eu-anuncia-frontera-como-seguridad-nacional-y-acciones-unilaterales-contra-el-narco/", "orig": "Puntos clave de la Estrategia de Defensa 2026 de EU; anuncia frontera como seguridad nacional y acciones unilaterales contra el narco"},
-        {"outlet": "El Universal", "lean": "neutral", "title": "Global View. The 2026 elections in the US, undermined from the inside", "url": "https://www.eluniversal.com.mx/mundo/mirada-global-elecciones-2026-en-eu-socavadas-desde-adentro/", "orig": "Mirada Global. Elecciones 2026 en EU, socavadas desde adentro"}
+        {
+          "outlet": "The Korea Herald",
+          "lean": "neutral",
+          "title": "S. Korea-US combined exercise to conclude ahead of schedule after Trump order",
+          "url": "https://www.koreaherald.com/article/10847673",
+          "note": "Ulchi Freedom Shield was cut from eleven days to five."
+        },
+        {
+          "outlet": "The Korea Herald",
+          "lean": "neutral",
+          "title": "S. Korea's Kakao Mobility confidentially files for US listing",
+          "url": "https://www.koreaherald.com/article/10846590"
+        },
+        {
+          "outlet": "The Korea Herald",
+          "lean": "neutral",
+          "title": "Industry minister says 'meaningful progress' achieved in talks with U.S.",
+          "url": "https://www.koreaherald.com/article/10847344"
+        }
       ]
     },
     {
       "flag": "🇦🇷",
       "name": "Argentina",
-      "region": "South America",
+      "region": "Latin America",
       "items": [
-        {"outlet": "Buenos Aires Times", "lean": "neutral", "date": "2026-08-20", "title": "DEA chief calls Argentina a 'model' for region in anti-narco fight", "url": "https://batimes.com.ar/news/world/dea-chief-calls-argentina-a-model-for-region-in-anti-narco-fight.phtml"},
-        {"outlet": "Buenos Aires Times", "lean": "neutral", "date": "2026-08-05", "title": "Argentina votes against UN resolution on transatlantic slave trade", "url": "https://www.batimes.com.ar/news/world/argentina-votes-against-un-resolution-on-transatlantic-slave-trade.phtml", "note": "Argentina joined the US and Israel as the only votes against."}
+        {
+          "outlet": "Buenos Aires Times",
+          "lean": "neutral",
+          "title": "Milei signs up Argentina to Trump's anti-abortion international alliance",
+          "url": "https://www.batimes.com.ar/news/argentina/milei-signs-up-argentina-to-trumps-anti-abortion-international-alliance.phtml"
+        },
+        {
+          "outlet": "Buenos Aires Times",
+          "lean": "neutral",
+          "title": "US ambassador warns Argentina over Chinese firms in Vaca Muerta",
+          "url": "https://www.batimes.com.ar/news/amp/economy/us-ambassador-warns-argentina-over-chinese-firms-in-vaca-muerta.phtml"
+        },
+        {
+          "outlet": "Buenos Aires Times",
+          "lean": "neutral",
+          "title": "Brazil hits new diplomatic lows with United States and Argentina",
+          "url": "https://www.batimes.com.ar/news/amp/latin-america/brazil-hits-new-diplomatic-lows-with-united-states-and-argentina.phtml"
+        }
       ]
     },
     {
@@ -93,18 +247,18 @@
       "name": "Ukraine",
       "region": "Eastern Europe",
       "items": [
-        {"outlet": "Kyiv Post", "lean": "neutral", "title": "On Paper the US Russia Sanctions Bill Looks Tough, But Plenty of Carve-Outs Are Baked In", "url": "https://www.kyivpost.com/post/81343"},
-        {"outlet": "Kyiv Post", "lean": "neutral", "title": "Analysis: 5 Years Back in Power, the Taliban Has Russia in Its Pocket and Now Eyes the US", "url": "https://www.kyivpost.com/analysis/82567"}
-      ]
-    },
-    {
-      "flag": "🇰🇪",
-      "name": "Kenya",
-      "region": "East Africa",
-      "items": [
-        {"outlet": "Daily Nation", "lean": "neutral", "title": "Coffee exports to US double after Agoa renewal", "url": "https://nation.africa/kenya/business/coffee-exports-to-us-double-after-agoa-renewal-5520332", "note": "Trade access, not geopolitics, is the American story that matters most here."},
-        {"outlet": "Daily Nation", "lean": "neutral", "title": "Iran defiant on Strait as Trump tells Americans to accept high fuel prices", "url": "https://nation.africa/kenya/news/world/iran-defiant-on-strait-as-trump-tells-americans-to-accept-high-fuel-prices-5559630"},
-        {"outlet": "Daily Nation", "lean": "neutral", "title": "Fifa World Cup: Universities offer world-class training facilities to teams", "url": "https://nation.africa/kenya/sports/football/fifa-world-cup-universities-world-class-training-facilities-5511374"}
+        {
+          "outlet": "Kyiv Post",
+          "lean": "neutral",
+          "title": "Ukraine Secures Monthly US Patriot Missile Deliveries, Zelensky Says",
+          "url": "https://www.kyivpost.com/post/81981"
+        },
+        {
+          "outlet": "Kyiv Post",
+          "lean": "neutral",
+          "title": "Ex-Defense Minister Fedorov Plans US Trip for Defense Tech, Team Denies Political Meetings",
+          "url": "https://www.kyivpost.com/post/82789"
+        }
       ]
     }
   ]
