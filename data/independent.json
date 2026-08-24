@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-08-21",
-  "date_human": "Friday, August 21, 2026",
+  "date_iso": "2026-08-24",
+  "date_human": "Monday, August 24, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,15 +11,15 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "House Democrats Demand Answers From Trump's VA on Vets Struggling to Access Mental Healthcare",
-          "url": "https://www.propublica.org/article/democrats-veterans-affairs-doug-collins-letter-mental-health",
-          "note": "Follows earlier reporting that hundreds of VA therapists have quit."
+          "title": "Wall Street Wants to Change the Rules for Your 401(k). It Could Put Your Retirement at Risk.",
+          "url": "https://www.propublica.org/article/401k-retirement-investment-plan-risk-trump"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "FCC Officials Face Ethics Complaints Over Pricey Gifts From Paramount",
-          "url": "https://www.propublica.org/article/fcc-paramount-gifts-brendan-carr-ethics-complaint-warner-bros-merger"
+          "title": "How the Navy Spent Billions on Failed Littoral Combat Ship Program",
+          "url": "https://www.propublica.org/article/how-navy-spent-billions-littoral-combat-ship",
+          "note": "Part of an ongoing series on the Pentagon's trillion dollar budget."
         }
       ]
     },
@@ -31,22 +31,16 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "Aug 18, 2026",
-          "title": "ICE Worked With Iranian Regime to Set Up Deportation Flights as Trump Laid Plans for War",
-          "url": "https://theintercept.com/2026/08/18/iran-trump-deportation-flights-ice/"
+          "date": "Aug 23",
+          "title": "The Dawn of a New Cold War",
+          "url": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/"
         },
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "Aug 11, 2026",
-          "title": "\"Total Whitewash\": New Pentagon Report Claims U.S. Killed No Civilians in Boat Strikes",
-          "url": "https://theintercept.com/2026/08/11/war-department-civilian-casualties-boat-strikes-yemen/"
-        },
-        {
-          "outlet": "Jacobin",
-          "lean": "left",
-          "title": "What Multilateralism Looks Like After US Decline",
-          "url": "https://jacobin.com/2026/08/multilateralism-trump-lula-tariffs-iran"
+          "date": "Aug 7",
+          "title": "Congress Might Give ICE the Power to Go After Shoplifters",
+          "url": "https://theintercept.com/2026/08/07/congress-ice-shoplifting-theft-surveillance/"
         },
         {
           "outlet": "Jacobin",
@@ -64,37 +58,22 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "Aug 21, 2026",
-          "title": "White House unveils plan for 1,000 U.S. rocket launches and re-entries a year by 2030",
-          "url": "https://reason.com/2026/08/21/colonizing-the-moon/"
+          "date": "Aug 24",
+          "title": "1 in 5 Americans still need government permission to work",
+          "url": "https://reason.com/2026/08/24/1-in-5-americans-still-need-government-permission-to-work/"
         },
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "Aug 7, 2026",
-          "title": "ICE spent $525 million on surveillance tech. Some of it is infringing on Americans' freedom of speech.",
-          "url": "https://reason.com/2026/08/07/ice-spent-525-million-on-surveillance-tech-some-of-it-is-infringing-on-americans-freedom-of-speech/"
+          "date": "Aug 21",
+          "title": "America is building a surveillance state like China's",
+          "url": "https://reason.com/2026/08/21/america-is-building-a-surveillance-state-like-chinas/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "date": "Aug 19, 2026",
-          "title": "The Tragedy of U.S. Debt",
-          "url": "https://thedispatch.com/article/debt-gdp-interest-rates-trump-republicans/",
-          "note": "A center-right case that the debt number now drives everything else in Washington."
-        },
-        {
-          "outlet": "The Dispatch",
-          "lean": "cright",
-          "date": "Aug 19, 2026",
-          "title": "A New Left-Wing Resistance Takes Shape",
-          "url": "https://thedispatch.com/newsletter/boilingfrogs/trump-endorsements-democratic-republican-primaries/"
-        },
-        {
-          "outlet": "UnHerd (UK)",
-          "lean": "hetero",
-          "title": "Why America is running out of missiles",
-          "url": "https://unherd.com/2026/08/why-america-is-running-out-of-missiles/?edition=us"
+          "title": "The Data Center Backlash Is Really About Abundance",
+          "url": "https://thedispatch.com/newsletter/dispatch-energy/data-center-bans-abundance-energy-demand/"
         },
         {
           "outlet": "UnHerd (UK)",
@@ -112,36 +91,28 @@
         {
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "date": "Aug 19, 2026",
-          "title": "The Atlantic: the U.S. and NATO have no plan for a coordinated Russian-Chinese attack",
-          "url": "https://meduza.io/en/feature/2026/08/19/the-atlantic-the-u-s-and-nato-have-no-plan-for-a-coordinated-russian-chinese-attack"
+          "date": "Aug 19",
+          "title": "Brent Jindra voted for Trump three times. Then ICE handcuffed his Russian wife at the airport in California and ended his support for the president.",
+          "url": "https://meduza.io/en/feature/2026/08/19/brent-jindra-voted-for-trump-three-times-then-ice-handcuffed-his-russian-wife-at-the-airport-in-california-and-ended-his-support-for-the-president"
         },
         {
-          "outlet": "Meduza (Russia, in exile)",
+          "outlet": "IranWire (Iran, in exile)",
           "lean": "exile",
-          "date": "Aug 20, 2026",
-          "title": "The US is disbanding its experimental drone battalion in Europe, a little over six months after creating it",
-          "orig": "США расформируют экспериментальный беспилотный батальон в Европе. Его создали чуть больше полугода назад",
-          "url": "https://meduza.io/news/2026/08/20/ssha-rasformiruyut-eksperimentalnyy-bespilotnyy-batalon-v-evrope-ego-sozdali-chut-bolshe-polugoda-nazad"
+          "title": "US Indicts 17 Iranian Operatives in Mass Cyber-Theft Scheme",
+          "url": "https://iranwire.com/en/news/156484-us-indicts-17-iranian-operatives-in-mass-cyber-theft-scheme/"
         },
         {
           "outlet": "Hong Kong Free Press",
           "lean": "exile",
-          "date": "Aug 6, 2026",
-          "title": "China announces 'countermeasures' after US trade sanctions",
-          "url": "https://hongkongfp.com/2026/08/06/china-announces-countermeasures-after-us-trade-sanctions/"
+          "date": "Aug 21",
+          "title": "China denies US citizen held since June is wrongfully detained",
+          "url": "https://hongkongfp.com/2026/08/21/china-denies-us-citizen-min-zin-held-since-june-is-wrongfully-detained/"
         },
         {
           "outlet": "The Kyiv Independent (Ukraine)",
           "lean": "exile",
-          "title": "Ukraine's new plan to pressure Russia remains a mystery to Washington",
-          "url": "https://kyivindependent.com/ukraines-new-plan-to-pressure-russia-remains-a-mystery-to-washington/"
-        },
-        {
-          "outlet": "The Kyiv Independent (Ukraine)",
-          "lean": "exile",
-          "title": "US hits Russian military entities, citizens with sanctions over links to Iran, North Korea, Syria",
-          "url": "https://kyivindependent.com/us-hits-russian-military-entities-citizens-with-sanctions/"
+          "title": "US envoys Witkoff, Kushner expected to visit Kyiv in August, media reports",
+          "url": "https://kyivindependent.com/us-envoys-witkoff-kushner-expected-to-visit-kyiv-in-august-media-reports/"
         }
       ]
     },
@@ -153,28 +124,27 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "US mulls shrinking military footprint in Gulf as a result of war on Iran: Report",
-          "url": "https://www.middleeasteye.net/news/us-mulls-shrinking-military-footprint-gulf-result-war-iran"
+          "title": "US elections: Progressive Democrat scores shock win in Florida",
+          "url": "https://www.middleeasteye.net/news/us-elections-progressive-democrat-scores-shock-win-florida"
         },
         {
           "outlet": "The Wire (India)",
           "lean": "indie",
-          "title": "'Kashmir Is an Important Part of India': Pakistan Lodges Strong Demarche Over Sergio Gor's Remarks",
-          "url": "https://m.thewire.in/article/south-asia/kashmir-is-an-important-part-of-india-pakistan-lodges-strong-demarche-over-sergio-gors-remarks",
-          "note": "The US ambassador to India visited Kashmir on August 19 and triggered a protest from Islamabad."
+          "title": "More Than 2,300 Mexicans Sent to Guatemala and Honduras as Trump Ramps Up Deportations",
+          "url": "https://m.thewire.in/article/world/more-than-2300-mexicans-sent-to-guatemala-and-honduras-as-trump-ramps-up-deportations"
         },
         {
-          "outlet": "The Wire (India)",
-          "lean": "indie",
-          "title": "MEA Denies Telangana Chief Minister Revanth Reddy Permission to Visit US",
-          "url": "https://m.thewire.in/article/politics/mea-denies-telangana-chief-minister-revanth-reddy-permission-to-visit-us"
+          "outlet": "The Conversation",
+          "lean": "analysis",
+          "title": "Personal bankruptcy filings are soaring in 2026, signaling growing economic distress",
+          "url": "https://theconversation.com/personal-bankruptcy-filings-are-soaring-in-2026-signaling-growing-economic-distress-288982"
         },
         {
-          "outlet": "Coda Story",
+          "outlet": "Rappler (Philippines)",
           "lean": "indie",
-          "title": "Darkness is losing its war with the light",
-          "url": "https://www.codastory.com/authoritarian-tech/darkness-is-losing-its-war-with-the-light/",
-          "note": "A California company has FCC approval to put mirrors in orbit and sell sunlight after dark."
+          "date": "Aug 22",
+          "title": "US, Iran keep up hostile rhetoric ahead of new sanctions",
+          "url": "https://www.rappler.com/philippines/us-iran-hostile-rhetoric-new-sanctions-august-22-2026/"
         }
       ]
     }
