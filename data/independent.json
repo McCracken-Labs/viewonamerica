@@ -1,152 +1,157 @@
 {
-  "date_iso": "2026-08-24",
-  "date_human": "Monday, August 24, 2026",
-  "summary": "Independent journalism on America",
-  "countries": [
+ "date_iso": "2026-08-25",
+ "date_human": "Tuesday, August 25, 2026",
+ "summary": "Independent journalism on America",
+ "countries": [
+  {
+   "flag": "🔎",
+   "name": "Investigative & nonprofit",
+   "region": "Follow-the-money reporting",
+   "items": [
     {
-      "flag": "🔎",
-      "name": "Investigative & nonprofit",
-      "region": "Follow-the-money reporting",
-      "items": [
-        {
-          "outlet": "ProPublica",
-          "lean": "invest",
-          "title": "Wall Street Wants to Change the Rules for Your 401(k). It Could Put Your Retirement at Risk.",
-          "url": "https://www.propublica.org/article/401k-retirement-investment-plan-risk-trump"
-        },
-        {
-          "outlet": "ProPublica",
-          "lean": "invest",
-          "title": "How the Navy Spent Billions on Failed Littoral Combat Ship Program",
-          "url": "https://www.propublica.org/article/how-navy-spent-billions-littoral-combat-ship",
-          "note": "Part of an ongoing series on the Pentagon's trillion dollar budget."
-        }
-      ]
+     "outlet": "ProPublica",
+     "lean": "invest",
+     "title": "We Found That More Than 170 U.S. Citizens Have Been Held by Immigration Agents. They've Been Kicked, Dragged and Detained for Days.",
+     "url": "https://www.propublica.org/article/immigration-dhs-american-citizens-arrested-detained-against-will"
     },
     {
-      "flag": "🇺🇸",
-      "name": "Independent left (U.S.)",
-      "region": "Adversarial, progressive",
-      "items": [
-        {
-          "outlet": "The Intercept",
-          "lean": "left",
-          "date": "Aug 23",
-          "title": "The Dawn of a New Cold War",
-          "url": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/"
-        },
-        {
-          "outlet": "The Intercept",
-          "lean": "left",
-          "date": "Aug 7",
-          "title": "Congress Might Give ICE the Power to Go After Shoplifters",
-          "url": "https://theintercept.com/2026/08/07/congress-ice-shoplifting-theft-surveillance/"
-        },
-        {
-          "outlet": "Jacobin",
-          "lean": "left",
-          "title": "The Union Deal That's Undermining Gig Workers",
-          "url": "https://jacobin.com/2026/08/uber-rideshare-exploitation-unions-organizing"
-        }
-      ]
-    },
-    {
-      "flag": "🗽",
-      "name": "Independent right & heterodox",
-      "region": "Libertarian, conservative, contrarian",
-      "items": [
-        {
-          "outlet": "Reason",
-          "lean": "libert",
-          "date": "Aug 24",
-          "title": "1 in 5 Americans still need government permission to work",
-          "url": "https://reason.com/2026/08/24/1-in-5-americans-still-need-government-permission-to-work/"
-        },
-        {
-          "outlet": "Reason",
-          "lean": "libert",
-          "date": "Aug 21",
-          "title": "America is building a surveillance state like China's",
-          "url": "https://reason.com/2026/08/21/america-is-building-a-surveillance-state-like-chinas/"
-        },
-        {
-          "outlet": "The Dispatch",
-          "lean": "cright",
-          "title": "The Data Center Backlash Is Really About Abundance",
-          "url": "https://thedispatch.com/newsletter/dispatch-energy/data-center-bans-abundance-energy-demand/"
-        },
-        {
-          "outlet": "UnHerd (UK)",
-          "lean": "hetero",
-          "title": "America's unstoppable Hispanic future",
-          "url": "https://unherd.com/2026/08/americas-unstoppable-hispanic-future/"
-        }
-      ]
-    },
-    {
-      "flag": "🕊️",
-      "name": "Reporting in exile",
-      "region": "Diaspora newsrooms covering home, and its US dealings, from abroad",
-      "items": [
-        {
-          "outlet": "Meduza (Russia, in exile)",
-          "lean": "exile",
-          "date": "Aug 19",
-          "title": "Brent Jindra voted for Trump three times. Then ICE handcuffed his Russian wife at the airport in California and ended his support for the president.",
-          "url": "https://meduza.io/en/feature/2026/08/19/brent-jindra-voted-for-trump-three-times-then-ice-handcuffed-his-russian-wife-at-the-airport-in-california-and-ended-his-support-for-the-president"
-        },
-        {
-          "outlet": "IranWire (Iran, in exile)",
-          "lean": "exile",
-          "title": "US Indicts 17 Iranian Operatives in Mass Cyber-Theft Scheme",
-          "url": "https://iranwire.com/en/news/156484-us-indicts-17-iranian-operatives-in-mass-cyber-theft-scheme/"
-        },
-        {
-          "outlet": "Hong Kong Free Press",
-          "lean": "exile",
-          "date": "Aug 21",
-          "title": "China denies US citizen held since June is wrongfully detained",
-          "url": "https://hongkongfp.com/2026/08/21/china-denies-us-citizen-min-zin-held-since-june-is-wrongfully-detained/"
-        },
-        {
-          "outlet": "The Kyiv Independent (Ukraine)",
-          "lean": "exile",
-          "title": "US envoys Witkoff, Kushner expected to visit Kyiv in August, media reports",
-          "url": "https://kyivindependent.com/us-envoys-witkoff-kushner-expected-to-visit-kyiv-in-august-media-reports/"
-        }
-      ]
-    },
-    {
-      "flag": "🌍",
-      "name": "International independent & analysis",
-      "region": "Reader-funded, outside the US",
-      "items": [
-        {
-          "outlet": "Middle East Eye",
-          "lean": "indie",
-          "title": "US elections: Progressive Democrat scores shock win in Florida",
-          "url": "https://www.middleeasteye.net/news/us-elections-progressive-democrat-scores-shock-win-florida"
-        },
-        {
-          "outlet": "The Wire (India)",
-          "lean": "indie",
-          "title": "More Than 2,300 Mexicans Sent to Guatemala and Honduras as Trump Ramps Up Deportations",
-          "url": "https://m.thewire.in/article/world/more-than-2300-mexicans-sent-to-guatemala-and-honduras-as-trump-ramps-up-deportations"
-        },
-        {
-          "outlet": "The Conversation",
-          "lean": "analysis",
-          "title": "Personal bankruptcy filings are soaring in 2026, signaling growing economic distress",
-          "url": "https://theconversation.com/personal-bankruptcy-filings-are-soaring-in-2026-signaling-growing-economic-distress-288982"
-        },
-        {
-          "outlet": "Rappler (Philippines)",
-          "lean": "indie",
-          "date": "Aug 22",
-          "title": "US, Iran keep up hostile rhetoric ahead of new sanctions",
-          "url": "https://www.rappler.com/philippines/us-iran-hostile-rhetoric-new-sanctions-august-22-2026/"
-        }
-      ]
+     "outlet": "ProPublica",
+     "lean": "invest",
+     "title": "The White House Intervened on Behalf of Accused Sex Trafficker Andrew Tate During a Federal Investigation",
+     "url": "https://www.propublica.org/article/andrew-tate-investigation-dhs-paul-ingrassia"
     }
-  ]
+   ]
+  },
+  {
+   "flag": "🇺🇸",
+   "name": "Independent left (U.S.)",
+   "region": "Adversarial, progressive",
+   "items": [
+    {
+     "outlet": "The Intercept",
+     "lean": "left",
+     "date": "Aug 23",
+     "title": "The Dawn of a New Cold War",
+     "url": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/",
+     "note": "On AI chips and rare earths as the new terrain of US and China rivalry."
+    },
+    {
+     "outlet": "Jacobin",
+     "lean": "left",
+     "date": "Aug 2026",
+     "title": "Class Traitors Are Welcome in the Socialist Movement",
+     "url": "https://jacobin.com/2026/08/dsa-gordillo-socialism-media-hypocrisy"
+    },
+    {
+     "outlet": "Jacobin",
+     "lean": "left",
+     "date": "Jun 2026",
+     "title": "How to Democratize the United States",
+     "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
+    }
+   ]
+  },
+  {
+   "flag": "🗽",
+   "name": "Independent right & heterodox",
+   "region": "Libertarian, conservative, contrarian",
+   "items": [
+    {
+     "outlet": "Reason",
+     "lean": "libert",
+     "date": "Aug 21",
+     "title": "America is building a surveillance state like China's",
+     "url": "https://reason.com/2026/08/21/america-is-building-a-surveillance-state-like-chinas/",
+     "note": "More than 120,000 licence plate reader cameras now operate across the country."
+    },
+    {
+     "outlet": "Reason",
+     "lean": "libert",
+     "date": "Aug 20",
+     "title": "U.S. national debt just surpassed $40 trillion for the first time ever",
+     "url": "https://reason.com/2026/08/20/40-trillion-and-parents-night-out/"
+    },
+    {
+     "outlet": "The Dispatch",
+     "lean": "cright",
+     "title": "Half of America Cannot Afford to Live, and Other Wrong Numbers",
+     "url": "https://thedispatch.com/article/affordability-crisis-healthcare-housing-childcare/",
+     "note": "A centre right push back on how the affordability crisis gets counted."
+    },
+    {
+     "outlet": "UnHerd (UK)",
+     "lean": "hetero",
+     "date": "Aug 2026",
+     "title": "The collapse of the postwar order",
+     "url": "https://unherd.com/2026/08/the-collapse-of-the-postwar-order/"
+    }
+   ]
+  },
+  {
+   "flag": "🕊️",
+   "name": "Reporting in exile",
+   "region": "Diaspora newsrooms covering home, and its US dealings, from abroad",
+   "items": [
+    {
+     "outlet": "Meduza (Russia, in exile)",
+     "lean": "exile",
+     "date": "Aug 22",
+     "title": "A US court has struck down the State Department ban on issuing immigration visas to citizens of 75 countries, Russia among them",
+     "url": "https://meduza.io/news/2026/08/22/sud-v-ssha-otmenil-zapret-gosdepa-na-vydachu-immigratsionnyh-viz-grazhdanam-75-stran-v-tom-chisle-rossii",
+     "orig": "Суд в США отменил запрет Госдепа на выдачу иммиграционных виз гражданам 75 стран (в том числе России)"
+    },
+    {
+     "outlet": "Hong Kong Free Press",
+     "lean": "exile",
+     "date": "Aug 14",
+     "title": "Donald Trump announces tariffs of up to 100% on imported drones",
+     "url": "https://hongkongfp.com/2026/08/14/donald-trump-announces-tariffs-of-up-to-100-on-imported-drones/"
+    },
+    {
+     "outlet": "The Kyiv Independent (Ukraine)",
+     "lean": "exile",
+     "title": "US to begin talks on troop reductions in Europe later this year, America's NATO envoy says",
+     "url": "https://kyivindependent.com/us-to-begin-talks-on-troop-reductions-in-europe-later-this-year-nato-envoy-says/"
+    },
+    {
+     "outlet": "The Kyiv Independent (Ukraine)",
+     "lean": "exile",
+     "title": "US increasingly polarized over Ukraine support as Trump's 'America First' deepens party divide",
+     "url": "https://kyivindependent.com/83-of-democrats-back-ukraine-aid-79-of-republicans-against-poll-shows/"
+    }
+   ]
+  },
+  {
+   "flag": "🌍",
+   "name": "International independent & analysis",
+   "region": "Reader-funded, outside the US",
+   "items": [
+    {
+     "outlet": "Middle East Eye",
+     "lean": "indie",
+     "title": "How Scott Bessent's 'economic statecraft' aims to justify US coercion",
+     "url": "https://www.middleeasteye.net/opinion/how-scott-bessents-economic-statecraft-aims-justify-us-coercion"
+    },
+    {
+     "outlet": "The Wire (India)",
+     "lean": "indie",
+     "title": "From Shock and Awe to Hormuz Trap, US War on Iran Enters Most Dangerous Phase",
+     "url": "https://m.thewire.in/article/government/from-shock-and-awe-to-hormuz-trap-us-war-on-iran-enters-most-dangerous-phase"
+    },
+    {
+     "outlet": "The Conversation",
+     "lean": "analysis",
+     "title": "The United States' human rights practices are taking a nosedive",
+     "url": "https://theconversation.com/the-united-states-human-rights-practices-are-taking-a-nosedive-286538",
+     "note": "Based on a global rights tracking project measuring nine civil and political rights."
+    },
+    {
+     "outlet": "The Conversation",
+     "lean": "analysis",
+     "title": "America at 250: still a 'democratic experiment'",
+     "url": "https://theconversation.com/america-at-250-still-a-democratic-experiment-286695"
+    }
+   ]
+  }
+ ]
 }
