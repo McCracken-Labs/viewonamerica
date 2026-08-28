@@ -1,302 +1,111 @@
 {
- "date_iso": "2026-08-26",
- "date_human": "Wednesday, August 26, 2026",
- "summary": "12 countries. The Meta child-safety settlement is the day's most widely carried American story, running in Paris, Brussels and Nairobi, with each outlet asking what a US courtroom deal means for its own users. Iran sanctions and the Canada tariff fight dominate the economic pages in Doha, Ankara and Mexico City, while Seoul, Tokyo and Buenos Aires track what Washington wants from them. Away from politics there is Dolly Parton's death, a fencing federation betting on the LA Games, and a fight over whether the Kennedy Center gets torn down.",
- "countries": [
-  {
-   "flag": "🇫🇷",
-   "name": "France",
-   "region": "Western Europe",
-   "items": [
+  "date_iso": "2026-08-28",
+  "date_human": "Friday, August 28, 2026",
+  "summary": "11 countries. No single American story owns the day. Foreign editors spread their attention across the $40 trillion debt milestone, a Chinese hacking network broken up by US agencies, courts pushing back on tariffs and visa bans, the Iran sanctions campaign, Syria's removal from the terrorism list, and a World Cup exit. Mexico leads on football, France leads on Dolly Parton and the Fed, and Kenya looks at the fine print of US health money.",
+  "countries": [
     {
-     "outlet": "France 24",
-     "lean": "funded",
-     "date": "2026-08-26",
-     "title": "Meta, US states agree $16.7 bn settlement in landmark teen safety case",
-     "url": "https://www.france24.com/en/live-news/20260826-meta-us-states-agree-16-7-bn-settlement-in-landmark-teen-safety-case"
+      "flag": "🇫🇷",
+      "name": "France",
+      "region": "Western Europe",
+      "items": [
+        {"outlet": "France 24", "lean": "funded", "date": "2026-08-27", "title": "'Be more honest': Markets crave clarity from cryptic Fed chair", "url": "https://www.france24.com/en/live-news/20260827-be-more-honest-markets-crave-clarity-from-cryptic-fed-chair", "note": "Inflation running at 3.7 percent keeps the Fed in the frame for European markets."},
+        {"outlet": "France 24", "lean": "funded", "date": "2026-08-25", "title": "United States of Dolly: how a country queen bridged America's divide", "url": "https://www.france24.com/en/live-news/20260825-united-states-of-dolly-how-a-country-queen-bridged-america-s-divide"},
+        {"outlet": "France 24", "lean": "funded", "date": "2026-08-18", "title": "US sanctions ICC chief Tomoko Akane of Japan", "url": "https://www.france24.com/en/live-news/20260818-us-sanctions-international-criminal-court-chief-tomoko-akane-of-japan"}
+      ]
     },
     {
-     "outlet": "France 24",
-     "lean": "funded",
-     "date": "2026-08-25",
-     "title": "United States of Dolly: how a country queen bridged America's divide",
-     "url": "https://www.france24.com/en/live-news/20260825-united-states-of-dolly-how-a-country-queen-bridged-america-s-divide",
-     "note": "Paris reads Parton's death as a story about the one American figure both halves of the country still claim."
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "region": "East Asia",
+      "items": [
+        {"outlet": "The Japan Times", "lean": "neutral", "date": "2026-08-27", "title": "U.S. says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate", "url": "https://www.japantimes.co.jp/news/2026/08/27/world/chinese-hackers-us-justice-senate-nasa-fed/"},
+        {"outlet": "The Japan Times", "lean": "neutral", "date": "2026-08-27", "title": "U.S. says it's committed to North Korea's 'denuclearization' after talks omit key phrase", "url": "https://www.japantimes.co.jp/news/2026/08/27/world/politics/us-north-korea-denuclearization-phrase/"},
+        {"outlet": "The Japan Times", "lean": "neutral", "date": "2026-05-19", "title": "Japanese favorability toward U.S. falls below 30%, survey finds", "url": "https://www.japantimes.co.jp/news/2026/05/19/japan/politics/japan-us-favorability-fall/", "note": "Background reading the paper keeps returning to as allied opinion shifts."}
+      ]
     },
     {
-     "outlet": "France 24",
-     "lean": "funded",
-     "date": "2026-08-18",
-     "title": "US sanctions ICC chief Tomoko Akane of Japan",
-     "url": "https://www.france24.com/en/live-news/20260818-us-sanctions-international-criminal-court-chief-tomoko-akane-of-japan"
+      "flag": "🇶🇦",
+      "name": "Qatar",
+      "region": "Gulf",
+      "items": [
+        {"outlet": "Al Jazeera", "lean": "funded", "date": "2026-08-27", "title": "US Postal Service says mail-in ballot restrictions now in effect", "url": "https://www.aljazeera.com/news/2026/8/27/us-postal-service-says-mail-in-ballot-restrictions-now-in-effect"},
+        {"outlet": "Al Jazeera", "lean": "funded", "date": "2026-08-20", "title": "US debt hits $40 trillion: Who does Washington owe and why does it matter?", "url": "https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter"},
+        {"outlet": "Al Jazeera", "lean": "funded", "date": "2026-08-24", "title": "How US sanctions on Iran ripple through global markets and consumers", "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers"}
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "name": "Russia",
+      "region": "Eastern Europe",
+      "items": [
+        {"outlet": "RT (Russian)", "lean": "state", "title": "US imposes sanctions on units of Russia's Defence Ministry", "url": "https://russian.rt.com/world/news/1665333-ssha-sankcii-minoborony", "orig": "США ввели санкции против подразделений МО России"},
+        {"outlet": "RT (Russian)", "lean": "state", "title": "US did not back the anti-Russian statement on Ukraine at the UN", "url": "https://russian.rt.com/world/news/1673818-ssha-oon-ukraina-zayavlenie", "orig": "США не поддержали антироссийское заявление по Украине в ООН"},
+        {"outlet": "RT (Russian)", "lean": "state", "title": "A US Air Force plane has landed at Vnukovo", "url": "https://russian.rt.com/russia/news/1673932-vnukovo-samolyot-vvs-ssha", "orig": "Во Внуково прилетел самолёт ВВС США"}
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China & Hong Kong",
+      "region": "East Asia",
+      "items": [
+        {"outlet": "South China Morning Post", "lean": "neutral", "title": "Democratic US states sue to challenge Trump's latest round of tariffs", "url": "https://www.scmp.com/news/world/united-states-canada/article/3362848/democratic-us-states-sue-challenge-trumps-latest-round-tariffs"},
+        {"outlet": "South China Morning Post", "lean": "neutral", "title": "Fauci's refusals put spotlight on 'pleading the Fifth' right in US", "url": "https://www.scmp.com/news/world/united-states-canada/article/3362344/faucis-silence-puts-fresh-spotlight-pleading-fifth-right-us", "note": "An explainer on American legal procedure, written for readers outside the country."}
+      ]
+    },
+    {
+      "flag": "🇪🇺",
+      "name": "European Union",
+      "region": "Europe",
+      "items": [
+        {"outlet": "Euronews", "lean": "neutral", "date": "2026-08-22", "title": "Five charts explaining America's $40 trillion debt", "url": "https://www.euronews.com/business/2026/08/22/five-charts-explaining-americas-40-trillion-debt"},
+        {"outlet": "Euronews", "lean": "neutral", "date": "2026-08-25", "title": "US terror list removal 'shakes off dark stain' from Syria, al-Sharaa says", "url": "https://www.euronews.com/2026/08/25/us-terror-list-removal-shakes-off-dark-stain-from-syria-al-sharaa-says"}
+      ]
+    },
+    {
+      "flag": "🇹🇷",
+      "name": "Türkiye",
+      "region": "Anatolia and the eastern Mediterranean",
+      "items": [
+        {"outlet": "Daily Sabah", "lean": "progov", "title": "US takes down Chinese hacking network targeting government agencies", "url": "https://www.dailysabah.com/business/tech/us-takes-down-chinese-hacking-network-targeting-government-agencies"},
+        {"outlet": "Daily Sabah", "lean": "progov", "title": "US officially removes Syria from its State Sponsors of Terrorism list", "url": "https://www.dailysabah.com/world/mid-east/us-officially-removes-syria-from-its-state-sponsors-of-terrorism-list"},
+        {"outlet": "Daily Sabah", "lean": "progov", "title": "Trump signals US may sanction Chinese banks over Iran links", "url": "https://www.dailysabah.com/business/economy/trump-signals-us-may-sanction-chinese-banks-over-iran-links"}
+      ]
+    },
+    {
+      "flag": "🇲🇽",
+      "name": "Mexico",
+      "region": "North America",
+      "items": [
+        {"outlet": "El Universal", "lean": "neutral", "title": "United States close out the 2026 World Cup group stage with a defeat to Türkiye", "url": "https://www.eluniversal.com.mx/deportes/estados-unidos-cierra-la-fase-de-grupos-del-mundial-2026-con-derrota-ante-turquia/", "orig": "Estados Unidos cierra la Fase de Grupos del Mundial 2026 con derrota ante Turquía", "note": "Mexico is a co-host, so the American team is local news here."},
+        {"outlet": "El Universal", "lean": "neutral", "title": "United States avoids submitting to the UN human rights review", "url": "https://www.eluniversal.com.mx/mundo/estados-unidos-evita-someterse-al-examen-de-derechos-humanos-de-la-onu/", "orig": "Estados Unidos evita someterse al examen de derechos humanos de la ONU"}
+      ]
+    },
+    {
+      "flag": "🇺🇦",
+      "name": "Ukraine",
+      "region": "Eastern Europe",
+      "items": [
+        {"outlet": "Kyiv Post", "lean": "neutral", "title": "Rubio Congratulates Ukraine, Pledges Continued US Security and Economic Ties", "url": "https://www.kyivpost.com/post/83021"},
+        {"outlet": "Kyiv Post", "lean": "neutral", "title": "Under Trump US Global Image Falls Below Russia for First Time, Survey Finds", "url": "https://www.kyivpost.com/post/75709"}
+      ]
+    },
+    {
+      "flag": "🇿🇦",
+      "name": "South Africa",
+      "region": "Southern Africa",
+      "items": [
+        {"outlet": "News24", "lean": "neutral", "date": "2026-08-25", "title": "US to revoke visas of up to 200 000 asylum seekers", "url": "https://www.news24.com/world/us-to-revoke-visas-of-up-to-200-000-asylum-seekers-20260825-1171"},
+        {"outlet": "News24", "lean": "neutral", "date": "2026-08-26", "title": "Iran says new US sanctions will achieve nothing as Hormuz standoff stalls talks", "url": "https://www.news24.com/world/iran-says-new-us-sanctions-will-achieve-nothing-as-hormuz-standoff-stalls-talks-20260826-0915"}
+      ]
+    },
+    {
+      "flag": "🇰🇪",
+      "name": "Kenya",
+      "region": "East Africa",
+      "items": [
+        {"outlet": "Daily Nation", "lean": "neutral", "title": "US judge reinstates visas for 75 nations banned by Trump", "url": "https://nation.africa/kenya/news/world/us-judge-reinstates-visas-for-75-nations-banned-by-trump--5567028"},
+        {"outlet": "Daily Nation", "lean": "neutral", "title": "Revealed: 'Red flags' in US health deals with Kenya, Africa", "url": "https://nation.africa/kenya/health/revealed-red-flags-in-us-health-deals-with-kenya-africa-5388214", "note": "A close read of the bilateral health funding that replaced older aid programmes."}
+      ]
     }
-   ]
-  },
-  {
-   "flag": "🇯🇵",
-   "name": "Japan",
-   "region": "East Asia",
-   "items": [
-    {
-     "outlet": "The Japan Times",
-     "lean": "neutral",
-     "date": "2026-08-26",
-     "title": "Takaichi rejects 'weak-kneed' criticism over ICC sanctions response",
-     "url": "https://www.japantimes.co.jp/news/2026/08/26/japan/politics/takaichi-us-sanctions-icc/",
-     "note": "The sanctioned ICC president is Japanese, which turns a US foreign policy move into a domestic test for Tokyo."
-    },
-    {
-     "outlet": "The Japan Times",
-     "lean": "neutral",
-     "date": "2026-08-23",
-     "title": "What Trump's crush on Kim means for the Indo-Pacific",
-     "url": "https://www.japantimes.co.jp/commentary/2026/08/23/trump-kim-indo-pacific/"
-    },
-    {
-     "outlet": "The Japan Times",
-     "lean": "neutral",
-     "date": "2026-08-23",
-     "title": "USA Fencing approaching run-up to LA Games as chance to take sport mainstream",
-     "url": "https://www.japantimes.co.jp/sports/2026/08/23/more-sports/usa-fencing-mainstream-push/"
-    }
-   ]
-  },
-  {
-   "flag": "🇶🇦",
-   "name": "Qatar",
-   "region": "Middle East",
-   "items": [
-    {
-     "outlet": "Al Jazeera",
-     "lean": "funded",
-     "date": "2026-08-24",
-     "title": "US launches 'Operation Economic Outcast' to cut Iran's economic lifeline",
-     "url": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "lean": "funded",
-     "date": "2026-08-25",
-     "title": "Trump administration: Kennedy Center may be demolished if repairs not made",
-     "url": "https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "lean": "funded",
-     "date": "2026-08-21",
-     "title": "Trump's 'economic D-Day' claims first victim: Not Iran, but US markets",
-     "url": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets"
-    }
-   ]
-  },
-  {
-   "flag": "🇷🇺",
-   "name": "Russia",
-   "region": "Eastern Europe",
-   "items": [
-    {
-     "outlet": "RT (Russian service)",
-     "lean": "state",
-     "title": "US imposes sanctions on units of Russia's Defence Ministry",
-     "orig": "США ввели санкции против подразделений МО России",
-     "url": "https://russian.rt.com/world/news/1665333-ssha-sankcii-minoborony"
-    },
-    {
-     "outlet": "RT (Russian service)",
-     "lean": "state",
-     "title": "US did not support the anti-Russian statement on Ukraine at the UN",
-     "orig": "США не поддержали антироссийское заявление по Украине в ООН",
-     "url": "https://russian.rt.com/world/news/1673818-ssha-oon-ukraina-zayavlenie",
-     "note": "State television frames every US abstention as proof that Washington is drifting away from Europe."
-    },
-    {
-     "outlet": "RT (Russian service)",
-     "lean": "state",
-     "title": "US announces anti-Iran sanctions against more than 60 organisations and individuals",
-     "orig": "В США объявили об антииранских санкциях против более чем 60 организаций и физлиц",
-     "url": "https://russian.rt.com/world/news/1673722-ssha-iran-sankcii"
-    }
-   ]
-  },
-  {
-   "flag": "🇨🇳",
-   "name": "China & Hong Kong",
-   "region": "East Asia",
-   "items": [
-    {
-     "outlet": "South China Morning Post",
-     "lean": "neutral",
-     "title": "Washington pushes 'America first' agenda in Apec talks ahead of Chinese leader's visit",
-     "url": "https://www.scmp.com/news/china/diplomacy/article/3364959/washington-pushes-america-first-agenda-apec-talks-ahead-chinese-leaders-visit"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "lean": "neutral",
-     "title": "US unexpectedly loses jobs in July, in blow to Trump's economy claims",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3363356/us-unexpectedly-loses-jobs-july-blow-trumps-economy-claims"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "lean": "neutral",
-     "title": "Beijing rejects US tariff report as Mexico plans new China trade curbs",
-     "url": "https://www.scmp.com/news/us/article/3364735/beijing-calls-us-tariff-report-false-narrative-named-hub-mexico-plans-new-china-curbs"
-    }
-   ]
-  },
-  {
-   "flag": "🇪🇺",
-   "name": "European Union",
-   "region": "Europe",
-   "items": [
-    {
-     "outlet": "Euronews",
-     "lean": "neutral",
-     "date": "2026-08-26",
-     "title": "The data centre trap: Trump's AI ambition puts Republicans on the defensive",
-     "url": "https://www.euronews.com/2026/08/26/the-data-centre-trap-trumps-ai-ambition-puts-republicans-on-the-defensive"
-    },
-    {
-     "outlet": "Euronews",
-     "lean": "neutral",
-     "date": "2026-08-25",
-     "title": "Canada hits back with tariffs of up to 50% on US goods as trade war escalates",
-     "url": "https://www.euronews.com/2026/08/25/canada-hits-back-with-new-counter-tariffs-on-us-goods"
-    },
-    {
-     "outlet": "Euronews",
-     "lean": "neutral",
-     "date": "2026-08-22",
-     "title": "Five charts explaining America's $40 trillion debt",
-     "url": "https://www.euronews.com/business/2026/08/22/five-charts-explaining-americas-40-trillion-debt"
-    }
-   ]
-  },
-  {
-   "flag": "🇹🇷",
-   "name": "Türkiye",
-   "region": "Middle East",
-   "items": [
-    {
-     "outlet": "Daily Sabah",
-     "lean": "progov",
-     "title": "US says will impose 'toughest sanctions in history' on Iran",
-     "url": "https://www.dailysabah.com/business/economy/us-says-will-impose-toughest-sanctions-in-history-on-iran"
-    },
-    {
-     "outlet": "Daily Sabah",
-     "lean": "progov",
-     "title": "US seeks Israel-Türkiye deconfliction mechanism after Israeli strike",
-     "url": "https://www.dailysabah.com/politics/diplomacy/us-seeks-israel-turkiye-deconfliction-mechanism-after-israeli-strike",
-     "note": "Ankara's pro-government press presents Washington as the referee it needs rather than the ally it trusts."
-    },
-    {
-     "outlet": "Daily Sabah",
-     "lean": "progov",
-     "title": "Country music icon Dolly Parton dies at 80",
-     "url": "https://www.dailysabah.com/arts/music/country-music-icon-dolly-parton-dies-at-80"
-    }
-   ]
-  },
-  {
-   "flag": "🇲🇽",
-   "name": "Mexico",
-   "region": "Latin America",
-   "items": [
-    {
-     "outlet": "El Universal",
-     "lean": "neutral",
-     "title": "'We do not want more tariffs': Sheinbaum is optimistic about getting a trade deal with the US",
-     "orig": "\"No queremos más aranceles\", Sheinbaum se muestra optimista sobre obtener un acuerdo comercial con EU",
-     "url": "https://www.eluniversal.com.mx/nacion/no-queremos-mas-aranceles-sheinbaum-se-muestra-optimista-sobre-obtener-un-acuerdo-comercial-con-eu/"
-    },
-    {
-     "outlet": "El Universal",
-     "lean": "neutral",
-     "title": "Canada echoes US security alert for Mexicali, issuing a map of Mexico by levels of crime and kidnapping",
-     "orig": "Canadá comparte alerta de EU por seguridad en Mexicali; emite mapa de México por niveles de delincuencia y secuestro",
-     "url": "https://www.eluniversal.com.mx/nacion/canada-comparte-alerta-de-eu-por-seguridad-en-mexicali-emite-mapa-de-mexico-por-niveles-de-delincuencia-y-secuestro/"
-    },
-    {
-     "outlet": "El Universal",
-     "lean": "neutral",
-     "title": "Key points of the US 2026 Defence Strategy: it names the border as national security and allows unilateral action against drug traffickers",
-     "orig": "Puntos clave de la Estrategia de Defensa 2026 de EU; anuncia frontera como seguridad nacional y acciones unilaterales contra el narco",
-     "url": "https://www.eluniversal.com.mx/mundo/puntos-clave-de-la-estrategia-de-defensa-2026-de-eu-anuncia-frontera-como-seguridad-nacional-y-acciones-unilaterales-contra-el-narco/"
-    }
-   ]
-  },
-  {
-   "flag": "🇰🇷",
-   "name": "South Korea",
-   "region": "East Asia",
-   "items": [
-    {
-     "outlet": "The Korea Herald",
-     "lean": "neutral",
-     "title": "Trump pushes for Kim Jong-un meeting this year: report",
-     "url": "https://www.koreaherald.com/article/10844783"
-    },
-    {
-     "outlet": "The Korea Herald",
-     "lean": "neutral",
-     "title": "Korea seeks to keep $200b US investment rollout on track",
-     "url": "https://www.koreaherald.com/article/10843132"
-    },
-    {
-     "outlet": "The Korea Herald",
-     "lean": "neutral",
-     "title": "Top diplomats of S. Korea, US stress 'close' communication on N. Korea's nuclear issue",
-     "url": "https://www.koreaherald.com/article/10850729"
-    }
-   ]
-  },
-  {
-   "flag": "🇦🇷",
-   "name": "Argentina",
-   "region": "Latin America",
-   "items": [
-    {
-     "outlet": "Buenos Aires Times",
-     "lean": "neutral",
-     "title": "US ambassador warns Argentina over Chinese firms in Vaca Muerta",
-     "url": "https://www.batimes.com.ar/news/amp/economy/us-ambassador-warns-argentina-over-chinese-firms-in-vaca-muerta.phtml"
-    },
-    {
-     "outlet": "Buenos Aires Times",
-     "lean": "neutral",
-     "title": "US-China rivalry is laid bare by a contract to deepen an Argentine river",
-     "url": "https://www.batimes.com.ar/news/world/us-china-rivalry-is-laid-bare-by-a-contract-to-deepen-an-argentine-river.phtml",
-     "note": "Seen from Buenos Aires, the superpower contest arrives as a dredging tender."
-    }
-   ]
-  },
-  {
-   "flag": "🇰🇪",
-   "name": "Kenya",
-   "region": "East Africa",
-   "items": [
-    {
-     "outlet": "Daily Nation",
-     "lean": "neutral",
-     "title": "29 US states are suing Meta. What might it mean for Kenya, rest of the world?",
-     "url": "https://nation.africa/kenya/news/world/29-us-states-are-suing-meta-what-might-it-mean-for-kenya-rest-of-the-world--5568672",
-     "note": "Nairobi covers the American case as a question about what protections Kenyan users will or will not inherit."
-    }
-   ]
-  },
-  {
-   "flag": "🇿🇦",
-   "name": "South Africa",
-   "region": "Southern Africa",
-   "items": [
-    {
-     "outlet": "News24",
-     "lean": "neutral",
-     "date": "2026-08-25",
-     "title": "US to revoke visas of up to 200 000 asylum seekers",
-     "url": "https://www.news24.com/world/us-to-revoke-visas-of-up-to-200-000-asylum-seekers-20260825-1171"
-    }
-   ]
-  }
- ]
+  ]
 }

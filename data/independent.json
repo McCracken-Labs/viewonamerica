@@ -1,177 +1,65 @@
 {
- "date_iso": "2026-08-26",
- "date_human": "Wednesday, August 26, 2026",
- "summary": "Independent journalism on America",
- "countries": [
-  {
-   "flag": "🔎",
-   "name": "Investigative & nonprofit",
-   "region": "Follow-the-money reporting",
-   "items": [
+  "date_iso": "2026-08-28",
+  "date_human": "Friday, August 28, 2026",
+  "summary": "Independent journalism on America",
+  "countries": [
     {
-     "outlet": "ProPublica",
-     "lean": "invest",
-     "title": "Measles Cases Are Reaching Record Highs in America",
-     "url": "https://www.propublica.org/article/measles-cases-vaccines"
+      "flag": "🔎",
+      "name": "Investigative & nonprofit",
+      "region": "Follow-the-money reporting",
+      "items": [
+        {"outlet": "ProPublica", "lean": "invest", "title": "Immigration Agents Have Often Grabbed and Mistreated Citizens, Congressional Investigators Find", "url": "https://www.propublica.org/article/immigration-agents-detained-mistreated-citizens-congressional-investigation"},
+        {"outlet": "ProPublica", "lean": "invest", "title": "Trump's Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration", "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"},
+        {"outlet": "ProPublica", "lean": "invest", "title": "Department of Education Halts Thousands of Civil Rights Investigations", "url": "https://www.propublica.org/article/department-of-education-civil-rights-office-investigations"}
+      ]
     },
     {
-     "outlet": "ProPublica",
-     "lean": "invest",
-     "title": "Senators Criticize Trump Administration's Demands to Access Health Data as a Condition for Lifesaving Aid",
-     "url": "https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid"
+      "flag": "🇺🇸",
+      "name": "Independent left (U.S.)",
+      "region": "Adversarial, progressive",
+      "items": [
+        {"outlet": "The Intercept", "lean": "left", "date": "2026-08-23", "title": "The Dawn of a New Cold War", "url": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/", "note": "On chips, rare earths and the technology race with Beijing."},
+        {"outlet": "The Intercept", "lean": "left", "date": "2026-08-11", "title": "\"Total Whitewash\": New Pentagon Report Claims U.S. Killed No Civilians in Boat Strikes", "url": "https://theintercept.com/2026/08/11/war-department-civilian-casualties-boat-strikes-yemen/"},
+        {"outlet": "Jacobin", "lean": "left", "date": "2026-06", "title": "How to Democratize the United States", "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"}
+      ]
     },
     {
-     "outlet": "ProPublica",
-     "lean": "invest",
-     "title": "The $1 Trillion Black Box",
-     "url": "https://www.propublica.org/article/military-defense-spending-budget-series",
-     "note": "A running series on where the defence budget actually goes."
+      "flag": "🗽",
+      "name": "Independent right & heterodox",
+      "region": "Libertarian, conservative, contrarian",
+      "items": [
+        {"outlet": "Reason", "lean": "libert", "date": "2026-08-19", "title": "Can America survive its political divide?", "url": "https://reason.com/podcast/2026/08/19/can-america-survive-its-political-divide/"},
+        {"outlet": "Reason", "lean": "libert", "date": "2026-04-27", "title": "America is losing its allure for the world's migrants", "url": "https://reason.com/2026/04/27/america-is-losing-its-allure-for-the-worlds-migrants/"},
+        {"outlet": "The Dispatch", "lean": "cright", "title": "How The U.S. Racked Up Its $40 Trillion Debt", "url": "https://thedispatch.com/podcast/dispatch-podcast/how-the-u-s-racked-up-its-40-trillion-debt/"},
+        {"outlet": "The Dispatch", "lean": "cright", "title": "Half of America Cannot Afford to Live, and Other Wrong Numbers", "url": "https://thedispatch.com/article/affordability-crisis-healthcare-housing-childcare/", "note": "A fact check aimed at claims made on both sides of the affordability argument."},
+        {"outlet": "UnHerd (UK)", "lean": "hetero", "date": "2026-08", "title": "America's unstoppable Hispanic future", "url": "https://unherd.com/2026/08/americas-unstoppable-hispanic-future/"},
+        {"outlet": "UnHerd (UK)", "lean": "hetero", "date": "2026-08", "title": "The collapse of the postwar order", "url": "https://unherd.com/2026/08/the-collapse-of-the-postwar-order/"}
+      ]
+    },
+    {
+      "flag": "🕊️",
+      "name": "Reporting in exile",
+      "region": "Diaspora newsrooms covering home, and its US dealings, from abroad",
+      "items": [
+        {"outlet": "Meduza (Russia, in exile)", "lean": "exile", "date": "2026-08-22", "title": "A US court has overturned the State Department ban on issuing immigrant visas to citizens of 75 countries, including Russia", "url": "https://meduza.io/news/2026/08/22/sud-v-ssha-otmenil-zapret-gosdepa-na-vydachu-immigratsionnyh-viz-grazhdanam-75-stran-v-tom-chisle-rossii", "orig": "Суд в США отменил запрет Госдепа на выдачу иммиграционных виз гражданам 75 стран (в том числе России)"},
+        {"outlet": "Meduza (Russia, in exile)", "lean": "exile", "date": "2026-08-25", "title": "A US Air Force military transport plane landed at Vnukovo. Who it brought is unknown", "url": "https://meduza.io/news/2026/08/25/vo-vnukovo-priletel-voenno-transportnyy-samolet-vvs-ssha-kogo-on-privez-neizvestno", "orig": "Во Внуково прилетел военно-транспортный самолет ВВС США. Кого он привез, неизвестно"},
+        {"outlet": "IranWire (Iran, in exile)", "lean": "exile", "title": "U.S. Ends Islamabad Memorandum with Iran as 60-Day Term Expires", "url": "https://iranwire.com/en/news/156430-us-ends-islamabad-memorandum-with-iran-as-60-day-term-expires/"},
+        {"outlet": "IranWire (Iran, in exile)", "lean": "exile", "title": "US Reroutes 64 Vessels in Naval Blockade of Iran", "url": "https://iranwire.com/en/news/156431-us-reroutes-64-vessels-in-naval-blockade-of-iran/"},
+        {"outlet": "Hong Kong Free Press", "lean": "exile", "date": "2026-08-14", "title": "Donald Trump announces tariffs of up to 100% on imported drones", "url": "https://hongkongfp.com/2026/08/14/donald-trump-announces-tariffs-of-up-to-100-on-imported-drones/"},
+        {"outlet": "The Kyiv Independent (Ukraine)", "lean": "exile", "title": "US to begin talks on troop reductions in Europe later this year, America's NATO envoy says", "url": "https://kyivindependent.com/us-to-begin-talks-on-troop-reductions-in-europe-later-this-year-nato-envoy-says/"}
+      ]
+    },
+    {
+      "flag": "🌍",
+      "name": "International independent & analysis",
+      "region": "Reader-funded, outside the US",
+      "items": [
+        {"outlet": "Middle East Eye", "lean": "indie", "title": "How US policy in the Middle East is unravelling", "url": "https://www.middleeasteye.net/opinion/how-us-policy-middle-east-unravelling"},
+        {"outlet": "The Conversation", "lean": "analysis", "title": "America at 250: still a 'democratic experiment'", "url": "https://theconversation.com/america-at-250-still-a-democratic-experiment-286695"},
+        {"outlet": "The Conversation", "lean": "analysis", "title": "2026 isn't the first time Christians have tried to claim the United States as their own", "url": "https://theconversation.com/2026-isnt-the-first-time-christians-have-tried-to-claim-the-united-states-as-their-own-283246"},
+        {"outlet": "Rappler (Philippines)", "lean": "indie", "title": "[OPINION] US Pax Silica initiative: Good or bad?", "url": "https://www.rappler.com/business/opinion-united-states-pax-silica-initiative-good-bad-philippines/", "note": "A view from one of the countries signed up to the US minerals and compute framework."},
+        {"outlet": "Rappler (Philippines)", "lean": "indie", "title": "How US-Israeli war on Iran is upending global business", "url": "https://www.rappler.com/business/worldwide-upended-united-states-israel-war-iran/"}
+      ]
     }
-   ]
-  },
-  {
-   "flag": "🇺🇸",
-   "name": "Independent left (U.S.)",
-   "region": "Adversarial, progressive",
-   "items": [
-    {
-     "outlet": "The Intercept",
-     "lean": "left",
-     "date": "2026-08-07",
-     "title": "Congress Might Give ICE the Power to Go After Shoplifters",
-     "url": "https://theintercept.com/2026/08/07/congress-ice-shoplifting-theft-surveillance/"
-    },
-    {
-     "outlet": "The Intercept",
-     "lean": "left",
-     "date": "2026-08-23",
-     "title": "The Dawn of a New Cold War",
-     "url": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/"
-    },
-    {
-     "outlet": "Jacobin",
-     "lean": "left",
-     "title": "What Multilateralism Looks Like After US Decline",
-     "url": "https://jacobin.com/2026/08/multilateralism-trump-lula-tariffs-iran"
-    },
-    {
-     "outlet": "Jacobin",
-     "lean": "left",
-     "title": "Trump Gets Real About US Dominance of Latin America",
-     "url": "https://jacobin.com/2026/08/monroe-doctrine-trump-american-imperialism"
-    }
-   ]
-  },
-  {
-   "flag": "🗽",
-   "name": "Independent right & heterodox",
-   "region": "Libertarian, conservative, contrarian",
-   "items": [
-    {
-     "outlet": "Reason",
-     "lean": "libert",
-     "date": "2026-08-20",
-     "title": "U.S. national debt just surpassed $40 trillion for the first time ever",
-     "url": "https://reason.com/2026/08/20/40-trillion-and-parents-night-out/"
-    },
-    {
-     "outlet": "Reason",
-     "lean": "libert",
-     "date": "2026-08-19",
-     "title": "Border agents searched his phone 5 times without a warrant. He's asking the Supreme Court to put a stop to it.",
-     "url": "https://reason.com/2026/08/19/border-agents-searched-his-phone-5-times-without-a-warrant-hes-asking-the-supreme-court-to-put-a-stop-to-it/"
-    },
-    {
-     "outlet": "The Dispatch",
-     "lean": "cright",
-     "title": "American Manufacturing Is Surging—Despite Tariffs, Not Because of Them",
-     "url": "https://thedispatch.com/newsletter/dispatch-markets/debunking-myths-tariff-manufacturing-boom/"
-    },
-    {
-     "outlet": "The Dispatch",
-     "lean": "cright",
-     "title": "Why 2026 Could Be a Bigger Blue Wave Than 2018",
-     "url": "https://thedispatch.com/article/republicans-senate-house-of-represenatives-donald-trump-economy-democrats/",
-     "note": "A centre-right outlet reading its own side's midterm numbers and not liking them."
-    },
-    {
-     "outlet": "UnHerd (UK)",
-     "lean": "hetero",
-     "title": "The madness of Trump's Canada trade war",
-     "url": "https://unherd.com/2026/08/the-madness-of-trumps-canada-trade-war/?edition=us"
-    },
-    {
-     "outlet": "UnHerd (UK)",
-     "lean": "hetero",
-     "title": "America's unstoppable Hispanic future",
-     "url": "https://unherd.com/2026/08/americas-unstoppable-hispanic-future/"
-    }
-   ]
-  },
-  {
-   "flag": "🕊️",
-   "name": "Reporting in exile",
-   "region": "Diaspora newsrooms covering home, and its US dealings, from abroad",
-   "items": [
-    {
-     "outlet": "Meduza (Russia, in exile)",
-     "lean": "exile",
-     "date": "2026-08-22",
-     "title": "A US court has struck down the State Department's ban on issuing immigrant visas to citizens of 75 countries, Russia among them",
-     "orig": "Суд в США отменил запрет Госдепа на выдачу иммиграционных виз гражданам 75 стран (в том числе России)",
-     "url": "https://meduza.io/news/2026/08/22/sud-v-ssha-otmenil-zapret-gosdepa-na-vydachu-immigratsionnyh-viz-grazhdanam-75-stran-v-tom-chisle-rossii"
-    },
-    {
-     "outlet": "IranWire (Iran, in exile)",
-     "lean": "exile",
-     "title": "Scott Bessent Announces Campaign to Sever Iran's Economic Lifelines",
-     "url": "https://iranwire.com/en/news/156716-scott-bessent-announces-campaign-to-sever-irans-economic-lifelines/"
-    },
-    {
-     "outlet": "IranWire (Iran, in exile)",
-     "lean": "exile",
-     "title": "US Secret Service Investigates Iranian TV Threat Against Barron Trump",
-     "url": "https://iranwire.com/en/news/156743-us-secret-service-investigates-iranian-tv-threat-against-barron-trump/"
-    },
-    {
-     "outlet": "Hong Kong Free Press",
-     "lean": "exile",
-     "date": "2026-08-21",
-     "title": "China denies US citizen held since June is wrongfully detained",
-     "url": "https://hongkongfp.com/2026/08/21/china-denies-us-citizen-min-zin-held-since-june-is-wrongfully-detained/"
-    }
-   ]
-  },
-  {
-   "flag": "🌍",
-   "name": "International independent & analysis",
-   "region": "Reader-funded, outside the US",
-   "items": [
-    {
-     "outlet": "Middle East Eye",
-     "lean": "indie",
-     "title": "US elections: Progressive Democrat scores shock win in Florida",
-     "url": "https://www.middleeasteye.net/news/us-elections-progressive-democrat-scores-shock-win-florida"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "lean": "indie",
-     "title": "US strengthens military presence in breakaway Puntland amid battle for Red Sea",
-     "url": "https://www.middleeasteye.net/news/us-strengthens-military-presence-breakaway-puntland-amid-battle-red-sea"
-    },
-    {
-     "outlet": "The Wire (India)",
-     "lean": "indie",
-     "title": "The US Wants the World to Believe it's Still Creditworthy – But Even its Allies Won't Bite",
-     "url": "https://thewire.in/political-economy/us-bonds-creditworthy-allies"
-    },
-    {
-     "outlet": "The Conversation",
-     "lean": "analysis",
-     "title": "Why Trump's plan to rescind the Roadless Rule protecting national forests will struggle in court",
-     "url": "https://theconversation.com/why-trumps-plan-to-rescind-the-roadless-rule-protecting-national-forests-will-struggle-in-court-290496"
-    }
-   ]
-  }
- ]
+  ]
 }
