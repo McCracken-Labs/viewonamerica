@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-08-31",
-  "date_human": "Monday, August 31, 2026",
+  "date_iso": "2026-09-01",
+  "date_human": "Tuesday, September 1, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -8,18 +8,8 @@
       "name": "Investigative & nonprofit",
       "region": "Follow-the-money reporting",
       "items": [
-        {
-          "outlet": "ProPublica",
-          "lean": "invest",
-          "title": "Veterans Who Depend on Mental Health Care Keep Losing Their Therapists Under Trump",
-          "url": "https://www.propublica.org/article/veterans-affairs-mental-health-therapists-quit-trump"
-        },
-        {
-          "outlet": "ProPublica",
-          "lean": "invest",
-          "title": "Six Senators Accuse Deputy Attorney General of “Glaring” Crypto Conflict, Cite ProPublica Investigation",
-          "url": "https://www.propublica.org/article/todd-blanche-crypto-conflict-senator-letter"
-        }
+        {"outlet": "ProPublica", "lean": "invest", "title": "Six Senators Accuse Deputy Attorney General of \"Glaring\" Crypto Conflict, Cite ProPublica Investigation", "url": "https://www.propublica.org/article/todd-blanche-crypto-conflict-senator-letter", "note": "A reporting thread that turned into a congressional letter."},
+        {"outlet": "ProPublica", "lean": "invest", "title": "Investigative Reporting on Democracy", "url": "https://www.propublica.org/topics/democracy", "note": "The running file, including the disclosure records of more than 1,500 political appointees."}
       ]
     },
     {
@@ -27,28 +17,10 @@
       "name": "Independent left (U.S.)",
       "region": "Adversarial, progressive",
       "items": [
-        {
-          "outlet": "The Intercept",
-          "lean": "left",
-          "date": "2026-08-23",
-          "title": "The Dawn of a New Cold War",
-          "url": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/",
-          "note": "On chips, rare earths and the technology split with Beijing."
-        },
-        {
-          "outlet": "The Intercept",
-          "lean": "left",
-          "date": "2026-08-11",
-          "title": "“Total Whitewash”: New Pentagon Report Claims U.S. Killed No Civilians in Boat Strikes",
-          "url": "https://theintercept.com/2026/08/11/war-department-civilian-casualties-boat-strikes-yemen/"
-        },
-        {
-          "outlet": "Jacobin",
-          "lean": "left",
-          "date": "2026-06",
-          "title": "How to Democratize the United States",
-          "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
-        }
+        {"outlet": "The Intercept", "lean": "left", "date": "2026-09-01", "title": "Christian Employers Can Now Discriminate Against Trans People", "url": "https://theintercept.com/2026/09/01/christian-employers-settlement-gender-discrimination-eeoc/"},
+        {"outlet": "The Intercept", "lean": "left", "date": "2026-08-11", "title": "\"Total Whitewash\": New Pentagon Report Claims U.S. Killed No Civilians in Boat Strikes", "url": "https://theintercept.com/2026/08/11/war-department-civilian-casualties-boat-strikes-yemen/"},
+        {"outlet": "Jacobin", "lean": "left", "date": "2026-08", "title": "What Multilateralism Looks Like After US Decline", "url": "https://jacobin.com/2026/08/multilateralism-trump-lula-tariffs-iran"},
+        {"outlet": "Jacobin", "lean": "left", "date": "2026-08", "title": "Socialists' Winning Streak Is an Opportunity for Unions", "url": "https://jacobin.com/2026/08/dsa-mamdani-labor-unions-reform"}
       ]
     },
     {
@@ -56,41 +28,11 @@
       "name": "Independent right & heterodox",
       "region": "Libertarian, conservative, contrarian",
       "items": [
-        {
-          "outlet": "Reason",
-          "lean": "libert",
-          "date": "2026-08-29",
-          "title": "9/11 turbocharged America's worst foreign policy impulses—but didn't change its direction",
-          "url": "https://reason.com/2026/08/29/9-11-turbocharged-american-interventionism/"
-        },
-        {
-          "outlet": "Reason",
-          "lean": "libert",
-          "date": "2026-08-21",
-          "title": "America is building a surveillance state like China's",
-          "url": "https://reason.com/2026/08/21/america-is-building-a-surveillance-state-like-chinas/",
-          "note": "On the spread of automated licence plate cameras."
-        },
-        {
-          "outlet": "The Dispatch",
-          "lean": "cright",
-          "title": "Laughingstock America",
-          "url": "https://thedispatch.com/newsletter/boilingfrogs/trump-lake-america-populist-nationalism/",
-          "note": "A conservative take on the Lake America order."
-        },
-        {
-          "outlet": "The Dispatch",
-          "lean": "cright",
-          "title": "The World Cup Is Putting American Abundance on Display",
-          "url": "https://thedispatch.com/newsletter/dispatch-markets/american-prosperity-world-cup-trade-peace/"
-        },
-        {
-          "outlet": "UnHerd (UK)",
-          "lean": "hetero",
-          "date": "2026-07",
-          "title": "The American disaster",
-          "url": "https://unherd.com/2026/07/the-american-disaster/"
-        }
+        {"outlet": "Reason", "lean": "libert", "date": "2026-08-31", "title": "Anthropic win reaffirms private sector's right to put conditions on government dealings", "url": "https://reason.com/2026/08/31/anthropic-win-reaffirms-private-sectors-right-to-put-conditions-on-government-dealings/"},
+        {"outlet": "Reason", "lean": "libert", "date": "2026-08-31", "title": "Why Americans are pushing back against Flock surveillance", "url": "https://reason.com/2026/08/31/the-belated-backlash-against-flock-cameras/"},
+        {"outlet": "The Dispatch", "lean": "cright", "title": "Our Best Stuff on Crossing the $40 Trillion Debt Threshold", "url": "https://thedispatch.com/newsletter/weekly/national-debt-interest-rates-entitlement-reform/", "note": "About $297,000 of federal debt per household, by their arithmetic."},
+        {"outlet": "The Dispatch", "lean": "cright", "title": "The World Cup Is Putting American Abundance on Display", "url": "https://thedispatch.com/newsletter/dispatch-markets/american-prosperity-world-cup-trade-peace/"},
+        {"outlet": "UnHerd (UK)", "lean": "hetero", "date": "2026-09", "title": "America's brain-rotting socialism debate", "url": "https://unherd.com/2026/09/americas-brain-rotting-socialism-debate/?edition=us"}
       ]
     },
     {
@@ -98,41 +40,12 @@
       "name": "Reporting in exile",
       "region": "Diaspora newsrooms covering home, and its US dealings, from abroad",
       "items": [
-        {
-          "outlet": "Meduza (Russia, in exile)",
-          "lean": "exile",
-          "date": "2026-08-31",
-          "title": "Trump renamed Lake Ontario “Lake America.” Google followed the president’s order, Apple did not",
-          "orig": "Трамп переименовал озеро Онтарио в «озеро Америка». Google выполнил указ президента, Apple — нет",
-          "url": "https://meduza.io/news/2026/08/31/tramp-pereimenoval-ozero-ontario-v-ozero-amerika-google-vypolnil-ukaz-prezidenta-apple-net"
-        },
-        {
-          "outlet": "Meduza (Russia, in exile)",
-          "lean": "exile",
-          "date": "2026-08-22",
-          "title": "A US court struck down the State Department ban on immigration visas for citizens of 75 countries, Russia among them",
-          "orig": "Суд в США отменил запрет Госдепа на выдачу иммиграционных виз гражданам 75 стран (в том числе России)",
-          "url": "https://meduza.io/news/2026/08/22/sud-v-ssha-otmenil-zapret-gosdepa-na-vydachu-immigratsionnyh-viz-grazhdanam-75-stran-v-tom-chisle-rossii"
-        },
-        {
-          "outlet": "IranWire (Iran, in exile)",
-          "lean": "exile",
-          "title": "U.S. Military Commanders Warn of Attrition in Iran War",
-          "url": "https://iranwire.com/en/news/156949-us-military-commanders-warn-of-attrition-in-iran-war/"
-        },
-        {
-          "outlet": "Hong Kong Free Press",
-          "lean": "exile",
-          "date": "2026-08-14",
-          "title": "Donald Trump announces tariffs of up to 100% on imported drones",
-          "url": "https://hongkongfp.com/2026/08/14/donald-trump-announces-tariffs-of-up-to-100-on-imported-drones/"
-        },
-        {
-          "outlet": "The Kyiv Independent (Ukraine)",
-          "lean": "exile",
-          "title": "US, EU deepen cooperation on critical minerals",
-          "url": "https://kyivindependent.com/us-eu-deepen-critical-minerals-cooperation/"
-        }
+        {"outlet": "Meduza (Russia, in exile)", "lean": "exile", "date": "2026-08-31", "title": "Trump renamed Lake Ontario \"Lake America\". Google carried out the president's order, Apple did not", "url": "https://meduza.io/news/2026/08/31/tramp-pereimenoval-ozero-ontario-v-ozero-amerika-google-vypolnil-ukaz-prezidenta-apple-net", "orig": "Трамп переименовал озеро Онтарио в «озеро Америка». Google выполнил указ президента, Apple — нет"},
+        {"outlet": "Meduza (Russia, in exile)", "lean": "exile", "date": "2026-08-22", "title": "A US court has struck down the State Department's ban on immigrant visas for citizens of 75 countries, including Russia", "url": "https://meduza.io/news/2026/08/22/sud-v-ssha-otmenil-zapret-gosdepa-na-vydachu-immigratsionnyh-viz-grazhdanam-75-stran-v-tom-chisle-rossii", "orig": "Суд в США отменил запрет Госдепа на выдачу иммиграционных виз гражданам 75 стран (в том числе России)"},
+        {"outlet": "Hong Kong Free Press", "lean": "exile", "date": "2026-09-01", "title": "Hong Kong Int'l School and US church founder reach settlement over financial mismanagement lawsuit", "url": "https://hongkongfp.com/2026/09/01/hong-kong-intl-school-and-us-church-founder-reach-settlement-over-financial-mismanagement-lawsuit/"},
+        {"outlet": "Hong Kong Free Press", "lean": "exile", "date": "2026-08-14", "title": "Donald Trump announces tariffs of up to 100% on imported drones", "url": "https://hongkongfp.com/2026/08/14/donald-trump-announces-tariffs-of-up-to-100-on-imported-drones/", "note": "Most of the new rates take effect on September 3."},
+        {"outlet": "The Kyiv Independent (Ukraine)", "lean": "exile", "title": "Trump administration immigration policies leave Ukrainian refugees in limbo", "url": "https://kyivindependent.com/trump-administration-immigration-policies-leave-ukrainian-refugees-in-limbo/"},
+        {"outlet": "The Kyiv Independent (Ukraine)", "lean": "exile", "title": "US, EU deepen cooperation on critical minerals", "url": "https://kyivindependent.com/us-eu-deepen-critical-minerals-cooperation/"}
       ]
     },
     {
@@ -140,30 +53,11 @@
       "name": "International independent & analysis",
       "region": "Reader-funded, outside the US",
       "items": [
-        {
-          "outlet": "Middle East Eye",
-          "lean": "indie",
-          "title": "How US policy in the Middle East is unravelling",
-          "url": "https://www.middleeasteye.net/opinion/how-us-policy-middle-east-unravelling"
-        },
-        {
-          "outlet": "The Conversation",
-          "lean": "analysis",
-          "title": "Why the US economy stays strong even when its policies shock the rest of the world",
-          "url": "https://theconversation.com/why-the-us-economy-stays-strong-even-when-its-policies-shock-the-rest-of-the-world-285979"
-        },
-        {
-          "outlet": "Coda Story",
-          "lean": "indie",
-          "title": "On the US-Mexico border, a corridor of surveillance becomes lethal",
-          "url": "https://www.codastory.com/surveillance-and-control/us-border-surveillance/"
-        },
-        {
-          "outlet": "Rappler (Philippines)",
-          "lean": "indie",
-          "title": "[OPINION] US Pax Silica initiative: Good or bad?",
-          "url": "https://www.rappler.com/business/opinion-united-states-pax-silica-initiative-good-bad-philippines/"
-        }
+        {"outlet": "Middle East Eye", "lean": "indie", "date": "2026-08-28", "title": "US-Israel war on Iran, six months down the line: In numbers", "url": "https://www.middleeasteye.net/news/2026/8/28/us-israel-war-on-iran-six-months-down-the-line-in-numbers"},
+        {"outlet": "Middle East Eye", "lean": "indie", "title": "US heading for 'checkmate' and 'total defeat' in Iran war, says neocon Robert Kagan", "url": "https://www.middleeasteye.net/news/us-heading-checkmate-and-total-defeat-iran-war-says-neocon-robert-kagan"},
+        {"outlet": "The Wire (India)", "lean": "indie", "title": "Three Axes of Crisis Defining the United States in 2026, And Glimmers of Hope", "url": "https://m.thewire.in/article/government/three-axes-of-crisis-defining-the-united-states-in-2026-and-glimmers-of-hope"},
+        {"outlet": "Coda Story", "lean": "indie", "title": "How Trump is bringing shell companies back onshore", "url": "https://www.codastory.com/oligarchy/how-trump-is-bringing-shell-companies-back-onshore/", "note": "On the rollback of beneficial ownership reporting."},
+        {"outlet": "Coda Story", "lean": "indie", "title": "Crypto's corrupt American dream", "url": "https://www.codastory.com/oligarchy/cryptos-corrupt-american-dream/"}
       ]
     }
   ]
