@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-08-28",
-  "date_human": "Friday, August 28, 2026",
+  "date_iso": "2026-08-31",
+  "date_human": "Monday, August 31, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -8,9 +8,18 @@
       "name": "Investigative & nonprofit",
       "region": "Follow-the-money reporting",
       "items": [
-        {"outlet": "ProPublica", "lean": "invest", "title": "Immigration Agents Have Often Grabbed and Mistreated Citizens, Congressional Investigators Find", "url": "https://www.propublica.org/article/immigration-agents-detained-mistreated-citizens-congressional-investigation"},
-        {"outlet": "ProPublica", "lean": "invest", "title": "Trump's Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration", "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations"},
-        {"outlet": "ProPublica", "lean": "invest", "title": "Department of Education Halts Thousands of Civil Rights Investigations", "url": "https://www.propublica.org/article/department-of-education-civil-rights-office-investigations"}
+        {
+          "outlet": "ProPublica",
+          "lean": "invest",
+          "title": "Veterans Who Depend on Mental Health Care Keep Losing Their Therapists Under Trump",
+          "url": "https://www.propublica.org/article/veterans-affairs-mental-health-therapists-quit-trump"
+        },
+        {
+          "outlet": "ProPublica",
+          "lean": "invest",
+          "title": "Six Senators Accuse Deputy Attorney General of “Glaring” Crypto Conflict, Cite ProPublica Investigation",
+          "url": "https://www.propublica.org/article/todd-blanche-crypto-conflict-senator-letter"
+        }
       ]
     },
     {
@@ -18,9 +27,28 @@
       "name": "Independent left (U.S.)",
       "region": "Adversarial, progressive",
       "items": [
-        {"outlet": "The Intercept", "lean": "left", "date": "2026-08-23", "title": "The Dawn of a New Cold War", "url": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/", "note": "On chips, rare earths and the technology race with Beijing."},
-        {"outlet": "The Intercept", "lean": "left", "date": "2026-08-11", "title": "\"Total Whitewash\": New Pentagon Report Claims U.S. Killed No Civilians in Boat Strikes", "url": "https://theintercept.com/2026/08/11/war-department-civilian-casualties-boat-strikes-yemen/"},
-        {"outlet": "Jacobin", "lean": "left", "date": "2026-06", "title": "How to Democratize the United States", "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"}
+        {
+          "outlet": "The Intercept",
+          "lean": "left",
+          "date": "2026-08-23",
+          "title": "The Dawn of a New Cold War",
+          "url": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/",
+          "note": "On chips, rare earths and the technology split with Beijing."
+        },
+        {
+          "outlet": "The Intercept",
+          "lean": "left",
+          "date": "2026-08-11",
+          "title": "“Total Whitewash”: New Pentagon Report Claims U.S. Killed No Civilians in Boat Strikes",
+          "url": "https://theintercept.com/2026/08/11/war-department-civilian-casualties-boat-strikes-yemen/"
+        },
+        {
+          "outlet": "Jacobin",
+          "lean": "left",
+          "date": "2026-06",
+          "title": "How to Democratize the United States",
+          "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
+        }
       ]
     },
     {
@@ -28,12 +56,41 @@
       "name": "Independent right & heterodox",
       "region": "Libertarian, conservative, contrarian",
       "items": [
-        {"outlet": "Reason", "lean": "libert", "date": "2026-08-19", "title": "Can America survive its political divide?", "url": "https://reason.com/podcast/2026/08/19/can-america-survive-its-political-divide/"},
-        {"outlet": "Reason", "lean": "libert", "date": "2026-04-27", "title": "America is losing its allure for the world's migrants", "url": "https://reason.com/2026/04/27/america-is-losing-its-allure-for-the-worlds-migrants/"},
-        {"outlet": "The Dispatch", "lean": "cright", "title": "How The U.S. Racked Up Its $40 Trillion Debt", "url": "https://thedispatch.com/podcast/dispatch-podcast/how-the-u-s-racked-up-its-40-trillion-debt/"},
-        {"outlet": "The Dispatch", "lean": "cright", "title": "Half of America Cannot Afford to Live, and Other Wrong Numbers", "url": "https://thedispatch.com/article/affordability-crisis-healthcare-housing-childcare/", "note": "A fact check aimed at claims made on both sides of the affordability argument."},
-        {"outlet": "UnHerd (UK)", "lean": "hetero", "date": "2026-08", "title": "America's unstoppable Hispanic future", "url": "https://unherd.com/2026/08/americas-unstoppable-hispanic-future/"},
-        {"outlet": "UnHerd (UK)", "lean": "hetero", "date": "2026-08", "title": "The collapse of the postwar order", "url": "https://unherd.com/2026/08/the-collapse-of-the-postwar-order/"}
+        {
+          "outlet": "Reason",
+          "lean": "libert",
+          "date": "2026-08-29",
+          "title": "9/11 turbocharged America's worst foreign policy impulses—but didn't change its direction",
+          "url": "https://reason.com/2026/08/29/9-11-turbocharged-american-interventionism/"
+        },
+        {
+          "outlet": "Reason",
+          "lean": "libert",
+          "date": "2026-08-21",
+          "title": "America is building a surveillance state like China's",
+          "url": "https://reason.com/2026/08/21/america-is-building-a-surveillance-state-like-chinas/",
+          "note": "On the spread of automated licence plate cameras."
+        },
+        {
+          "outlet": "The Dispatch",
+          "lean": "cright",
+          "title": "Laughingstock America",
+          "url": "https://thedispatch.com/newsletter/boilingfrogs/trump-lake-america-populist-nationalism/",
+          "note": "A conservative take on the Lake America order."
+        },
+        {
+          "outlet": "The Dispatch",
+          "lean": "cright",
+          "title": "The World Cup Is Putting American Abundance on Display",
+          "url": "https://thedispatch.com/newsletter/dispatch-markets/american-prosperity-world-cup-trade-peace/"
+        },
+        {
+          "outlet": "UnHerd (UK)",
+          "lean": "hetero",
+          "date": "2026-07",
+          "title": "The American disaster",
+          "url": "https://unherd.com/2026/07/the-american-disaster/"
+        }
       ]
     },
     {
@@ -41,12 +98,41 @@
       "name": "Reporting in exile",
       "region": "Diaspora newsrooms covering home, and its US dealings, from abroad",
       "items": [
-        {"outlet": "Meduza (Russia, in exile)", "lean": "exile", "date": "2026-08-22", "title": "A US court has overturned the State Department ban on issuing immigrant visas to citizens of 75 countries, including Russia", "url": "https://meduza.io/news/2026/08/22/sud-v-ssha-otmenil-zapret-gosdepa-na-vydachu-immigratsionnyh-viz-grazhdanam-75-stran-v-tom-chisle-rossii", "orig": "Суд в США отменил запрет Госдепа на выдачу иммиграционных виз гражданам 75 стран (в том числе России)"},
-        {"outlet": "Meduza (Russia, in exile)", "lean": "exile", "date": "2026-08-25", "title": "A US Air Force military transport plane landed at Vnukovo. Who it brought is unknown", "url": "https://meduza.io/news/2026/08/25/vo-vnukovo-priletel-voenno-transportnyy-samolet-vvs-ssha-kogo-on-privez-neizvestno", "orig": "Во Внуково прилетел военно-транспортный самолет ВВС США. Кого он привез, неизвестно"},
-        {"outlet": "IranWire (Iran, in exile)", "lean": "exile", "title": "U.S. Ends Islamabad Memorandum with Iran as 60-Day Term Expires", "url": "https://iranwire.com/en/news/156430-us-ends-islamabad-memorandum-with-iran-as-60-day-term-expires/"},
-        {"outlet": "IranWire (Iran, in exile)", "lean": "exile", "title": "US Reroutes 64 Vessels in Naval Blockade of Iran", "url": "https://iranwire.com/en/news/156431-us-reroutes-64-vessels-in-naval-blockade-of-iran/"},
-        {"outlet": "Hong Kong Free Press", "lean": "exile", "date": "2026-08-14", "title": "Donald Trump announces tariffs of up to 100% on imported drones", "url": "https://hongkongfp.com/2026/08/14/donald-trump-announces-tariffs-of-up-to-100-on-imported-drones/"},
-        {"outlet": "The Kyiv Independent (Ukraine)", "lean": "exile", "title": "US to begin talks on troop reductions in Europe later this year, America's NATO envoy says", "url": "https://kyivindependent.com/us-to-begin-talks-on-troop-reductions-in-europe-later-this-year-nato-envoy-says/"}
+        {
+          "outlet": "Meduza (Russia, in exile)",
+          "lean": "exile",
+          "date": "2026-08-31",
+          "title": "Trump renamed Lake Ontario “Lake America.” Google followed the president’s order, Apple did not",
+          "orig": "Трамп переименовал озеро Онтарио в «озеро Америка». Google выполнил указ президента, Apple — нет",
+          "url": "https://meduza.io/news/2026/08/31/tramp-pereimenoval-ozero-ontario-v-ozero-amerika-google-vypolnil-ukaz-prezidenta-apple-net"
+        },
+        {
+          "outlet": "Meduza (Russia, in exile)",
+          "lean": "exile",
+          "date": "2026-08-22",
+          "title": "A US court struck down the State Department ban on immigration visas for citizens of 75 countries, Russia among them",
+          "orig": "Суд в США отменил запрет Госдепа на выдачу иммиграционных виз гражданам 75 стран (в том числе России)",
+          "url": "https://meduza.io/news/2026/08/22/sud-v-ssha-otmenil-zapret-gosdepa-na-vydachu-immigratsionnyh-viz-grazhdanam-75-stran-v-tom-chisle-rossii"
+        },
+        {
+          "outlet": "IranWire (Iran, in exile)",
+          "lean": "exile",
+          "title": "U.S. Military Commanders Warn of Attrition in Iran War",
+          "url": "https://iranwire.com/en/news/156949-us-military-commanders-warn-of-attrition-in-iran-war/"
+        },
+        {
+          "outlet": "Hong Kong Free Press",
+          "lean": "exile",
+          "date": "2026-08-14",
+          "title": "Donald Trump announces tariffs of up to 100% on imported drones",
+          "url": "https://hongkongfp.com/2026/08/14/donald-trump-announces-tariffs-of-up-to-100-on-imported-drones/"
+        },
+        {
+          "outlet": "The Kyiv Independent (Ukraine)",
+          "lean": "exile",
+          "title": "US, EU deepen cooperation on critical minerals",
+          "url": "https://kyivindependent.com/us-eu-deepen-critical-minerals-cooperation/"
+        }
       ]
     },
     {
@@ -54,11 +140,30 @@
       "name": "International independent & analysis",
       "region": "Reader-funded, outside the US",
       "items": [
-        {"outlet": "Middle East Eye", "lean": "indie", "title": "How US policy in the Middle East is unravelling", "url": "https://www.middleeasteye.net/opinion/how-us-policy-middle-east-unravelling"},
-        {"outlet": "The Conversation", "lean": "analysis", "title": "America at 250: still a 'democratic experiment'", "url": "https://theconversation.com/america-at-250-still-a-democratic-experiment-286695"},
-        {"outlet": "The Conversation", "lean": "analysis", "title": "2026 isn't the first time Christians have tried to claim the United States as their own", "url": "https://theconversation.com/2026-isnt-the-first-time-christians-have-tried-to-claim-the-united-states-as-their-own-283246"},
-        {"outlet": "Rappler (Philippines)", "lean": "indie", "title": "[OPINION] US Pax Silica initiative: Good or bad?", "url": "https://www.rappler.com/business/opinion-united-states-pax-silica-initiative-good-bad-philippines/", "note": "A view from one of the countries signed up to the US minerals and compute framework."},
-        {"outlet": "Rappler (Philippines)", "lean": "indie", "title": "How US-Israeli war on Iran is upending global business", "url": "https://www.rappler.com/business/worldwide-upended-united-states-israel-war-iran/"}
+        {
+          "outlet": "Middle East Eye",
+          "lean": "indie",
+          "title": "How US policy in the Middle East is unravelling",
+          "url": "https://www.middleeasteye.net/opinion/how-us-policy-middle-east-unravelling"
+        },
+        {
+          "outlet": "The Conversation",
+          "lean": "analysis",
+          "title": "Why the US economy stays strong even when its policies shock the rest of the world",
+          "url": "https://theconversation.com/why-the-us-economy-stays-strong-even-when-its-policies-shock-the-rest-of-the-world-285979"
+        },
+        {
+          "outlet": "Coda Story",
+          "lean": "indie",
+          "title": "On the US-Mexico border, a corridor of surveillance becomes lethal",
+          "url": "https://www.codastory.com/surveillance-and-control/us-border-surveillance/"
+        },
+        {
+          "outlet": "Rappler (Philippines)",
+          "lean": "indie",
+          "title": "[OPINION] US Pax Silica initiative: Good or bad?",
+          "url": "https://www.rappler.com/business/opinion-united-states-pax-silica-initiative-good-bad-philippines/"
+        }
       ]
     }
   ]
