@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-09-02",
-  "date_human": "Wednesday, September 2, 2026",
+  "date_iso": "2026-09-04",
+  "date_human": "Friday, September 4, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,14 +11,14 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Immigration Agents Have Often Grabbed and Mistreated Citizens, Congressional Investigators Find",
-          "url": "https://www.propublica.org/article/immigration-agents-detained-mistreated-citizens-congressional-investigation"
+          "title": "How Trump’s Unprecedented Effort to Prosecute Noncitizen Voters Fell Apart",
+          "url": "https://www.propublica.org/article/noncitizen-voting-trump-homeland-security-investigations"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "How Trump's Unprecedented Effort to Prosecute Noncitizen Voters Fell Apart",
-          "url": "https://www.propublica.org/article/noncitizen-voting-trump-homeland-security-investigations"
+          "title": "Joint Congressional Investigation Launched in Response to ProPublica’s Revelations on Detained Americans",
+          "url": "https://www.propublica.org/article/immigration-ice-americans-detained-joint-congressional-investigation"
         }
       ]
     },
@@ -30,29 +30,22 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "2026-08-23",
-          "title": "The Dawn of a New Cold War",
-          "url": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/"
+          "date": "2026-09-02",
+          "title": "The U.S. Has Killed 227 Civilians in Boat Strikes During “A Year of Murders”",
+          "url": "https://theintercept.com/2026/09/02/military-boat-strikes-killings-year/"
         },
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "2026-08-11",
-          "title": "“Total Whitewash”: New Pentagon Report Claims U.S. Killed No Civilians in Boat Strikes",
-          "url": "https://theintercept.com/2026/08/11/war-department-civilian-casualties-boat-strikes-yemen/"
+          "date": "2026-09-04",
+          "title": "25 Years After 9/11, Muslims Are Still Politicians’ Favorite Scapegoat",
+          "url": "https://theintercept.com/2026/09/04/911-muslim-islamophobia-terrorist/"
         },
         {
           "outlet": "Jacobin",
           "lean": "left",
-          "date": "2026-06",
           "title": "How to Democratize the United States",
           "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
-        },
-        {
-          "outlet": "openDemocracy (UK)",
-          "lean": "left",
-          "title": "America Last: the making of a pariah nation",
-          "url": "https://www.opendemocracy.net/en/america-last-making-of-pariah-nation/"
         }
       ]
     },
@@ -64,36 +57,21 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "2026-08-29",
-          "title": "9/11 turbocharged America's worst foreign policy impulses—but didn't change its direction",
-          "url": "https://reason.com/2026/08/29/9-11-turbocharged-american-interventionism/"
-        },
-        {
-          "outlet": "Reason",
-          "lean": "libert",
-          "date": "2026-07-04",
-          "title": "On America's 250th birthday, the United States arms the world's tyrannies",
-          "url": "https://reason.com/2026/07/04/on-americas-250th-birthday-the-united-states-arms-the-worlds-tyrannies/"
+          "date": "2026-08-19",
+          "title": "What Canada and the U.K. can teach America about universal healthcare",
+          "url": "https://reason.com/2026/08/19/universal-healthcare-sounds-great-heres-whats-happening-in-countries-that-have-it/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "title": "Half of America Cannot Afford to Live, and Other Wrong Numbers",
-          "url": "https://thedispatch.com/article/affordability-crisis-healthcare-housing-childcare/",
-          "note": "A center-right push back on the affordability numbers both parties now quote."
-        },
-        {
-          "outlet": "The Dispatch",
-          "lean": "cright",
-          "title": "Why America Is the World's Corporate Headquarters",
-          "url": "https://thedispatch.com/article/big-companies-united-states-explained/"
+          "title": "Trump’s Vaunted ‘Trade Deals’ Are Much Less Than Meet the Eye",
+          "url": "https://thedispatch.com/newsletter/dispatch-markets/trump-trade-deals-tariffs-investment/"
         },
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
-          "date": "2026-08",
-          "title": "The madness of Trump's Canada trade war",
-          "url": "https://unherd.com/2026/08/the-madness-of-trumps-canada-trade-war/?edition=us"
+          "title": "America’s brain-rotting socialism debate",
+          "url": "https://unherd.com/2026/09/americas-brain-rotting-socialism-debate/"
         }
       ]
     },
@@ -106,17 +84,17 @@
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
           "date": "2026-08-31",
-          "title": "Trump renamed Lake Ontario “Lake America.” Google carried out the president's order, Apple did not",
-          "orig": "Трамп переименовал озеро Онтарио в «озеро Америка». Google выполнил указ президента, Apple — нет",
-          "url": "https://meduza.io/news/2026/08/31/tramp-pereimenoval-ozero-ontario-v-ozero-amerika-google-vypolnil-ukaz-prezidenta-apple-net"
+          "title": "Trump renamed Lake Ontario ‘Lake America’. Google complied with the president’s order, Apple did not",
+          "url": "https://meduza.io/news/2026/08/31/tramp-pereimenoval-ozero-ontario-v-ozero-amerika-google-vypolnil-ukaz-prezidenta-apple-net",
+          "orig": "Трамп переименовал озеро Онтарио в «озеро Америка». Google и Apple выполнили указ президента"
         },
         {
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
           "date": "2026-08-22",
-          "title": "A US court struck down the State Department's ban on issuing immigrant visas to citizens of 75 countries, including Russia",
-          "orig": "Суд в США отменил запрет Госдепа на выдачу иммиграционных виз гражданам 75 стран (в том числе России)",
-          "url": "https://meduza.io/news/2026/08/22/sud-v-ssha-otmenil-zapret-gosdepa-na-vydachu-immigratsionnyh-viz-grazhdanam-75-stran-v-tom-chisle-rossii"
+          "title": "A US court struck down the State Department ban on immigrant visas for citizens of 75 countries, Russia among them",
+          "url": "https://meduza.io/news/2026/08/22/sud-v-ssha-otmenil-zapret-gosdepa-na-vydachu-immigratsionnyh-viz-grazhdanam-75-stran-v-tom-chisle-rossii",
+          "orig": "Суд в США отменил запрет Госдепа на выдачу иммиграционных виз гражданам 75 стран (в том числе России)"
         },
         {
           "outlet": "IranWire (Iran, in exile)",
@@ -125,23 +103,11 @@
           "url": "https://iranwire.com/en/news/156874-trump-calls-strait-of-hormuz-new-us-territory/"
         },
         {
-          "outlet": "IranWire (Iran, in exile)",
-          "lean": "exile",
-          "title": "U.S. to Revive “Prize Courts” to Seize Iranian Oil Tankers",
-          "url": "https://iranwire.com/en/news/156820-us-to-revive-prize-courts-to-seize-iranian-oil-tankers/"
-        },
-        {
           "outlet": "Hong Kong Free Press",
           "lean": "exile",
           "date": "2026-08-14",
           "title": "Donald Trump announces tariffs of up to 100% on imported drones",
           "url": "https://hongkongfp.com/2026/08/14/donald-trump-announces-tariffs-of-up-to-100-on-imported-drones/"
-        },
-        {
-          "outlet": "The Kyiv Independent (Ukraine)",
-          "lean": "exile",
-          "title": "US to begin talks on troop reductions in Europe later this year, America's NATO envoy says",
-          "url": "https://kyivindependent.com/us-to-begin-talks-on-troop-reductions-in-europe-later-this-year-nato-envoy-says/"
         }
       ]
     },
@@ -153,32 +119,26 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "How US policy in the Middle East is unravelling",
-          "url": "https://www.middleeasteye.net/opinion/how-us-policy-middle-east-unravelling"
-        },
-        {
-          "outlet": "Rappler (Philippines)",
-          "lean": "indie",
-          "title": "US urges hands-off approach to AI regulation at G20 tech meeting",
-          "url": "https://www.rappler.com/technology/us-g20-meeting-urge-hands-off-approach-ai-regulations/"
-        },
-        {
-          "outlet": "Rappler (Philippines)",
-          "lean": "indie",
-          "title": "[OPINION] What America's AI boom teaches us about scrutinizing Pax Silica",
-          "url": "https://www.rappler.com/voices/thought-leaders/opinion-filipinos-distrust-pax-silica-us-data-center-comparison/"
+          "title": "Vance: US investigating strike on Iran wedding ‘very fully’",
+          "url": "https://www.middleeasteye.net/news/vance-us-investigating-strike-iran-wedding-very-fully"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "America at 250: still a ‘democratic experiment’",
-          "url": "https://theconversation.com/america-at-250-still-a-democratic-experiment-286695"
+          "title": "US defies forecasts of economic slowdown, but its growth isn’t making ordinary people better off",
+          "url": "https://theconversation.com/us-defies-forecasts-of-economic-slowdown-but-its-growth-isnt-making-ordinary-people-better-off-283989"
         },
         {
           "outlet": "Coda Story",
           "lean": "indie",
           "title": "On the US-Mexico border, a corridor of surveillance becomes lethal",
           "url": "https://www.codastory.com/surveillance-and-control/us-border-surveillance/"
+        },
+        {
+          "outlet": "Rappler (Philippines)",
+          "lean": "indie",
+          "title": "[OPINION] What America’s AI boom teaches us about scrutinizing Pax Silica",
+          "url": "https://www.rappler.com/voices/thought-leaders/opinion-filipinos-distrust-pax-silica-us-data-center-comparison/"
         }
       ]
     }
