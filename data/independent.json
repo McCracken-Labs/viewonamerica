@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-09-04",
-  "date_human": "Friday, September 4, 2026",
+  "date_iso": "2026-09-07",
+  "date_human": "Monday, September 7, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,13 +11,13 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "How Trump’s Unprecedented Effort to Prosecute Noncitizen Voters Fell Apart",
+          "title": "How Trump's Unprecedented Effort to Prosecute Noncitizen Voters Fell Apart",
           "url": "https://www.propublica.org/article/noncitizen-voting-trump-homeland-security-investigations"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Joint Congressional Investigation Launched in Response to ProPublica’s Revelations on Detained Americans",
+          "title": "Joint Congressional Investigation Launched in Response to ProPublica's Revelations on Detained Americans",
           "url": "https://www.propublica.org/article/immigration-ice-americans-detained-joint-congressional-investigation"
         }
       ]
@@ -35,17 +35,17 @@
           "url": "https://theintercept.com/2026/09/02/military-boat-strikes-killings-year/"
         },
         {
-          "outlet": "The Intercept",
-          "lean": "left",
-          "date": "2026-09-04",
-          "title": "25 Years After 9/11, Muslims Are Still Politicians’ Favorite Scapegoat",
-          "url": "https://theintercept.com/2026/09/04/911-muslim-islamophobia-terrorist/"
-        },
-        {
           "outlet": "Jacobin",
           "lean": "left",
-          "title": "How to Democratize the United States",
-          "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
+          "date": "2026-09",
+          "title": "Decades of Growing Inequality Powered MAGA's Rise",
+          "url": "https://jacobin.com/2026/09/us-economy-inequality-affordability-trump"
+        },
+        {
+          "outlet": "openDemocracy (UK)",
+          "lean": "left",
+          "title": "US midterms: Why America is no longer an authentic democracy",
+          "url": "https://www.opendemocracy.net/en/us-midterms-republicans-democrats-democracy/"
         }
       ]
     },
@@ -57,20 +57,21 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "2026-08-19",
-          "title": "What Canada and the U.K. can teach America about universal healthcare",
-          "url": "https://reason.com/2026/08/19/universal-healthcare-sounds-great-heres-whats-happening-in-countries-that-have-it/"
+          "date": "2026-07-16",
+          "title": "Why foreign tourism to the U.S. is declining under Trump",
+          "url": "https://reason.com/2026/07/16/tourism-to-the-u-s-is-declining/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "title": "Trump’s Vaunted ‘Trade Deals’ Are Much Less Than Meet the Eye",
+          "title": "Trump's Vaunted 'Trade Deals' Are Much Less Than Meet the Eye",
           "url": "https://thedispatch.com/newsletter/dispatch-markets/trump-trade-deals-tariffs-investment/"
         },
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
-          "title": "America’s brain-rotting socialism debate",
+          "date": "2026-09",
+          "title": "America's brain-rotting socialism debate",
           "url": "https://unherd.com/2026/09/americas-brain-rotting-socialism-debate/"
         }
       ]
@@ -84,17 +85,9 @@
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
           "date": "2026-08-31",
-          "title": "Trump renamed Lake Ontario ‘Lake America’. Google complied with the president’s order, Apple did not",
-          "url": "https://meduza.io/news/2026/08/31/tramp-pereimenoval-ozero-ontario-v-ozero-amerika-google-vypolnil-ukaz-prezidenta-apple-net",
-          "orig": "Трамп переименовал озеро Онтарио в «озеро Америка». Google и Apple выполнили указ президента"
-        },
-        {
-          "outlet": "Meduza (Russia, in exile)",
-          "lean": "exile",
-          "date": "2026-08-22",
-          "title": "A US court struck down the State Department ban on immigrant visas for citizens of 75 countries, Russia among them",
-          "url": "https://meduza.io/news/2026/08/22/sud-v-ssha-otmenil-zapret-gosdepa-na-vydachu-immigratsionnyh-viz-grazhdanam-75-stran-v-tom-chisle-rossii",
-          "orig": "Суд в США отменил запрет Госдепа на выдачу иммиграционных виз гражданам 75 стран (в том числе России)"
+          "title": "Trump has renamed Lake Ontario 'Lake America'. Google complied with the order, Apple did not",
+          "orig": "Трамп переименовал озеро Онтарио в «озеро Америка». Google и Apple выполнили указ президента",
+          "url": "https://meduza.io/news/2026/08/31/tramp-pereimenoval-ozero-ontario-v-ozero-amerika-google-vypolnil-ukaz-prezidenta-apple-net"
         },
         {
           "outlet": "IranWire (Iran, in exile)",
@@ -108,6 +101,12 @@
           "date": "2026-08-14",
           "title": "Donald Trump announces tariffs of up to 100% on imported drones",
           "url": "https://hongkongfp.com/2026/08/14/donald-trump-announces-tariffs-of-up-to-100-on-imported-drones/"
+        },
+        {
+          "outlet": "The Kyiv Independent (Ukraine)",
+          "lean": "exile",
+          "title": "Trump envoys to make their Kyiv visit on Sept. 6, Zelensky confirms",
+          "url": "https://kyivindependent.com/trump-envoys-witkoff-kushner-to-visit-kyiv-moscow-sept-5-6-source-says/"
         }
       ]
     },
@@ -119,26 +118,21 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "Vance: US investigating strike on Iran wedding ‘very fully’",
-          "url": "https://www.middleeasteye.net/news/vance-us-investigating-strike-iran-wedding-very-fully"
+          "date": "2026-09-04",
+          "title": "US Congress passes bill punishing universities that boycott Israel",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-congress-passes-bill-punishing-universities-boycott-israel"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "US defies forecasts of economic slowdown, but its growth isn’t making ordinary people better off",
-          "url": "https://theconversation.com/us-defies-forecasts-of-economic-slowdown-but-its-growth-isnt-making-ordinary-people-better-off-283989"
+          "title": "2026's historic snow drought brings worries about water, wildfires and the future in the West",
+          "url": "https://theconversation.com/2026s-historic-snow-drought-brings-worries-about-water-wildfires-and-the-future-in-the-west-279163"
         },
         {
           "outlet": "Coda Story",
           "lean": "indie",
-          "title": "On the US-Mexico border, a corridor of surveillance becomes lethal",
-          "url": "https://www.codastory.com/surveillance-and-control/us-border-surveillance/"
-        },
-        {
-          "outlet": "Rappler (Philippines)",
-          "lean": "indie",
-          "title": "[OPINION] What America’s AI boom teaches us about scrutinizing Pax Silica",
-          "url": "https://www.rappler.com/voices/thought-leaders/opinion-filipinos-distrust-pax-silica-us-data-center-comparison/"
+          "title": "How Trump is bringing shell companies back onshore",
+          "url": "https://www.codastory.com/oligarchy/how-trump-is-bringing-shell-companies-back-onshore/"
         }
       ]
     }

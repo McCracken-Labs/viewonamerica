@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-09-04",
-  "date_human": "Friday, September 4, 2026",
-  "summary": "12 countries. The midterm season opening dominates, with mail voting fights in the courts and a strong August jobs report read as a political event abroad. Around that, outlets lead on the Iran conflict and fuel prices, chip and drone tariffs, AI rules at the G20, a Pentagon resignation, a New York stabbing, birthright citizenship, and sport and culture from the US Open to BTS in Los Angeles.",
+  "date_iso": "2026-09-07",
+  "date_human": "Monday, September 7, 2026",
+  "summary": "12 countries. The run-up to the midterms leads, with a judge extending the block on limits to mail ballots and an armed attack on a candidate in Ohio. Around that, outlets pick up pressure on the Fed, the $40 trillion debt mark, the September visit by Xi Jinping, AI safety talks with Beijing, US operations in the Gulf and off Ecuador, the UN vote on a new world map, trade terms for Kenya and Argentina, and lighter items from the US Open to the box office.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -11,16 +11,9 @@
         {
           "outlet": "France 24",
           "lean": "funded",
-          "date": "2026-09-04",
-          "title": "US shows strong job growth in August in boon to Trump ahead of midterms",
-          "url": "https://www.france24.com/en/live-news/20260904-us-shows-strong-job-growth-in-august-in-boon-to-trump-ahead-of-midterms"
-        },
-        {
-          "outlet": "France 24",
-          "lean": "funded",
-          "date": "2026-09-04",
-          "title": "US midterms begin with chaos over mail-voting crackdown",
-          "url": "https://www.france24.com/en/live-news/20260904-us-midterms-begin-with-chaos-over-mail-voting-crackdown"
+          "date": "2026-09-06",
+          "title": "Still on top: 'Spider-Man' dominates North American box office",
+          "url": "https://www.france24.com/en/live-news/20260906-still-on-top-spider-man-dominates-north-american-box-office"
         },
         {
           "outlet": "France 24",
@@ -28,6 +21,13 @@
           "date": "2026-09-03",
           "title": "UK fintech Revolut gains conditional US banking licence",
           "url": "https://www.france24.com/en/live-news/20260903-uk-fintech-revolut-gains-conditional-us-banking-licence"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "funded",
+          "date": "2026-08-30",
+          "title": "Iran says continuing war 'not in our interest' after fighting flares",
+          "url": "https://www.france24.com/en/middle-east/20260830-middle-east-live-us-strikes-iran-for-first-time-in-a-month"
         }
       ]
     },
@@ -39,80 +39,73 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-09-02",
-          "title": "Bessent urges BOJ chief to combat weak yen with ‘decisive’ monetary steps",
-          "url": "https://www.japantimes.co.jp/business/2026/09/02/economy/us-bessent-boj-ueda-yen/",
-          "note": "Read in Tokyo as Washington leaning on Japanese monetary policy."
+          "date": "2026-09-05",
+          "title": "U.S. judge extends block on Trump bid to curb mail-in ballots",
+          "url": "https://www.japantimes.co.jp/news/2026/09/05/world/politics/ustrump-mail-ballots/"
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-09-02",
-          "title": "U.S. urges hands-off approach to AI regulation at G20 tech meeting",
-          "url": "https://www.japantimes.co.jp/business/2026/09/02/tech/us-ai-regulation-g20/"
+          "date": "2026-09-05",
+          "title": "U.S. and China gear up for mid-September AI safety talks",
+          "url": "https://www.japantimes.co.jp/business/2026/09/05/tech/us-china-ai-safety-talks/"
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-09-02",
-          "title": "Russian cybercrime operation being dismantled after two decades: U.S. and CrowdStrike",
-          "url": "https://www.japantimes.co.jp/news/2026/09/02/world/russian-cybercrime-us-crowdstrike/"
+          "date": "2026-09-07",
+          "title": "Fishermen detained, boats destroyed but no charges under U.S. ops in Equador",
+          "url": "https://www.japantimes.co.jp/news/2026/09/07/world/crime-legal/ecuadoran-fishermen-us-military-ops/"
         }
       ]
     },
     {
       "flag": "🇶🇦",
       "name": "Qatar",
-      "region": "Middle East",
+      "region": "Gulf",
       "items": [
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-09-04",
-          "title": "Missouri Supreme Court blocks Trump-backed map from November’s midterms",
-          "url": "https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms"
+          "date": "2026-09-07",
+          "title": "Armed assailant attacks Ohio Democratic candidate during campaign stop",
+          "url": "https://www.aljazeera.com/news/2026/9/7/armed-assailant-attacks-ohio-democratic-candidate-during-campaign-stop",
+          "note": "Filed under the outlet's US midterms coverage, and framed as part of a longer run of political violence."
         },
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-09-04",
-          "title": "Diesel price hits all-time high in US amid Iran war woes",
-          "url": "https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes"
-        },
-        {
-          "outlet": "Al Jazeera",
-          "lean": "funded",
-          "date": "2026-09-04",
-          "title": "US continues to squeeze Cuban economy with new round of sanctions",
-          "url": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions"
+          "date": "2026-09-03",
+          "title": "What's behind the vote-by-mail controversy in the US?",
+          "url": "https://www.aljazeera.com/news/2026/9/3/whats-behind-the-vote-by-mail-controversy-in-the-us"
         }
       ]
     },
     {
       "flag": "🇷🇺",
       "name": "Russia",
-      "region": "Eastern Europe",
+      "region": "Eurasia",
       "items": [
         {
-          "outlet": "RT",
+          "outlet": "RT (Russian service)",
           "lean": "state",
-          "title": "Six Russian tennis players reach the third round of the US Open 2026",
-          "url": "https://russian.rt.com/sport/news/1677951-us-open-rossiyane-tretii-krug-vyhod",
-          "orig": "В третий круг US Open 2026 вышли шесть российских теннисистов"
+          "title": "Trump says the Moon belongs to the United States",
+          "orig": "Трамп заявил, что Луна принадлежит США",
+          "url": "https://russian.rt.com/world/news/1679072-tramp-luna-ssha"
         },
         {
-          "outlet": "RT",
+          "outlet": "RT (Russian service)",
           "lean": "state",
-          "title": "Axios: the US is investigating civilian deaths from the strike on a wedding in Iran",
-          "url": "https://russian.rt.com/world/news/1677969-ssha-iran-svadba-udar-rassledovanie",
-          "orig": "Axios: США расследуют гибель гражданских в результате удара по свадьбе в Иране"
+          "title": "White House calls talks between US and Russian representatives 'substantive'",
+          "orig": "В Белом доме назвали «содержательными» переговоры представителей США и России",
+          "url": "https://russian.rt.com/world/news/1678836-belyi-dom-obsuzhdenie-peregovory"
         },
         {
-          "outlet": "RT",
+          "outlet": "RT (Russian service)",
           "lean": "state",
-          "title": "Vance says the US is able to counter threats across the world",
-          "url": "https://russian.rt.com/world/news/1676660-ssha-vens-kitai-ugrozy",
-          "orig": "Вэнс заявил о способности США противостоять угрозам по всему миру"
+          "title": "In the US, an Amazon plane ran off the runway and caught fire",
+          "orig": "В США самолёт Amazon выехал за пределы полосы и загорелся",
+          "url": "https://russian.rt.com/world/news/1679057-ssha-samolyot-amazon"
         }
       ]
     },
@@ -124,20 +117,15 @@
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "US Army Secretary Driscoll resigns after rifts in Pentagon leadership",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3365905/us-army-secretary-dan-driscoll-resigns-after-18-months-job-white-house-says"
+          "title": "Trump threatens to cut trade with some countries if Fed doesn't lower rates",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3366445/trump-threatens-cut-trade-some-countries-if-fed-doesnt-lower-rates"
         },
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "Bank of America VP Erin Piacenti killed in Times Square stabbing",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3366029/bank-america-vp-killed-times-square-stabbing"
-        },
-        {
-          "outlet": "Global Times",
-          "lean": "state",
-          "title": "Protectionist walls will not address US auto sector’s weakening competitiveness: Chinese expert on reported US lobbying to ban Chinese cars",
-          "url": "https://www.globaltimes.cn/page/202609/1369820.shtml"
+          "title": "Chinese executives may join Xi's US trip, as trade truce extension 'almost certain'",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3365440/chinese-executives-may-join-xis-us-trip-trade-truce-extension-almost-certain",
+          "note": "Xi is expected at the White House on September 24, and Beijing coverage is now organised around that date."
         }
       ]
     },
@@ -149,83 +137,77 @@
         {
           "outlet": "Euronews",
           "lean": "neutral",
-          "date": "2026-09-04",
-          "title": "Trump presses Supreme Court to curb mail voting as ballots begin reaching Americans",
-          "url": "https://www.euronews.com/2026/09/04/trump-presses-supreme-court-to-curb-mail-voting-as-ballots-begin-reaching-americans"
-        },
-        {
-          "outlet": "Euronews",
-          "lean": "neutral",
-          "date": "2026-08-20",
-          "title": "AI has failed to win people’s trust. Its makers? Even less trusted",
-          "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
-          "note": "Survey coverage that puts American AI firms at the centre of a trust problem."
+          "date": "2026-08-22",
+          "title": "Five charts explaining America's $40 trillion debt",
+          "url": "https://www.euronews.com/business/2026/08/22/five-charts-explaining-americas-40-trillion-debt"
         }
       ]
     },
     {
       "flag": "🇹🇷",
       "name": "Türkiye",
-      "region": "Middle East",
+      "region": "Eastern Mediterranean",
       "items": [
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "US says world ‘cannot have China with $1.2 trillion trade surplus’",
-          "url": "https://www.dailysabah.com/business/economy/us-says-world-cannot-have-china-with-12-trillion-trade-surplus"
+          "title": "US job market surprises in potential boon to Trump ahead of midterms",
+          "url": "https://www.dailysabah.com/business/economy/us-job-market-surprises-in-potential-boon-to-trump-ahead-of-midterms"
         },
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "G-20 members irked by US bringing back Russia, barring journalists",
-          "url": "https://www.dailysabah.com/business/economy/g-20-members-irked-by-us-bringing-back-russia-barring-journalists"
+          "title": "Alcaraz rediscovers his best form to reach US Open quarterfinals",
+          "url": "https://www.dailysabah.com/sports/tennis/alcaraz-rediscovers-his-best-form-to-reach-us-open-quarterfinals"
+        },
+        {
+          "outlet": "Daily Sabah",
+          "lean": "progov",
+          "title": "$1 coins featuring Trump's image enter circulation",
+          "url": "https://www.dailysabah.com/business/finance/1-coins-featuring-trumps-image-enter-circulation"
         }
       ]
     },
     {
       "flag": "🇲🇽",
       "name": "Mexico",
-      "region": "Latin America",
+      "region": "North America",
       "items": [
         {
           "outlet": "El Universal",
           "lean": "neutral",
-          "title": "Key points of the US Defense Strategy 2026: the border declared national security, and unilateral action against drug trafficking",
-          "url": "https://www.eluniversal.com.mx/mundo/puntos-clave-de-la-estrategia-de-defensa-2026-de-eu-anuncia-frontera-como-seguridad-nacional-y-acciones-unilaterales-contra-el-narco/",
-          "orig": "Puntos clave de la Estrategia de Defensa 2026 de EU; anuncia frontera como seguridad nacional y acciones unilaterales contra el narco"
+          "title": "Mexico has nothing to offer the US but 'hot tamales and tomatoes': Trump; we lose $195 billion a year, he says",
+          "orig": "México no tiene nada que ofrecer a EU, sólo \"tamales calientes y tomates\": Trump; perdemos 195 mil mdd al año, dice",
+          "url": "https://www.eluniversal.com.mx/mundo/mexico-no-tiene-nada-que-ofrecer-a-eu-solo-tamales-picantes-y-tomates-trump-dice-que-pierden-195-mil-mdd-al-ano-con-su-vecino-del-sur/"
         },
         {
           "outlet": "El Universal",
           "lean": "neutral",
-          "title": "Global view: the 2026 elections in the US, undermined from within",
-          "url": "https://www.eluniversal.com.mx/mundo/mirada-global-elecciones-2026-en-eu-socavadas-desde-adentro/",
-          "orig": "Mirada Global. Elecciones 2026 en EU, socavadas desde adentro"
-        },
-        {
-          "outlet": "El Universal",
-          "lean": "neutral",
-          "title": "World Cup 2026 leaves a $20 billion impact in the US, Bank of America estimates; ten times bigger than in Mexico, another host",
-          "url": "https://www.eluniversal.com.mx/cartera/mundial-2026-deja-impacto-de-20-mil-mdd-en-eu-estima-bank-of-america-seria-10-veces-mayor-al-de-mexico-otro-de-los-anfitriones/",
-          "orig": "Mundial 2026 deja impacto de 20 mil mdd en EU, estima Bank of America; sería 10 veces mayor al de México, otro de los anfitriones"
+          "title": "Live: Gunman shot dead near the White House; one civilian injured, no officers hurt",
+          "orig": "EN VIVO: Abaten a un tirador en inmediaciones de la Casa Blanca; un civil fue lesionado y descartan agentes heridos, sigue el minuto a minuto",
+          "url": "https://www.eluniversal.com.mx/mundo/reportan-disparos-en-inmediaciones-de-la-casa-blanca-informan-intenso-operativo-policial/"
         }
       ]
     },
     {
-      "flag": "🇦🇷",
-      "name": "Argentina",
-      "region": "Latin America",
+      "flag": "🇿🇦",
+      "name": "South Africa",
+      "region": "Southern Africa",
       "items": [
         {
-          "outlet": "Buenos Aires Times",
+          "outlet": "News24",
           "lean": "neutral",
-          "title": "Trump announces deal for huge US stake in Venezuelan oil reserves",
-          "url": "https://batimes.com.ar/news/latin-america/trump-announces-deal-for-huge-us-stake-in-venezuelan-oil-reserves.phtml"
+          "date": "2026-09-04",
+          "title": "Africa bigger, US smaller – UN adopts new map",
+          "url": "https://www.news24.com/world/africa-bigger-us-smaller-un-adopts-new-map-20260904-1180",
+          "note": "164 countries backed the change. The US voted against."
         },
         {
-          "outlet": "Buenos Aires Times",
+          "outlet": "News24",
           "lean": "neutral",
-          "title": "Argentina’s Navy signs agreement with US to boost South Atlantic vigilance",
-          "url": "https://batimes.com.ar/news/world/argentinas-navy-signs-agreement-with-united-states-to-boost-south-atlantic-vigilance.phtml"
+          "date": "2026-09-04",
+          "title": "Judge says he must declare mistrial in Lindsay Clancy's trial over killing of her children",
+          "url": "https://www.news24.com/world/judge-says-he-must-declare-mistrial-in-lindsay-clancys-trial-over-killing-of-her-children-20260904-1008"
         }
       ]
     },
@@ -237,15 +219,9 @@
         {
           "outlet": "Daily Nation",
           "lean": "neutral",
-          "title": "US judge blocks Trump’s newest order limiting birthright citizenship",
-          "url": "https://nation.africa/kenya/news/world/us-judge-blocks-trump-s-newest-order-limiting-birthright-citizenship-5581682"
-        },
-        {
-          "outlet": "Daily Nation",
-          "lean": "neutral",
-          "title": "Gachagua’s US retreat: Rest, strategy and millions for 2027",
-          "url": "https://nation.africa/kenya/weekly-review/gachagua-s-us-retreat-rest-strategy-and-millions-for-2027-5575922",
-          "note": "A reminder that for many countries America is also a stage for their own domestic politics."
+          "title": "Trump saves thousands of Kenyan jobs as Agoa extended to 2028",
+          "url": "https://nation.africa/kenya/news/trump-saves-thousands-of-kenyan-jobs-as-agoa-extended-to-2028-5584620",
+          "note": "Duty free access to the US market now runs to the end of 2028."
         }
       ]
     },
@@ -257,39 +233,33 @@
         {
           "outlet": "The Korea Herald",
           "lean": "neutral",
-          "title": "Lutnick says US considering ‘targeted’ chip tariffs on firms that don’t build in US",
-          "url": "https://www.koreaherald.com/article/10861036"
+          "title": "DP chief calls for greater security autonomy amid prospect of US-NK talks",
+          "url": "https://www.koreaherald.com/article/10865183"
         },
         {
           "outlet": "The Korea Herald",
           "lean": "neutral",
-          "title": "S. Korea, US, Japan to hold joint military drill despite N. Korean warning",
-          "url": "https://www.koreaherald.com/article/10860348"
-        },
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "Los Angeles declares ‘BTS Week’ as world tour lands",
-          "url": "https://www.koreaherald.com/article/10858677"
+          "title": "Korea seeks to keep $200b US investment rollout on track",
+          "url": "https://www.koreaherald.com/article/10843132"
         }
       ]
     },
     {
-      "flag": "🇺🇦",
-      "name": "Ukraine",
-      "region": "Eastern Europe",
+      "flag": "🇦🇷",
+      "name": "Argentina",
+      "region": "South America",
       "items": [
         {
-          "outlet": "Kyiv Post",
+          "outlet": "Buenos Aires Times",
           "lean": "neutral",
-          "title": "Rubio Congratulates Ukraine, Pledges Continued US Security and Economic Ties",
-          "url": "https://www.kyivpost.com/post/83021"
+          "title": "Trump administration urges Milei to advance US-Argentina trade deal",
+          "url": "https://batimes.com.ar/news/economy/trump-administration-urges-milei-to-fast-track-us-trade-deal.phtml"
         },
         {
-          "outlet": "Kyiv Post",
+          "outlet": "Buenos Aires Times",
           "lean": "neutral",
-          "title": "Trump Announces US Control of 65 Billion Barrels of Venezuela Oil",
-          "url": "https://www.kyivpost.com/post/83302"
+          "title": "Milei plans Miami trip for global summit with Trump, Messi",
+          "url": "https://www.batimes.com.ar/news/argentina/milei-plans-miami-trip-for-global-summit-with-trump-messi.phtml"
         }
       ]
     }
