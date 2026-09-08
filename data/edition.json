@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-09-07",
-  "date_human": "Monday, September 7, 2026",
-  "summary": "12 countries. The run-up to the midterms leads, with a judge extending the block on limits to mail ballots and an armed attack on a candidate in Ohio. Around that, outlets pick up pressure on the Fed, the $40 trillion debt mark, the September visit by Xi Jinping, AI safety talks with Beijing, US operations in the Gulf and off Ecuador, the UN vote on a new world map, trade terms for Kenya and Argentina, and lighter items from the US Open to the box office.",
+  "date_iso": "2026-09-08",
+  "date_human": "Tuesday, September 8, 2026",
+  "summary": "11 countries. Diplomacy leads today: Rubio opens a Latin America tour, Tokyo and Seoul manoeuvre around the Xi visit later this month, and Trump's envoys move between Moscow and Kyiv. Around that, outlets carry the Canada tariff fight, pressure on the Fed, a bond market warning, a court ruling on deportation over speech, new limits on international student internships, the Iran tanker war, an Iceland map protest, and lighter items from the US Open to the box office.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -11,23 +11,24 @@
         {
           "outlet": "France 24",
           "lean": "funded",
+          "date": "2026-09-08",
+          "title": "Rubio launches Latin America tour to cement US influence",
+          "url": "https://www.france24.com/en/live-news/20260908-rubio-launches-latin-america-tour-to-cement-us-influence",
+          "note": "Framed as Washington shoring up newly elected allies across the continent."
+        },
+        {
+          "outlet": "France 24",
+          "lean": "funded",
+          "date": "2026-09-08",
+          "title": "Canada's counter-tariffs take effect on several US goods as trade war reignites",
+          "url": "https://www.france24.com/en/americas/20260908-canada-s-counter-tariffs-take-effect-on-several-us-goods-as-trade-war-reignites"
+        },
+        {
+          "outlet": "France 24",
+          "lean": "funded",
           "date": "2026-09-06",
           "title": "Still on top: 'Spider-Man' dominates North American box office",
           "url": "https://www.france24.com/en/live-news/20260906-still-on-top-spider-man-dominates-north-american-box-office"
-        },
-        {
-          "outlet": "France 24",
-          "lean": "funded",
-          "date": "2026-09-03",
-          "title": "UK fintech Revolut gains conditional US banking licence",
-          "url": "https://www.france24.com/en/live-news/20260903-uk-fintech-revolut-gains-conditional-us-banking-licence"
-        },
-        {
-          "outlet": "France 24",
-          "lean": "funded",
-          "date": "2026-08-30",
-          "title": "Iran says continuing war 'not in our interest' after fighting flares",
-          "url": "https://www.france24.com/en/middle-east/20260830-middle-east-live-us-strikes-iran-for-first-time-in-a-month"
         }
       ]
     },
@@ -39,23 +40,17 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-09-05",
-          "title": "U.S. judge extends block on Trump bid to curb mail-in ballots",
-          "url": "https://www.japantimes.co.jp/news/2026/09/05/world/politics/ustrump-mail-ballots/"
+          "date": "2026-09-08",
+          "title": "As Xi-Trump summit looms, Takaichi eyes meeting with U.S. president",
+          "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/politics/japan-takaichi-trump-meet-china/"
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-09-05",
-          "title": "U.S. and China gear up for mid-September AI safety talks",
-          "url": "https://www.japantimes.co.jp/business/2026/09/05/tech/us-china-ai-safety-talks/"
-        },
-        {
-          "outlet": "The Japan Times",
-          "lean": "neutral",
-          "date": "2026-09-07",
-          "title": "Fishermen detained, boats destroyed but no charges under U.S. ops in Equador",
-          "url": "https://www.japantimes.co.jp/news/2026/09/07/world/crime-legal/ecuadoran-fishermen-us-military-ops/"
+          "date": "2026-09-08",
+          "title": "Japan not confident that U.S. relations will improve after Trump, survey finds",
+          "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/quad-japan-us-china-asia/",
+          "note": "Only about a quarter of those surveyed expect the US to be a better ally later."
         }
       ]
     },
@@ -67,17 +62,23 @@
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-09-07",
-          "title": "Armed assailant attacks Ohio Democratic candidate during campaign stop",
-          "url": "https://www.aljazeera.com/news/2026/9/7/armed-assailant-attacks-ohio-democratic-candidate-during-campaign-stop",
-          "note": "Filed under the outlet's US midterms coverage, and framed as part of a longer run of political violence."
+          "date": "2026-09-06",
+          "title": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+          "url": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed"
         },
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-09-03",
-          "title": "What's behind the vote-by-mail controversy in the US?",
-          "url": "https://www.aljazeera.com/news/2026/9/3/whats-behind-the-vote-by-mail-controversy-in-the-us"
+          "date": "2026-09-06",
+          "title": "Abdul El-Sayed uses speech to talk about Muslim faith and American identity",
+          "url": "https://www.aljazeera.com/news/2026/9/6/abdul-el-sayed-uses-speech-to-talk-about-muslim-faith-and-american-identity"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "lean": "funded",
+          "date": "2026-08-28",
+          "title": "US Open 2026: All to know about the schedule, top seeds and favourites",
+          "url": "https://www.aljazeera.com/sports/2026/8/28/us-open-2026-all-to-know-about-the-schedule-top-seeds-and-favourites"
         }
       ]
     },
@@ -90,22 +91,23 @@
           "outlet": "RT (Russian service)",
           "lean": "state",
           "title": "Trump says the Moon belongs to the United States",
-          "orig": "Трамп заявил, что Луна принадлежит США",
-          "url": "https://russian.rt.com/world/news/1679072-tramp-luna-ssha"
+          "url": "https://russian.rt.com/world/news/1679072-tramp-luna-ssha",
+          "orig": "Трамп заявил, что Луна принадлежит США"
         },
         {
           "outlet": "RT (Russian service)",
           "lean": "state",
-          "title": "White House calls talks between US and Russian representatives 'substantive'",
-          "orig": "В Белом доме назвали «содержательными» переговоры представителей США и России",
-          "url": "https://russian.rt.com/world/news/1678836-belyi-dom-obsuzhdenie-peregovory"
+          "title": "Washington Post: US hopes to seal a long-term energy deal with Venezuela",
+          "url": "https://russian.rt.com/world/news/1675536-ssha-venesuela-neft-sdelka",
+          "orig": "WP: США надеются заключить долгосрочную энергетическую сделку с Венесуэлой"
         },
         {
           "outlet": "RT (Russian service)",
           "lean": "state",
-          "title": "In the US, an Amazon plane ran off the runway and caught fire",
-          "orig": "В США самолёт Amazon выехал за пределы полосы и загорелся",
-          "url": "https://russian.rt.com/world/news/1679057-ssha-samolyot-amazon"
+          "title": "Boikova and Kozlovsky to compete at a challenger event in the United States",
+          "url": "https://russian.rt.com/sport/news/1679305-boikova-kozlovskii-chellendzher-ssha",
+          "orig": "Бойкова и Козловский выступят на челленджере в США",
+          "note": "A rare sports item: Russian skaters cleared to compete on US ice."
         }
       ]
     },
@@ -123,9 +125,14 @@
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "Chinese executives may join Xi's US trip, as trade truce extension 'almost certain'",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3365440/chinese-executives-may-join-xis-us-trip-trade-truce-extension-almost-certain",
-          "note": "Xi is expected at the White House on September 24, and Beijing coverage is now organised around that date."
+          "title": "US universities curb international student internships following federal warning",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3366105/us-universities-curb-international-student-internships-following-federal-warning"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "lean": "neutral",
+          "title": "US port pledge ups China rivalry in Pacific but island nations stick to own course",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3366758/us-port-pledge-ups-china-rivalry-pacific-island-nations-stick-own-course"
         }
       ]
     },
@@ -137,9 +144,17 @@
         {
           "outlet": "Euronews",
           "lean": "neutral",
-          "date": "2026-08-22",
-          "title": "Five charts explaining America's $40 trillion debt",
-          "url": "https://www.euronews.com/business/2026/08/22/five-charts-explaining-americas-40-trillion-debt"
+          "date": "2026-09-08",
+          "title": "Trump's map puts Iceland in the USA but Reykjavik isn't amused",
+          "url": "https://www.euronews.com/my-europe/2026/09/08/trumps-map-puts-iceland-in-the-usa-but-reykjavik-isnt-amused"
+        },
+        {
+          "outlet": "Euronews",
+          "lean": "neutral",
+          "date": "2026-09-08",
+          "title": "Would you let a humanoid robot clean your home for €26 an hour?",
+          "url": "https://www.euronews.com/next/2026/09/08/would-you-let-a-humanoid-robot-clean-your-home-for-26-an-hour",
+          "note": "A San Francisco startup is renting out household robots. Europe watches the trial run."
         }
       ]
     },
@@ -149,22 +164,41 @@
       "region": "Eastern Mediterranean",
       "items": [
         {
-          "outlet": "Daily Sabah",
+          "outlet": "TRT World",
           "lean": "progov",
-          "title": "US job market surprises in potential boon to Trump ahead of midterms",
-          "url": "https://www.dailysabah.com/business/economy/us-job-market-surprises-in-potential-boon-to-trump-ahead-of-midterms"
+          "title": "Can the US deport you for what you say? A federal judge says no",
+          "url": "https://www.trtworld.com/article/f70737a642fe"
         },
         {
-          "outlet": "Daily Sabah",
+          "outlet": "TRT World",
           "lean": "progov",
-          "title": "Alcaraz rediscovers his best form to reach US Open quarterfinals",
-          "url": "https://www.dailysabah.com/sports/tennis/alcaraz-rediscovers-his-best-form-to-reach-us-open-quarterfinals"
+          "title": "America's bond market is flashing a warning: Why it matters worldwide",
+          "url": "https://www.trtworld.com/article/7a9c0feaf20e"
         },
         {
-          "outlet": "Daily Sabah",
+          "outlet": "TRT World",
           "lean": "progov",
-          "title": "$1 coins featuring Trump's image enter circulation",
-          "url": "https://www.dailysabah.com/business/finance/1-coins-featuring-trumps-image-enter-circulation"
+          "title": "Trump demands Bombardier build in US or lose access to American market",
+          "url": "https://www.trtworld.com/article/8d992c3140dd"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇦",
+      "name": "Ukraine",
+      "region": "Eastern Europe",
+      "items": [
+        {
+          "outlet": "Kyiv Post",
+          "lean": "neutral",
+          "title": "‘God Willing, There Will Be a Result’: Zelensky Expects Trump Meeting in September",
+          "url": "https://www.kyivpost.com/post/84024"
+        },
+        {
+          "outlet": "Kyiv Post",
+          "lean": "neutral",
+          "title": "Russia Seeks 3-Way Ukraine Talks as Overnight Kyiv Attack Injures More Than a Dozen",
+          "url": "https://www.kyivpost.com/post/84044"
         }
       ]
     },
@@ -176,38 +210,35 @@
         {
           "outlet": "El Universal",
           "lean": "neutral",
-          "title": "Mexico has nothing to offer the US but 'hot tamales and tomatoes': Trump; we lose $195 billion a year, he says",
-          "orig": "México no tiene nada que ofrecer a EU, sólo \"tamales calientes y tomates\": Trump; perdemos 195 mil mdd al año, dice",
-          "url": "https://www.eluniversal.com.mx/mundo/mexico-no-tiene-nada-que-ofrecer-a-eu-solo-tamales-picantes-y-tomates-trump-dice-que-pierden-195-mil-mdd-al-ano-con-su-vecino-del-sur/"
+          "title": "Key points of the US 2026 Defense Strategy: the border declared national security, and unilateral action against drug trafficking",
+          "url": "https://www.eluniversal.com.mx/mundo/puntos-clave-de-la-estrategia-de-defensa-2026-de-eu-anuncia-frontera-como-seguridad-nacional-y-acciones-unilaterales-contra-el-narco/",
+          "orig": "Puntos clave de la Estrategia de Defensa 2026 de EU; anuncia frontera como seguridad nacional y acciones unilaterales contra el narco"
         },
         {
           "outlet": "El Universal",
           "lean": "neutral",
-          "title": "Live: Gunman shot dead near the White House; one civilian injured, no officers hurt",
-          "orig": "EN VIVO: Abaten a un tirador en inmediaciones de la Casa Blanca; un civil fue lesionado y descartan agentes heridos, sigue el minuto a minuto",
-          "url": "https://www.eluniversal.com.mx/mundo/reportan-disparos-en-inmediaciones-de-la-casa-blanca-informan-intenso-operativo-policial/"
+          "title": "Global view: the 2026 US elections, undermined from within",
+          "url": "https://www.eluniversal.com.mx/mundo/mirada-global-elecciones-2026-en-eu-socavadas-desde-adentro/",
+          "orig": "Mirada Global. Elecciones 2026 en EU, socavadas desde adentro"
         }
       ]
     },
     {
-      "flag": "🇿🇦",
-      "name": "South Africa",
-      "region": "Southern Africa",
+      "flag": "🇰🇷",
+      "name": "South Korea",
+      "region": "East Asia",
       "items": [
         {
-          "outlet": "News24",
+          "outlet": "The Korea Herald",
           "lean": "neutral",
-          "date": "2026-09-04",
-          "title": "Africa bigger, US smaller – UN adopts new map",
-          "url": "https://www.news24.com/world/africa-bigger-us-smaller-un-adopts-new-map-20260904-1180",
-          "note": "164 countries backed the change. The US voted against."
+          "title": "US pressing Seoul to expand investment beyond promised $350 bln: lawmaker",
+          "url": "https://www.koreaherald.com/article/10866818"
         },
         {
-          "outlet": "News24",
+          "outlet": "The Korea Herald",
           "lean": "neutral",
-          "date": "2026-09-04",
-          "title": "Judge says he must declare mistrial in Lindsay Clancy's trial over killing of her children",
-          "url": "https://www.news24.com/world/judge-says-he-must-declare-mistrial-in-lindsay-clancys-trial-over-killing-of-her-children-20260904-1008"
+          "title": "Senior defense officials of S. Korea, Japan reaffirm 3-way cooperation with US for regional peace",
+          "url": "https://www.koreaherald.com/article/10866846"
         }
       ]
     },
@@ -221,45 +252,7 @@
           "lean": "neutral",
           "title": "Trump saves thousands of Kenyan jobs as Agoa extended to 2028",
           "url": "https://nation.africa/kenya/news/trump-saves-thousands-of-kenyan-jobs-as-agoa-extended-to-2028-5584620",
-          "note": "Duty free access to the US market now runs to the end of 2028."
-        }
-      ]
-    },
-    {
-      "flag": "🇰🇷",
-      "name": "South Korea",
-      "region": "East Asia",
-      "items": [
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "DP chief calls for greater security autonomy amid prospect of US-NK talks",
-          "url": "https://www.koreaherald.com/article/10865183"
-        },
-        {
-          "outlet": "The Korea Herald",
-          "lean": "neutral",
-          "title": "Korea seeks to keep $200b US investment rollout on track",
-          "url": "https://www.koreaherald.com/article/10843132"
-        }
-      ]
-    },
-    {
-      "flag": "🇦🇷",
-      "name": "Argentina",
-      "region": "South America",
-      "items": [
-        {
-          "outlet": "Buenos Aires Times",
-          "lean": "neutral",
-          "title": "Trump administration urges Milei to advance US-Argentina trade deal",
-          "url": "https://batimes.com.ar/news/economy/trump-administration-urges-milei-to-fast-track-us-trade-deal.phtml"
-        },
-        {
-          "outlet": "Buenos Aires Times",
-          "lean": "neutral",
-          "title": "Milei plans Miami trip for global summit with Trump, Messi",
-          "url": "https://www.batimes.com.ar/news/argentina/milei-plans-miami-trip-for-global-summit-with-trump-messi.phtml"
+          "note": "Read in Nairobi as a reprieve for the garment sector after a year of uncertainty."
         }
       ]
     }
