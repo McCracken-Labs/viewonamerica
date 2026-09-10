@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-09-09",
-  "date_human": "Wednesday, September 9, 2026",
+  "date_iso": "2026-09-10",
+  "date_human": "Thursday, September 10, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,16 +11,16 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "date": "2026-09-02",
-          "title": "How Trump's Unprecedented Effort to Prosecute Noncitizen Voters Fell Apart",
-          "url": "https://www.propublica.org/article/noncitizen-voting-trump-homeland-security-investigations",
-          "note": "Homeland Security Investigations agents were sent after leads nationwide. The result was a few dozen prosecutions and fewer convictions."
+          "date": "2026-09-10",
+          "title": "Questions Grow Over FBI Investigation of Omar al-Bayoumi 25 Years After 9/11",
+          "url": "https://www.propublica.org/article/fbi-911-saudi-bayoumi-investigation"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "8 Things You Should Know About Trump's Effort to \"Take Over\" the Midterm Elections",
-          "url": "https://www.propublica.org/article/trump-midterm-elections-takeover-takeaways"
+          "title": "Empty Seat: U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
+          "url": "https://www.propublica.org/article/trump-hegseth-dod-nato-civilian-harm-reduction-absent",
+          "note": "No American delegation attended a forum at NATO headquarters that Washington helped found."
         }
       ]
     },
@@ -35,21 +35,26 @@
           "date": "2026-09-08",
           "title": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
           "url": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/",
-          "note": "Based on documents obtained through a Freedom of Information Act lawsuit."
+          "note": "Records released under a FOIA suit describe a request for minimal refusal rates."
         },
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "2026-09-01",
-          "title": "Christian Employers Can Now Discriminate Against Trans People",
-          "url": "https://theintercept.com/2026/09/01/christian-employers-settlement-gender-discrimination-eeoc/"
+          "date": "2026-09-02",
+          "title": "The U.S. Has Killed 227 Civilians in Boat Strikes During “A Year of Murders”",
+          "url": "https://theintercept.com/2026/09/02/military-boat-strikes-killings-year/"
         },
         {
           "outlet": "Jacobin",
           "lean": "left",
-          "title": "Francis Fukuyama: The American Right Has Gone Off the Deep End",
-          "url": "https://jacobin.com/2026/09/fukuyama-trump-conservatism-bureaucracy-democracy",
-          "note": "An interview arguing that decades of distrust of the state, from both directions, produced the current crisis."
+          "title": "Decades of Growing Inequality Powered MAGA’s Rise",
+          "url": "https://jacobin.com/2026/09/us-economy-inequality-affordability-trump"
+        },
+        {
+          "outlet": "Jacobin",
+          "lean": "left",
+          "title": "Trump Family Prediction Market Conflicts Are a Good Bet",
+          "url": "https://jacobin.com/2026/09/trump-jr-polymarket-kalshi-gambling"
         }
       ]
     },
@@ -61,39 +66,37 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "2026-09-01",
-          "title": "Introducing Reason's 'American Prison Experiment'",
-          "url": "https://reason.com/2026/09/01/the-reason-prison-essay-experiment/",
-          "note": "A series on how an institution born of Enlightenment optimism became one of the country's cruelest."
+          "date": "2026-09-10",
+          "title": "Court packing is a bad idea. But it's still constitutional.",
+          "url": "https://reason.com/2026/09/10/court-packing-is-a-bad-idea-but-its-still-constitutional/"
+        },
+        {
+          "outlet": "Reason",
+          "lean": "libert",
+          "date": "2026-09-04",
+          "title": "SMU blocks campus Muslim event, infringing on free speech in Texas",
+          "url": "https://reason.com/2026/09/04/texas-terrorism-law-chills-speech-for-muslim-group/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "date": "2026-09-08",
-          "title": "The Coming Post-Trump Reality",
-          "url": "https://thedispatch.com/article/the-coming-post-trump-reality/",
-          "note": "Center-right editors on what they call a choice between further decline and a return to seriousness."
+          "title": "The Big Problems With the ‘Biggest Oil Deal’ Ever",
+          "url": "https://thedispatch.com/article/trump-venezuela-oil-deal-pentagon/",
+          "note": "Jonah Goldberg on the Venezuela announcement and what the Pentagon is being asked to underwrite."
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "date": "2026-09-09",
-          "title": "Did the Terrorists Win?",
-          "url": "https://thedispatch.com/article/september-11-terrorists-china-winning/",
-          "note": "Written for the 25th anniversary of the September 11 attacks."
+          "title": "Our Best Stuff on Turmoil at the Pentagon",
+          "url": "https://thedispatch.com/newsletter/weekly/pete-hegseth-pentagon-dan-driscoll/",
+          "note": "The Army secretary resigned after repeated clashes with the defence secretary."
         },
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
           "title": "Get ready for the Trump Slump",
           "url": "https://unherd.com/2026/09/get-ready-for-the-trump-slump/",
-          "note": "On inflation eroding incomes and an economy leaning on the spending of the wealthy."
-        },
-        {
-          "outlet": "UnHerd (UK)",
-          "lean": "hetero",
-          "title": "America's brain-rotting socialism debate",
-          "url": "https://unherd.com/2026/09/americas-brain-rotting-socialism-debate/"
+          "note": "Inflation above 3 percent and an AI sector burning cash, seen from London."
         }
       ]
     },
@@ -105,32 +108,33 @@
         {
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "date": "2026-09-07",
-          "title": "At 22, Russian design student Julia Molchanova met Jeffrey Epstein by chance on the street. She spent years trapped in his 'cult.'",
-          "url": "https://meduza.io/en/feature/2026/09/07/at-22-russian-design-student-julia-molchanova-met-jeffrey-epstein-by-chance-on-the-street-she-spent-years-trapped-in-his-cult"
+          "date": "2026-09-06",
+          "title": "The war will last into winter. Donbas remains the key question. The US wants to restart three-way talks with Russia and Ukraine. What Zelensky and Trump's envoys discussed in Kyiv",
+          "url": "https://meduza.io/feature/2026/09/06/voyna-prodlitsya-do-zimy-donbass-ostaetsya-klyuchevym-voprosom-ssha-hotyat-vozobnovit-trehstoronnie-peregovory-s-rossiey-i-ukrainoy",
+          "orig": "Война продлится до зимы. Донбасс остается ключевым вопросом. США хотят возобновить трехсторонние переговоры с Россией и Украиной"
         },
         {
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "date": "2026-09-08",
-          "title": "War, day 1,658. The US sees a 'new readiness' from Russia to negotiate. Talks could begin after the State Duma elections",
-          "orig": "Война. 1658-й день. США видят «новую готовность» России к переговорам. Они могут начаться после выборов в Госдуму",
-          "url": "https://meduza.io/feature/2026/09/08/voyna"
+          "date": "2026-09-05",
+          "title": "US authorities polygraphed 50 staff of the Joint Chiefs of Staff over leaks of classified information to the press",
+          "url": "https://meduza.io/news/2026/09/05/vlasti-ssha-proverili-na-poligrafe-50-sotrudnikov-komiteta-nachalnikov-shtabov-vooruzhennyh-sil-iz-za-utechek-sekretnoy-informatsii-v-smi",
+          "orig": "Власти США проверили на полиграфе 50 сотрудников комитета начальников штабов Вооруженных сил из-за утечек секретной информации в СМИ"
         },
         {
           "outlet": "IranWire (Iran, in exile)",
           "lean": "exile",
           "title": "U.S. Sanctions 27 Iranian Airlines in Broad Aviation Crackdown",
           "url": "https://iranwire.com/en/news/157363-us-sanctions-27-iranian-airlines-in-broad-aviation-crackdown/",
-          "note": "The same Treasury action Al Jazeera reports, told through its effect on Iranians who need to fly."
+          "note": "Thirty six companies and individuals were added on September 8 under what Washington calls Operation Economic Rejection."
         },
         {
           "outlet": "Hong Kong Free Press",
           "lean": "exile",
-          "date": "2026-09-09",
-          "title": "Washington accuses Chinese AI firms of 'systematic' theft",
-          "url": "https://hongkongfp.com/2026/09/09/washington-accuses-chinese-ai-firms-of-systematic-theft/",
-          "note": "A US cyber agency advisory landing just before an expected Trump and Xi meeting at the White House."
+          "date": "2026-09-10",
+          "title": "China says US accusations of AI theft are 'groundless'",
+          "url": "https://hongkongfp.com/2026/09/10/china-says-us-accusations-of-ai-theft-are-groundless/",
+          "note": "An American cyber agency accused Chinese labs of copying US models at industrial scale."
         }
       ]
     },
@@ -142,30 +146,21 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "US State Department issues security alert for citizens in Middle East",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-state-department-issues-security-alert-tells-citizens-exercise"
-        },
-        {
-          "outlet": "The Wire (India)",
-          "lean": "indie",
-          "title": "In 2026, India's Biggest Policy Challenge Will be Dealing with the US",
-          "url": "https://m.thewire.in/article/diplomacy/in-2026-indias-biggest-policy-challenge-will-be-dealing-with-the-us",
-          "note": "Trade, energy and defence commitments set against a bilateral relationship that has turned prickly."
+          "title": "At the 9/11 museum, America remembers only its own",
+          "url": "https://www.middleeasteye.net/news/911-museum-america-remembers-only-its-own"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "Space weather can cause both beautiful auroras and infrastructure challenges – 5 essential reads on protecting life and technology",
-          "url": "https://theconversation.com/space-weather-can-cause-both-beautiful-auroras-and-infrastructure-challenges-5-essential-reads-on-protecting-life-and-technology-273176",
-          "note": "Academics on a geomagnetic storm that may be visible across the northern United States tonight."
+          "title": "Why the rise in government debt is freaking out the bond market",
+          "url": "https://theconversation.com/why-the-rise-in-government-debt-is-freaking-out-the-bond-market-290240",
+          "note": "Ten year US rates near 4.7 percent, and the thirty year close to a two decade high."
         },
         {
           "outlet": "Rappler (Philippines)",
           "lean": "indie",
-          "date": "2026-09-05",
-          "title": "Alex Eala's finest US Open run ends as skid vs friend Iva Jovic continues",
-          "url": "https://www.rappler.com/sports/alex-eala-iva-jovic-us-open-september-5-2026/",
-          "note": "New York seen from Manila, where the tournament is a national story."
+          "title": "US, China to hold AI talks in September – sources",
+          "url": "https://www.rappler.com/technology/us-china-artificial-intelligence-talks-september-2026/"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
-  "date_iso": "2026-09-09",
-  "date_human": "Wednesday, September 9, 2026",
-  "summary": "11 countries. Trade dominates the wires today as Washington bans Canadian drink, dairy and motorcycles and Ottawa's counter-tariffs bite, with knock-on stories from a Japanese brewery shifting production to a Chinese fund manager watching the Fed. Around that: the Iran sanctions campaign, Rubio in Colombia, a Republican midterms convention in Dallas, deportation flights into Equatorial Guinea, a UN vote to redraw the world map, an argument over who reaches AGI first, and the US Open.",
+  "date_iso": "2026-09-10",
+  "date_human": "Thursday, September 10, 2026",
+  "summary": "11 countries. The Dallas convention and the $5,000 election promise lead in several places, but they share the page with a record hot American summer, reading scores at a 25 year low, a boat strike in the Caribbean, a cholesterol trial run jointly in China and the US, and a fashion week essay from Istanbul. Trade runs underneath much of it: Canadian drink, Kenyan clothing, Korean investment and a Bombardier threat.",
   "countries": [
     {
       "flag": "🇫🇷",
@@ -12,24 +12,17 @@
           "outlet": "France 24",
           "lean": "funded",
           "date": "2026-09-09",
-          "title": "US bans Canadian alcohol, motorcycles and dairy products as trade spat escalates",
-          "url": "https://www.france24.com/en/americas/20260909-us-bans-canadian-alcohol-motorcycles-and-dairy-products-as-trade-spat-escalates",
-          "note": "Reported as a rift between old allies that puts the North American trade pact itself in doubt."
+          "title": "US had warmest summer on record: climate agency",
+          "url": "https://www.france24.com/en/live-news/20260909-us-had-warmest-summer-on-record-climate-agency",
+          "note": "NOAA puts the June to August average at 74.4F, above the old records from 1936 and 2021."
         },
         {
           "outlet": "France 24",
           "lean": "funded",
-          "title": "Trump posts AI map showing US 'takeover' of North America, Iceland and Caribbean",
-          "url": "https://www.france24.com/en/trump-posts-ai-map-showing-us-takeover-of-north-america-iceland-and-caribbean-1",
-          "note": "Handled by the channel's fact-check desk, with the diplomatic reaction from Reykjavik and Mexico City."
-        },
-        {
-          "outlet": "France 24",
-          "lean": "funded",
-          "date": "2026-08-25",
-          "title": "United States of Dolly: how a country queen bridged America's divide",
-          "url": "https://www.france24.com/en/live-news/20260825-united-states-of-dolly-how-a-country-queen-bridged-america-s-divide",
-          "note": "A cultural read on the one American figure the wire says both sides still claim."
+          "date": "2026-09-09",
+          "title": "IAEA board refers Iran to UN Security Council",
+          "url": "https://www.france24.com/en/live-news/20260909-iaea-board-refers-iran-to-un-security-council",
+          "note": "Washington won the vote in Vienna. Moscow and Beijing were on the other side of it."
         }
       ]
     },
@@ -41,84 +34,82 @@
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-09-08",
-          "title": "Japan not confident that U.S. relations will improve after Trump, survey finds",
-          "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/quad-japan-us-china-asia/",
-          "note": "Polling shows Japanese confidence that Washington would defend them falling from 77 percent in 2023 to 60 percent."
+          "date": "2026-09-10",
+          "title": "U.S. Treasury chief Bessent backs using U.S. financial power as foreign policy tool",
+          "url": "https://www.japantimes.co.jp/news/2026/09/10/world/politics/us-treasury-bessent-foreign-policy-tool/"
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-09-08",
-          "title": "Sapporo Breweries moving some production to U.S. from Canada amid tariff row",
-          "url": "https://www.japantimes.co.jp/business/2026/09/08/companies/sapporo-beer-canada-production-shift-us/",
-          "note": "The trade war seen from a third country's balance sheet rather than from Washington."
+          "date": "2026-09-10",
+          "title": "U.S. deportees to Cameroon struggle with stateless lives and uncertain futures",
+          "url": "https://www.japantimes.co.jp/news/2026/09/10/world/society/us-deportees-cameroon/",
+          "note": "Hundreds of people, some with legal protection, have been removed to African countries over 18 months."
         },
         {
           "outlet": "The Japan Times",
           "lean": "neutral",
-          "date": "2026-09-09",
-          "title": "Tiny technology deepens the geopolitical divide",
-          "url": "https://www.japantimes.co.jp/commentary/2026/09/09/world/tiny-technology-geopolitical-divide/"
+          "date": "2026-09-10",
+          "title": "Nelly Korda says U.S. needs mental toughness to win Solheim Cup on European soil",
+          "url": "https://www.japantimes.co.jp/sports/2026/09/10/more-sports/korda-us-mentality-solheim-cup/"
         }
       ]
     },
     {
       "flag": "🇶🇦",
       "name": "Qatar",
-      "region": "Middle East",
+      "region": "Gulf",
       "items": [
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
           "date": "2026-09-09",
-          "title": "Marco Rubio says US seeks more economic and security ties in Latin America",
-          "url": "https://www.aljazeera.com/news/2026/9/9/marco-rubio-says-us-seeks-more-economic-and-security-ties-in-latin-america",
-          "note": "Framed as Washington consolidating right-wing allies and expanding its military footprint in the region."
+          "title": "US reading scores hit near-25-year low in latest global assessment",
+          "url": "https://www.aljazeera.com/news/2026/9/9/us-reading-scores-hit-near-25-year-low-in-latest-global-assessment",
+          "note": "Reading among 15 year olds fell 14 points from the 2022 PISA round."
         },
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-09-08",
-          "title": "US increases pressure on Iran with sanctions targeting aviation sector",
-          "url": "https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector"
+          "date": "2026-09-09",
+          "title": "US announces $45m in security funding, additional naval vessels for Ecuador",
+          "url": "https://www.aljazeera.com/news/2026/9/9/us-announces-45m-in-security-funding-additional-naval-vessels-for-ecuador"
         },
         {
           "outlet": "Al Jazeera",
           "lean": "funded",
-          "date": "2026-09-08",
-          "title": "As Canada's retaliatory tariffs on US goods take effect, tensions soar",
-          "url": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect",
-          "note": "Puts the job losses on both sides of the border, including Michigan, Ohio and Indiana."
+          "date": "2026-09-09",
+          "title": "Iran war looms over Trump at Republican midterm convention in Dallas",
+          "url": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas"
         }
       ]
     },
     {
       "flag": "🇷🇺",
       "name": "Russia",
-      "region": "Eastern Europe",
+      "region": "Eurasia",
       "items": [
         {
           "outlet": "RT (Russian service)",
           "lean": "state",
-          "title": "Shnaider reaches the US Open doubles semi-finals",
-          "orig": "Шнайдер вышла в полуфинал US Open в парном разряде",
-          "url": "https://russian.rt.com/sport/news/1680031-shnaider-us-open-polufinal",
-          "note": "New York sport, covered here as a Russian win on American courts."
+          "title": "SOUTHCOM: US forces strike boat carrying 'narco-terrorists' in the Caribbean",
+          "url": "https://russian.rt.com/world/news/1680467-ssha-udar-kater",
+          "orig": "SOUTHCOM: ВС США нанесли удар по катеру с «наркотеррористами» в Карибском море"
         },
         {
           "outlet": "RT (Russian service)",
           "lean": "state",
-          "title": "Bessent: the US became a mediator between Russia and Ukraine because Europe was unwilling",
-          "orig": "Бессент: США стали посредником между Россией и Украиной из-за нежелания Европы",
-          "url": "https://russian.rt.com/world/news/1679879-ssha-rossiya-ukraina"
+          "title": "Trump admits US fuel prices will not come down before the November election",
+          "url": "https://russian.rt.com/world/news/1680437-tramp-toplivo-ceny",
+          "orig": "Трамп признал, что цены на топливо в США снизятся не раньше выборов в ноябре"
         },
         {
           "outlet": "RT (Russian service)",
           "lean": "state",
-          "title": "Ushakov: the US could stop aid to Ukraine to bring peace sooner",
-          "orig": "Ушаков: США могли бы прекратить оказывать помощь Украине для скорейшего мира",
-          "url": "https://russian.rt.com/ussr/news/1680214-ssha-ukraina-pomosch"
+          "title": "Naryshkin does not rule out a visit to the United States",
+          "url": "https://russian.rt.com/world/news/1680428-naryshkin-vizit-ssha",
+          "orig": "Нарышкин не исключил возможности визита в США",
+          "note": "Russia's foreign intelligence chief, on the back of the Witkoff and Kushner trip to Moscow."
         }
       ]
     },
@@ -130,44 +121,98 @@
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "Trump bans some Canada goods, puts 50% tariffs on others",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3366840/trump-bans-some-canada-goods-puts-50-tariffs-others",
-          "note": "Lists the goods, from mattresses to golf carts, facing a 50 percent surcharge from September 15."
+          "title": "US, China trials suggest a single nanodrug shot might stop bad cholesterol forever",
+          "url": "https://www.scmp.com/news/china/science/article/3366811/us-china-trials-suggest-single-nanodrug-shot-might-stop-bad-cholesterol-forever"
         },
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "US urged to consider military strikes to stop China achieving AGI first",
-          "url": "https://www.scmp.com/news/us/article/3366284/us-urged-consider-military-strikes-stop-china-achieving-agi-first",
-          "note": "A former White House official's proposal, reported from Hong Kong as a warning sign."
+          "title": "US Secretary of State Rubio arrives in Colombia to clarify China ties, sign minerals deal",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3366833/us-secretary-state-rubio-arrives-colombia-clarify-china-ties-sign-minerals-deal"
         },
         {
           "outlet": "South China Morning Post",
           "lean": "neutral",
-          "title": "Chinese stock recovery faces US Fed and oil pressures in September, says top fund manager",
-          "url": "https://www.scmp.com/business/china-business/article/3366885/chinese-stock-recovery-faces-us-fed-and-oil-pressures-september-says-top-fund-manager"
+          "title": "South Park creators ‘rename’ show to ‘South America’ in jab at Trump",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3366974/south-park-creators-rename-show-south-america-jab-trump"
         }
       ]
     },
     {
       "flag": "🇪🇺",
       "name": "European Union",
-      "region": "Europe",
+      "region": "Europe-wide",
       "items": [
         {
           "outlet": "Euronews",
           "lean": "neutral",
           "date": "2026-09-09",
-          "title": "The Trump show: Republicans put president centre stage in unprecdented US midterms convention",
-          "url": "https://www.euronews.com/2026/09/09/the-trump-show-republicans-put-president-centre-stage-in-unprecdented-us-midterms-conventi",
-          "note": "A Dallas gathering dubbed Trumpapalooza, set against forecasts of Democratic gains on November 3."
+          "title": "Trump takes aim at Canadian alcohol in latest trade war escalation",
+          "url": "https://www.euronews.com/business/2026/09/09/trump-takes-aim-at-canadian-alcohol-in-latest-trade-war-escalation",
+          "note": "Mattresses, motorboats and golf carts also face a 50 percent surcharge from September 15."
         },
         {
           "outlet": "Euronews",
           "lean": "neutral",
           "date": "2026-09-08",
-          "title": "Zelenskyy expects Trump meeting in late September as Kyiv pushes for air defence and new talks",
-          "url": "https://www.euronews.com/my-europe/2026/09/08/zelenskyy-expects-trump-meeting-in-late-september-as-kyiv-pushes-for-air-defence-and-new-t"
+          "title": "Trump's map puts Iceland in the USA, but Reykjavik isn't amused",
+          "url": "https://www.euronews.com/my-europe/2026/09/08/trumps-map-puts-iceland-in-the-usa-but-reykjavik-isnt-amused",
+          "note": "Iceland lodged a formal protest over a map the president posted on social media."
+        }
+      ]
+    },
+    {
+      "flag": "🇲🇽",
+      "name": "Mexico",
+      "region": "North America",
+      "items": [
+        {
+          "outlet": "El Universal",
+          "lean": "neutral",
+          "title": "Republican convention opens in Texas with praise for Trump, as the party tries to rally its base before the midterms",
+          "url": "https://www.eluniversal.com.mx/mundo/con-elogios-a-trump-arranca-convencion-republicana-en-texas-partido-busca-movilizar-a-sus-bases-ante-elecciones-intermedias/",
+          "orig": "Con elogios a Trump, arranca Convención Republicana en Texas"
+        },
+        {
+          "outlet": "El Universal",
+          "lean": "neutral",
+          "title": "Key points of the US 2026 defence strategy: the border named as national security, and unilateral action against drug trafficking",
+          "url": "https://www.eluniversal.com.mx/mundo/puntos-clave-de-la-estrategia-de-defensa-2026-de-eu-anuncia-frontera-como-seguridad-nacional-y-acciones-unilaterales-contra-el-narco/",
+          "orig": "Puntos clave de la Estrategia de Defensa 2026 de EU; anuncia frontera como seguridad nacional y acciones unilaterales contra el narco"
+        },
+        {
+          "outlet": "El Universal",
+          "lean": "neutral",
+          "title": "Ebrard calls Sheinbaum's meeting with the US commerce secretary 'useful', and prepares a Washington trip for USMCA talks",
+          "url": "https://www.eluniversal.com.mx/cartera/ebrard-califica-de-util-reunion-de-sheinbaum-con-secretario-de-comercio-de-eu-alista-viaje-a-washington-para-negociaciones-del-t-mec/",
+          "orig": "Ebrard califica de “útil” reunión de Sheinbaum con secretario de Comercio de EU"
+        }
+      ]
+    },
+    {
+      "flag": "🇰🇪",
+      "name": "Kenya",
+      "region": "East Africa",
+      "items": [
+        {
+          "outlet": "Daily Nation",
+          "lean": "neutral",
+          "title": "Trump saves thousands of Kenyan jobs as Agoa extended to 2028",
+          "url": "https://nation.africa/kenya/news/trump-saves-thousands-of-kenyan-jobs-as-agoa-extended-to-2028-5584620",
+          "note": "Duty free access for Kenyan exports now runs to the end of 2028. About 6,600 jobs were at risk."
+        },
+        {
+          "outlet": "Daily Nation",
+          "lean": "neutral",
+          "title": "Anti-US Ebola facility protest in Nanyuki turns violent",
+          "url": "https://nation.africa/kenya/counties/laikipia/police-tear-gas-protest-us-ebola-facility-in-nanyuki-5489948",
+          "note": "Police used tear gas against residents opposing a quarantine centre for Americans exposed to Ebola."
+        },
+        {
+          "outlet": "Daily Nation",
+          "lean": "neutral",
+          "title": "Why US wants Kenyan MPs to pass the Strategic Bill",
+          "url": "https://nation.africa/kenya/news/why-us-wants-kenyan-mps-to-pass-the-strategic-bill-5474162"
         }
       ]
     },
@@ -179,92 +224,21 @@
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "Anthropic researcher quits to warn AI developers 'gambling with our lives'",
-          "url": "https://www.dailysabah.com/business/economy/anthropic-researcher-quits-to-warn-ai-developers-gambling-with-our-lives",
-          "note": "American AI labs read from Istanbul as a risk story rather than a business one."
+          "title": "Trump threatens to block Bombardier sales unless it builds in US",
+          "url": "https://www.dailysabah.com/business/trump-threatens-to-block-bombardier-sales-unless-it-builds-in-us/news"
         },
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "Sanctioning the ICC exposes international law crisis",
-          "url": "https://www.dailysabah.com/opinion/op-ed/sanctioning-the-icc-exposes-international-law-crisis",
-          "note": "Opinion, on Washington sanctioning a sitting president of an international court for the first time."
+          "title": "China, US eye tariff cuts as Trump-Xi summit nears",
+          "url": "https://www.dailysabah.com/business/economy/china-us-eye-tariff-cuts-as-trump-xi-summit-nears",
+          "note": "A third meeting between the two leaders in a year is pencilled in for Washington on September 24."
         },
         {
           "outlet": "Daily Sabah",
           "lean": "progov",
-          "title": "Oligarchs already own much of US: Can they buy democracy?",
-          "url": "https://www.dailysabah.com/business/economy/oligarchs-already-own-much-of-us-can-they-buy-democracy"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇦",
-      "name": "Ukraine",
-      "region": "Eastern Europe",
-      "items": [
-        {
-          "outlet": "Kyiv Post",
-          "lean": "neutral",
-          "title": "Ukraine, US Plan Winter Aid and Post-War Guarantees in Kyiv",
-          "url": "https://www.kyivpost.com/post/83895",
-          "note": "Three rounds of talks with US envoys, focused on a winter energy package and security guarantees."
-        },
-        {
-          "outlet": "Kyiv Post",
-          "lean": "neutral",
-          "title": "What Did US Envoys Achieve in Moscow and Kyiv?",
-          "url": "https://www.kyivpost.com/post/84114"
-        }
-      ]
-    },
-    {
-      "flag": "🇿🇦",
-      "name": "South Africa",
-      "region": "Southern Africa",
-      "items": [
-        {
-          "outlet": "News24",
-          "lean": "neutral",
-          "date": "2026-09-04",
-          "title": "Africa bigger, US smaller – UN adopts new map",
-          "url": "https://www.news24.com/world/africa-bigger-us-smaller-un-adopts-new-map-20260904-1180",
-          "note": "164 countries backed the Equal Earth projection. Washington called the vote a reason the UN is losing credibility."
-        },
-        {
-          "outlet": "News24",
-          "lean": "neutral",
-          "date": "2026-09-08",
-          "title": "Equatorial Guinea police pull guns on migrants deported by Trump, witnesses say",
-          "url": "https://www.news24.com/world/equatorial-guinea-police-pull-guns-on-migrants-deported-by-trump-witnesses-say-20260908-1141",
-          "note": "On third-country deportation deals with African governments, reported from the receiving end."
-        }
-      ]
-    },
-    {
-      "flag": "🇦🇷",
-      "name": "Argentina",
-      "region": "South America",
-      "items": [
-        {
-          "outlet": "Buenos Aires Times",
-          "lean": "neutral",
-          "title": "Argentina's Navy signs agreement with United States to boost South Atlantic vigilance",
-          "url": "https://batimes.com.ar/news/world/argentinas-navy-signs-agreement-with-united-states-to-boost-south-atlantic-vigilance.phtml",
-          "note": "A five-year US Southern Command programme of training and technical support."
-        },
-        {
-          "outlet": "Buenos Aires Times",
-          "lean": "neutral",
-          "title": "Trump says US reviewing Washington's position on Malvinas Islands",
-          "url": "https://www.batimes.com.ar/news/world/trump-says-us-reviewing-washingtons-position-on-malvinas-islands.phtml",
-          "note": "Read in Buenos Aires as leverage aimed at London over defence spending."
-        },
-        {
-          "outlet": "Buenos Aires Times",
-          "lean": "neutral",
-          "title": "Peter Lamelas, new US ambassador, arrives in Argentina",
-          "url": "https://www.batimes.com.ar/news/argentina/peter-lamelas-new-us-ambassador-arrives-in-argentina.phtml"
+          "title": "September 2026 at New York Fashion Week: Trend essay on fashion's future",
+          "url": "https://www.dailysabah.com/life/fashion/september-2026-at-new-york-fashion-week-trend-essay-on-fashions-future"
         }
       ]
     },
@@ -278,20 +252,28 @@
           "lean": "neutral",
           "title": "US pressing Seoul to expand investment beyond promised $350 bln: lawmaker",
           "url": "https://www.koreaherald.com/article/10866818",
-          "note": "The tariff deal revisited, with Washington pointing Seoul's money at Texas gas, Alaska pipelines and nuclear."
+          "note": "A Texas gas plant, a nuclear reactor programme and an Alaskan pipeline are the projects named."
         },
         {
           "outlet": "The Korea Herald",
           "lean": "neutral",
-          "title": "S. Korea, US, Japan kick off Freedom Edge drills",
-          "url": "https://www.koreaherald.com/article/10865165",
-          "note": "Goes ahead weeks after a larger Seoul and Washington exercise was cut short."
-        },
+          "title": "Trump wants to make this midterm year 'special' to avoid losing Republican control of Congress",
+          "url": "https://www.koreaherald.com/article/10869706"
+        }
+      ]
+    },
+    {
+      "flag": "🇿🇦",
+      "name": "South Africa",
+      "region": "Southern Africa",
+      "items": [
         {
-          "outlet": "The Korea Herald",
+          "outlet": "News24",
           "lean": "neutral",
-          "title": "US House resolution seeks designation of Sept. 4 as Taekwondo Grandmasters Appreciation Day",
-          "url": "https://www.koreaherald.com/article/10865797"
+          "date": "2026-09-10",
+          "title": "Trump offers $5 000 to every American if Republicans win midterm elections",
+          "url": "https://www.news24.com/world/trump-offers-5-000-to-every-american-if-republicans-win-midterm-elections-20260910-0565",
+          "note": "The promise would cost over a trillion dollars and needs Congress. Several vulnerable Republican candidates skipped the Dallas event."
         }
       ]
     }
