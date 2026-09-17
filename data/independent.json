@@ -1,6 +1,6 @@
 {
-  "date_iso": "2026-09-10",
-  "date_human": "Thursday, September 10, 2026",
+  "date_iso": "2026-09-17",
+  "date_human": "Thursday, September 17, 2026",
   "summary": "Independent journalism on America",
   "countries": [
     {
@@ -11,16 +11,14 @@
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "date": "2026-09-10",
-          "title": "Questions Grow Over FBI Investigation of Omar al-Bayoumi 25 Years After 9/11",
-          "url": "https://www.propublica.org/article/fbi-911-saudi-bayoumi-investigation"
+          "title": "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained",
+          "url": "https://www.propublica.org/article/ice-detention-judges-habeas-petitions"
         },
         {
           "outlet": "ProPublica",
           "lean": "invest",
-          "title": "Empty Seat: U.S. Absent as Western Powers Meet on Wartime Protections for Civilians",
-          "url": "https://www.propublica.org/article/trump-hegseth-dod-nato-civilian-harm-reduction-absent",
-          "note": "No American delegation attended a forum at NATO headquarters that Washington helped found."
+          "title": "White House Proposal Could Gut Climate Modeling the World Depends On",
+          "url": "https://propublica.org/article/trump-noaa-budget-cuts-climate-change-modeling-princeton-gfdl"
         }
       ]
     },
@@ -32,29 +30,22 @@
         {
           "outlet": "The Intercept",
           "lean": "left",
-          "date": "2026-09-08",
-          "title": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
-          "url": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/",
-          "note": "Records released under a FOIA suit describe a request for minimal refusal rates."
-        },
-        {
-          "outlet": "The Intercept",
-          "lean": "left",
           "date": "2026-09-02",
-          "title": "The U.S. Has Killed 227 Civilians in Boat Strikes During “A Year of Murders”",
+          "title": "The U.S. Has Killed 227 Civilians in Boat Strikes During \"A Year of Murders\"",
           "url": "https://theintercept.com/2026/09/02/military-boat-strikes-killings-year/"
         },
         {
-          "outlet": "Jacobin",
+          "outlet": "openDemocracy (UK)",
           "lean": "left",
-          "title": "Decades of Growing Inequality Powered MAGA’s Rise",
-          "url": "https://jacobin.com/2026/09/us-economy-inequality-affordability-trump"
+          "title": "Is American democracy on the brink of collapse?",
+          "url": "https://www.opendemocracy.net/en/is-american-democracy-on-the-brink-of-collapse/"
         },
         {
           "outlet": "Jacobin",
           "lean": "left",
-          "title": "Trump Family Prediction Market Conflicts Are a Good Bet",
-          "url": "https://jacobin.com/2026/09/trump-jr-polymarket-kalshi-gambling"
+          "date": "2026-06",
+          "title": "How to Democratize the United States",
+          "url": "https://jacobin.com/2026/06/authoritarianism-democratization-constitution-elites-state"
         }
       ]
     },
@@ -66,37 +57,22 @@
         {
           "outlet": "Reason",
           "lean": "libert",
-          "date": "2026-09-10",
-          "title": "Court packing is a bad idea. But it's still constitutional.",
-          "url": "https://reason.com/2026/09/10/court-packing-is-a-bad-idea-but-its-still-constitutional/"
-        },
-        {
-          "outlet": "Reason",
-          "lean": "libert",
-          "date": "2026-09-04",
-          "title": "SMU blocks campus Muslim event, infringing on free speech in Texas",
-          "url": "https://reason.com/2026/09/04/texas-terrorism-law-chills-speech-for-muslim-group/"
+          "date": "2026-09-16",
+          "title": "A federal judge enjoins DHS from threatening to prosecute a critic for constitutionally protected speech",
+          "url": "https://reason.com/2026/09/16/a-federal-judge-enjoins-dhs-from-threatening-to-prosecute-a-critic-for-constitutionally-protected-speech/"
         },
         {
           "outlet": "The Dispatch",
           "lean": "cright",
-          "title": "The Big Problems With the ‘Biggest Oil Deal’ Ever",
-          "url": "https://thedispatch.com/article/trump-venezuela-oil-deal-pentagon/",
-          "note": "Jonah Goldberg on the Venezuela announcement and what the Pentagon is being asked to underwrite."
-        },
-        {
-          "outlet": "The Dispatch",
-          "lean": "cright",
-          "title": "Our Best Stuff on Turmoil at the Pentagon",
-          "url": "https://thedispatch.com/newsletter/weekly/pete-hegseth-pentagon-dan-driscoll/",
-          "note": "The Army secretary resigned after repeated clashes with the defence secretary."
+          "title": "Our Best Stuff on Crossing the $40 Trillion Debt Threshold",
+          "url": "https://thedispatch.com/newsletter/weekly/national-debt-interest-rates-entitlement-reform/"
         },
         {
           "outlet": "UnHerd (UK)",
           "lean": "hetero",
-          "title": "Get ready for the Trump Slump",
-          "url": "https://unherd.com/2026/09/get-ready-for-the-trump-slump/",
-          "note": "Inflation above 3 percent and an AI sector burning cash, seen from London."
+          "date": "2026-09",
+          "title": "America is still fighting the wrong war",
+          "url": "https://unherd.com/2026/09/america-is-still-fighting-the-wrong-war/"
         }
       ]
     },
@@ -108,33 +84,29 @@
         {
           "outlet": "Meduza (Russia, in exile)",
           "lean": "exile",
-          "date": "2026-09-06",
-          "title": "The war will last into winter. Donbas remains the key question. The US wants to restart three-way talks with Russia and Ukraine. What Zelensky and Trump's envoys discussed in Kyiv",
-          "url": "https://meduza.io/feature/2026/09/06/voyna-prodlitsya-do-zimy-donbass-ostaetsya-klyuchevym-voprosom-ssha-hotyat-vozobnovit-trehstoronnie-peregovory-s-rossiey-i-ukrainoy",
-          "orig": "Война продлится до зимы. Донбасс остается ключевым вопросом. США хотят возобновить трехсторонние переговоры с Россией и Украиной"
-        },
-        {
-          "outlet": "Meduza (Russia, in exile)",
-          "lean": "exile",
-          "date": "2026-09-05",
-          "title": "US authorities polygraphed 50 staff of the Joint Chiefs of Staff over leaks of classified information to the press",
-          "url": "https://meduza.io/news/2026/09/05/vlasti-ssha-proverili-na-poligrafe-50-sotrudnikov-komiteta-nachalnikov-shtabov-vooruzhennyh-sil-iz-za-utechek-sekretnoy-informatsii-v-smi",
-          "orig": "Власти США проверили на полиграфе 50 сотрудников комитета начальников штабов Вооруженных сил из-за утечек секретной информации в СМИ"
+          "date": "2026-09-16",
+          "title": "US uncovers group plotting assassinations of Russian dissidents in Washington and Vilnius",
+          "url": "https://meduza.io/feature/2026/09/16/ssha-raskryli-gruppirovku-kotoraya-gotovila-pokusheniya-na-rossiyskih-dissidentov-v-vashingtone-i-vilnyuse",
+          "orig": "США раскрыли группировку, которая готовила покушения на российских «диссидентов» в Вашингтоне и Вильнюсе"
         },
         {
           "outlet": "IranWire (Iran, in exile)",
           "lean": "exile",
-          "title": "U.S. Sanctions 27 Iranian Airlines in Broad Aviation Crackdown",
-          "url": "https://iranwire.com/en/news/157363-us-sanctions-27-iranian-airlines-in-broad-aviation-crackdown/",
-          "note": "Thirty six companies and individuals were added on September 8 under what Washington calls Operation Economic Rejection."
+          "title": "U.S. Sanctions Russia's VTB Bank for Assisting Iran",
+          "url": "https://iranwire.com/en/news/157615-us-sanctions-russias-vtb-bank-for-assisting-iran/"
         },
         {
           "outlet": "Hong Kong Free Press",
           "lean": "exile",
-          "date": "2026-09-10",
-          "title": "China says US accusations of AI theft are 'groundless'",
-          "url": "https://hongkongfp.com/2026/09/10/china-says-us-accusations-of-ai-theft-are-groundless/",
-          "note": "An American cyber agency accused Chinese labs of copying US models at industrial scale."
+          "date": "2026-04-29",
+          "title": "US leads new call condemning China's actions in Panama Canal dispute",
+          "url": "https://hongkongfp.com/2026/04/29/us-leads-new-call-condemning-chinas-actions-in-panama-canal-dispute/"
+        },
+        {
+          "outlet": "The Kyiv Independent (Ukraine)",
+          "lean": "exile",
+          "title": "Hegseth says US will 'find a way' to help Ukraine after Zelensky's plea for air defense missiles",
+          "url": "https://kyivindependent.com/hegseth-letter/"
         }
       ]
     },
@@ -146,21 +118,26 @@
         {
           "outlet": "Middle East Eye",
           "lean": "indie",
-          "title": "At the 9/11 museum, America remembers only its own",
-          "url": "https://www.middleeasteye.net/news/911-museum-america-remembers-only-its-own"
+          "title": "US withdrawal from 66 international organisations reasserts America First policy",
+          "url": "https://www.middleeasteye.net/news/us-decision-abandon-66-international-organisations-reasserts-america-first-policy"
+        },
+        {
+          "outlet": "The Wire (India)",
+          "lean": "indie",
+          "title": "Trump imposes double-digit tariffs on dozens of countries as his 10% levies are set to expire",
+          "url": "https://m.thewire.in/article/trade/trump-imposes-double-digit-tariffs-on-dozens-of-countries-as-his-10-levies-are-set-to-expire-today"
         },
         {
           "outlet": "The Conversation",
           "lean": "analysis",
-          "title": "Why the rise in government debt is freaking out the bond market",
-          "url": "https://theconversation.com/why-the-rise-in-government-debt-is-freaking-out-the-bond-market-290240",
-          "note": "Ten year US rates near 4.7 percent, and the thirty year close to a two decade high."
+          "title": "The United States' human rights practices are taking a nosedive",
+          "url": "https://theconversation.com/the-united-states-human-rights-practices-are-taking-a-nosedive-286538"
         },
         {
           "outlet": "Rappler (Philippines)",
           "lean": "indie",
-          "title": "US, China to hold AI talks in September – sources",
-          "url": "https://www.rappler.com/technology/us-china-artificial-intelligence-talks-september-2026/"
+          "title": "US lawmakers to Trump: Do more for Philippines in South China Sea",
+          "url": "https://www.rappler.com/philippines/united-states-democratic-lawmakers-trump-support-manila-south-china-sea/"
         }
       ]
     }
